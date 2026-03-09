@@ -1,0 +1,128 @@
+---
+title: Halcyra — Character Profile
+tags: [dnd, shattered-world, characters, halcyra]
+---
+
+*Linked to: [[Character Profiles]] | [[World State]] | [[Shattered World]]*
+
+---
+
+## [[Halcyra]]
+
+**Player:** Lorenne (Sunny)
+**Race:** Aasimar
+**Class:** Paladin
+**Role:** Player only (not a DM)
+
+### Who She Is
+Halcyra is the quiet center of the group — a winged Aasimar paladin who is also, without knowing it, the child of a prophecy and the daughter of Apollo. She is playing a character carrying enormous cosmic weight while being entirely unaware of it. That gap between who she is and what she's meant to be is one of the most interesting threads in the campaign.
+
+### Backstory *(in development — DO NOT fill in speculatively)*
+> *Halcyra's backstory is being developed intentionally. Do not add or infer details without explicit confirmation. The plan is to:*
+> *1. Get all sessions processed and canon details locked in first*
+> *2. Reference prior conversations with players/DM about her backstory*
+> *3. Then flesh out the full backstory with a solid foundation*
+
+**Confirmed so far:**
+- She has had the prophecy scroll since she was 15 — who gave it to her and whether she understands it is not yet established
+- **Session 7 confirmed:** At 18, her **wings fell** — described as significant and traumatic. She grew up feeling constantly judged by how she looked. She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes. This is the first time she shared this with the party.
+
+**Pending — needs canon confirmation before developing further:**
+- How she got the scroll
+- Her life before the campaign
+- Her relationship to Apollo (in-world, not just narrative)
+- Anything discussed with players/DM about her background
+
+### What We Know About Her
+- She has **wings** — a constant political liability in the underwater city, which is at war with "bird folk"
+- She is the **daughter of Apollo** — confirmed in campaign context, she does not know this
+- She is the **child of prophecy** — the overarching campaign prophecy centers on her; she does not know this
+- She has **healing hands** — likely Paladin's Lay on Hands; used on Grungrak in Session 2
+- She adapted quickly under pressure: used her wings as an umbrella to shield the group from brightness, and spent the underwater city arc disguised in a trench coat or hovering behind Mira with her eyes down
+- She was **charmed by Ariel's singing** at the start of Session 3's throne room combat — forced toward the queen against her will
+
+### Abilities Seen in Play
+- Lay on Hands (healing touch — Session 2)
+- Mind Spike (Session 4, with Mira — 9 damage, pierced angel's lungs)
+- Divine Favor — radiant arrow (Session 5, 14 hit/6 damage; second arrow 5 damage — confirmed blood angel's extreme weakness to radiant)
+- Cause Fear (DC 13 Wisdom save — Session 5, scattered Richard's entire crowd)
+- Thunder Wave (Session 5 — blasted Richard's crowd off the floating island)
+- Radiant bolt (Session 6 — rolled a 1; bounced off the metal horse and hit Reficul in the face for 7 damage instead)
+- Athletics catch (Session 6 — 15, caught Grungrak before he landed in the River Lethe)
+- **Divine Smite + Natural 20** (Session 7 — cleaved off one of Scylla's tentacles; 37 radiant damage total: 3d8 guaranteed max 24 + 3d8 rolled 13; "just like taking down a tree")
+- **Wisdom save vs. Scylla's aria** (Session 7 — rolled 22, not charmed; full presence of mind during the fight)
+- **Level 5 — Extra Attack** gained
+- **Level 5 — Faithful Steed** gained: can cast Find Steed once without a spell slot; steed is almost certainly a Pegasus (Percy the horse with wings)
+- **Calm Emotions** (Session 8 — 20 ft sphere, DC 15 charisma save; used in slums to partially de-escalate the crowd after Reficul attacked them; ~half the crowd calmed; the mysterious figure was not among those affected)
+- **Command ("Approach")** (Session 8 — cast on Oni-Reficul; he failed the save and had to walk toward her)
+- **Divine Sense** (Session 10 — determined the cave creature is NOT a celestial, fiend, or undead; this was the most critical combat intel of the fight)
+- **Light cantrip** (Session 10 — cast on a torch to create 20-foot bright light; creature reacted badly)
+- **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquisio; partially expelled goop from bite wounds; dark shadow marks remained)
+- **Searing Smite** (Session 11 — during the King Mert throne room fight; lit Mert on fire after a hit; fire damage persisted each turn with a Constitution save to extinguish)
+- **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquisio who pulled the lever to drop it)
+
+### Current Known Inventory
+- **Longsword** — primary weapon
+- **Goop bite wound (arm)** — dark shadow marks remain at the bite points after Cure Wounds; something is still in there
+- *(Character sheet upload will fill this in further)*
+
+### Session 11 Update
+Halcyra fought in the King Mert throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Mert on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Mert and the phantasmal spectator summoned in Phase 2. She coordinated with Inquisio on the chandelier tactic. Mert escaped via contingency poof before the fight could conclude. After Mert fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
+
+### Prophecy Connections
+Multiple stanzas speak directly to Halcyra:
+- *"A child born at the end of the world"* — she is the child of prophecy
+- *"The sun withdraws, its gaze turns cold / The child forsaken left alone"* — Apollo (the sun) has withdrawn; she is without her divine parent
+- *"Upon the wind, hidden wings shall rise"* — her wings are currently hidden; they will rise; she is tethered by "mortal chains" (her ignorance of who she is)
+- *"One fated to fuse the fractured fields"* — she is the one meant to reunite the three shattered worlds; "the cost of wholeness cast away" means this will require real sacrifice
+- *"The healer's hand to bind the seam / Through golden light to cure the dream"* — her paladin healing is literally the mechanism for the world's repair
+- *"Only through loss will the fractures close / The hero must give what none can spare"* — the ending belongs to her, and it will cost her something irreplaceable
+
+### Open Threads
+- She doesn't know she's the child of prophecy or the daughter of Apollo — when does this change?
+- The underwater city's hatred of winged beings puts a direct target on her back in this region
+- Her wings are both her greatest vulnerability and presumably tied to her divine identity
+- *(Backstory in development)* She has carried the prophecy scroll since age 15 — who gave it to her? Does she know what it says? Has she ever connected it to herself?
+- **Age confirmed (Session 10):** She is 18. She left home at 18 — there was a disconnect with her mother over her father (Apollo). She privately swears George is part of the prophecy and has committed to protecting him.
+- **Actively searching for the chosen hero** described in a prophecy she heard growing up — she has not yet told the party who or what she's looking for beyond this. Is the chosen hero already in the party?
+- She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
+- **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
+- **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
+- **YOMI letters glowed (Session 9)** — while Halqira prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached. Calm Emotions failed during this scene.
+- **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
+- **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
+- **Mert escaped** — she was in the throne room fight when he poofed away. She knows Mert is alive, wounded, and still at large. How does the party proceed from the island city?
+- **Shadow name: The Crown of Golden Lies (Session 12)** — her shadow self was the older Halcyra who challenged her about hiding her wings, obeying her mother, and following rules that kept her from being herself.
+- **Bow of Dusk received (Session 12)** — given by the old man who helped her take her paladin oath. A +2 longbow that deals radiant damage only (no piercing). Currently the dusk version — the dawn version is what she'll become. *"You just gotta get through the night first."*
+- **Confronted her mother (Session 12)** — in the dream, her mother switched faces with her older shadow-self and screamed "Why have you left me?!" Halcyra flew toward a booming, familiar, kind voice calling from the sky — Apollo's voice calling her name and saying "The worlds are at stake." She went to her mother, whispered "I promise I do love you," and walked out the door toward the voice.
+- **Apollo called her (Session 12)** — the booming voice from the sky, described as "familiar, kind," calling her name three times and saying "the worlds are at stake" — this was Apollo, reaching her in the dream. She turned toward it.
+
+### Session 13 Update
+On the airship, Halcyra discovered George alone, quietly practicing the Ballad of Mira — he was caught mid-song, embarrassed, and fled red-faced. She also found the second glass case in the cargo hold by tripping on the tapestry showing sun, rays, wings, and sheep — the party decided to leave it unopened until docked.
+
+**New inventory items:**
+- **Sending Stone** — given by Valu; allows long-distance communication
+
+### Open Threads (updated after Session 13)
+- She doesn't know she's the child of prophecy or the daughter of Apollo — but Apollo just called to her in a dream. When does this change?
+- The underwater city's hatred of winged beings puts a direct target on her back in this region
+- Her wings are both her greatest vulnerability and presumably tied to her divine identity
+- *(Backstory in development)* She has carried the prophecy scroll since age 15 — who gave it to her? Does she know what it says? Has she ever connected it to herself?
+- **Age confirmed (Session 10):** She is 18. She left home at 18 — there was a disconnect with her mother over her father (Apollo). She privately swears George is part of the prophecy and has committed to protecting him.
+- **Actively searching for the chosen hero** described in a prophecy she heard growing up — she has not yet told the party who or what she's looking for beyond this. Is the chosen hero already in the party?
+- She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
+- **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
+- **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
+- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached.
+- **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
+- **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
+- **Mert escaped** — she was in the throne room fight when he poofed away. She knows Mert is alive, wounded, and still at large.
+- **The Bow of Dusk** — she has the dusk version. The dawn version exists and is what she could become. Getting there requires growing through something.
+- **Mother confrontation (Session 12)** — her mother begged her to stay. She left anyway. Her mother said there was something related to her father she wanted to give her. Whether Halcyra will go back, or whether the item appears another way, is unresolved.
+- **Second glass case on the airship (Session 13)** — she found it under a tapestry showing sun, rays, wings, and sheep. Foggy inside, faint blue glow fading. Not opened yet. The tapestry's imagery is Apollo-adjacent.
+- **Dex and his nightmares (Session 13)** — Mira connected his dream experience to the shattered world's dream realm rules. Halcyra is aware there is someone on the ship with recurring, real dream-realm contact.
+- **Found George with the Ballad of Mira (Session 13)** — discovered George alone on the airship quietly practicing the song; he was caught and fled embarrassed.
+
+*Last updated: Session 13*
+
+---

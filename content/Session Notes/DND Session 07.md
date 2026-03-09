@@ -1,0 +1,337 @@
+---
+title: Session 07 — The Gate of Ivory
+tags: [dnd, session-notes, a-shattered-world, session-7]
+---
+
+# DND Session 7 — The Gate of Ivory
+
+## TL;DR
+
+The party fights the sea witch Scylla on Charon's boat while crossing toward the Gate of Ivory. Halcyra cleaves off a tentacle with a divine smite nat 20 (37 damage), but Inquizo and Mira are charmed — Inquizo hands Scylla his jade necklace, and Mira jumps into the River Lethe. In the river, Ariel appears and saves the party with River Styx pearls; Eric reunites briefly with Ariel before the Lethe takes his memory. Grungrak tackles Charon into the water and encounters a duplicate of himself — George. A nat 20 strength check sends a boulder crashing down on Scylla, freeing Grungrak's stolen voice and ending the threat. The party crushes their pearls and passes through the Gate of Ivory into a portal. They level up to 5. Charlie takes over as DM: the party arrives at X-salent, the adventurers' guild town where Mira and Grungrak used to be members seven years ago. Chapter 2 begins. In the tavern, Reficul reveals his deal with the devil to George, and Halcyra shares her backstory — she grew up seeking a chosen hero tied to a prophecy.
+
+---
+
+## Full Summary
+
+### Scene 1: The Scylla Fight (Charon's Boat, ~00:00–01:15)
+
+The session opens in media res on Charon's boat, approaching the Gate of Ivory. Six eel-like tentacles surround the boat — three on each side — belonging to **Scylla**, a massive kraken-like sea witch. The DM confirms they are near where the rivers Lethe and Cocytus mix, closer to Lethe.
+
+**Initiative order:** Grungrak (19), Mira, Halcyra, Inquizo.
+
+- **Grungrak** casts **Enhance Ability (Bull's Strength)** on Halcyra, granting her advantage on Strength checks for 1 hour. He then attempts **Vicious Mockery** on an eel — the eel rolls a nat 20 on its Wisdom save and fails (Vicious Mockery works on a failed save, so this lands). An eel retaliates with thunder damage: **16 thunder**, Grungrak's Constitution save = 19, succeeds.
+- **Mira** casts **Scorching Ray**, removing the mucus coating from 3 eels (2 retreat, 1 stays dry). Another eel hits Mira for **13 thunder damage**.
+- **Inquizo** blinds the dry eel using Reficul's goo from a sleight of hand check (18 vs eel's dex). The goo reacts with a spell in the eel and **spawns a CR3 mummy** on the tentacle, which immediately attacks the eel.
+- **Halcyra** rolls a **natural 20** and uses **Divine Smite**. Damage: 3d8 guaranteed max (24) + 3d8 rolled (13) = **37 radiant damage**. The tentacle is cut clean off. "Just like taking down a tree." As she cleaves it, a voice speaks directly into her mind: *"Please let me taste that divine voice of yours."*
+
+**Scylla's aria:** The main body of Scylla begins singing a beautiful aria. All party members must make Wisdom saving throws:
+- Inquizo: 13 (charmed)
+- Mira: 13 (charmed)
+- Halcyra: 22 (not charmed)
+- Grungrak: 17 (not charmed)
+
+The voice speaks directly into Inquizo's head: *"What's that you're hiding? It reminds me of an old friend. I'll take from you something you want to let go of if you just give me that shiny rock."*
+
+Inquizo, fully charmed, cycles through his rocks. He produces the **jade/emerald necklace** — the one with a design of a snake eating itself (or a bird). Scylla smiles (eels don't smile, but this one does) and gently takes it in her teeth before sinking beneath the water.
+
+Charmed Mira hears the voice say "get in the water." Grungrak tries to persuade her not to (Persuasion: 4), then uses Healing Word — natural 1, so his voice disappears instead. A coin flip decides Mira's fate — she jumps into the River Lethe. She also brings Hans the goose (who is not charmed).
+
+### Scene 2: The River Lethe (01:00–01:15)
+
+**In the water:** Mira's eyes sting from what feels like "an ocean of alcohol." She sees multiple versions of herself. The river Lethe causes memory effects.
+
+**Ariel/Ariel appears.** She swims up, carrying **River Styx pearls**. She places one in Inquizo's mouth, throws two on deck (for Mira and Halcyra), and swims around to give one to Grungrak. Inquizo sees himself clearly — "Baby Inquizo" — reaching out to him in the water. Coin flip: tails. Inquizo ignores it. "Like I've done everything else in my life."
+
+**Eric/George reunion:** Eric's spirit appears on the boat. He cries out "It can't really be you, can it?" when he sees Ariel. Ariel pulls out a small stone that reads "come here, babe" — Eric reads it and dives into the river. Grungrak lunges to catch Eric (Dexterity check), but ghosts don't feel like anything. Eric disappears into the Lethe. Ariel turns to the party: *"Your friend is waiting for you at the cliff. Go."* She throws a coin, then swims away — and as she does, she forgets who Eric was. He never knew who she was either. "He's confused and says nothing as she just swims away."
+
+### Scene 3: Charon's Transformation and Grungrak in the Lethe (~01:03–01:12)
+
+**Charon transforms:** As Ariel departs, Charon's body shifts. Mask, full head of hair, hoodie — he runs to the back of the boat and starts a motor (there was no motor before). The boat begins accelerating.
+
+Grungrak, wanting his voice back (it was stolen when Healing Word misfired), decides to tackle Charon. Strength check: **21**. Charon falls into the water. Coin flip: Grungrak also goes headfirst into the river.
+
+**Grungrak in the Lethe:** His body duplicates. He sees a version of himself: "Grungrak looks at you and says, 'Who are we?'" George (Grungrak's duplicate self within the river) reaches out. Grungrak grabs his hand — **natural 20**. Self-acceptance.
+
+George has the Anglite rock. Grungrak uses it. A massive electrical reaction happens between him, George, and the approaching Scylla/Ursula creature — a steam explosion fires them both out of the water. The boat is now also flying, aimed at the cliffs.
+
+### Scene 4: The Gate of Ivory Beach (~01:10–01:43)
+
+The flying boat crashes on the sandy beach at the base of the Gate of Ivory (cliffs on either side). Just before the crash, **Reficul's soul** appears — exhausted, dressed normally, and says "Crush the—" before the boat lands on top of him. d4 roll for luck: **2** — the bow misses his face by a hair and takes his beard with it.
+
+**Five tentacles** are still above water (minus the one Halcyra cleaved). Scylla's main body walks out of the water, shooting jets of pressurized water at the party. Grungrak takes **20 damage** from a direct hit.
+
+**Grungrak catches Reficul's voice:** Two checks (arcana and dexterity) — 19 and 10. Grungrak catches the glowing orb containing Reficul's voice. It says: *"George, George — big run. Heave."*
+
+**Sisyphus** is on the cliff pushing a boulder. Grungrak understands. He pushes the boulder: **natural 20** (total 30 Strength). For the first time in history, the boulder goes over the top of the cliff — and lands directly on Scylla/Ursula, pinning her completely. The bright yellow orbs orbiting Scylla fly free. Grungrak's voice returns.
+
+Sisyphus, on the other side of the cliff, weeps. It is raining on his side. "Two less leg workouts — it was all arms."
+
+**Crushing the pearls:** Grungrak distributes the River Styx pearls. Each party member crushes one — the effect makes their body go ethereal and numb. The weakest physical part remains mortal (Achilles heel style): Grungrak's pinky toes, Inquizo's ear fins. Scylla's water attack briefly halts Grungrak's ascent (water stops the ethereal effect). Halcyra — wisdom save: 8, she starts ascending but Mira casts **Cosphere** (using the last of her spell slots, taking a level of exhaustion) — fear the tentacles (4 fail the save). They pass through the Gate of Ivory.
+
+**Reficul's second death:** He gets squished under the falling boat and goes on "vacation" again.
+
+---
+
+### Scene 5: Level Up — Level 5! (~01:42–02:12)
+
+Party takes a break, levels up. Charlie swaps in as DM.
+
+**Grungrak (Level 5 Bard):** Proficiency +3; mass healing word; new spells prepared
+**Inquizo (Level 5 Warlock):** Blade pact — summons a **scythe** (sickle damage, quarterstaff range); eldritch invocations including melee damage and bigger Devil Sight; Hunger of Hadar as new spell; Cutting Strike (can convert a sneak attack die to poison on a hit); Sneak Attack now 3d6
+**Mira (Level 5 Sorcerer/Warlock):** Extra attack; Plant Growth added; two new level 3 spell slots
+**Halcyra (Level 5 Paladin):** Extra attack; Faithful Steed (Find Steed without spell slot once per day — Pegasus with Percy the horse); more HP (rolling well — over 50 HP)
+
+---
+
+### Scene 6: X-salent — Chapter 2 Begins (Charlie DMs) (~02:13–end)
+
+The party steps through the Gate of Ivory portal. For most, it's "a misty tide and then you come out somewhere." For George/Grungrak, there's an arc of lightning — vague flashes of familiarity.
+
+**Mira knows exactly where they are: X-salent.**
+
+X-salent is described as a large guild town — a normal fantasy setting, lower and wider than a typical city. The guild itself is horseshoe-shaped (like an outdoor motel with three levels of outward-facing doors). Heraldry depicts **two feathers crossed into an X shape**. Behind them: a saltwater river that has recently begun to dry up. The landscape has changed from six months ago — mountains and volcanoes appeared that weren't there before, caused by "huge arcs of lightning that broke the land."
+
+#### NPCs Encountered at X-salent:
+
+**Clipboard Person (unnamed):** Accountant-type NPC with spectacles and a clipboard, flustered, desperate for adventurers. Recognizes Mira Tiyake and Grungrak as former guild members who disappeared seven years ago. Sends them to "Justin at the Guild Office."
+
+**Justin:** The guild receptionist. Most exhausted man imaginable. Cowboy hat. Darker skin. Perpetually there — no one has ever seen him not there. Drinks caffeination potions constantly. Completely flat affect. Has been working there ~4 years. Mira's stuff: "disposed." Just says "gone." Hands out room keys in the 800s range (829, 827) plus sequential ones for the others.
+- Mira's old room: gone — her stuff was disposed of, possibly blown up by the alchemist guild.
+- Reficul's record: retrieved — a disgusting old water-damaged piece of paper, bottom half missing, including his birthdate.
+
+**Glendale + unnamed cartographer:** In **Guild Room #5 (Cartographer's Guild)**. Two cartographers — the named one is obsessive about his maps (photorealistic detail down to small ponds and particularly large trees). The other (Glendale) is extremely reluctant to talk. They have a quest out:
+- **Quest: Investigate the Drying River** — The saltwater river that runs through/past X-salent has been stopping about 100 feet before its destination (the "Saltwater Falls" / "the pit"). It used to fall normally. It started stopping recently. They need to know why and ideally fix it.
+- **Reward:** Auto Map Paper (auto-updating map, but only works in areas that already have a map).
+
+**Penopolis:** The bartender at the guild tavern. A sentient pine cone. Face made from bark, pine bristle "hat." Uses "Penopolis" as their pronoun (or they/them). Serves food; wraps a magical stew for Reficul described as "a body." Serves Grungrak two pints (max for dwarves under guild rules). Very matter-of-fact, kind, practical.
+
+**Notorious Nincompoops:** Another guild party. Mentioned, not yet met. Went on a quest two days ago, haven't returned.
+
+---
+
+### Scene 7: Tavern — Character Moments (~03:34–end)
+
+**Reficul and George (alone at the bar):**
+Reficul finally tells the truth to George, as promised:
+> *"A long time ago I made a deal with the devil. I've got a job to do for him, and until that job is complete, I am not allowed peace. Until my job is done, I cannot be allowed to die."*
+
+He is 1/100th of the way there after this adventure. He was in pain during the session because he briefly saw himself dying over and over in the Lethe. "I would rather forget myself dying."
+
+George confronts him about the "vacation" lie after Reficul's deaths: *"You thought better to just not tell George, as if I would just forget. I care deeply about you. Acting as if I would forget about one of my friends — that's not all there is to it."*
+
+Reficul gets two pints and admits they probably should have handled it better.
+
+**Halcyra's backstory (with George and Reficul, minus Mira):**
+Halcyra shares for the first time:
+- She grew up feeling constantly judged by how she looked.
+- At 18, her wings fell (a significant/traumatic event).
+- She grew up hearing about a **prophecy** — one tied to a chosen hero.
+- She has been searching ever since, looking for guidance and for the one the prophecy describes.
+- She hints that someone connected to the group may be connected to the prophecy or its contract.
+- Reficul (the person who "signed the contract with the devil") is mentioned in this context.
+
+**Mira's moment:** Mira overhears part of the Grungrak conversation (from six seats away, rolled well), goes outside briefly, processes. She had been venting to Halcyra about Grungrak's petty behavior toward her. It comes out that Mira may not fully believe she was the one who started the "vacation" joke — but she acknowledges she went along with it too long.
+
+---
+
+## Timestamped Play-By-Play
+
+| Time | Event |
+|------|-------|
+| 00:00 | Session begins — Scylla fight recap |
+| ~00:10 | Combat begins; Grungrak gives Halcyra Bull's Strength |
+| ~00:20 | Halcyra's nat 20 divine smite — 37 radiant damage, tentacle cleaved |
+| ~00:46 | Scylla's aria — Inquizo and Mira charmed |
+| ~00:48 | Inquizo gives jade necklace to Scylla |
+| ~00:56 | Mira jumps into the River Lethe (charmed, coin flip) |
+| ~01:01 | Ariel/Ariel appears, distributes River Styx pearls |
+| ~01:02 | Eric jumps into the Lethe after seeing Ariel |
+| ~01:03 | Charon transforms; Grungrak tackles him into the Lethe |
+| ~01:05 | Grungrak meets "George" (himself) in the Lethe; nat 20 self-acceptance |
+| ~01:10 | Explosion; boat flies toward cliffs |
+| ~01:11 | Reficul appears at Gate of Ivory; boat crashes (barely misses him) |
+| ~01:15 | Grungrak catches Reficul's voice; understands "heave" |
+| ~01:40 | Grungrak pushes boulder off cliff — nat 20, result 30; Sisyphus cries |
+| ~01:41 | Scylla pinned; Grungrak's voice returns; tentacles retreat |
+| ~01:42 | Party crushes River Styx pearls; levels up to 5 |
+| ~02:13 | Charlie DMs; party walks through Gate of Ivory into X-salent |
+| ~02:17 | Met by Clipboard NPC; recognized as former guild members |
+| ~02:22 | Registered as "The Incredible Mistakes" |
+| ~02:30 | Meet Justin at guild office; rooms assigned; Reficul's records retrieved |
+| ~02:59 | Guild Room #5: Cartographers; quest about drying river |
+| ~03:17 | Quest board — three available quests |
+| ~03:30 | Tavern — meet Penopolis |
+| ~03:44 | Reficul tells George about his devil's deal |
+| ~04:03 | Halcyra shares backstory — wings falling, prophecy, chosen hero |
+| ~04:12 | Session ends; Charlie pauses for Hunchback of Notre Dame show |
+
+---
+
+## Character Moments
+
+**Halcyra:** Her first major backstory reveal — wings fell at 18, grew up judged, searching for a chosen hero tied to a prophecy. Cleaved a tentacle with 37 divine damage — her best combat moment so far.
+
+**Grungrak:** Major emotional arc this session — self-acceptance (nat 20 holding his own hand in the Lethe). Also throws a boulder over a cliff. Witnessed Reficul's honest conversation with George about the devil's deal.
+
+**Inquizo:** Gave away his jade necklace while charmed (huge loss — may be significant). Ignored "Baby Inquizo" reaching out to him in the Lethe. Consistent character — avoidant, chaos-aligned, increasingly useful in combat.
+
+**Mira:** Charmed and jumped into the Lethe. Watched Eric and Ariel's bittersweet reunion from underwater. Used her last spell slot (with exhaustion) to help the party at a critical moment. Having a tension arc with Grungrak around honesty.
+
+**Reficul:** Died again (twice in this session technically). Revealed his deal with the devil more clearly to George — he cannot die until his job is complete. 1/100th done. Called George "gorgeous" while describing his pain, which is extremely him. *(Note: Only Reficul has a devil's deal — not Grungrak.)*
+
+---
+
+## Lore & Worldbuilding Discoveries
+
+- **The River Lethe causes memory loss and self-duplication.** Entering it splits your perception — you see smaller versions of yourself, and can encounter reflections of who you are.
+- **River Styx Pearls** — small pearls (Ariel's are last-name pearls?) that allow passage through the Gate of Ivory. Duration: ~10 minutes. Make your body go ethereal except for your Achilles heel (mortal spot). Don't transfer between planes.
+- **The Gate of Ivory** is the exit from the underworld. The beach at its base has the Saltwater Falls / pit nearby. Cliffs on both sides. Sisyphus pushes his boulder on one of the cliff faces.
+- **Sisyphus** is real and has never once pushed his boulder over the top — until now.
+- **The world has changed in the last 6 months:** Massive arcs of lightning broke the land. Mountains and volcanoes appeared that weren't there before. This is connected to the larger campaign events.
+- **X-salent** is a guild town: flat and wide rather than tall. Formerly had housing attached to the guild, which has since been converted to guild rooms as the guild expanded. There are multiple specialized guilds within it (cartographers, alchemists). The alchemist guild has a reputation for blowing things up.
+- **World names:** Grungrak and Mira are from **SKRP**. Halcyra is from **Planetos**. The world that includes hell is possibly called **Baviosuit**. The Shattering six months ago affected SKRP specifically (new mountains and volcanoes from lightning arcs).
+- **The Saltwater River at X-salent is drying up** — stopping 100 feet before it should. Cause unknown. Considered a major problem since it's the only safe entry/exit route.
+- **The jade/emerald necklace** Inquizo was carrying (snake eating itself, or possibly a bird) was taken by Scylla. Its significance is unknown, but Scylla smiled when she took it — which was notable.
+- **Halcyra's backstory:** Wings fell at age 18. Grew up hearing about a prophecy tied to a chosen hero. This is the first time she's shared this.
+
+---
+
+## Notable NPCs
+
+| NPC | Description | Status |
+|-----|-------------|--------|
+| Scylla / Ursula | Sea witch; eel tentacles; beautiful singing voice that charms; steals voices; took Inquizo's necklace | Pinned under boulder at Gate of Ivory; tentacles retreated |
+| Ariel / Ariel | Mermaid; saved the party with River Styx pearls; now forgotten by Eric | Swam away; presumably still in underworld |
+| Eric | Ghost/spirit who traveled with party; jumped into Lethe upon seeing Ariel; forgot everything | Gone — memory erased by Lethe |
+| Charon / Karen | Ferryman; tackles into Lethe by Grungrak; transformed into Percy Jackson-style guide | Unknown — fell into river |
+| Sisyphus | Boulder pusher on cliff face; his boulder pushed over by Grungrak | Weeping on the other side of the cliff |
+| Clipboard NPC | Accountant-type guild greeter; desperate for adventurers | At X-salent |
+| Justin | Guild receptionist; most exhausted man alive; cowboy hat; caffeination potions | At X-salent guild office |
+| Glendale | Reluctant cartographer; doesn't want to explain quests | Guild Room 5 |
+| Unnamed Cartographer | Obsessive mapmaker; meticulous to the inch | Guild Room 5 |
+| Penopolis | Sentient pine cone tavern bartender; they/Penopolis pronouns; very practical | X-salent tavern |
+| Notorious Nincompoops | Another guild party; haven't returned from a quest | Missing |
+
+---
+
+## Notable Locations
+
+- **Gate of Ivory** — exit portal from the underworld; beach with cliffs on either side; Saltwater Falls nearby
+- **X-salent** — guild town; where Mira and Grungrak were members ~7 years ago; Chapter 2 base of operations
+- **X-salent Tavern** — cozy despite being large; Penopolis tends bar; where the character conversations happen
+- **Guild Room 5 (Cartographers)** — map guild; quest board; ornate map-and-quill signage
+- **Guild Office** — Justin's domain; records vault; residency assignment
+
+---
+
+## Rolls & Combat
+
+| Roll | Who | Result | Outcome |
+|------|-----|--------|---------|
+| Initiative | Grungrak | 19 | Goes first |
+| Enhance Ability | Grungrak | Auto | Halcyra gets advantage on Strength |
+| Vicious Mockery (eel save) | Grungrak / Eel | Eel: nat 20 (failed save) | Mockery lands |
+| Con save vs thunder | Grungrak | 19 | Succeeds — no effect |
+| Scorching Ray | Mira | Hit | 3 eels degreased; 2 retreat |
+| Sleight of Hand (goo on eel) | Inquizo | 18 | Goo sticks; mummy spawns |
+| Divine Smite attack | Halcyra | **Nat 20** | **37 radiant damage** — tentacle severed |
+| Wisdom save vs aria | Inquizo | 13 | Charmed |
+| Wisdom save vs aria | Mira | 13 | Charmed |
+| Wisdom save vs aria | Halcyra | 22 | Not charmed |
+| Wisdom save vs aria | Grungrak | 17 | Not charmed |
+| Healing Word | Grungrak | **Nat 1** | Voice stolen instead |
+| Persuasion (get in the water) | Grungrak | 4 | Fails vs Mira |
+| Luck (Mira in river) | Mira | 16 | Good outcome |
+| Coin flip (baby Inquizo) | Inquizo | Tails | Doesn't grab it |
+| Dexterity (catch Eric) | Grungrak | Failed | Eric enters Lethe |
+| Tackle Charon | Grungrak | 21 | Charon falls in; Grungrak follows (coin flip: heads = headfirst) |
+| Self-acceptance (grab George's hand) | Grungrak | **Nat 20** | Party of two |
+| Strength save (Anglite + Scylla) | Grungrak | 19 | Survives; explosion fires them out |
+| Athletics (boat crash landing) | Halcyra | 16 (advantage w/ horse) | Safe landing |
+| Athletics (boat crash) | Inquizo | **Nat 20** | Perfect landing |
+| Athletics (boat crash) | Reficul | Nat 1 | Squished by boat (barely survives, d4=2) |
+| Arcana + Dex (catch voice) | Grungrak | 19 / 10 | Voice caught |
+| Strength (push boulder) | Grungrak | **Nat 20** (result: 30) | Boulder goes over cliff — first time in history |
+| Water jet (Scylla vs Grungrak) | Enemy | Hit | 20 damage to Grungrak |
+| Wisdom save (pearl ascension) | Halcyra | 8 | Partial ascension |
+| Strength (crush pearl) | Grungrak | 20+ | Succeeds |
+| Cosphere (tentacles) | Mira | DC 13 | 4 tentacles frightened; Mira takes exhaustion |
+| Insight (Justin) | Grungrak/Halcyra | 18 / 7 | Grungrak passes; Halcyra does not hear the convo |
+| History (X-salent) | Mira | 16 | Knows vague layout but it's changed |
+| Insight (clipboard person) | Grungrak | 18 | Not nefarious; just a greeter |
+| Arcana (magic stew for Reficul) | Grungrak | 14 | Detects magic; probably not harmful |
+
+---
+
+## Cliffhangers & Unresolved Threads
+
+- **The jade/emerald necklace** — Inquizo gave it to Scylla while charmed. What was it? The "snake eating itself" (Ouroboros symbol?) clearly had significance to Scylla. Gone.
+- **Reficul's devil's deal** — He is 1/100th done after this adventure. What is the job? What happens when it's complete? *(Only Reficul has a devil's deal — not Grungrak.)*
+- **Halcyra's prophecy and chosen hero** — She's been searching for them. Who is it? Does the party contain the answer?
+- **The Lethe's effects** — Did entering the river change any of the party members beyond the temporary effects? George/Grungrak knows he and Mira are both from SKRP. Halcyra is from Planetos. The Lethe's specific effects on Mira (who is already technically dead) are unresolved.
+- **The drying river at X-salent** — Three available quests: investigate the river, gather mildly poisonous berries, help someone desperate to get rid of a monster.
+- **Eric's memory erasure** — He jumped into the Lethe, forgot Ariel. Ariel forgot him. What happens to Eric now? Can this be undone?
+- **Charon in the Lethe** — He was knocked in by Grungrak. Is he okay? What does it mean for the ferryman to lose his memories?
+- **The Notorious Nincompoops** — Where are they? They've been on a quest for 2 days.
+- **World changes (6 months ago)** — Lightning arcs shattered the land and created mountains/volcanoes. This is connected to something the party hasn't fully pieced together.
+- **Grungrak + George identity** — "Are you the same person with different experiences?" Grungrak and George share memories but are separate. This conversation is unfinished.
+
+---
+
+## Funny Moments
+
+- Inquizo giving Scylla the "penis rock" first before being redirected to the necklace.
+- "I'm so used to playing roles that can't get charmed." — said right before getting charmed.
+- The coin flip for whether Mira gets in the water: tails (she gets in). Grungrak's persuasion to stop her: 4. "Get in the water."
+- Grungrak's voice disappearing when he casts Healing Word — healing word is verbal. "Some of the names don't make sense."
+- Reficul appearing heroically to say "Crush the—" and immediately getting hit by a boat.
+- "Is there a 30% chance to land on three and he has hit it every single time." Reficul's d4 roll for luck: 4 (reroll) → eventually not 3.
+- Grungrak's pinky toe as his Achilles heel. "I am incredibly aware of my pinky toes."
+- Inquizo's ear fins as his Achilles heel. "These are mortal toes." "Mortal fins."
+- "Roll for piss." — Grungrak after coming through the portal. Nat 20. "It made its way through, but not all the way."
+- "The Incredible Mistakes" as the group name. Horrible Mistakes was taken.
+- Justin existing. That's the joke.
+- "The pleasure was all yours." — Justin, completely sincerely.
+- Grungrak having cartographer's tools in his pocket. Insight check: not lying. He just has them.
+- Penopolis the sentient pine cone bartender.
+- George ordering "peace of mind" from the menu. "I do, unfortunately, need you to give me something from the menu."
+
+---
+
+## Session Quotes
+
+> "Please let me taste that divine voice of yours." — Scylla (voice in Halcyra's mind)
+
+> "I'm so used to playing roles that can't get charmed." — Player, shortly before getting charmed
+
+> "Like I've done everything else in my life." — Inquizo, ignoring Baby Inquizo in the river
+
+> "Crush the—" — Reficul's last words before being hit by a boat. Again.
+
+> "Who are we?" — Grungrak (to himself, in the River Lethe)
+
+> "The first time this boulder has ever gone off the other side." — DM, on Grungrak's nat 20
+
+> "The pleasure was all yours." — Justin
+
+> "I can't be allowed to die. Until my job is done." — Reficul *(Reficul's devil's deal — not Grungrak's)*
+
+> "Dare you, you gorgeous little dual-wit punk." — Reficul (to himself/Grungrak)
+
+> "If you're the same person but with different experiences, does that make you the same person? Or just the same body?" — Grungrak to George
+
+---
+
+## YouTube Edit Notes
+
+- **Hard cut to open:** The boat, the eels, six tentacles. Recap the map from Session 6, then straight into combat.
+- **Halcyra's nat 20 divine smite:** Highlight reel material. The buildup (Scylla's voice in her head) + the cleave + the tentacle falling into the water. 37 damage.
+- **The charming sequence:** Great comedy — "I'm so used to playing roles that can't get charmed," then both Inquizo and Mira go down. Inquizo cycling through his rocks is gold.
+- **Eric and Ariel reunion:** Bittersweet and cinematic. Good emotional beat. Eric crying out, Ariel forgetting, the Lethe taking him.
+- **Grungrak holds his own hand (nat 20):** Genuine emotional moment for the character. "Self-acceptance."
+- **Boulder throw (nat 20):** Comedic triumph. Sisyphus is weeping.
+- **Reficul's "Crush the—":** Perfect comedic timing. His first words after coming back, then immediately squished.
+- **Justin:** Let it breathe. He's funny by just existing.
+- **Chapter 2 reveal:** Charlie stepping in, the guild town, the "Incredible Mistakes" naming — good reintroduction energy.
+- **Tavern character moments:** The Reficul conversation with George; Halcyra's backstory reveal. These are deep-cut story beats worth highlighting.
+- **End the episode** on the cliffhanger of the prophecy paper being pulled out — "as much as I'm a fan of legal procedure, we're going to need an extra pair of eyes."

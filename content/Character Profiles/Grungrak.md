@@ -1,0 +1,107 @@
+---
+title: Grungrak — Character Profile
+tags: [dnd, shattered-world, characters, grungrak]
+---
+
+*Linked to: [[Character Profiles]] | [[World State]] | [[Shattered World]]*
+
+---
+
+## [[Grungrak]]
+
+**Player:** Cooper (Sunny's husband)
+**Real Name:** Grungrak
+**Also Known As:** George *(the name he acquired after forgetting who he was)*
+**Race:** Dwarf
+**Class:** Bard
+**Role:** DM 1/3 + Player
+
+### Who He Is
+Grungrak is the heart of the group — chaotic, warm, and deeply confused about both the world and himself. His real name is Grungrak, but at some point he forgot who he was and acquired the name George. How much of that original identity he recovers — and when — is something that will unfold through the sessions.
+
+### What We Know About Him
+- **Grungrak is his real name** — George is the name he picked up in a tavern in Session 1. Mira walked over and said "Grungrak, is that you?" and he deflected on the spot: "No. My name is George." He has gone by George ever since.
+- He has **amnesia** — doesn't know his own identity, doesn't know what a penis is (genuinely, not as a bit), has gaps in basic knowledge about the world
+- He was once **a miner who lived in a mountain town** — one of the few backstory fragments confirmed
+- He is **friends with Mira** from the previous campaign — George doesn't recognize her, but their history is real
+- He carries **shards of something important** — the cord connecting them is held by Inquizo
+- His **war hammer is missing** — he's currently using a smithing hammer; the DM said "he may never have his hammer"
+- He **healed Reficul** in Session 2 out of guilt about something involving an eye
+
+### Abilities Seen in Play
+- **Tavern singing** (Session 1 — performing at the bar, spectacularly drunk; this is how Mira first spotted him)
+- **Tasha's Hideous Laughter** — used on the mysterious white-haired NPC (Session 3, triggered by a fart)
+- **Possible Thunderwave** — strongly implied by window-shattering during his bar sing-along with Fish George (Session 3)
+- **Healing Word** — used on Arcus (+6 HP, Session 4); on Mira (+6 HP, Session 5); on Mira's broken wrist (+8 HP, Session 5, last spell slot)
+- **Calm Emotions** (level 2, DC 16 Charisma save — Session 5, made the blood angel go docile long enough for Halcyra to interrogate it)
+- **Bardic Inspiration** — given to Inquizo (Session 5)
+- **Earth Tremor** (Session 6 — used on a metal horse on the boat deck; ruled that boat decking counts as "ground"; both horse and Reficul fell prone and took 2d6 damage)
+- Bard performance abilities (singing, possibly bardic inspiration)
+- **Composed "The Ballad of George"** in Session 6 — adaptation of The Ballad of Grungrak, retitled for Eric, performed live in the underworld elevator
+- **Self-acceptance in the River Lethe** (Session 7 — nat 20 when grabbing his own duplicate's hand; George/Grungrak held hands with himself in the river)
+- **Anglite rock vs. Scylla** (Session 7 — strength save 19; the rock created an electrical steam explosion that fired him and George out of the Lethe)
+- **Boulder push** (Session 7 — nat 20, result 30; rolled Sisyphus's boulder over the cliff for the first time in history; it landed on and pinned Scylla)
+- **Healing Word misfire** (Session 7 — nat 1; his voice disappeared instead of healing; Healing Word is verbal)
+- **Level 5 — proficiency bonus now +3**
+- **Level 5 — Mass Healing Word** and other new bard abilities gained
+- **Spare the Dying** (Session 8 — used as a cantrip on homeless commoners knocked to 0 HP by Reficul's Earth Tremor; helped revive them alongside Mira's Healing Hands)
+- **Healing Hands** (Session 8 — used on fallen commoners in the slums; fully healed one back to consciousness)
+- **Sleep** (Session 9 — targeting the berserk, house-possessed dragonborn in the Victorian manor; dragonborn was under 30 HP; spell succeeded; dragonborn went down, allowing the party to escape)
+- **Motivational Speech** (Session 10 — before setting out for the forest; gave everyone 6 temp HP for the day; Mira got 4 due to her psychic package)
+- **Cloud of Daggers** (Session 10 — 11 slashing damage to the cave creature when it moved through)
+- **Heroism** (Session 10 — touch spell cast on Halcyra; immune to frightened + temp HP at start of each turn)
+- **Song of Healing** (Session 10 — healed both Halcyra and Inquisio for 9 HP each; gave Bardic Inspiration to Halcyra)
+- **War hammer purchase** (Session 11, pre-session — bought a war hammer at the market before the palace mission; finally has a real weapon again, though it is not his original hammer)
+- **Fear (failed save)** (Session 11 — Mert cast Fear on the party; George failed the save and ran out of the throne room)
+- **Earth Tremor** (Session 11 — used during King Mert fight; contributed to the overall assault)
+- **Thunder Wave x2** (Session 11 — George used Thunder Wave twice in the palace; the second cast killed approximately 20 of the palace guards who had been summoned during combat; massive AOE guard wipe)
+- **Mass Healing Word** (Session 11 — used to keep the party standing during the King Mert fight)
+
+### Current Known Inventory
+- ~~**Smithing hammer**~~ — **REPLACED (Session 11).** Bought a proper war hammer before the palace mission. No longer using the stand-in.
+- **War hammer** (Session 11 purchase) — a real weapon at last; not his original lost hammer, but a functional one
+- ~~**The sickle "Castrator of the Sky"**~~ — **GIVEN TO PERSEPHONE (Session 6).** No longer in Grungrak's possession. Handed over as payment for passage out of the underworld.
+- **Shards of something important** — he carries them; the cord connecting them is held by Inquizo
+- **Jar of black liquid** (from Baleam, Session 5) — unidentified; same substance as one of Richard's hallucinogen spoons
+- **Two-sided necklace** (Session 12) — spins; one side shows an olive branch (Necklace of Tranquility), the other a foray music symbol (Power of Courage); George holds the deal and can choose which face to use
+- *(Character sheet upload will fill this in further)*
+
+### Personality Notes
+- Genuinely the most chaotic person in every room, usually by accident
+- His smile when given the pirate hat was described as "the most pure smile"
+- Befriended Fish George in ten minutes and made him cry with songs while a queen was being killed upstairs
+
+### Prophecy Connections
+- *"A shattered mind turns towards the gate / One must reverse the dwarven fate"* — his amnesia is part of the prophecy; he must actively reverse whatever dwarven fate was set for him
+- *"A mind broken by design / Holds the rites of the divine / Memories tangled, hidden from time"* — possibly Grungrak; the amnesia may not be accidental — someone may have broken his mind deliberately; he holds divine knowledge without knowing it
+- *"When hammer breaks on the dragon's scale / When the written fate in shards is cast"* — his missing war hammer and the shards he carries are both named in the prophecy as trigger conditions for a larger event
+
+### Open Threads
+- The shards he carries — what are they? What does the cord do?
+- The missing war hammer — where is it?
+- His amnesia — how much of George is still in there?
+- The ballad of Grungrak — apparently written as an "admission of love" before "dragon happened" — Mira has heard it. (He also composed "The Ballad of George" in the underworld elevator for Eric, which is a different piece.)
+- **Called out Reficul's name in the Lethe puddle vision** — in hell, Grungrak called out Reficul's name (Lucifer backwards). The party noted that Reficul was "coming back."
+- **The serpent** — he saw it in the glass at the mines (and lied about it). It has appeared in multiple visions across sessions. What does it want?
+- **The sickle is gone** — given to Persephone in Session 6. Its influence on him is presumably ended. But it was also a powerful artifact with its own agenda. Where does it go from Persephone's hands?
+- **Pomegranate seeds** — Grungrak ate multiple pomegranate seeds in Persephone's forest (Session 6). In Greek mythology, eating pomegranate in the underworld binds you there. The DM knows. Grungrak does not. This has not resolved yet.
+- **George vs. Grungrak identity** — he encountered his duplicate self in the River Lethe; they held hands (nat 20 self-acceptance). The conversation with George at the X-salent tavern raised the explicit question: "If you're the same person with different experiences, are you the same person, or just the same body?" Unresolved.
+- **World origin confirmed: SKRP** — Grungrak and Mira are both from SKRP. New mountains and volcanoes appeared 6 months ago from massive lightning arcs.
+- **Reconciliation with Mira (Session 8)** — Major emotional scene. Mira initiated and apologized first — she acknowledged she had been too aggressive in pushing him to remember. George then opened up: he told her he was not ready to face Reficul's death again (he watched Grungrak die to a blue dragon, was told to run, regretted it). He acknowledged he had met Grungrak in the Lethe ("He was kind. I see why he was your friend."). He asked Mira to someday tell him "the tale of a jolly good fellow." **This thread is resolved.**
+- **Wants a new hammer** — ~~asked about the blacksmith at X-salent~~ **RESOLVED (Session 11).** He bought a war hammer before the palace mission. The hammer issue is settled for now.
+- **Copied the wall poem into his songbook** — snagged the guard's notebook copy of the 12-line writing mystery poem during the Session 8 investigation.
+- **Speech to Refisul (Session 9)** — after the party fled the Victorian manor, Grungrack gave Refisul a sincere, emotionally earnest speech about believing in him and deserving second chances, using Refisul's own words back at him. One of his strongest character moments.
+- **Session 10 card game reveal** — described the original Grungrak as his best friend: *"He found me when I first came to the guild. Decided we were gonna be best friends, just by my attempts not to be. And now it's in our river."* He knows who Grungrak was. He grieves it quietly.
+- **Saw the lightning and the dragon in the Lethe** (Session 7) — the lightning and the dragon from the start of the campaign played out in his vision during the Lethe sequence.
+- **Session 11 — Palace infiltration group / Town group** — George was with the palace group (Halcyra, Inquisio). He used Thunder Wave twice; the second one wiped ~20 guards in a single cast. He failed the Fear save and fled briefly. He used Mass Healing Word to keep the party up. Mert escaped before the fight ended. Level up to 6 at session end.
+- **Thunder Wave mass kill (Session 11)** — the guard wipe via Thunder Wave is now the largest single-action kill count George has achieved. The DM confirmed approximately 20 guards died. This is almost certainly going to have political consequences in the island city.
+- **Session 12 — The dragon and Grungrak** — Inside Mira's shadow therapy dragon, the real Grungrak was present. He was ethereal, then became physical for a moment when Mira severed the cord. He embraced her and said: *"Thank you for letting me be me."* Then faded. George woke up smiling through tears. He received the two-sided necklace as his item — olive branch / music symbol, tranquility or courage.
+- **Grungrak is inside the dragon** — Cooper confirmed: when Mira's shadow became a blue dragon with green veins, Grungrak was part of it. The exact nature of this — whether it is about his death, his soul, or his connection to Mira's patron — is not yet clear. But he was present enough to become physical when Mira cut the cord.
+- **Session 13 — The Ballad of Mira** — Mira returned to the airship and found George alone, quietly singing and reading from a folded piece of paper — her name repeated over and over. He'd been secretly learning the Ballad of Mira for approximately 8 sessions. He was caught, shoved the paper in his pocket, went bright red, ran away, and spent an hour pacing in the throne room trying to Calm Emotions (failed first attempt). Mira later told him she wouldn't tell anyone. He moved the Thorin statue onto the ship carrying it up two flights of stairs while muttering "I hate stairs."
+- **New ability — Healing Word on Starglass (Session 13)** — George used Healing Word on Starglass when she was released from the glass case. The healing worked but transformed her slightly (more metallic).
+- **Heard the wind voice (Session 13)** — rolled Perception 18; one of two people who heard the subtle wind on the airship that sounded almost like a voice. He noted it aloud but moved on.
+- **The Ballad of Mira** — confirmed to be a pre-existing piece he's been trying to learn for her. What it says, and whether he'll ever perform it, remains open.
+
+*Last updated: Session 13*
+
+---
