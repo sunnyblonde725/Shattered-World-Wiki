@@ -2,9 +2,9 @@
 title: A Shattered World
 ---
 
-# A Shattered World
-
 *A campaign wiki for The Betrayers.*
+
+*A world torn apart. A prophecy no one fully understands. Five adventurers who probably shouldn't be trusted with any of this — and yet, here we are.*
 
 ---
 
