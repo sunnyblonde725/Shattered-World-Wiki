@@ -30,7 +30,7 @@ The party read aloud from a journal recovered from a dead merchant. This was a m
 - The merchant had been tracking strange goop residue appearing after shadow creature activity
 - The journal described the creatures as **parasitic entities born from psychic/personal fears** — each shadow creature is tied to a specific person's nightmares
 - References to **portals becoming increasingly unstable** since the Shattering (~6 months ago)
-- A note about someone named **Dirk Nungus** ("DERF Nungus," "Numbgus" — various spellings used throughout) being involved in acquiring something called "the prison"
+- A note about someone named **Durf Numgis** ("DERF Numgis," "Numbgus" — various spellings used throughout) being involved in acquiring something called "the prison"
 
 **Reficul's Duck Spell (Wild Shape curse):**
 Reficul (Ian's character) revealed — or it was revealed again — that his wild shape has become a curse. He randomly and uncontrollably transforms into animals. The **bullywug frog** form is his most commonly triggered one, but he has also turned into other creatures at inconvenient times. The party refers to this as the "duck spell." This is played entirely for comedy but also has real mechanical consequences at bad moments.
@@ -43,7 +43,7 @@ A significant conversation unpacked how the world of Skrub handles dreams:
 - "Going on vacation" = Reficul's euphemism for dying / going unconscious. He does not permanently die, so going unconscious is treated as a holiday
 
 **Party splits to gather information:**
-The group divided up tasks in town. Key activity: Halcyra and Mira visited a dragonborn NPC in the slums to gather information about the city they were planning to travel to (King Mert's island city — referred to throughout as the Archipelago city / the palace city). This NPC had some knowledge of the political situation there but not full details.
+The group divided up tasks in town. Key activity: Halcyra and Mira visited a dragonborn NPC in the slums to gather information about the city they were planning to travel to (King Pmurt's island city — referred to throughout as the Archipelago city / the palace city). This NPC had some knowledge of the political situation there but not full details.
 
 **George buys a war hammer:**
 George purchased a war hammer from a dwarf blacksmith for **15 gold**. This becomes important later when he drops it.
@@ -67,14 +67,14 @@ Reverie is not entirely herself. She is a **vessel** — an entity (implied to b
 
 2. **Shadow creatures are parasitic.** They are not random monsters — they are born from the psychic fears of individual people. Each shadow creature is essentially a weaponized nightmare tied to a specific person's psychology.
 
-3. **The Nightmares are hungry.** This phrase gets repeated later by King Mert himself, confirming it as a canonical description of what the shadow creatures / nightmare entities are doing: expanding, consuming, feeding.
+3. **The Nightmares are hungry.** This phrase gets repeated later by King Pmurt himself, confirming it as a canonical description of what the shadow creatures / nightmare entities are doing: expanding, consuming, feeding.
 
 4. **Reverie herself** is described as a "vessel" or "servant" of Yomi. Mira theorized (and the group largely agreed) that the entity speaking through Reverie IS Yomi himself — trapped and communicating through the only body available to him.
 
 **The Prophecy — Read Aloud for the First Time:**
 The party read the full prophecy aloud. Key elements discussed:
 - **George may have caused the Shattering** — or was its primary victim. The prophecy references a hammer striking a dragon scale, which aligns with George's background
-- **Dirk Nungus is deeply involved** — the prophecy names or implies a figure matching his description
+- **Durf Numgis is deeply involved** — the prophecy names or implies a figure matching his description
 - References to "three cobalts" — the party currently has one cobalt; two more need to be found. Someone mutters "oh boy howdy" when this is discussed, implying the other two are going to be very hard to get
 - DM (Lorenne/Cooper) strongly encouraged the players to re-read the prophecy before next session, saying "there's relevant shit in there for this arc"
 
@@ -85,7 +85,7 @@ At midnight, the party went to the portal depot. Key portal details:
 - A **mysterious figure** operated the portal. They previously appeared fully human; now they look different — "same voice, looks different," described as "genderfucker" by the DM who said they put gender-ambiguity into everything they can
 - The portal has **roots engraved into it**
 - Reficul went through first, almost too slowly. The full party made it through
-- On the other side: the gate of King Mert's island city, at midnight
+- On the other side: the gate of King Pmurt's island city, at midnight
 
 **Arriving at the city gate:**
 Emerging from the portal inside the city, the party immediately saw:
@@ -104,7 +104,7 @@ The party discussed disguising Mira (who is a wanted criminal in this city). Sol
 
 ---
 
-### PART 3 — Palace Infiltration, The King Mert Fight
+### PART 3 — Palace Infiltration, The King Pmurt Fight
 
 *Note: This section ran simultaneously to Part 2 in a split-party scenario. The palace group was Halcyra, Inquisio, Mira, George, and Grungrak/GruntGrak.*
 
@@ -127,7 +127,7 @@ Grungrak created an **illusion of a second George** and used **deception roll of
 **Combat — Balcony guards:**
 - Vicious Mockery caused a guard to trip and fall to his death (1 kill)
 - George did 3 damage to a guard
-- Mira cast **Hunger of Hadar** — a void sphere centered on the area where the fake Mert illusion was (the illusory second George had been positioned near a fake Mert figure)
+- Mira cast **Hunger of Hadar** — a void sphere centered on the area where the fake Pmurt illusion was (the illusory second George had been positioned near a fake Pmurt figure)
 - Inquisio toppled **17 candelabras in a chain** — doing **45 total damage** to approximately **15 guards**
 - The remaining guards (all 20 total) were herded onto the balcony
 - The door was **slammed and barricaded** using all 20 candelabras stacked against it
@@ -135,22 +135,22 @@ Grungrak created an **illusion of a second George** and used **deception roll of
 
 **Speak With Dead (x2):**
 Halcyra cast Speak With Dead on two of the dead guards. Information obtained:
-- **Dirk Nungus left on a ship** several days ago (not today — before the party arrived)
-- **King Mert is in the castle**, specifically in the **northeast tower bedroom**
-- Nungus is seeking "the prison" — 60 guards protect the prison
+- **Durf Numgis left on a ship** several days ago (not today — before the party arrived)
+- **King Pmurt is in the castle**, specifically in the **northeast tower bedroom**
+- Numgis is seeking "the prison" — 60 guards protect the prison
 - The northeast tower is the fanciest part of the palace; the party headed there
 
-**Finding King Mert's room:**
+**Finding King Pmurt's room:**
 The party navigated through the palace toward the northeast tower:
 - Stealth rolls mixed — some high (24, 28), some middling (8)
 - A **persuasion check of 17** convinced guards in the hallway that the party was authorized to be there (they had just walked out of a room containing 20 guards and were unscathed — the guards assumed they were cleared)
 - Door to the staircase: interior, gold-plated lock, **10 feet tall**, bathroom-style interior lock. Someone investigated and found there was no key on the door frame (rolled a 6). Door turned out to be **unlocked** — someone just tried it
 
-**Inside Mert's bedroom:**
+**Inside Pmurt's bedroom:**
 The bedroom was enormous — a California/Texas/Alaskan king sized bed taking up only a quarter of the room. **Bed curtains were drawn. The bed was EMPTY.**
 - Investigation revealed sounds coming from **two of three connected doors**
 - **Door 1 (kitchen):** a cook making noise — they could hear him, not see him
-- **Door 2 (fogged room):** filled with a fog/mist — not steam. Thick and deliberate. Through it, they heard **Nungus's voice**: *"Trust me, I will find him soon enough and I will be back."* The theory: Nungus was communicating remotely via a **magical fog projection** (described as "hologram texting," "Star Wars-ing it")
+- **Door 2 (fogged room):** filled with a fog/mist — not steam. Thick and deliberate. Through it, they heard **Numgis's voice**: *"Trust me, I will find him soon enough and I will be back."* The theory: Numgis was communicating remotely via a **magical fog projection** (described as "hologram texting," "Star Wars-ing it")
 
 **Mira casts False Life** (gaining 8 temp HP, bringing her to 40 total).
 
@@ -161,52 +161,52 @@ While the party was debating what to do, **door 1 opened** and the chef stepped 
 
 A chair was shoved under the kitchen door handle (rolled **14** to secure it). The party immediately moved to door 2.
 
-**INITIATIVE is called — King Mert emerges:**
+**INITIATIVE is called — King Pmurt emerges:**
 Rolling to enter the fog room, the party triggered combat. **Initiative order established:**
 - Various results: one person got 22, one 18, one 16, one 8, one 5
-- The fog in door 2 was NOT Nungus physically present — Nungus was communicating remotely through a waterfall-and-light-projector setup (the waterfall went sideways when Mira's Warding Wind cleared the fog)
+- The fog in door 2 was NOT Numgis physically present — Numgis was communicating remotely through a waterfall-and-light-projector setup (the waterfall went sideways when Mira's Warding Wind cleared the fog)
 
 **Round 1:**
-King Mert, fully armored (gold-plated armor, slightly melted from earlier events), hand outstretched, **cast Fear** — black inky tendrils from his hand.
+King Pmurt, fully armored (gold-plated armor, slightly melted from earlier events), hand outstretched, **cast Fear** — black inky tendrils from his hand.
 - Wisdom saves required. All party members succeeded **EXCEPT George** (who rolled very low)
 - George dropped his war hammer, it clattered to the floor, and he **sprinted out of the room**
 - Mira took **8 poison damage** (constitution save against toxic fumes — rolled a 19, took half of 16 = 8)
 
 **Mira's turn:** Cast **Warding Wind** — cleared all the fog, revealed the waterfall-projector setup, made ranged attacks have disadvantage within 10-foot radius
 
-**Halcyra's turn:** Hit Mert with **Searing Smite** (longsword attack, roll of 21 to hit). Damage: **1d8 slashing + 1d6 fire = 10 damage total**. Mert was set on fire. Warding Wind eventually put the fire out (Mirt gets a free constitution save at start of his turn — he passed with higher than 13).
+**Halcyra's turn:** Hit Pmurt with **Searing Smite** (longsword attack, roll of 21 to hit). Damage: **1d8 slashing + 1d6 fire = 10 damage total**. Pmurt was set on fire. Warding Wind eventually put the fire out (Mirt gets a free constitution save at start of his turn — he passed with higher than 13).
 
 **George's Fear:** Inquisio climbed onto George's shoulders and started singing/humming a calming melody (help action). Rolled **6 on d6** — George succeeded on his wisdom saving throw. George turned around, ran back up the stairs. Grungrak barricaded the door on that turn.
 
-**King Mert's counter — Charisma save:**
-Mert used an ability targeting those who failed charisma saves: **on attacks against Mert, subtract a d4 from the attack roll**. Two of three targets failed (one succeeded with a 25). Duration: until start of Mert's next turn.
+**King Pmurt's counter — Charisma save:**
+Pmurt used an ability targeting those who failed charisma saves: **on attacks against Pmurt, subtract a d4 from the attack roll**. Two of three targets failed (one succeeded with a 25). Duration: until start of Pmurt's next turn.
 
 **Dissonant Whispers:**
-Reficul/Ian cast **Dissonant Whispers** against Mert (attack roll 19, hit). Mert failed the wisdom saving throw (DC 15). **32 damage** (15 + 13 + 4 = 32). This also triggered Mert's reaction — he was forced to step back, **burning his special reaction** instead of using it for something else. The party correctly identified this as a major tactical win.
+Reficul/Ian cast **Dissonant Whispers** against Pmurt (attack roll 19, hit). Pmurt failed the wisdom saving throw (DC 15). **32 damage** (15 + 13 + 4 = 32). This also triggered Pmurt's reaction — he was forced to step back, **burning his special reaction** instead of using it for something else. The party correctly identified this as a major tactical win.
 
 **Halcyra's second Searing Smite:** Roll of 10 — missed. Sword clinked off the melted gold armor.
 
 **Mirt counterspells Dissonant Whispers** (in a later round, he burned a level-3 spell slot to counterspell, wasting the party's action but also costing himself a slot).
 
-**Lauren's cantrip (Toll the Dead):** Mert repeatedly made his saves against this (rolled 17 and 16 in different rounds). The cantrip also triggers Mert to make a constitution saving throw — he kept passing.
+**Lauren's cantrip (Toll the Dead):** Pmurt repeatedly made his saves against this (rolled 17 and 16 in different rounds). The cantrip also triggers Pmurt to make a constitution saving throw — he kept passing.
 
 **Mira summons her Pact Weapon sickle** (as a bonus action). She notes that her character Mira "doesn't consciously do this — it just seems to materialize in her hand." This is a recurring character mystery: **Mira doesn't know she's a warlock. She doesn't know she has a patron. She doesn't know who her patron is.** Her powers manifest without explanation.
 
-**Charles (Inquisio):** Multiple turns of varied support. In one memorable moment, **threw a handful of the chef's English breakfast (baked beans + eggs) directly into King Mert's eyes**. Rolled strength for the improvised attack — DM ruled it hit. Mert was considered **blinded** as a result. The group went wild.
+**Charles (Inquisio):** Multiple turns of varied support. In one memorable moment, **threw a handful of the chef's English breakfast (baked beans + eggs) directly into King Pmurt's eyes**. Rolled strength for the improvised attack — DM ruled it hit. Pmurt was considered **blinded** as a result. The group went wild.
 
-**Total damage in first 3 rounds: approximately 150 damage.** King Mert started with triple-digit HP. He was in double digits after 3 rounds.
+**Total damage in first 3 rounds: approximately 150 damage.** King Pmurt started with triple-digit HP. He was in double digits after 3 rounds.
 
-**Phase 2 — King Mert calls a Spectator:**
-Mert **tapped his shoulder** (this was foreshadowed as something significant he'd been holding back), and a **phantasmal spectator** (one large eye, tentacles, roughly beholder-shaped) appeared in the sky of the throne room.
+**Phase 2 — King Pmurt calls a Spectator:**
+Pmurt **tapped his shoulder** (this was foreshadowed as something significant he'd been holding back), and a **phantasmal spectator** (one large eye, tentacles, roughly beholder-shaped) appeared in the sky of the throne room.
 
-This was the moment the party had been chasing Mert down the stairs into the throne room, where **60 guards** waited — archers, spear guys, and swordsmen in battalion formation.
+This was the moment the party had been chasing Pmurt down the stairs into the throne room, where **60 guards** waited — archers, spear guys, and swordsmen in battalion formation.
 
 **The spectator's eye rays** hit:
 - Inquisio: 11 damage
 - Mira: 6-7 damage
 - Halcyra: 22 damage (took full force)
 
-**Mira cast Hunger of Hadar** on King Mert (her last spell slot). Mert was **fully blinded** again. He used his 25-foot movement speed just to get out of the sphere.
+**Mira cast Hunger of Hadar** on King Pmurt (her last spell slot). Pmurt was **fully blinded** again. He used his 25-foot movement speed just to get out of the sphere.
 
 **Grungrak cast Earth Tremor** on a cluster of guards — targeting 10 of the ~60 in the front, the 10 guards in a 10-foot radius all made dexterity saves. They succeeded (rolled 16), so no damage, but the terrain became difficult.
 
@@ -228,26 +228,26 @@ By the end of the guard's turns:
 
 **George cast Mass Healing Word:** healed all allies within sound of his voice for **9 HP** each.
 
-**King Mert's final push:**
-Mert cast **Hunger of Hadar** on a 20-foot radius that would hit Halcyra, Inquisio, and George — plus many of his own guards. He did not care. He also tried a second charisma save effect on the party. Most succeeded or failed minimally.
+**King Pmurt's final push:**
+Pmurt cast **Hunger of Hadar** on a 20-foot radius that would hit Halcyra, Inquisio, and George — plus many of his own guards. He did not care. He also tried a second charisma save effect on the party. Most succeeded or failed minimally.
 
 Mira dealt 19 damage with a final spell.
 
-**250 total damage dealt to King Mert across the fight.**
+**250 total damage dealt to King Pmurt across the fight.**
 
-**Mert taps his shoulder and DISAPPEARS (poofs):**
-When the party closed in for the kill, Mert used whatever contingency he had set up (he had tapped his shoulder meaningfully early in the fight). He **poofed away** — not in purple mist like the spectator, just vanished. He had been **partially castrated by Mira with her sickle** (rolled a 13 on medicine check — "not a clean cut") but escaped before the party could finish him.
+**Pmurt taps his shoulder and DISAPPEARS (poofs):**
+When the party closed in for the kill, Pmurt used whatever contingency he had set up (he had tapped his shoulder meaningfully early in the fight). He **poofed away** — not in purple mist like the spectator, just vanished. He had been **partially castrated by Mira with her sickle** (rolled a 13 on medicine check — "not a clean cut") but escaped before the party could finish him.
 
 He had a **hidden emergency medical salve stored in his throne** — the DM confirmed he healed himself from it when he poofed. He is still alive. He is not dead. He escaped.
 
 ---
 
-## Zone of Truth Interrogation (before Mert escaped)
+## Zone of Truth Interrogation (before Pmurt escaped)
 
-Before Mert fled, the party pinned him momentarily. Mira cast **Zone of Truth**. They interrogated him while he was still cornered and talking:
+Before Pmurt fled, the party pinned him momentarily. Mira cast **Zone of Truth**. They interrogated him while he was still cornered and talking:
 
-**Question: "Where is Nungus?"**
-- *"He went through to the main continent — north."* (Mert pointed straight north)
+**Question: "Where is Numgis?"**
+- *"He went through to the main continent — north."* (Pmurt pointed straight north)
 
 **Question: "Who is his master?"**
 - *"The Nightmares. He has become the prophet of the Nightmares."*
@@ -257,15 +257,15 @@ Before Mert fled, the party pinned him momentarily. Mira cast **Zone of Truth**.
 - *"There were others joining the uprising — birds, fish people, mermaids — not just humans."*
 
 **Question: "Tell us everything you know about the Nightmares."**
-- *"They gave me some f***ing awesome powers. But that was all this. It wasn't nearly as cool as a good friend DERF [Nungus]. Boy howdy, can he know how to wield the Nightmares. He understands how to use the nightmares to see the person's deepest fears. I believe you have faced it. You're not very effective at it, but you got to see a glimpse. But those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—"*
+- *"They gave me some f***ing awesome powers. But that was all this. It wasn't nearly as cool as a good friend DERF [Numgis]. Boy howdy, can he know how to wield the Nightmares. He understands how to use the nightmares to see the person's deepest fears. I believe you have faced it. You're not very effective at it, but you got to see a glimpse. But those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—"*
   (At this point, Inquisio knocked him unconscious with a Bible / book)
 
 **Question (final): "What do you know of the goddess Yomi?"**
 - *"Who the f*** is that?"* (Genuine confusion — he doesn't know)
 
-This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes beyond what Mert was given.** Mert was a lower-level ally. Nungus is the one who truly understands and wields them.
+This confirms: **Durf Numgis is operating with Nightmare knowledge that goes beyond what Pmurt was given.** Pmurt was a lower-level ally. Numgis is the one who truly understands and wields them.
 
-**Mira partially castrated Mert with her sickle** before he poofed. Per DM: "He still has part of his dick." He is alive, escaped, partially mutilated.
+**Mira partially castrated Pmurt with her sickle** before he poofed. Per DM: "He still has part of his dick." He is alive, escaped, partially mutilated.
 
 ---
 
@@ -279,12 +279,12 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 | Nat 1 | George | Stealth (landing on balcony) | All 20 guards saw him |
 | 19 | Halcyra | Attack roll (Searing Smite) | Hit, 10 damage |
 | 27 | Halcyra | Attack roll (second Searing Smite) | Nat 20, 50 damage doubled |
-| 32 | Reficul/Ian | Dissonant Whispers damage | Burned Mert's reaction |
+| 32 | Reficul/Ian | Dissonant Whispers damage | Burned Pmurt's reaction |
 | 24 | Arcana | Rune circle analysis | Containment/study circle |
 | 19 | Religion | Rune circle analysis | Same |
 | 18 | Inquisio | Stealth (inside prison building) | Successfully scouted prison |
 | 17 | Persuasion | Getting guards to believe party belongs | Guards waved them through |
-| 20 | Various | Multiple wisdom saves against Mert abilities | Party largely resisted |
+| 20 | Various | Multiple wisdom saves against Pmurt abilities | Party largely resisted |
 | 14 | Spears | Attack on Inquisio | 14 damage — nearly downed him |
 
 ---
@@ -297,14 +297,14 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 - Result: 6 guards killed, 14 barricaded on balcony (survived)
 - No party damage taken
 
-### Encounter 2: King Mert's Bedroom + Throne Room
-- **King Mert (Warlock, high-level, gold-plated armor, AC 17, triple-digit HP)**
+### Encounter 2: King Pmurt's Bedroom + Throne Room
+- **King Pmurt (Warlock, high-level, gold-plated armor, AC 17, triple-digit HP)**
 - **1 Phantasmal Spectator (summoned via shoulder-tap)**
 - **60 guards (archers, spear guys, swordsmen)**
-- Party dealt ~250 damage total to Mert
+- Party dealt ~250 damage total to Pmurt
 - Spectator killed by Starry Wisp (Halcyra)
 - ~40 guards killed (20 by Thunder Wave, 2 more by Earth Tremor damage, some by other means, remaining ~18 fled in terror)
-- Mert escaped via contingency — partially castrated, escaped with emergency medical salve
+- Pmurt escaped via contingency — partially castrated, escaped with emergency medical salve
 - Party casualties: no deaths, Inquisio brought very low (16 HP remaining), Halcyra took heavy damage
 
 ---
@@ -317,7 +317,7 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 **The Butcher** (deceased) — previously told Reficul "there are others of us who agree with you." Was hanged from the portcullis with a "DO NOT REBEL" sign around his neck. Had been dead approximately one week by the time the party arrived.
 
-**The Chef** — King Mert's personal cook. Lived in an attached kitchen off the royal bedroom. Stepped out carrying a full English breakfast and immediately screamed at the sight of Halcyra (bird-war context). Fled back into the kitchen, hiding with a butcher knife. Not harmed by the party. Presumably gave reinforcements information later.
+**The Chef** — King Pmurt's personal cook. Lived in an attached kitchen off the royal bedroom. Stepped out carrying a full English breakfast and immediately screamed at the sight of Halcyra (bird-war context). Fled back into the kitchen, hiding with a butcher knife. Not harmed by the party. Presumably gave reinforcements information later.
 
 ---
 
@@ -332,19 +332,19 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 - People being dragged there in the middle of the night from households across 3+ city blocks
 - Connected to the palace directly
 
-**King Mert's Bedroom**
+**King Pmurt's Bedroom**
 - Northeast tower of the palace
 - Alaskan king-sized bed (takes up only ~1/4 of the room)
-- Bed curtains drawn (Mert was not in the bed)
+- Bed curtains drawn (Pmurt was not in the bed)
 - Three connected doors: kitchen, foggy room (communication chamber), third unspecified
 - Interior bathroom-style gold-plated lock — was unlocked
 - Large window (can open outward)
-- A waterfall + light projector setup in the fog room — used by Mert to communicate with Nungus remotely (holographic projection)
+- A waterfall + light projector setup in the fog room — used by Pmurt to communicate with Numgis remotely (holographic projection)
 
 **The Throne Room**
 - Giant elaborate room
 - Indoor balcony visible from throne room floor
-- Three staircases from the balcony — one extravagant (northeast, to Mert's tower), others less so
+- Three staircases from the balcony — one extravagant (northeast, to Pmurt's tower), others less so
 - Multiple chandeliers — Inquisio manipulated the chandelier release mechanism
 - 60 guards deployed here for the fight
 - Chandelier fell on the spectator for 2 damage before being blasted apart
@@ -357,19 +357,19 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 2. **Shadow creatures are parasitic entities born from personal psychic fears.** Each one is tied to a specific individual's nightmares. They are not random — they are personal.
 
-3. **The Nightmares are hungry** — this is their defining characteristic. Dirk Nungus has become a **prophet of the Nightmares**. He understands how to use them to see and weaponize a person's deepest fears. King Mert had this ability too, but at a much lower level.
+3. **The Nightmares are hungry** — this is their defining characteristic. Durf Numgis has become a **prophet of the Nightmares**. He understands how to use them to see and weaponize a person's deepest fears. King Pmurt had this ability too, but at a much lower level.
 
-4. **Dirk Nungus has gone north to the main continent.** He is seeking something — described as "the prison" (possibly the same prison now being built in the city, or a different one entirely). He will be back once he finds "him" — but who "him" is, is unknown.
+4. **Durf Numgis has gone north to the main continent.** He is seeking something — described as "the prison" (possibly the same prison now being built in the city, or a different one entirely). He will be back once he finds "him" — but who "him" is, is unknown.
 
-5. **King Mert was a warlock with nightmare-granted powers.** He is implied to have gotten his abilities from a pact with the Nightmare entities. He is not privy to Nungus's deeper knowledge about Yomi.
+5. **King Pmurt was a warlock with nightmare-granted powers.** He is implied to have gotten his abilities from a pact with the Nightmare entities. He is not privy to Numgis's deeper knowledge about Yomi.
 
-6. **Mert has no idea who Yomi is.** This is significant — it suggests Yomi's involvement is a complete secret from the Nightmare faction's human allies.
+6. **Pmurt has no idea who Yomi is.** This is significant — it suggests Yomi's involvement is a complete secret from the Nightmare faction's human allies.
 
 7. **The Shattering and George are connected.** The prophecy implies George either caused the Shattering or was its central victim. "A hammer striking a dragon scale" is the key image. The DM strongly suggested re-reading the prophecy before next session.
 
 8. **Three cobalts are needed for something.** The party has one. Two more must be found. Based on context, this is extremely difficult.
 
-9. **The prison is for rebels** — people and other races (birds, fish folk, mermaids) who joined the uprising against Mert's rule. The uprising was against "getting burned." Whatever Mert was doing, the resistance was multiracial and growing.
+9. **The prison is for rebels** — people and other races (birds, fish folk, mermaids) who joined the uprising against Pmurt's rule. The uprising was against "getting burned." Whatever Pmurt was doing, the resistance was multiracial and growing.
 
 10. **Mira is an unknowing warlock with an unknown patron.** Her sickle materializes without her willing it. She doesn't know she has a patron. This is a ticking narrative bomb.
 
@@ -378,7 +378,7 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 ## Inventory Changes
 
 - **George:** Purchased war hammer (15 gold). War hammer was dropped during Fear effect but recovered.
-- **Inquisio:** Used a portion of "Ressugu" (a goop/substance — only a quarter jar remaining). Invisibility recharged at start of Mert fight per DM ruling.
+- **Inquisio:** Used a portion of "Ressugu" (a goop/substance — only a quarter jar remaining). Invisibility recharged at start of Pmurt fight per DM ruling.
 - **Inquisio:** Has stolen **3 hats** over the course of the campaign.
 - **Halcyra:** Still wearing George's(?) trench coat.
 - **Mira:** Pact weapon sickle (materialized in hand — does not know where it came from).
@@ -394,7 +394,7 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 2. **Inquisio topples 17 candelabras in sequence** like a domino line for 45 damage. Someone noted: "I did approximately six of them." (Inquisio: "I did nothing. You did three damage in that one.")
 
-3. **Inquisio throws a full English breakfast into King Mert's eyes.** DM ruled it effective. Mert was blinded. "Cobert!" (The medieval fantasy version of "Kobe!")
+3. **Inquisio throws a full English breakfast into King Pmurt's eyes.** DM ruled it effective. Pmurt was blinded. "Cobert!" (The medieval fantasy version of "Kobe!")
 
 4. **The chef steps out of the kitchen and screams at Halcyra** (birds vs. bird war). Drops the full English breakfast everywhere. Baked beans on the floor. The party later muses about the beans multiple times throughout the rest of the fight.
 
@@ -402,11 +402,11 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 6. **Grungrak smashes the window** instead of the door because someone misunderstood which one they meant. The window shatters dramatically. "No, Grungrak!" "I should have talked in the window."
 
-7. **Mira's mission to castrate King Mert.** Became the running bit of the fight — "still approaching him menacingly" across multiple turns, finally executing a partially-successful sickle castration before he poofed away. "He still has part of his dick." The DM: "It is not a clean cut."
+7. **Mira's mission to castrate King Pmurt.** Became the running bit of the fight — "still approaching him menacingly" across multiple turns, finally executing a partially-successful sickle castration before he poofed away. "He still has part of his dick." The DM: "It is not a clean cut."
 
 8. **The chair under the door.** Classic move — someone shoved a chair under the kitchen door handle (rolled 14) while someone else asked "is this a chair or a door?" — general confusion and chaos.
 
-9. **Mert healed himself with an emergency medical salve hidden in his throne.** "When you have an emergency medical salve in your f***ing throne, god damn it."
+9. **Pmurt healed himself with an emergency medical salve hidden in his throne.** "When you have an emergency medical salve in your f***ing throne, god damn it."
 
 10. **Inquisio's recon visit to the prison:** "Guys, I'm about to die. This is the end of Inquisio's story." — successfully made it out.
 
@@ -418,29 +418,29 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 > "I inspire revolution wherever I go." — Reficul
 
-> "Trust me, I will find him soon enough and I will be back." — Dirk Nungus (voice through the fog projector)
+> "Trust me, I will find him soon enough and I will be back." — Durf Numgis (voice through the fog projector)
 
-> "Woman, what the f***?" — King Mert, to Halcyra upon being attacked in his own room
+> "Woman, what the f***?" — King Pmurt, to Halcyra upon being attacked in his own room
 
-> "Those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—" — King Mert (under Zone of Truth, cut off by Inquisio hitting him with a book)
+> "Those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—" — King Pmurt (under Zone of Truth, cut off by Inquisio hitting him with a book)
 
-> "He has become the prophet of the Nightmares." — King Mert (on Dirk Nungus)
+> "He has become the prophet of the Nightmares." — King Pmurt (on Durf Numgis)
 
-> "Who the f*** is that?" — King Mert (on Yomi)
+> "Who the f*** is that?" — King Pmurt (on Yomi)
 
-> "My mom always said you are what you eat, so you must be a dick." — Reficul/Inquisio, Vicious Mockery style, to Mert (after he put out the fire)
+> "My mom always said you are what you eat, so you must be a dick." — Reficul/Inquisio, Vicious Mockery style, to Pmurt (after he put out the fire)
 
-> "I don't have a mom." — Mert's response
+> "I don't have a mom." — Pmurt's response
 
 > "As far as you know." — Someone
 
-> "Well, daddy's here to spank baby." — Mira, approaching Mert with her sickle
+> "Well, daddy's here to spank baby." — Mira, approaching Pmurt with her sickle
 
 > "Can you either live as heroes or die as cowards?" — Halcyra, intimidating the remaining 40 guards (then killing the spectator immediately after with a cantrip for maximum effect)
 
-> "He's going to get the grafted fuck." — Party, realizing Mert was about to summon something during phase 2
+> "He's going to get the grafted fuck." — Party, realizing Pmurt was about to summon something during phase 2
 
-> "You're gonna get f***ing Cooped." — Mira to the DM (Cooper) as Mert summoned the spectator
+> "You're gonna get f***ing Cooped." — Mira to the DM (Cooper) as Pmurt summoned the spectator
 
 > "I am not a man with fire. I am a man with beans." — Somewhere during the chaos
 
@@ -450,9 +450,9 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 ## Cliffhangers and Unresolved Threads
 
-1. **King Mert escaped.** He is alive, partially castrated, somewhere unknown. He has the Nightmare faction's backing. He will return.
+1. **King Pmurt escaped.** He is alive, partially castrated, somewhere unknown. He has the Nightmare faction's backing. He will return.
 
-2. **Dirk Nungus has gone north to the main continent.** He is seeking "him" — an unknown target. He is the prophet of the Nightmares. He is the true threat.
+2. **Durf Numgis has gone north to the main continent.** He is seeking "him" — an unknown target. He is the prophet of the Nightmares. He is the true threat.
 
 3. **The prison** is still full of prisoners (mostly women, birds, fish folk, mermaids who joined the uprising). The party discussed freeing them as the next priority.
 
@@ -468,22 +468,22 @@ This confirms: **Dirk Nungus is operating with Nightmare knowledge that goes bey
 
 9. **Three cobalts.** One acquired. Two more needed. The other two are implied to be very difficult or very dangerous to obtain.
 
-10. **The "goop" connection.** Everything is connected — shadow creatures, Nungus, Mert's powers, Yomi's imprisonment — all through the goop/nightmares. The party is beginning to understand the shape of the conspiracy.
+10. **The "goop" connection.** Everything is connected — shadow creatures, Numgis, Pmurt's powers, Yomi's imprisonment — all through the goop/nightmares. The party is beginning to understand the shape of the conspiracy.
 
-11. **The revolutionary guards and remaining city population.** After the fight, the remaining ~20 terrified guards fled to the sides of the throne room. Halcyra tried to convince them to turn against Mert. The archers and spear men were terrified — possibly recruitable. The swordsmen were unmoved.
+11. **The revolutionary guards and remaining city population.** After the fight, the remaining ~20 terrified guards fled to the sides of the throne room. Halcyra tried to convince them to turn against Pmurt. The archers and spear men were terrified — possibly recruitable. The swordsmen were unmoved.
 
-12. **"There is no balance. There is no right. There is no wrong."** — Mert's last words before being knocked out. This is ominous foreshadowing about the nature of the threat the party faces.
+12. **"There is no balance. There is no right. There is no wrong."** — Pmurt's last words before being knocked out. This is ominous foreshadowing about the nature of the threat the party faces.
 
 ---
 
 ## Session Ending
 
 The session ended with:
-- King Mert escaped via contingency poof — alive but partially castrated and heavily wounded
+- King Pmurt escaped via contingency poof — alive but partially castrated and heavily wounded
 - The party is in the throne room with ~20 terrified remaining guards, the bodies of ~40 dead guards, and a room full of scattered baked beans and shattered chandelier
-- Dirk Nungus is somewhere on the northern main continent seeking "him"
+- Durf Numgis is somewhere on the northern main continent seeking "him"
 - The prison full of rebels is still being operated
-- The party is planning to: free the prisoners, find transportation off the Archipelago, and pursue Nungus north
+- The party is planning to: free the prisoners, find transportation off the Archipelago, and pursue Numgis north
 - **The party will level up to level 6 before next session**
 - DM: "Before next session, I would recommend looking through that prophecy one more time. There might be shit in there."
 
@@ -495,7 +495,7 @@ The session ended with:
 
 **Inquisio (Charles)** — Toppled 17 candelabras for 45 damage. Scouted the prison building while invisible (18 stealth). Discovered the butcher hanging dead. Did English breakfast improvised attack. Pulled the chandelier lever. Nearly went down (16 HP remaining). Inquisio does not have a mother, apparently.
 
-**Mira** — Took zero damage the entire session. Cast Hunger of Hadar twice (once on the fake Mert illusion during balcony fight, once on real Mert). Identified the Reverie/Yomi connection. Her sickle manifested in her hand without her willing it. She is a warlock who doesn't know she's a warlock. She partially castrated King Mert.
+**Mira** — Took zero damage the entire session. Cast Hunger of Hadar twice (once on the fake Pmurt illusion during balcony fight, once on real Pmurt). Identified the Reverie/Yomi connection. Her sickle manifested in her hand without her willing it. She is a warlock who doesn't know she's a warlock. She partially castrated King Pmurt.
 
 **George** — Bought a war hammer. Crit failed his stealth. Ran out of the room under Fear. Came back. Used Thunder Wave twice, killing approximately 22 guards across both casts. Used Mass Healing Word to heal 9 HP to all allies.
 

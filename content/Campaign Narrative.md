@@ -630,7 +630,7 @@ Mira and Reficul went through a portal at midnight — a narrow window, operated
 
 Meanwhile, Inquisio had gone ahead of everyone and gone invisible.
 
-His recon of the palace was thorough and grim. A prison building held mostly women, birds, and mermaids — the populations this king had decided were threats or tools or both. Bodies on both portcullises. Mert's bedroom: empty. The king was not sleeping. Inquisio tracked what he needed, withdrew, and reported back.
+His recon of the palace was thorough and grim. A prison building held mostly women, birds, and mermaids — the populations this king had decided were threats or tools or both. Bodies on both portcullises. Pmurt's bedroom: empty. The king was not sleeping. Inquisio tracked what he needed, withdrew, and reported back.
 
 The party gathered. They bought supplies. George bought a war hammer — finally, a real one, even if it wasn't *his*. They disguised Mira (human, relatively unnoticed in a city that surveils the unusual), and they went in.
 
@@ -638,21 +638,21 @@ Their stealth results going through the palace: 28, 24, 14, 8, and George-3. A p
 
 What followed in the throne room was one of the biggest fights of the campaign.
 
-King Mert — English breakfast in hand, Nightmare entities as his patron saints, and Nungus's absent blessing behind him — fought the party across two phases. Phase one: conventional king-with-guards combat. He cast Fear; George failed the save and fled the room. He threw his breakfast around with bizarre effectiveness. Reficul hit him with Dissonant Whispers for 32 damage — a single spell, a devastating number. Halcyra applied Searing Smite and lit him on fire. Inquisio pulled the chandelier lever. George came back through the door and used Thunder Wave. Then used it again. The second cast landed in the middle of the wave of guards Mert had summoned — approximately twenty of them — and the room went quiet.
+King Pmurt — English breakfast in hand, Nightmare entities as his patron saints, and Numgis's absent blessing behind him — fought the party across two phases. Phase one: conventional king-with-guards combat. He cast Fear; George failed the save and fled the room. He threw his breakfast around with bizarre effectiveness. Reficul hit him with Dissonant Whispers for 32 damage — a single spell, a devastating number. Halcyra applied Searing Smite and lit him on fire. Inquisio pulled the chandelier lever. George came back through the door and used Thunder Wave. Then used it again. The second cast landed in the middle of the wave of guards Pmurt had summoned — approximately twenty of them — and the room went quiet.
 
 Twenty palace guards died in a single cast. George did not comment on this. He moved on.
 
-Phase two: Mert tapped his shoulder. Earlier in the fight. The party had not known what that meant. He summoned a phantasmal spectator — a CR5 construct of psychic malevolence — and Reficul took it down with Starry Wisp. But the damage was done. They had spent their resources. Mert was near death. And then the contingency activated.
+Phase two: Pmurt tapped his shoulder. Earlier in the fight. The party had not known what that meant. He summoned a phantasmal spectator — a CR5 construct of psychic malevolence — and Reficul took it down with Starry Wisp. But the damage was done. They had spent their resources. Pmurt was near death. And then the contingency activated.
 
 He was gone.
 
-The throne room was quiet. Mert was alive — badly wounded, somewhere he hadn't been a moment ago, and furious. And partially castrated. Because Mira had gotten there with her sickle first.
+The throne room was quiet. Pmurt was alive — badly wounded, somewhere he hadn't been a moment ago, and furious. And partially castrated. Because Mira had gotten there with her sickle first.
 
-The pact weapon had manifested during the fight — a sickle, no different in shape from the one Grungrak had given Persephone, but hers, and from a patron she had never consciously agreed to serve. She is an unknowing warlock. Whatever entity is extending her those abilities, it was present in the throne room. After the Zone of Truth interrogation — Mert compelled, briefly, to answer honestly about what he knew — Mira acted with the sickle, and Mert escaped mid-consequence.
+The pact weapon had manifested during the fight — a sickle, no different in shape from the one Grungrak had given Persephone, but hers, and from a patron she had never consciously agreed to serve. She is an unknowing warlock. Whatever entity is extending her those abilities, it was present in the throne room. After the Zone of Truth interrogation — Pmurt compelled, briefly, to answer honestly about what he knew — Mira acted with the sickle, and Pmurt escaped mid-consequence.
 
 He took something with him when he left. Left something behind when he went.
 
-The party stood in a ruined throne room. Twenty dead guards. A spectator's goop. A chandelier on the floor. Nungus already gone north for reasons no one had explained. Mert alive and running.
+The party stood in a ruined throne room. Twenty dead guards. A spectator's goop. A chandelier on the floor. Numgis already gone north for reasons no one had explained. Pmurt alive and running.
 
 The DM said: level up to 6.
 
@@ -664,7 +664,7 @@ The session ended there — in the wreckage of a fight that wasn't finished, in 
 
 The session began in the throne room wreckage and ended on a couch with everyone crying.
 
-The party was still in the island city, still in the ruins of a fight that had escaped them when the king poofed mid-castration. They investigated for Nungus's room and found it pointed to by a neon sign — Vegas-style merch lights all around the throne room, because of course there were — and ended up in the prison. Most of the cells were already open. A tube had been hammered through the glass fish tank at the back, and the mermaids and birds had apparently already left. Only three men remained in the last occupied cell.
+The party was still in the island city, still in the ruins of a fight that had escaped them when the king poofed mid-castration. They investigated for Numgis's room and found it pointed to by a neon sign — Vegas-style merch lights all around the throne room, because of course there were — and ended up in the prison. Most of the cells were already open. A tube had been hammered through the glass fish tank at the back, and the mermaids and birds had apparently already left. Only three men remained in the last occupied cell.
 
 One of them had eyes that shifted from brilliant gold to silver. He described being on his farm when blue lightning tore the sky, paper tearing across reality, the sound of a machine. He had been in this prison cell since. Mira did the math and confirmed there was nothing in the historical record about biomatter being merged in the Shattering — but there were whispers about gods appearing differently than they used to, or not answering at all. The farmer's shifting eyes were not his own. Something was layered onto him when the worlds collided. He absorbed this information, said he needed to find someone, and jumped through the fish tank and up the tube into the sea.
 
@@ -674,9 +674,9 @@ They were six men in pastel colors, cheerful and confusing. Their spokesperson w
 
 The party knew.
 
-The wire-glasses man was Nungus. He had been at the Bird Kingdom — at Voxus — two days ago. He was already in position.
+The wire-glasses man was Numgis. He had been at the Bird Kingdom — at Voxus — two days ago. He was already in position.
 
-The party departed the island city after that. They freed the remaining guards from Mert's chain of command, uncovered the falcon face on the gold-topped bird statue (Mira confirmed it was historically significant; she couldn't name it), and left. The Liberators went separately, toward the fish. The party went north.
+The party departed the island city after that. They freed the remaining guards from Pmurt's chain of command, uncovered the falcon face on the gold-topped bird statue (Mira confirmed it was historically significant; she couldn't name it), and left. The Liberators went separately, toward the fish. The party went north.
 
 Voxus was the Bird Kingdom — built like the Rito from an old story, layered into the mountainside, enormous and structured and ancient in ways the party was not equipped to fully appreciate on a quick visit. They met Gunge. He was an owl-adjacent figure, a shadow therapist, someone who worked with the nightmare side of consciousness as a professional practice. He had something to tell them, but first he had a thing he needed to try.
 
@@ -708,7 +708,7 @@ Mira had learned something. Her father had sold his soul to save her when she wa
 
 Gunge, after they woke, gave them tissue boxes and one more piece of information.
 
-He had been on his way to unseal the God of Dreams. Part of the unsealing mechanism was in the next town. The God of Dreams was sealed by her own nightmare — her own shadow — and Nungus was working with that nightmare, for it, deliberately. Gunge believed this had to be stopped. He could not help much. He had duties and a chief who believed the town might need to be destroyed. He would stall as long as he could.
+He had been on his way to unseal the God of Dreams. Part of the unsealing mechanism was in the next town. The God of Dreams was sealed by her own nightmare — her own shadow — and Numgis was working with that nightmare, for it, deliberately. Gunge believed this had to be stopped. He could not help much. He had duties and a chief who believed the town might need to be destroyed. He would stall as long as he could.
 
 *It's one thing to kill people,* he said. *It's another to torment them in their dreams.*
 
@@ -841,23 +841,23 @@ The sickle is still notable for what it echoes: the "Castrator of the Sky" — V
 
 The dragon has Grungrak somehow. Whether this means his soul, his death, a version of him — what it means that Mira severed the cord and he became physical for a moment before fading — this is the open wound at the center of the patron thread.
 
-### The Nightmare Axis — Mert, Nungus, and the God of Dreams
+### The Nightmare Axis — Pmurt, Numgis, and the God of Dreams
 
-The axis is wider than it appeared. Nungus is not merely the prophet of Nightmare entities. He knows the God of Dreams was sealed by her own shadow — by her own nightmare — and he is actively working with that nightmare, for it, in order to unseal her on terms that benefit him. He was at the Bird Kingdom (Voxus) two days before the party arrived, setting up a sleep-related system with the eagle king Ravalli. He is ahead of them. Part of the unsealing mechanism is in the next town the party needs to reach.
+The axis is wider than it appeared. Numgis is not merely the prophet of Nightmare entities. He knows the God of Dreams was sealed by her own shadow — by her own nightmare — and he is actively working with that nightmare, for it, in order to unseal her on terms that benefit him. He was at the Bird Kingdom (Voxus) two days before the party arrived, setting up a sleep-related system with the eagle king Ravalli. He is ahead of them. Part of the unsealing mechanism is in the next town the party needs to reach.
 
 The regime of fear in the island city was what Nightmare-backed authority looks like in practice. The actual war is larger.
 
-The party left the island city. They did not destroy the axis. Nungus has a head start and a plan.
+The party left the island city. They did not destroy the axis. Numgis has a head start and a plan.
 
 ### The Island City's Future
 
 Twenty guards are dead. The throne room is rubble. The king fled mid-castration. The Liberators had already moved through and freed most of the prisoners. The party gave the remaining guards notice that their authority structure was gone and departed.
 
-Whether Mert returns to reclaim the city, whether the resistance fills the power vacuum, or whether neither happens before Nungus's larger plan overtakes local politics — all of this is unresolved. The island city is not a closed chapter.
+Whether Pmurt returns to reclaim the city, whether the resistance fills the power vacuum, or whether neither happens before Numgis's larger plan overtakes local politics — all of this is unresolved. The island city is not a closed chapter.
 
 ### The God of Dreams — Sealed by Her Own Shadow
 
-The God of Dreams is female. She was sealed by her own nightmare — her own shadow self — and Nungus is working with that nightmare deliberately. This is the largest active supernatural threat in the campaign: a sealed deity whose unsealing is being managed by someone with bad intentions, in a way that involves the party's next destination and possibly requires destroying a town to complete.
+The God of Dreams is female. She was sealed by her own nightmare — her own shadow self — and Numgis is working with that nightmare deliberately. This is the largest active supernatural threat in the campaign: a sealed deity whose unsealing is being managed by someone with bad intentions, in a way that involves the party's next destination and possibly requires destroying a town to complete.
 
 Gunge believes the town does not need to be destroyed. His chief believes it does. Gunge is stalling. The window is closing.
 
@@ -883,11 +883,11 @@ They are still operating. They have a third location to handle — the fish. The
 
 *(This section is my best read of where the story is heading based on what's been established. It will be updated and corrected as sessions continue.)*
 
-**Immediate (after Session 12):** The party is in Voxus, the Bird Kingdom, sitting on Gunge's couch with new items and new scars. Everyone has just met their shadow self. Nungus is already in position at the next town, managing the unsealing of the God of Dreams. Gunge is stalling his chief. The window is closing. The party needs to move.
+**Immediate (after Session 12):** The party is in Voxus, the Bird Kingdom, sitting on Gunge's couch with new items and new scars. Everyone has just met their shadow self. Numgis is already in position at the next town, managing the unsealing of the God of Dreams. Gunge is stalling his chief. The window is closing. The party needs to move.
 
-**The God of Dreams unsealing:** This is the active crisis. Nungus is working with the nightmare that sealed her, and part of the mechanism is in the next town. Gunge's chief believes the town needs to be destroyed to complete it. The party's job — whether or not they know it yet — is to get there first and find a way to do this without destroying the town. Or to stop it entirely. Neither option is easy when Nungus is already there.
+**The God of Dreams unsealing:** This is the active crisis. Numgis is working with the nightmare that sealed her, and part of the mechanism is in the next town. Gunge's chief believes the town needs to be destroyed to complete it. The party's job — whether or not they know it yet — is to get there first and find a way to do this without destroying the town. Or to stop it entirely. Neither option is easy when Numgis is already there.
 
-**King Mert's next move:** He is alive, humiliated, mutilated, and has personal, visceral reasons to hunt Mira specifically. He will reach out to Nungus if he hasn't already. Whatever form his revenge takes, it is coming.
+**King Pmurt's next move:** He is alive, humiliated, mutilated, and has personal, visceral reasons to hunt Mira specifically. He will reach out to Numgis if he hasn't already. Whatever form his revenge takes, it is coming.
 
 **Mira's patron:** She now knows the origin. Her father's soul for hers. The dragon is the entity who holds the contract. What she does with this information — whether she seeks to break the contract, find her father, confront the patron directly, or simply carry it — is the next phase of her arc. She knows now. She can no longer pretend not to know.
 
@@ -897,7 +897,7 @@ They are still operating. They have a third location to handle — the fish. The
 
 **Inquizo's shadow:** Suppressed. Not resolved. His sister's silhouette is in the path. The Warden Brother is waiting.
 
-**The goop source:** Still active. The cave creature is dead. The merchant's journal may contain information about the maker. Velodorn still exists and appeared at the same time as the world-breaking event. The caravan campsite hasn't been investigated. The Nightmare axis (Mert + Nungus + the God of Dreams nightmare) may be connected to the goop construct maker — or the goop may be something separate and larger that the Nightmare entities themselves are using as infrastructure.
+**The goop source:** Still active. The cave creature is dead. The merchant's journal may contain information about the maker. Velodorn still exists and appeared at the same time as the world-breaking event. The caravan campsite hasn't been investigated. The Nightmare axis (Pmurt + Numgis + the God of Dreams nightmare) may be connected to the goop construct maker — or the goop may be something separate and larger that the Nightmare entities themselves are using as infrastructure.
 
 **The prophecy reading:** Postponed through Session 12. Still in Halcyra's pocket. Prophecy Day will come when something makes it urgent. Given that Apollo is now calling her name in dreams, the urgency is approaching.
 

@@ -15,7 +15,7 @@ date_played: 2026-03
 
 ## TL;DR
 
-Session 12 began in the wreckage of King Mert's throne room and ended on a couch with five characters weeping at what they had just seen of themselves. The party briefly explored the aftermath of Session 11, encountered a mysterious liberated prisoner with dragon eyes, met a group called the Liberators (a Scarlet Pimpernel-style troupe who sprung from a book), and got pointed toward the Bird Kingdom (Voxus). But the center of the session — and the most emotionally significant hour of the campaign so far — was Gunge/Gundrak's shadow therapy sequence, in which each character faced a dark mirror version of themselves and was forced to argue, flee, negotiate, or walk into a dragon about the choices they had made. Everyone received a named item from their shadow self. Everyone cried. The DM also revealed that Nungus is working with the nightmare that sealed the God of Dreams, and that unsealing her is connected to the next town.
+Session 12 began in the wreckage of King Pmurt's throne room and ended on a couch with five characters weeping at what they had just seen of themselves. The party briefly explored the aftermath of Session 11, encountered a mysterious liberated prisoner with dragon eyes, met a group called the Liberators (a Scarlet Pimpernel-style troupe who sprung from a book), and got pointed toward the Bird Kingdom (Voxus). But the center of the session — and the most emotionally significant hour of the campaign so far — was Gunge/Gundrak's shadow therapy sequence, in which each character faced a dark mirror version of themselves and was forced to argue, flee, negotiate, or walk into a dragon about the choices they had made. Everyone received a named item from their shadow self. Everyone cried. The DM also revealed that Numgis is working with the nightmare that sealed the God of Dreams, and that unsealing her is connected to the next town.
 
 ---
 
@@ -23,11 +23,11 @@ Session 12 began in the wreckage of King Mert's throne room and ended on a couch
 
 ### Scene 1 — Throne Room Aftermath (Lines 1–170)
 
-The party opened in the ruined throne room, picking through the carnage of Session 11. Cooper recapped: Mert had gone north before the party arrived, Nungus had gone north for unknown reasons, and Mert escaped via contingency teleport mid-castration. Under Zone of Truth, Mert confirmed he only knew Nungus was north — he had no further information about where or why.
+The party opened in the ruined throne room, picking through the carnage of Session 11. Cooper recapped: Pmurt had gone north before the party arrived, Numgis had gone north for unknown reasons, and Pmurt escaped via contingency teleport mid-castration. Under Zone of Truth, Pmurt confirmed he only knew Numgis was north — he had no further information about where or why.
 
-The party investigated for Nungus's room. Investigation checks ranged from 9 (Ian/Reficul) to 24 (Ele/Mira). A neon merch sign — Vegas-style lights all around the throne room — had been knocked crooked and now pointed down the hallway toward the prison, which happened to be the same direction as Nungus's room. The party correctly interpreted this as a lead.
+The party investigated for Numgis's room. Investigation checks ranged from 9 (Ian/Reficul) to 24 (Ele/Mira). A neon merch sign — Vegas-style lights all around the throne room — had been knocked crooked and now pointed down the hallway toward the prison, which happened to be the same direction as Numgis's room. The party correctly interpreted this as a lead.
 
-**Key beat:** The throne room had neon merch signs around it because that's just the kind of king Mert was. Nobody had noticed during the combat.
+**Key beat:** The throne room had neon merch signs around it because that's just the kind of king Pmurt was. Nobody had noticed during the combat.
 
 ---
 
@@ -41,13 +41,13 @@ Only one cell remained occupied — three men inside. One of them stood out imme
 
 When the party started to explain the Shattering to him, his eyes snapped back and he said "I need to figure out what's going on. I will find him." Then he jumped through the fish tank and got sucked up the tube.
 
-**The Liberators:** Outside on the beach, the pastel-colored men the party had heard about were waiting. They introduced themselves through their spokesperson, Elton — about 5'6", well put-together, clearly the talker of the group. The Liberators are a Scarlet Pimpernel-style troupe: heroes from another world who were told there were people in danger and deployed accordingly. They came out of a book in a library on a mountain, sent by a 7-foot old man. Their assignment was to liberate three locations: the island city (Mert's), the Bird Kingdom (Voxus/birds), and the fish.
+**The Liberators:** Outside on the beach, the pastel-colored men the party had heard about were waiting. They introduced themselves through their spokesperson, Elton — about 5'6", well put-together, clearly the talker of the group. The Liberators are a Scarlet Pimpernel-style troupe: heroes from another world who were told there were people in danger and deployed accordingly. They came out of a book in a library on a mountain, sent by a 7-foot old man. Their assignment was to liberate three locations: the island city (Pmurt's), the Bird Kingdom (Voxus/birds), and the fish.
 
 They had already dealt with the birds — they went to the eagle king's nest (Ravalli's), found another man with wire glasses already there, and that man and Ravalli were "setting up a system" to help with something. The word Elton remembered was "sleep." They left satisfied the birds were handled.
 
 **The Liberators' book man:** The old man who sent them was 7 feet tall, "jovial," and would sign things XOXO. The party recognized this immediately as their own X-salent contact. The man was from a grand library on a mountain — and walked out of a rock when he left. This is the same figure who has been adjacent to the campaign's larger mysteries.
 
-**The man with wire glasses at Ravalli's nest:** Present two days ago. Described as "very well put together" with wire-rim glasses. Setting up a system with the eagle king (Ravalli) related to sleep. This is Nungus — or someone adjacent to the God of Dreams situation.
+**The man with wire glasses at Ravalli's nest:** Present two days ago. Described as "very well put together" with wire-rim glasses. Setting up a system with the eagle king (Ravalli) related to sleep. This is Numgis — or someone adjacent to the God of Dreams situation.
 
 The Liberators had George-3 on their hands too: a Liberator sinking in the water while the party tried to rescue George-Dwarf. George Bard rolled a nat 20 Athletics when it mattered.
 
@@ -55,11 +55,11 @@ The Liberators had George-3 on their hands too: a Liberator sinking in the water
 
 ### Scene 3 — Town, Statues, and Departing the Island City (Lines 1720–2600)
 
-The party returned to the island city's main square. Two statues remained — the bird (falcon-esque, gold face recently uncovered where giant claw marks had torn Mert's gilded face off) and the buff man with a staff. The Poseidon statue was gone (the party had stolen it previously). The pirate lady statue was also gone — the pirates presumably retrieved it.
+The party returned to the island city's main square. Two statues remained — the bird (falcon-esque, gold face recently uncovered where giant claw marks had torn Pmurt's gilded face off) and the buff man with a staff. The Poseidon statue was gone (the party had stolen it previously). The pirate lady statue was also gone — the pirates presumably retrieved it.
 
 Halcyra flew up to the bird statue and popped the gold head off with minimal effort — the face of a very majestic falcon underneath. History check (13): Mira confirmed it was someone significant to the bird people, but couldn't name them. The gold head was removed and the true statue revealed.
 
-The party gave the liberated guards a chance to stand down from Mert's authority, freed anyone still technically imprisoned, and prepared to depart for the Bird Kingdom (Voxus).
+The party gave the liberated guards a chance to stand down from Pmurt's authority, freed anyone still technically imprisoned, and prepared to depart for the Bird Kingdom (Voxus).
 
 ---
 
@@ -67,7 +67,7 @@ The party gave the liberated guards a chance to stand down from Mert's authority
 
 The party traveled to the Bird Kingdom using a combination of the Liberators' connections and their own resources. Details of the exact travel method are not fully clear from the transcript (the DM had cut some planned dungeon content). They arrived at Voxus — the bird people's mountain homeland, modeled on the Wind Waker Rito rather than Breath of the Wild Rito (the DM confirmed this explicitly in the post-session discussion).
 
-**Ravalli:** The eagle king. He runs Voxus. The party met him. He was already aware that something was being arranged regarding sleep. He admitted to cooperating with the man with wire glasses (Nungus or his agent) on something, then acknowledged the party catching him in it. He was not hostile but was constrained — he mentioned having duties and trying to stall his chief to the best of his ability.
+**Ravalli:** The eagle king. He runs Voxus. The party met him. He was already aware that something was being arranged regarding sleep. He admitted to cooperating with the man with wire glasses (Numgis or his agent) on something, then acknowledged the party catching him in it. He was not hostile but was constrained — he mentioned having duties and trying to stall his chief to the best of his ability.
 
 **General Oss and General Thal:** Referenced as figures of authority in the Bird Kingdom or connected to its military/political structure. Not major players in this session but named.
 
@@ -322,9 +322,9 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 *I was on my way to unseal the God of Dreams. Part of it is in the next town. I don't know if my chief believes that means destroying the town — I don't know if that's accurate. It's one thing to kill people; it's another to torment them in their dreams.*
 
-*I have a strong belief that the God of Dreams was sealed away by her own nightmare. Her own shadow. And I believe Nungus knows this — and is working with that nightmare, for that nightmare. That must be stopped.*
+*I have a strong belief that the God of Dreams was sealed away by her own nightmare. Her own shadow. And I believe Numgis knows this — and is working with that nightmare, for that nightmare. That must be stopped.*
 
-*I cannot help much. I have duties here and will try to stall my chief. If you can sway and resolve the throne room, I fear Nungus will use that as cover. I believe that. I will do my best — but it may be a matter of time.*
+*I cannot help much. I have duties here and will try to stall my chief. If you can sway and resolve the throne room, I fear Numgis will use that as cover. I believe that. I will do my best — but it may be a matter of time.*
 
 ---
 
@@ -351,13 +351,13 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 - **Mira's patron is connected to a dragon.** The patron manifested as a blue dragon with green veins (Mira's own veins). Grungrak is somehow part of it — "is Grungrak part of that dragon? He sure is." The exact nature of this is not fully clear, but the patron and the dragon and Grungrak's story are entangled.
 - **Mira's father sold his soul.** Signed shortly after her fifth birthday. The contract reads: *My soul for hers.* This is what gave the patron access to Mira. She did not choose a warlock pact — she was born into one, or had one born into her, paid for by her father.
-- **The God of Dreams was sealed by her own nightmare / shadow.** The God of Dreams is female (Gunge uses "she"). She is currently sealed — and Nungus is actively working with the nightmare that sealed her in order to unseal her in a controlled way that benefits him.
-- **Nungus is working with the nightmare, for the nightmare.** His prophet role is not incidental. He is an active collaborator with the thing that sealed the God of Dreams.
+- **The God of Dreams was sealed by her own nightmare / shadow.** The God of Dreams is female (Gunge uses "she"). She is currently sealed — and Numgis is actively working with the nightmare that sealed her in order to unseal her in a controlled way that benefits him.
+- **Numgis is working with the nightmare, for the nightmare.** His prophet role is not incidental. He is an active collaborator with the thing that sealed the God of Dreams.
 - **Unsealing the God of Dreams involves the next town.** Part of the unsealing process is in the next location the party will travel to. Gunge's chief may believe this requires destroying the town. Gunge does not believe that is accurate — but he can only stall.
 - **The Bird Kingdom is called Voxus.** The bird people's eagle king is Ravalli. Their political structure includes military figures (General Oss, General Thal).
 - **The Liberators came from a book.** A Scarlet Pimpernel-style troupe deployed by a 7-foot jovial old man who signs XOXO. They came out of a grand library in/on a mountain. The same figure the party has encountered adjacently throughout the campaign.
 - **The farmer Grant was merged in the Shattering.** His shifting eyes (gold to silver) represent two entities or aspects that got merged when the Shattering sent him from his world to this one. The arcana check confirmed it was a cast magic effect, not innate — meaning whoever or whatever was layered onto him was doing so deliberately or was carried along.
-- **The man with wire glasses at Ravalli's nest is Nungus (or his agent).** He was setting up a sleep-related system with Ravalli two days before the party arrived. This is almost certainly Nungus.
+- **The man with wire glasses at Ravalli's nest is Numgis (or his agent).** He was setting up a sleep-related system with Ravalli two days before the party arrived. This is almost certainly Numgis.
 
 ---
 
@@ -378,7 +378,7 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 ## Notable Locations
 
-- **The Island City (Mert's)** — Partially resolved; mermaids and birds escaped via prison tube to the beach; the Liberators had already come through; 17 guards still needed informing; the party gave them notice and left
+- **The Island City (Pmurt's)** — Partially resolved; mermaids and birds escaped via prison tube to the beach; the Liberators had already come through; 17 guards still needed informing; the party gave them notice and left
 - **Voxus** — The Bird Kingdom; Rito from Wind Waker (not Breath of the Wild); eagle king Ravalli rules here; the Nightmare system is connected to this location; the dungeon originally planned here was dropped
 - **Gunge's space / the couch** — Interior location in or near Voxus; functioned as the shadow therapy venue; dim lighting, tissue boxes, a couch the party fell asleep on together
 
@@ -388,10 +388,10 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 | Roll | Who | Result | Effect |
 |---|---|---|---|
-| Investigation (Nungus's room) | Ele/Mira | 24 | Best investigator; spotted the neon sign pointing toward prison |
-| Investigation (Nungus's room) | Lorenne/Halcyra | 15 | Solid |
-| Investigation (Nungus's room) | Charlie/Inquizo | 14 | Decent for Inquizo |
-| Investigation (Nungus's room) | Ian/Reficul | 9 | Less useful |
+| Investigation (Numgis's room) | Ele/Mira | 24 | Best investigator; spotted the neon sign pointing toward prison |
+| Investigation (Numgis's room) | Lorenne/Halcyra | 15 | Solid |
+| Investigation (Numgis's room) | Charlie/Inquizo | 14 | Decent for Inquizo |
+| Investigation (Numgis's room) | Ian/Reficul | 9 | Less useful |
 | Arcana (prisoner's eye shift) | Reficul | 10 | Confirmed it was cast/external magic, not innate |
 | Insight (prisoner sanity) | Multiple | 7–8 | Collectively concluded "he's nuts" |
 | History (Shattering + bio-merger) | Mira | 14 | Confirmed no records of bio-merger in Shattering; heard whispers about gods appearing differently |
@@ -404,7 +404,7 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 ## Cliffhangers & Unresolved Threads
 
-- **Nungus and the God of Dreams.** He is actively working with the nightmare that sealed her, and part of the unsealing mechanism is in the next town. The party must get there before either Nungus completes it or Gunge's chief decides to destroy the town.
+- **Numgis and the God of Dreams.** He is actively working with the nightmare that sealed her, and part of the unsealing mechanism is in the next town. The party must get there before either Numgis completes it or Gunge's chief decides to destroy the town.
 - **Mira's father's contract.** Her soul was purchased by her father's soul. What happened to her father? Is he alive? Is he in hell? Does the patron have him? Mira has the necklace from her shadow — her father's "final gift."
 - **The dragon and Grungrak.** The patron is a dragon. Grungrak is somehow inside or part of it. The exact nature of this connection — whether it is symbolic, literal, or about the original Grungrak's death-by-dragon — is unresolved.
 - **The man with shifting eyes (Grant).** He disappeared up the stairs. He was merged in the Shattering. Who or what is layered on top of him?
@@ -418,8 +418,8 @@ Gunge offered a tissue box (giant owl-sized, then person-sized). He had one more
 
 ## Funny Moments
 
-- Reficul, upon seeing Mert's preserved testicles: *"These are not the testicles I wish to adorn my crown with."* The DM: *"That is an auto sentence I wanted to hear today."*
-- The party collectively realizing Nungus's room was pointed to by a neon merch sign in the throne room — Vegas lights around an evil king's chair.
+- Reficul, upon seeing Pmurt's preserved testicles: *"These are not the testicles I wish to adorn my crown with."* The DM: *"That is an auto sentence I wanted to hear today."*
+- The party collectively realizing Numgis's room was pointed to by a neon merch sign in the throne room — Vegas lights around an evil king's chair.
 - George cannonballing into the ocean from the prison tube and immediately sinking like a stone. The tube breaking apart around him on the way down.
 - Elton standing atop a guillotine platform giving birth (with a fake baby under the dress) being his last memory before entering the book. *"I give birth better than Mary does."*
 - Inquizo running from his shadow therapy and his shadow effortlessly mirroring every movement. The shadow helped him hide better than he hid himself.

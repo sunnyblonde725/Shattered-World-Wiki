@@ -17,21 +17,26 @@ tags: [dnd, shattered-world, world-state, reference]
 
 #### [[King Pmurt]]
 - **First appeared:** Session 1
-- **Role / Faction:** King of the isolated human kingdom (island/coastal cliff location)
-- **Attitude toward party:** Dismissive / Unconcerned
-- **Status:** Unknown — last seen in his throne room; reportedly also caught in the bathroom during the party's heist
-- **Key details:** Rules a kingdom that believes only humans exist and only their kingdom exists. Too large/stubborn to walk; uses a floating chair. Complaints: fish, birds, people being annoying. Sent the party to his vizier. His castle has gold-plated decorations and a town square with four god-statues.
+- **Role / Faction:** King of the isolated human kingdom (island/coastal cliff location); later ruler of the island city (Sessions 11–13)
+- **Attitude toward party:** Dismissive / Unconcerned (Session 1); Hostile (Sessions 11+)
+- **Status:** ALIVE — escaped via contingency mechanic after the throne room fight; wounded; partially castrated
+- **Key details:** Rules a kingdom that believes only humans exist and only their kingdom exists. Too large/stubborn to walk; uses a floating chair. Complaints: fish, birds, people being annoying. Sent the party to his vizier. His castle has gold-plated decorations and a town square with four god-statues. By Sessions 11–13, he is ruling the island city in partnership with Durf Numgis and the Nightmare entities, enforcing order through visible brutality (bodies on portcullises, prison full of rebels). English-breakfast-obsessed. His palace has a throne room with a chandelier and multiple waves of guards. During combat he summoned a phantasmal spectator as a Phase 2 move. He had a contingency mechanic prepared — when near death (triggered by tapping his shoulder), he teleported away. The party dealt approximately 250 total damage to him before he escaped. He is now alive, wounded, and furious. Mira partially castrated him with her pact sickle before he fully escaped. He has personal reasons to come after the party now. The airship was traded to him by the Doctor in exchange for his crown (now in Inquizo's possession, allowing the ship AI to greet "King Pmurt").
 - **Session history:**
   - Session 1 — Received the party in his throne room; dispatched them to Durf Numgis; floated away on his chair.
+  - Session 11 — First direct encounter as ruler of the island city; fought the party in the throne room; used Fear, summoned a spectator; escaped via contingency poof after ~250 damage and partial castration. Interrogated (Zone of Truth) immediately before escape.
+  - Session 13 — Aftermath of defeat; island city in chaos under Naamon's brief usurpation; Pmurt originally heading to Sypium before his defeat; his crown is now on Inquizo, tricking the ship AI.
 
 #### [[Durf Numgis]]
 - **First appeared:** Session 1
-- **Role / Faction:** Vizier to King Pmurt
-- **Attitude toward party:** Hostile / Manipulative
-- **Status:** Unknown — last seen on his balcony with his floating ship
-- **Key details:** Believes everything in existence is related to sex. Walked the party down a hallway and began explaining this worldview in detail. Escalated into an argument with Reficul. Cast a Nightmare Spell on the party (succeeded on Mira, Halcyra, and George; resisted by Reficul and Inquizo). Offered passage aboard his personal floating ship from his balcony; was refused. The party jumped off the railing instead.
+- **Role / Faction:** Vizier to King Pmurt (Session 1); self-proclaimed Prophet of the Nightmare entities (Sessions 11–13)
+- **Attitude toward party:** Hostile / Manipulative (Session 1); Unknown — not directly encountered (Sessions 11+)
+- **Status:** At large — heading north toward Sypium; working to unseal the God of Dreams (Yomi)
+- **Key details:** In Session 1, walked the party down a hallway and began explaining his worldview: everything in existence is related to sex. Escalated into an argument with Reficul. Cast a Nightmare Spell on the party (succeeded on Mira, Halcyra, and George; resisted by Reficul and Inquizo). Offered passage on his personal floating ship from his balcony; was refused. By Sessions 11–13, he has become the self-proclaimed prophet of the Nightmare entities, working alongside King Pmurt to rule the island city. He communicates via a waterfall-and-light projector system ("Star Wars-ing it"). He was told in his own dreams to free Yomi (the God of Dreams), who is trapped by her own nightmare/shadow. He is actively working with that nightmare to unseal her. He was building a global network of "disciples of dreams" — King Pmurt was disciple #1. He departed north before the party arrived at the island city, heading toward Sypium. He was at Voxus (the Bird Kingdom) two days before the party arrived, setting up a sleep-related system with Ravalli. He is connected to the Doctor. He has also mentioned wanting to free "him" — a second imprisoned entity distinct from Yomi. Also referred to as "Derv" / "Dervnumgis."
 - **Session history:**
-  - Session 1 — Nightmare Spell on party; offered his ship; was refused.
+  - Session 1 — Nightmare Spell on party; offered his ship; was refused; the party jumped off the railing instead.
+  - Session 11 — Referenced during palace infiltration; observed communicating via waterfall light projection; confirmed as Pmurt's collaborator; already departed north.
+  - Session 12 — His room in the palace investigated; neon merch sign pointed toward it. Gunge revealed Numgis is working with the nightmare that sealed Yomi; the unsealing mechanism is in the next town. The man at Ravalli's nest with wire glasses two days prior is almost certainly Numgis.
+  - Session 13 — Dex (palace chef) provided intelligence: Numgis was told in dreams to free Yomi; was building a dream-disciple network (Pmurt was #1); the Doctor spoke to Numgis. Numgis heading north toward Sypium. Also separately trying to free an unknown "him."
 
 #### [[The Butcher]] *(unnamed dissident)*
 - **First appeared:** Session 1
@@ -314,32 +319,14 @@ tags: [dnd, shattered-world, world-state, reference]
 
 ---
 
-#### [[King Mert]] *(The Island City — Ruler)*
-- **First appeared:** Session 11 (by prior reference; directly encountered Session 11)
-- **Role / Faction:** King of the island city; collaborator with Nungus and the Nightmare entities
-- **Attitude toward party:** Hostile
-- **Status:** ALIVE — escaped via contingency mechanic; wounded; partially castrated
-- **Key details:** An English-breakfast-obsessed king who rules the island city with fear and enforcement. Works in some capacity with Nungus, a self-proclaimed prophet of the Nightmare entities. His palace has a throne room with a chandelier and multiple waves of guards. During combat he summoned a phantasmal spectator as a Phase 2 move. He had a contingency mechanic prepared — when near death (triggered by tapping his shoulder), he teleported away. The party dealt approximately 250 total damage to him before he escaped. He is now alive, wounded, and furious. Mira partially castrated him with her pact sickle before he fully escaped. He has personal reasons to come after the party now.
-- **Session history:**
-  - Session 11 — First direct encounter; fought the party in the throne room; used Fear, summoned a spectator; escaped via contingency poof after ~250 damage and partial castration. Interrogated (Zone of Truth) immediately before escape.
-
-#### [[Nungus]] *(The Island City — Prophet of Nightmares)*
-- **First appeared:** Session 11 (by description / holographic projection)
-- **Role / Faction:** Self-proclaimed prophet of the Nightmare entities; paired with King Mert; has left the island city
-- **Attitude toward party:** Unknown — not directly encountered
-- **Status:** At large — "gone north" before the party arrived
-- **Key details:** A figure who presents himself as the prophet of the Nightmare/shadow entities and has been working alongside Mert to impose a regime of fear on the island city. He communicates via a waterfall-and-light projector system — the party observed him "Star Wars-ing it" (sending a holographic-style text/image through the waterfall). He had already departed north before the party infiltrated the palace. He holds the Nightmare entities as a source of authority. His exact nature, goals, and whereabouts north are unknown.
-- **Session history:**
-  - Session 11 — Referenced during palace infiltration; observed communicating via waterfall light projection; confirmed as Mert's collaborator; already departed north.
-
 #### [[Reverie]] *(The Island City — Resistance)*
 - **First appeared:** Session 11
-- **Role / Faction:** Member of the island city's underground resistance against Mert's regime
+- **Role / Faction:** Member of the island city's underground resistance against Pmurt's regime
 - **Attitude toward party:** Allied
 - **Status:** Active — in the island city
-- **Key details:** A member of the resistance movement operating inside the island city against King Mert's rule. Helped the party plan and execute the palace infiltration. Provided intel and support for the mission. The resistance is small but real — Mert's regime has been responding to any dissent with visible, brutal suppression (bodies on portcullises, prison building full of rebels).
+- **Key details:** A member of the resistance movement operating inside the island city against King Pmurt's rule. Helped the party plan and execute the palace infiltration. Provided intel and support for the mission. The resistance is small but real — Pmurt's regime has been responding to any dissent with visible, brutal suppression (bodies on portcullises, prison building full of rebels).
 - **Session history:**
-  - Session 11 — Facilitated the party's infiltration of the palace; allied with the party's mission to confront Mert.
+  - Session 11 — Facilitated the party's infiltration of the palace; allied with the party's mission to confront Pmurt.
 
 #### [[Portal Operator]] *(Town → Island City portal — gender-fluid, unnamed)*
 - **First appeared:** Session 11
@@ -352,21 +339,21 @@ tags: [dnd, shattered-world, world-state, reference]
 
 #### [[The Butcher (Island City)]] *(Island City portcullis — deceased)*
 - **First appeared:** Session 11 (dead)
-- **Role / Faction:** Unknown — treated as a rebel or dissenter by Mert's regime
+- **Role / Faction:** Unknown — treated as a rebel or dissenter by Pmurt's regime
 - **Attitude toward party:** N/A (deceased)
 - **Status:** Dead — body hanging from the portcullis
-- **Key details:** A body hanging from the island city's portcullis with a sign reading "Do Not Rebel." The display is deliberate — it is Mert's warning to the population. Inquisio's recon confirmed bodies on both portcullises. Whether this person was a butcher by trade or was labeled that way is unclear. This is distinct from the unnamed dissenter in Session 1 who approached Reficul.
+- **Key details:** A body hanging from the island city's portcullis with a sign reading "Do Not Rebel." The display is deliberate — it is Pmurt's warning to the population. Inquisio's recon confirmed bodies on both portcullises. Whether this person was a butcher by trade or was labeled that way is unclear. This is distinct from the unnamed dissenter in Session 1 who approached Reficul.
 - **Session history:**
   - Session 11 — Observed by Mira/Reficul on arrival at the island city portal entrance; also confirmed by Inquisio's invisible recon.
 
-#### [[The Chef]] *(King Mert's Palace — deceased)*
+#### [[The Chef]] *(King Pmurt's Palace — deceased)*
 - **First appeared:** Session 11 (encountered and killed)
-- **Role / Faction:** Palace chef / Mert's staff
+- **Role / Faction:** Palace chef / Pmurt's staff
 - **Attitude toward party:** Hostile (discovered the party)
 - **Status:** Dead — killed during palace infiltration
-- **Key details:** A palace chef who discovered the party during their stealth infiltration of Mert's palace. The chef's discovery triggered the transition from infiltration to open combat. The party dealt with him before the throne room confrontation with Mert. Whether the chef was a true loyalist or someone just doing a job is unestablished.
+- **Key details:** A palace chef who discovered the party during their stealth infiltration of Pmurt's palace. The chef's discovery triggered the transition from infiltration to open combat. The party dealt with him before the throne room confrontation with Pmurt. Whether the chef was a true loyalist or someone just doing a job is unestablished.
 - **Session history:**
-  - Session 11 — Discovered the infiltrating party in the palace; triggered combat that escalated to the King Mert fight.
+  - Session 11 — Discovered the infiltrating party in the palace; triggered combat that escalated to the King Pmurt fight.
 
 #### [[Velodorn Caravan]] *(X-salent gate — goods gooped)*
 - **First appeared:** Session 10
@@ -562,20 +549,20 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Session history:**
   - Session 10 — Mentioned as origin of the gooped caravan.
 
-#### [[The Island City]] *(Mert's Kingdom — offshore)*
+#### [[The Island City]] *(Pmurt's Kingdom — offshore)*
 - **First referenced:** Before Session 11; party arrived Session 11
-- **Description:** An island city ruled by King Mert, connected to the mainland by a portal system. The city has at least two portcullises (bodies hanging from both), a prison building, a palace with a throne room, and a market district where the party purchased supplies before the mission.
-- **Significance:** The primary location for Session 11. Mert rules here with the backing of Nungus (the Nightmare prophet) and uses visible brutality to suppress rebellion. The resistance is real but small. The party infiltrated the palace, fought Mert, and Mert escaped. The party is still in the throne room at session's end.
+- **Description:** An island city ruled by King Pmurt, connected to the mainland by a portal system. The city has at least two portcullises (bodies hanging from both), a prison building, a palace with a throne room, and a market district where the party purchased supplies before the mission.
+- **Significance:** The primary location for Session 11. Pmurt rules here with the backing of Numgis (the Nightmare prophet) and uses visible brutality to suppress rebellion. The resistance is real but small. The party infiltrated the palace, fought Pmurt, and Pmurt escaped. The party is still in the throne room at session's end.
 - **Status:** Party currently present (end of Session 11)
 - **Notable sub-locations:**
   - **The Portal** — connects to a mainland town; operates at limited hours; run by the gender-fluid portal operator
   - **The Market** — where the party bought supplies (George bought his war hammer here)
   - **The Prison Building** — holds mostly women, birds, and mermaids; observed by Inquisio during recon; a hub of the dissenter population
-  - **The Palace** — Mert's residence; multiple guard layers; kitchen (chef encounter); throne room (Mert fight)
-  - **Mert's Bedroom** — observed by Inquisio during recon; empty bed; Mert was not sleeping
-  - **The Throne Room** — site of the King Mert fight; has a chandelier with a lever; space for a large court; now emptied of ~20 guards by George's Thunder Wave
+  - **The Palace** — Pmurt's residence; multiple guard layers; kitchen (chef encounter); throne room (Pmurt fight)
+  - **Pmurt's Bedroom** — observed by Inquisio during recon; empty bed; Pmurt was not sleeping
+  - **The Throne Room** — site of the King Pmurt fight; has a chandelier with a lever; space for a large court; now emptied of ~20 guards by George's Thunder Wave
 - **Session history:**
-  - Session 11 — Party traveled here via portal; infiltrated the palace; fought King Mert; Mert escaped; party at session's end is standing in the throne room at level 6.
+  - Session 11 — Party traveled here via portal; infiltrated the palace; fought King Pmurt; Pmurt escaped; party at session's end is standing in the throne room at level 6.
 
 ## World Lore & Discoveries
 
@@ -752,27 +739,27 @@ tags: [dnd, shattered-world, world-state, reference]
 
 ---
 
-**The island city is ruled through fear and Nightmare-backed authority** — King Mert operates with the backing of Nungus, who presents himself as the prophet of the Nightmare entities (the shadow/psychic constructs encountered in earlier sessions). The regime enforces compliance by hanging dissenters from portcullises with "Do Not Rebel" signs and imprisoning rebels (mostly women, birds, and mermaids) in a dedicated prison building. A small resistance exists and made contact with the party. *(Session 11)*
+**The island city is ruled through fear and Nightmare-backed authority** — King Pmurt operates with the backing of Numgis, who presents himself as the prophet of the Nightmare entities (the shadow/psychic constructs encountered in earlier sessions). The regime enforces compliance by hanging dissenters from portcullises with "Do Not Rebel" signs and imprisoning rebels (mostly women, birds, and mermaids) in a dedicated prison building. A small resistance exists and made contact with the party. *(Session 11)*
 
-**Nungus has departed north** — Before the party arrived at the island city, Nungus ("the prophet") had already left, heading north for unknown reasons. His communication system — a waterfall-and-light projector that works like a holographic display ("Star Wars-ing it") — was still functional at the palace. His location and intentions are unknown. *(Session 11)*
+**Numgis has departed north** — Before the party arrived at the island city, Numgis ("the prophet") had already left, heading north for unknown reasons. His communication system — a waterfall-and-light projector that works like a holographic display ("Star Wars-ing it") — was still functional at the palace. His location and intentions are unknown. *(Session 11)*
 
-**King Mert had a contingency mechanic** — Earlier in the throne room fight, Mert tapped his shoulder — a gesture the party did not immediately recognize as significant. This was him activating a prepared contingency spell. When he was near death (after approximately 250 damage total and mid-castration), he teleported away. Mert is alive, badly wounded, and partially castrated. *(Session 11)*
+**King Pmurt had a contingency mechanic** — Earlier in the throne room fight, Pmurt tapped his shoulder — a gesture the party did not immediately recognize as significant. This was him activating a prepared contingency spell. When he was near death (after approximately 250 damage total and mid-castration), he teleported away. Pmurt is alive, badly wounded, and partially castrated. *(Session 11)*
 
-**Mira's pact weapon is a sickle** — During the King Mert fight, Mira's warlock pact weapon manifested as a sickle without her fully consciously calling it. She used it to partially castrate Mert before he escaped. She is an unknowing warlock — she does not understand what is happening to her or who her patron is. The patron's presence is undeniable at this point. The sickle is notable given that the last major sickle in the campaign was the "Castrator of the Sky" — now in Persephone's possession. Whether there is a connection is unresolved. *(Session 11)*
+**Mira's pact weapon is a sickle** — During the King Pmurt fight, Mira's warlock pact weapon manifested as a sickle without her fully consciously calling it. She used it to partially castrate Pmurt before he escaped. She is an unknowing warlock — she does not understand what is happening to her or who her patron is. The patron's presence is undeniable at this point. The sickle is notable given that the last major sickle in the campaign was the "Castrator of the Sky" — now in Persephone's possession. Whether there is a connection is unresolved. *(Session 11)*
 
-**The party dealt ~250 damage to King Mert** — The throne room fight accumulated: Searing Smite fire burns (Halcyra), Dissonant Whispers 32 damage (Reficul), Earth Tremor (George), English breakfast blinding (Inquisio), Starry Wisp killing the spectator (Reficul), Thunder Wave wiping 20 guards (George), and sustained melee damage. This is the highest single-encounter damage total the party has accumulated against a named target. *(Session 11)*
+**The party dealt ~250 damage to King Pmurt** — The throne room fight accumulated: Searing Smite fire burns (Halcyra), Dissonant Whispers 32 damage (Reficul), Earth Tremor (George), English breakfast blinding (Inquisio), Starry Wisp killing the spectator (Reficul), Thunder Wave wiping 20 guards (George), and sustained melee damage. This is the highest single-encounter damage total the party has accumulated against a named target. *(Session 11)*
 
-**George's Thunder Wave killed approximately 20 palace guards** — A single Thunder Wave cast wiped out a wave of guards that had been summoned into the throne room during the Mert fight. ~20 deaths in one action. This is the largest single-action kill count in the campaign to date and will likely have political consequences in the island city. *(Session 11)*
+**George's Thunder Wave killed approximately 20 palace guards** — A single Thunder Wave cast wiped out a wave of guards that had been summoned into the throne room during the Pmurt fight. ~20 deaths in one action. This is the largest single-action kill count in the campaign to date and will likely have political consequences in the island city. *(Session 11)*
 
-**Zone of Truth was used on Mert** — After the fight, Mira cast Zone of Truth. The interrogation yielded some information before Mert completed his escape. What was confirmed under the Zone of Truth is partially documented in Session 11 notes. *(Session 11)*
+**Zone of Truth was used on Pmurt** — After the fight, Mira cast Zone of Truth. The interrogation yielded some information before Pmurt completed his escape. What was confirmed under the Zone of Truth is partially documented in Session 11 notes. *(Session 11)*
 
-**Mira partially castrated King Mert** — In the throne room, after Zone of Truth, Mira used her pact sickle to partially castrate King Mert. He escaped before it was complete. He is alive and has personal, visceral reasons to pursue the party. This act was deliberate. *(Session 11)*
+**Mira partially castrated King Pmurt** — In the throne room, after Zone of Truth, Mira used her pact sickle to partially castrate King Pmurt. He escaped before it was complete. He is alive and has personal, visceral reasons to pursue the party. This act was deliberate. *(Session 11)*
 
 **Reficul's curse has now produced five transformations** — Bull shark (Session 2), very tall naked man/true form (Session 6), Oni (Session 8), kobold (Session 10), bullywug (Session 11). The bullywug form was active during the island city section of Session 11. Pattern of forms remains unclear. *(Session 11)*
 
 **The party leveled to 6** — All five characters are now level 6. New abilities not yet documented for any character. *(Session 11)*
 
-**The three cobalts quest item** — The party has one of three cobalts. The location of the other two and what all three together accomplish remains unknown. Mert or the Nightmare/Nungus connection may have information about the other cobalts. *(Referenced Session 11)*
+**The three cobalts quest item** — The party has one of three cobalts. The location of the other two and what all three together accomplish remains unknown. Pmurt or the Nightmare/Numgis connection may have information about the other cobalts. *(Referenced Session 11)*
 
 ## Unresolved Threads
 
@@ -837,23 +824,23 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Who put runes on the Velodorn wagons?** — The enchanters found runes from the ruins alphabet on the bottom of the wagons. Did the Velodorn merchants know? Were the runes placed before or after they camped in the woods? Did the runes cause the goop reaction at the gate? *(Opened: Session 10)*
 - **What is Velodorn?** — A city that appeared 5 months ago, at the same time the world broke. Its caravan goods were goop-marked. What is this city? Who built it? Is it connected to the ruins deity or the goop constructs? *(Opened: Session 10)*
 - **The goop construct maker** — Someone or something is deliberately building goop creatures. The construct in the cave was purpose-built to consume. The missing merchant saw something he wasn't supposed to. Is this connected to Velodorn? To the ruins deity? To the Nightmare King (player speculation)? *(Opened: Session 10)*
-- **King Mert is alive and coming for revenge** — He escaped via contingency poof after ~250 damage and partial castration. He is badly wounded but alive. He has now been publicly humiliated, physically mutilated, and his throne room has been destroyed (20 guards killed). He will not forget the party. Where does he go? Who does he contact? Does Nungus know what happened? *(Opened: Session 11)*
-- **Nungus is heading north — for what?** — Mert's collaborator and the self-proclaimed Nightmare prophet departed north before the party arrived. His destination and purpose are unknown. Is he gathering more Nightmare entities? Meeting with someone? Establishing a new seat of power? *(Opened: Session 11)*
-- **The island city resistance** — Reverie and the others who helped the party are still inside the city. Mert escaped but the party killed 20 guards and destroyed his throne room presence. What does this mean for the resistance? Is there a power vacuum? Who steps in? *(Opened: Session 11)*
-- **The prison building** — Inquisio's recon confirmed the prison holds mostly women, birds, and mermaids — the populations most threatened by Mert's regime. With Mert gone (for now), do they stay imprisoned? Does the party return to free them? *(Opened: Session 11)*
+- **King Pmurt is alive and coming for revenge** — He escaped via contingency poof after ~250 damage and partial castration. He is badly wounded but alive. He has now been publicly humiliated, physically mutilated, and his throne room has been destroyed (20 guards killed). He will not forget the party. Where does he go? Who does he contact? Does Numgis know what happened? *(Opened: Session 11)*
+- **Numgis is heading north — for what?** — Pmurt's collaborator and the self-proclaimed Nightmare prophet departed north before the party arrived. His destination and purpose are unknown. Is he gathering more Nightmare entities? Meeting with someone? Establishing a new seat of power? *(Opened: Session 11)*
+- **The island city resistance** — Reverie and the others who helped the party are still inside the city. Pmurt escaped but the party killed 20 guards and destroyed his throne room presence. What does this mean for the resistance? Is there a power vacuum? Who steps in? *(Opened: Session 11)*
+- **The prison building** — Inquisio's recon confirmed the prison holds mostly women, birds, and mermaids — the populations most threatened by Pmurt's regime. With Pmurt gone (for now), do they stay imprisoned? Does the party return to free them? *(Opened: Session 11)*
 - **Mira's pact weapon and patron** — The sickle manifested. Mira is an unknowing warlock. Her patron is present and active. Who or what is this entity? Why Mira? What does the patron want in return for the warlock abilities it has been extending to her? *(Opened: Session 11)*
-- **Zone of Truth results** — What exactly did Mert confirm or reveal under Zone of Truth before escaping? The full contents of the interrogation need to be played out. *(Opened: Session 11)*
-- **George's mass guard kill — consequences** — Thunder Wave wiped ~20 palace guards. This is a significant body count in a city with a small guard force. Does this create political fallout even if Mert is temporarily gone? Is there someone loyal to Mert who catalogues what happened? *(Opened: Session 11)*
-- **Three cobalts — the other two** — The party has one cobalt. Two remain. Where are they? What do all three together accomplish? Is Mert or Nungus connected to the other cobalts? *(Opened: referenced Session 11)*
-- **The Nightmare entities / Nungus's "prophecy"** — Nungus presents the shadow/goop/psychic constructs as divine — as entities whose prophet he is. What is his actual relationship to them? Is he serving them, manipulating them, or lying about the connection entirely? *(Opened: Session 11)*
+- **Zone of Truth results** — What exactly did Pmurt confirm or reveal under Zone of Truth before escaping? The full contents of the interrogation need to be played out. *(Opened: Session 11)*
+- **George's mass guard kill — consequences** — Thunder Wave wiped ~20 palace guards. This is a significant body count in a city with a small guard force. Does this create political fallout even if Pmurt is temporarily gone? Is there someone loyal to Pmurt who catalogues what happened? *(Opened: Session 11)*
+- **Three cobalts — the other two** — The party has one cobalt. Two remain. Where are they? What do all three together accomplish? Is Pmurt or Numgis connected to the other cobalts? *(Opened: referenced Session 11)*
+- **The Nightmare entities / Numgis's "prophecy"** — Numgis presents the shadow/goop/psychic constructs as divine — as entities whose prophet he is. What is his actual relationship to them? Is he serving them, manipulating them, or lying about the connection entirely? *(Opened: Session 11)*
 - **Level 6 abilities** — All characters are now level 6. New class features and spells not yet established for any of them. *(Opened: Session 11)*
-- **The God of Dreams is sealed by her own nightmare** — Gunge (shadow therapist at Voxus) revealed this in Session 12. The God of Dreams is female. She was sealed by her own shadow / nightmare. Nungus knows this and is actively working with that nightmare to unseal her — presumably on his own terms, in a way that benefits him. Unsealing her involves something in the next town the party is heading toward. *(Opened: Session 12)*
-- **Part of the unsealing is in the next town** — Gunge said this directly. He does not know if it requires destroying the town; his chief believes it does; Gunge does not agree. He will stall his chief. The party needs to reach the town before Nungus can use it. *(Opened: Session 12)*
+- **The God of Dreams is sealed by her own nightmare** — Gunge (shadow therapist at Voxus) revealed this in Session 12. The God of Dreams is female. She was sealed by her own shadow / nightmare. Numgis knows this and is actively working with that nightmare to unseal her — presumably on his own terms, in a way that benefits him. Unsealing her involves something in the next town the party is heading toward. *(Opened: Session 12)*
+- **Part of the unsealing is in the next town** — Gunge said this directly. He does not know if it requires destroying the town; his chief believes it does; Gunge does not agree. He will stall his chief. The party needs to reach the town before Numgis can use it. *(Opened: Session 12)*
 - **Mira's patron is a dragon** — In the shadow therapy dream, the patron manifested as a blue dragon with green veins. Grungrak was somehow part of it. The patron's origin: Mira's father sold his soul to save her when she was a child (shortly after her fifth birthday). The contract terms: *My soul for hers.* The dragon is the entity who held that contract. *(Opened / revealed: Session 12)*
 - **Mira's father's soul** — Signed away shortly after Mira's fifth birthday. The patron/dragon has held the contract ever since. What happened to her father? Is he alive? Is he in hell? Does the dragon hold him? *(Opened: Session 12)*
 - **The Liberators** — A Scarlet Pimpernel-style troupe deployed from another world via a book in a grand library on a mountain. Sent by a 7-foot jovial old man (same figure adjacent to X-salent's larger mysteries). They had already visited the Bird Kingdom and the island city before the party arrived. Elton is their spokesperson. Their third target is the fish. *(Opened: Session 12)*
 - **The prisoner Grant (shifting-eye farmer)** — A farmer from another world, merged in the Shattering. Described blue lightning, paper tearing across reality, the sound of a machine. His eyes shift from brilliant gold to silver. The arcana check confirmed this is a cast magical effect, not innate — meaning two entities (or a deity and a mortal) were layered together during the Shattering. He ran up the stairs after the party gave him the context. His location is unknown. *(Opened: Session 12)*
-- **Ravalli and the wire-glasses man** — Two days before the party arrived at Voxus, a man with wire glasses was at Ravalli's nest setting up a sleep-related system. Ravalli cooperated. The wire-glasses man is almost certainly Nungus. The "sleep" system is almost certainly connected to the God of Dreams unsealing. *(Opened: Session 12)*
+- **Ravalli and the wire-glasses man** — Two days before the party arrived at Voxus, a man with wire glasses was at Ravalli's nest setting up a sleep-related system. Ravalli cooperated. The wire-glasses man is almost certainly Numgis. The "sleep" system is almost certainly connected to the God of Dreams unsealing. *(Opened: Session 12)*
 - **Gunge / Gundrak** — Shadow therapist at or near Voxus. Knows about the God of Dreams situation. Has duties at Voxus and is constrained by his chief's agenda. He is trying to stall. He is an ally if the party can move fast enough. *(Opened: Session 12)*
 - **Inquizo's shadow is suppressed, not resolved** — The Warden Brother told him on the way out: *You can't let this hold you down forever. You can't let me be gone forever.* The sister thread was touched. The shadow is waiting. *(Opened: Session 12)*
 - **Halcyra's mother confrontation (unresolved)** — Her mother said she had something related to Halcyra's father to give her, and asked for one more minute. Halcyra left before receiving it. The item — whatever it was — is still in her mother's hands (dreamworld or real). *(Opened: Session 12)*

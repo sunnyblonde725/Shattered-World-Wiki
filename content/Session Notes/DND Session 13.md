@@ -16,13 +16,13 @@ tags: [dnd, shattered-world, session-notes, session-13]
 **Duration:** ~3h 52m (transcript timestamps 00:00–03:52)
 **Party level:** 6
 **Starting location:** Voxus (Gunge's couch, post-therapy)
-**Ending location:** Airborne — Mert's airship heading north toward Sypium/Scipium
+**Ending location:** Airborne — Pmurt's airship heading north toward Sypium/Scipium
 
 ---
 
 ## Summary
 
-The party woke from the aftermath of the shadow therapy sequence, still raw from Session 12. They visited Gunge's chief to discuss the threat to the dream-god town. Then they took Mert's airship, stopped at the former Mert kingdom (island city) where they discovered a political power vacuum and witnessed the townspeople executing their former guards. Reficul stayed behind to help the people settle. The party took the Thorin statue, found a hidden entity named Starglass inside the ship, and are now flying north toward Sypium.
+The party woke from the aftermath of the shadow therapy sequence, still raw from Session 12. They visited Gunge's chief to discuss the threat to the dream-god town. Then they took Pmurt's airship, stopped at the former Pmurt kingdom (island city) where they discovered a political power vacuum and witnessed the townspeople executing their former guards. Reficul stayed behind to help the people settle. The party took the Thorin statue, found a hidden entity named Starglass inside the ship, and are now flying north toward Sypium.
 
 ---
 
@@ -30,14 +30,14 @@ The party woke from the aftermath of the shadow therapy sequence, still raw from
 
 ### Scene 1 — Waking at Gunge's / The Chief Meeting (early session)
 
-The party woke on Gunge's couch in Voxus. They had a meeting with Gunge's chief, who is a large, powerful kenku figure. The chief confirmed knowledge of the dream-town situation and Nungus's movements. Key information from the chief meeting:
+The party woke on Gunge's couch in Voxus. They had a meeting with Gunge's chief, who is a large, powerful kenku figure. The chief confirmed knowledge of the dream-town situation and Numgis's movements. Key information from the chief meeting:
 
 - The party learned that kenku (the bird people of Voxus) historically sacrificed their voices — they gave their voices to a god, which is why classical kenku cannot speak original words and can only mimic. Gunge and the chief can speak because this is a post-Shattering world with mixed rules.
-- The **Thorin statue** (the god-statue from the former Mert island city) glowed and showed a vision when the party interacted with it in Voxus. Specifically, it showed a figure of a wind god — **Valu** (also referred to as Aeolus in one line) — who manifested briefly and spoke to the party.
-- **Valu/the wind god** gave the party a sending stone each (one for Gunge, distributed to party members). He was described as flighty, ADHD-ish, brief and hard to pin down. His interaction confirmed the statues are connected to sealed/freed gods.
-- **Ravalli** (the eagle king) was revealed to be Gunge's chief, or at minimum Gunge's highest authority. The chief acknowledged Nungus had been at the nest "two days ago setting up a sleep system."
-- The chief mentioned a **"land of machinery"** to the north — this appears to be connected to where Nungus is headed.
-- Party received **sending stones** — one for each member, plus one for Gunge.
+- The **Valu statue** (the god-statue from the former Pmurt island city) glowed and showed a vision when the party interacted with it in Voxus. Specifically, it showed a figure of a wind god — **Valu** (also referred to as Aeolus in one line) — who manifested briefly and spoke to the party.
+- **Valu/the wind god** gave **Mira and Gunge** sending stones. He was described as flighty, ADHD-ish, brief and hard to pin down. His interaction confirmed the statues are connected to sealed/freed gods.
+- **Ravalli** (the eagle king) was revealed to be Gunge's chief, or at minimum Gunge's highest authority. The chief acknowledged Numgis had been at the nest "two days ago setting up a sleep system."
+- The chief mentioned a **"land of machinery"** to the north — this appears to be connected to where Numgis is headed.
+- **Mira and Gunge** received **sending stones** from Valu.
 
 ### Scene 2 — Halcyra's Dream Sequence
 
@@ -48,9 +48,9 @@ Before or during the waking period, Halcyra experienced a dream/vision (narrated
 - The dream reinforced that Halcyra is Apollo's daughter, still unaware of this fact
 - Halcyra left the dream before her mother could finish — the item in her mother's hands remains unknown
 
-### Scene 3 — Nungus Dream Overheard
+### Scene 3 — Numgis Dream Overheard
 
-During the early session, Mira (or the party) eavesdropped on Nungus through a dream-connection or heard accounts from Gunge. Key line confirmed: *"I need ways to free him."* This is distinct from freeing Yomi — someone else is imprisoned, and Nungus is working toward that goal as well.
+During the early session, Mira (or the party) eavesdropped on Numgis through a dream-connection or heard accounts from Gunge. Key line confirmed: *"I need ways to free him."* This is distinct from freeing Yomi — someone else is imprisoned, and Numgis is working toward that goal as well.
 
 ### Scene 4 — Alias Beached
 
@@ -58,17 +58,17 @@ The party learned (via dream or sending stone or vision — confirmed OOC by Ian
 
 ### Scene 5 — Departing Voxus / Airship Travel to the Island City
 
-The party departed Voxus on **Mert's airship** (commandeered at the end of Session 11). They flew south/to the former island city — the kingdom of King Mert — to check on the Thorin statue there and see the aftermath of Mert's defeat.
+The party departed Voxus on **Pmurt's airship** (commandeered at the end of Session 11). They flew south/to the former island city — the kingdom of King Pmurt — to check on the Thorin statue there and see the aftermath of Pmurt's defeat.
 
 ### Scene 6 — The Island City: Reign of Terror
 
-Upon arriving at the former Mert kingdom, the party discovered the people had staged a full uprising:
+Upon arriving at the former Pmurt kingdom, the party discovered the people had staged a full uprising:
 - Former prisoners (women, birds, mermaids) were now in control
 - The former palace guards and soldiers were in the cells
 - A man named **Naamon** had taken power — pompously dressed, ornamental headpiece, giving speeches from a platform built overnight, crude banners of the five party members hung as icons of the revolution
 - The townspeople were executing former guards and officials — some in a public arena (those who survived killed each other to get fed), some directly
 - The farmer who first spoke to the party explained: the guards who mistreated people were being systematically eliminated; only the "big wigs" faced public execution, most others were thrown into an arena
-- **Reficul** walked up to the platform, was recognized, was handed an axe and asked to perform the Reconciliation (execute the chef from the Mert fight, Dex, who had been mistakenly captured)
+- **Reficul** walked up to the platform, was recognized, was handed an axe and asked to perform the Reconciliation (execute the chef from the Pmurt fight, Dex, who had been mistakenly captured)
 - Reficul gave a long speech to the crowd about death, life, and punishment. He declared death is freedom — that the true punishment is making people live with their crimes and suffer. He then **threw the axe** into the crowd and split someone in half after they shouted "Get his wife and kids!" — killing them as an example
 - The crowd fled. Naamon confronted Reficul. Reficul **punched Naamon off the platform** — Mira caught him, but he died from the punch (he was just a normal man)
 - **Mira** confronted Reficul: "This is not the first time I have witnessed you kill someone because you were angry."
@@ -76,14 +76,14 @@ Upon arriving at the former Mert kingdom, the party discovered the people had st
 
 ### Scene 7 — The Chef: Dex
 
-**Dex** (the young chef from Session 11, aged 19, who had worked in Mert's palace since age 14) was the bound prisoner on the execution platform. **Mira** (while invisible — she cast Invisibility and used a floating rope to communicate) freed him and spoke to him. Dex revealed:
+**Dex** (the young chef from Session 11, aged 19, who had worked in Pmurt's palace since age 14) was the bound prisoner on the execution platform. **Mira** (while invisible — she cast Invisibility and used a floating rope to communicate) freed him and spoke to him. Dex revealed:
 
-- He had hidden in the palace during the attack, was found by the townspeople and mistakenly identified as one of Mert's people
+- He had hidden in the palace during the attack, was found by the townspeople and mistakenly identified as one of Pmurt's people
 - A childhood friend was among those who grabbed him
-- He had overheard Nungus having vivid dreams, being communicated to in those dreams — told he needed to **free Yomi**, that Yomi was trapped and her prison needed to be broken
-- Nungus was setting up a **"network of disciples of dreams"** across the fractured globe — Mert was the first disciple
-- Nungus was **not** necessarily claiming these disciples were on his side — the network was about "imbuing the power of dreams across this fractured globe," not allegiance
-- Dex had cooked breakfast for Mert and Nungus and heard much of their conversations
+- He had overheard Numgis having vivid dreams, being communicated to in those dreams — told he needed to **free Yomi**, that Yomi was trapped and her prison needed to be broken
+- Numgis was setting up a **"network of disciples of dreams"** across the fractured globe — Pmurt was the first disciple
+- Numgis was **not** necessarily claiming these disciples were on his side — the network was about "imbuing the power of dreams across this fractured globe," not allegiance
+- Dex had cooked breakfast for Pmurt and Numgis and heard much of their conversations
 - He asked the party what they were doing here; Mira gave a full honest account
 
 Dex agreed to join the party on the airship. He was given the captain's quarters to rest. He mentioned having **recurring nightmares** that feel very real and are making it hard to sleep. Mira questioned him about them — his description fits the pattern of someone accidentally touching the dream realm post-Shattering. He confirmed once being in a tavern he'd never seen before the night of a major event — Mira told him this means he'd visited the God of Dreams' realm in his sleep.
@@ -111,7 +111,7 @@ Dex agreed to join the party on the airship. He was given the captain's quarters
 ### Scene 10 — Calling Gunge / Sending Stone
 
 Mira used the sending stone to contact Gunge and ask him to:
-1. Visit the former Mert island city and help the people resettle alongside Reficul
+1. Visit the former Pmurt island city and help the people resettle alongside Reficul
 2. Keep an eye on the Thorin statue and report anything that happens
 3. Come to Sypium (where the party is headed) if he can
 
@@ -124,9 +124,9 @@ While the party was in the island city, Halcyra returned to the airship and foun
 ### Scene 12 — Airship Exploration / Inquizo Commandeers the Ship
 
 On the airship:
-- Inquizo found **Mert's crown** ("My special crown" labeled on it) — a very tall red velvet crown, about as tall as Inquizo himself
-- Inquizo activated the ship's **hologram navigation AI** by bumping the push-to-start button while wearing the crown — the AI greeted "King Mert" and commented on the nice crown
-- Inquizo mimicked Mert's voice and told the AI to go to **Sypium** — the ship began flying north
+- Inquizo found **Pmurt's crown** ("My special crown" labeled on it) — a very tall red velvet crown, about as tall as Inquizo himself
+- Inquizo activated the ship's **hologram navigation AI** by bumping the push-to-start button while wearing the crown — the AI greeted "King Pmurt" and commented on the nice crown
+- Inquizo mimicked Pmurt's voice and told the AI to go to **Sypium** — the ship began flying north
 - Mira spent extensive time in the **server room** (steampunk-style computer servers/machinery) and failed to understand any of it
 - George found an **empty nameplate** at the front of the ship that read **"Starglass"** when the lever was partially pulled
 - George pulled the lever fully, which opened a compartment revealing: faces with paperclipped dossiers, and a detailed **map** showing Sypium located past several islands near mountains — the ship's mission map
@@ -148,20 +148,20 @@ What the party learned from Starglass:
 - She is **"a piece of her mother's heart"** — a construct/daughter of an entity named **Malafera** (different from any previously mentioned "mother")
 - Her mother was threatened — a **doctor** arrived with men, talked to her mother, then there was fighting; the mother ran and Starglass couldn't keep up; she was left behind
 - The **doctor** (who modified Starglass into her current form by putting pipes into her chest to let her breathe for the ship) was **a different man underneath his skin** — possibly a shapeshifter or possessed
-- The doctor traded the ship to **Mert** (Mert gave the doctor his crown; the doctor gave Mert the ship — with Starglass inside as part of the deal, called "the ship")
-- The doctor spoke to **Derv** (Derv = Dervnungus/Nungus) — the doctor and Nungus are connected
+- The doctor traded the ship to **Pmurt** (Pmurt gave the doctor his crown; the doctor gave Pmurt the ship — with Starglass inside as part of the deal, called "the ship")
+- The doctor spoke to **Derv** (Derv = Dervnungus/Numgis) — the doctor and Numgis are connected
 - The danger Starglass is on this ship to fight is **north** — she pointed north when asked
 - She has a **brother** named **Haki** who was last seen leaving with a **prophetess** — a small girl clad in all white who glows — to go protect her; he heard a loud voice "carried on the wind" telling them to fight back, and he was ready
 - The **runes on Starglass's body** are her mother's language — hello and goodbye to the constructs of her mother; the same rune alphabet the party saw in the abandoned town murals (circles, clouds) and in the ruins-alphabet writing from Sessions 8–10
 - Starglass's mother was **"taught a long time ago"** — she said the word "life" as the final piece of what the runes mean
 - Starglass presses her own button and the glass case closes again — she breathes for the ship and will help them get to Sypium; she asks that the stay be as short as possible
-- She warned: "He will hurt you" regarding the doctor/Nungus; "Don't." (She couldn't feel pain anymore)
+- She warned: "He will hurt you" regarding the doctor/Numgis; "Don't." (She couldn't feel pain anymore)
 
 ### Scene 15 — Second Glass Case / Tapestry
 
 Halcyra tripped on a tapestry in the cargo hold. The tapestry showed: a sun with rays, wings, people meeting a flock of sheep (George recognized this imagery). Underneath the tapestry: another glass case, foggy and hazy, with faint blue glowing inside — already fading. The party decided not to open it while airborne. They will investigate when docked.
 
-### Scene 16 — The Dossiers / Mert's Papers
+### Scene 16 — The Dossiers / Pmurt's Papers
 
 George looked through the dossier papers from the compartment. He found:
 - A dossier about **Starglass** with her image — described as "before she was beautiful" (the text was written from the doctor's colonial, objectifying point of view)
@@ -191,10 +191,10 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 | **Gunge's Chief / Ravalli** | Alive — Voxus | Confirmed as the chief; agreed to help the island city people |
 | **Valu / Aeolus (Wind God)** | Briefly manifested | Gave out sending stones; flighty personality; connected to the Thorin statue |
 | **Naamon** | Dead | The man who took power in the island city; punched to death by Reficul |
-| **Dex** | Alive — on airship | 19-year-old chef; overheard Nungus's dreams; has recurring nightmares |
+| **Dex** | Alive — on airship | 19-year-old chef; overheard Numgis's dreams; has recurring nightmares |
 | **Starglass** | Alive — in ship | Cyberpunk-adjacent construct; her mother is Malafera; brother is Haki |
 | **Haki** | Whereabouts unknown | Starglass's brother; last seen protecting a glowing prophetess heading into danger north |
-| **The Doctor** | Unknown | Modified Starglass; spoke to Nungus; traded ship to Mert; possibly a shapeshifter; described as "a different man underneath his skin" |
+| **The Doctor** | Unknown | Modified Starglass; spoke to Numgis; traded ship to Pmurt; possibly a shapeshifter; described as "a different man underneath his skin" |
 | **Malafera** | Unknown | Starglass's mother; she and her "sister" were visited by the doctor; something happened to her |
 | **Alias** | Beached, wounded | Fighting something on/near her ship; in danger |
 | **Reficul** | Staying in island city | Left the party voluntarily to help the people settle |
@@ -206,7 +206,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 | Item | Who Has It | Notes |
 |---|---|---|
 | **Sending Stones** | Each party member + Gunge | Given by Valu; allow long-distance communication |
-| **Mert's Crown** | Inquizo | "My special crown"; tall red velvet; tricks the ship AI |
+| **Pmurt's Crown** | Inquizo | "My special crown"; tall red velvet; tricks the ship AI |
 | **Thorin Statue** | On the airship | Shed one tear; needs to go to its people to release the god |
 | **Skull Mask** | Inquizo | Found in the ship's cargo; metal skull-face mask; labeled "dr.l" |
 | **Dossier Papers** | Party — George found | Ship records; include info on Starglass, cave population, Sypium |
@@ -218,12 +218,12 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 
 - **Kenku voice sacrifice**: Kenku classically gave their voices to a god — that is the in-world explanation for why kenku can only mimic. The Voxus kenku (Gunge, the chief) can speak because post-Shattering rules are different.
 - **Valu / Wind God**: A god connected to the Thorin statue. Flighty, ADHD-ish, briefly manifest. His existence as a named god is new.
-- **The Dream Network**: Nungus's actual project is a global network of "disciples of dreams" — not an army of loyal followers, but a spreading of dream-power across the shattered world. Mert was disciple #1. This network may be what the party keeps encountering.
-- **Yomi / God of Dreams**: Nungus was told in his own dreams that he needs to free Yomi, who is trapped in/under something. This is what the party had suspected.
+- **The Dream Network**: Numgis's actual project is a global network of "disciples of dreams" — not an army of loyal followers, but a spreading of dream-power across the shattered world. Pmurt was disciple #1. This network may be what the party keeps encountering.
+- **Yomi / God of Dreams**: Numgis was told in his own dreams that he needs to free Yomi, who is trapped in/under something. This is what the party had suspected.
 - **The Rune Alphabet = Malafera's language**: The circles-and-clouds rune writing the party has seen since Session 8 is the language of Starglass's mother Malafera. It means "hello" and "goodbye" to her constructs — and the last word she taught was "life."
-- **The Doctor**: An unknown figure who created Starglass's current form, traded her to Mert, and was in contact with Nungus. He appeared to shift identities mid-interaction ("a different man underneath his skin"). His dossier handwriting shifts into the rune alphabet — suggesting he and Malafera are connected, or he was possessed by something connected to her.
+- **The Doctor**: An unknown figure who created Starglass's current form, traded her to Pmurt, and was in contact with Numgis. He appeared to shift identities mid-interaction ("a different man underneath his skin"). His dossier handwriting shifts into the rune alphabet — suggesting he and Malafera are connected, or he was possessed by something connected to her.
 - **The glowing prophetess**: A small girl clad in all white who glows. She is being protected by Haki (Starglass's brother) heading north. She is implied to be extremely important and widely known, though "they never told me her name."
-- **Sypium**: The city to the north that was Mert's original destination. The doctor's dossier suggests extreme hostility toward it. It has a cave culture and is near mountains.
+- **Sypium**: The city to the north that was Pmurt's original destination. The doctor's dossier suggests extreme hostility toward it. It has a cave culture and is near mountains.
 
 ---
 
@@ -232,7 +232,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 - Who is the second entity in the second glass case on the airship?
 - What is Alias fighting? Is she okay?
 - Who is the glowing prophetess Haki is protecting?
-- Who is "he" that Nungus wants to free (distinct from Yomi)?
+- Who is "he" that Numgis wants to free (distinct from Yomi)?
 - What happened to Malafera?
 - What is the Sypium cave civilization, and why does the doctor want to destroy them?
 - What is Starglass's full nature and can she be freed from the ship?
@@ -248,7 +248,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 | Halcyra | On airship; discovered George practicing the Ballad of Mira; found the second glass case by tripping on the tapestry |
 | George | On airship; found the nameplate/map; gave Starglass a hug; embarrassed about the song |
 | Reficul | Staying behind in island city — separated from party |
-| Inquizo | On airship; commandeered the ship using Mert's voice impression; found the crown and skull mask |
-| Mira | Used Invisibility and floating rope to free Dex; interviewed him about Nungus; investigated Thorin statue (Investigation 15, material sample, observed single tear); suggested bringing the statue; visited the prison; contacted Gunge via sending stone; triggered ship reboot; found Starglass in cargo hold; confronted Reficul; reading the prophecy; baffled by server room |
+| Inquizo | On airship; commandeered the ship using Pmurt's voice impression; found the crown and skull mask |
+| Mira | Used Invisibility and floating rope to free Dex; interviewed him about Numgis; investigated Thorin statue (Investigation 15, material sample, observed single tear); suggested bringing the statue; visited the prison; contacted Gunge via sending stone; triggered ship reboot; found Starglass in cargo hold; confronted Reficul; reading the prophecy; baffled by server room |
 | Dex | On airship; sleeping in captain's quarters; having nightmares |
 | Starglass | In glass case in cargo hold; breathing for the ship |

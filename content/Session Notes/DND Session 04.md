@@ -284,7 +284,7 @@ Rising from the blood was "a silhouette of half of an angel" — an entity that 
 
 - Grungrak picking up "the curly-tailed bug figurine" to represent himself at combat start. "You know what? With bloodlust, this is a hundred percent Grungrak right now."
 - Inquizo's invisible spell: crit failed — just his arm disappeared. DM narrated everyone watching his arm sticking out in mid-air while Inquizo announced "I didn't expect this!"
-- The DM pulling out a duck figurine for "King Mert." "It's Moby Duck."
+- The DM pulling out a duck figurine for "King Pmurt." "It's Moby Duck."
 - Someone's figurine was a triceratops. It became Halcyra.
 - Post-session: players making lemon bars and trying to remove a wire-wheel splinter from someone's foot using increasingly creative tools, including an oscillating saw.
 

@@ -52,10 +52,10 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Heroism** (Session 10 — touch spell cast on Halcyra; immune to frightened + temp HP at start of each turn)
 - **Song of Healing** (Session 10 — healed both Halcyra and Inquisio for 9 HP each; gave Bardic Inspiration to Halcyra)
 - **War hammer purchase** (Session 11, pre-session — bought a war hammer at the market before the palace mission; finally has a real weapon again, though it is not his original hammer)
-- **Fear (failed save)** (Session 11 — Mert cast Fear on the party; George failed the save and ran out of the throne room)
-- **Earth Tremor** (Session 11 — used during King Mert fight; contributed to the overall assault)
+- **Fear (failed save)** (Session 11 — Pmurt cast Fear on the party; George failed the save and ran out of the throne room)
+- **Earth Tremor** (Session 11 — used during King Pmurt fight; contributed to the overall assault)
 - **Thunder Wave x2** (Session 11 — George used Thunder Wave twice in the palace; the second cast killed approximately 20 of the palace guards who had been summoned during combat; massive AOE guard wipe)
-- **Mass Healing Word** (Session 11 — used to keep the party standing during the King Mert fight)
+- **Mass Healing Word** (Session 11 — used to keep the party standing during the King Pmurt fight)
 
 ### Current Known Inventory
 - ~~**Smithing hammer**~~ — **REPLACED (Session 11).** Bought a proper war hammer before the palace mission. No longer using the stand-in.
@@ -93,7 +93,7 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Speech to Refisul (Session 9)** — after the party fled the Victorian manor, Grungrack gave Refisul a sincere, emotionally earnest speech about believing in him and deserving second chances, using Refisul's own words back at him. One of his strongest character moments.
 - **Session 10 card game reveal** — described the original Grungrak as his best friend: *"He found me when I first came to the guild. Decided we were gonna be best friends, just by my attempts not to be. And now it's in our river."* He knows who Grungrak was. He grieves it quietly.
 - **Saw the lightning and the dragon in the Lethe** (Session 7) — the lightning and the dragon from the start of the campaign played out in his vision during the Lethe sequence.
-- **Session 11 — Palace infiltration group / Town group** — George was with the palace group (Halcyra, Inquisio). He used Thunder Wave twice; the second one wiped ~20 guards in a single cast. He failed the Fear save and fled briefly. He used Mass Healing Word to keep the party up. Mert escaped before the fight ended. Level up to 6 at session end.
+- **Session 11 — Palace infiltration group / Town group** — George was with the palace group (Halcyra, Inquisio). He used Thunder Wave twice; the second one wiped ~20 guards in a single cast. He failed the Fear save and fled briefly. He used Mass Healing Word to keep the party up. Pmurt escaped before the fight ended. Level up to 6 at session end.
 - **Thunder Wave mass kill (Session 11)** — the guard wipe via Thunder Wave is now the largest single-action kill count George has achieved. The DM confirmed approximately 20 guards died. This is almost certainly going to have political consequences in the island city.
 - **Session 12 — The dragon and Grungrak** — Inside Mira's shadow therapy dragon, the real Grungrak was present. He was ethereal, then became physical for a moment when Mira severed the cord. He embraced her and said: *"Thank you for letting me be me."* Then faded. George woke up smiling through tears. He received the two-sided necklace as his item — olive branch / music symbol, tranquility or courage.
 - **Grungrak is inside the dragon** — Cooper confirmed: when Mira's shadow became a blue dragon with green veins, Grungrak was part of it. The exact nature of this — whether it is about his death, his soul, or his connection to Mira's patron — is not yet clear. But he was present enough to become physical when Mira cut the cord.

@@ -58,7 +58,7 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - **Divine Sense** (Session 10 — determined the cave creature is NOT a celestial, fiend, or undead; this was the most critical combat intel of the fight)
 - **Light cantrip** (Session 10 — cast on a torch to create 20-foot bright light; creature reacted badly)
 - **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquisio; partially expelled goop from bite wounds; dark shadow marks remained)
-- **Searing Smite** (Session 11 — during the King Mert throne room fight; lit Mert on fire after a hit; fire damage persisted each turn with a Constitution save to extinguish)
+- **Searing Smite** (Session 11 — during the King Pmurt throne room fight; lit Pmurt on fire after a hit; fire damage persisted each turn with a Constitution save to extinguish)
 - **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquisio who pulled the lever to drop it)
 
 ### Current Known Inventory
@@ -67,7 +67,7 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - *(Character sheet upload will fill this in further)*
 
 ### Session 11 Update
-Halcyra fought in the King Mert throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Mert on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Mert and the phantasmal spectator summoned in Phase 2. She coordinated with Inquisio on the chandelier tactic. Mert escaped via contingency poof before the fight could conclude. After Mert fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
+Halcyra fought in the King Pmurt throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Pmurt on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Pmurt and the phantasmal spectator summoned in Phase 2. She coordinated with Inquisio on the chandelier tactic. Pmurt escaped via contingency poof before the fight could conclude. After Pmurt fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
 
 ### Prophecy Connections
 Multiple stanzas speak directly to Halcyra:
@@ -91,7 +91,7 @@ Multiple stanzas speak directly to Halcyra:
 - **YOMI letters glowed (Session 9)** — while Halqira prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached. Calm Emotions failed during this scene.
 - **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
 - **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
-- **Mert escaped** — she was in the throne room fight when he poofed away. She knows Mert is alive, wounded, and still at large. How does the party proceed from the island city?
+- **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large. How does the party proceed from the island city?
 - **Shadow name: The Crown of Golden Lies (Session 12)** — her shadow self was the older Halcyra who challenged her about hiding her wings, obeying her mother, and following rules that kept her from being herself.
 - **Bow of Dusk received (Session 12)** — given by the old man who helped her take her paladin oath. A +2 longbow that deals radiant damage only (no piercing). Currently the dusk version — the dawn version is what she'll become. *"You just gotta get through the night first."*
 - **Confronted her mother (Session 12)** — in the dream, her mother switched faces with her older shadow-self and screamed "Why have you left me?!" Halcyra flew toward a booming, familiar, kind voice calling from the sky — Apollo's voice calling her name and saying "The worlds are at stake." She went to her mother, whispered "I promise I do love you," and walked out the door toward the voice.
@@ -116,7 +116,7 @@ On the airship, Halcyra discovered George alone, quietly practicing the Ballad o
 - **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached.
 - **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
 - **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
-- **Mert escaped** — she was in the throne room fight when he poofed away. She knows Mert is alive, wounded, and still at large.
+- **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large.
 - **The Bow of Dusk** — she has the dusk version. The dawn version exists and is what she could become. Getting there requires growing through something.
 - **Mother confrontation (Session 12)** — her mother begged her to stay. She left anyway. Her mother said there was something related to her father she wanted to give her. Whether Halcyra will go back, or whether the item appears another way, is unresolved.
 - **Second glass case on the airship (Session 13)** — she found it under a tapestry showing sun, rays, wings, and sheep. Foggy inside, faint blue glow fading. Not opened yet. The tapestry's imagery is Apollo-adjacent.
