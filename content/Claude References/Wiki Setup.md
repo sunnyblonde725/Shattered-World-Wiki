@@ -16,7 +16,7 @@ Hosted on Netlify. Pulls from GitHub. Currently public (no password) — only pe
 
 **Repo:** https://github.com/sunnyblonde725/Shattered-World-Wiki.git
 **Branch:** v4
-**Personal Access Token:** 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
+**Personal Access Token:** *(stored locally — do not write here)*
 *(Expires ~March 2027 — regenerate at GitHub → Settings → Developer settings → Personal access tokens)*
 
 ---
