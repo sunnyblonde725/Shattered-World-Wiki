@@ -44,7 +44,7 @@ title: A Shattered World
 > [!question] Explore the Connection Map
 > Every character, location, and NPC in this wiki is linked together. The graph view lets you see those connections visually — click any node to jump to that page, and watch how everything ties back to everything else.
 >
-> [Open the Graph →](/graph)
+> [Open the Graph →](https://shattered-world-wiki.netlify.app/graph)
 
 ---
 
