@@ -19,6 +19,8 @@ title: A Shattered World
 
 > [!info] Currently
 > The party is aboard an airship, heading toward Sypium — four members strong, carrying more questions than answers, and a piece of Starglass that may change everything.
+>
+> [[Status Board|→ Full Status Board]]
 
 ---
 
@@ -38,6 +40,32 @@ title: A Shattered World
 >
 > - [[World State|World State]]
 > - [[Campaign Narrative|Campaign Narrative]]
+
+---
+
+> [!example] NPCs
+> Everyone the party has met — allies, enemies, and everyone in between.
+>
+> - [[NPCs/King-Pmurt|King Pmurt]]
+> - [[NPCs/Durf-Numgis|Durf Numgis]]
+> - [[NPCs/Arcus|Arcus]]
+> - [[NPCs/Lorya|Lorya]]
+> - [[NPCs/Starglass|Starglass]]
+> - [[NPCs/Dex|Dex]]
+> - [[NPCs/Penopolis|Penopolis]]
+> - [[NPCs/Minor-NPCs|All Minor NPCs →]]
+
+---
+
+> [!tip] Locations
+> Every place the party has been — and a few they haven't yet.
+>
+> - [[Locations/X-salent|X-salent]]
+> - [[Locations/The-Island-City|The Island City]]
+> - [[Locations/Voxus|Voxus]]
+> - [[Locations/Sypium|Sypium]]
+> - [[Locations/Pmurts-Airship-Starglass|Pmurt's Airship — Starglass]]
+> - [[Locations/Minor-Locations|All Locations →]]
 
 ---
 
