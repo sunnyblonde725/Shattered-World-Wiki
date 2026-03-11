@@ -66,6 +66,120 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Two-sided necklace** (Session 12) — spins; one side shows an olive branch (Necklace of Tranquility), the other a foray music symbol (Power of Courage); George holds the deal and can choose which face to use
 - *(Character sheet upload will fill this in further)*
 
+## Character Sheet Stats
+
+> *Extracted from physical character sheet. Level 6 as of Session 13.*
+
+**Full Name:** Grungrak (goes by George)
+**Class:** Bard 6
+**Species:** Dwarf
+**Background:** [not clearly written on sheet]
+**Size:** Medium
+**Speed:** 25 ft
+**Proficiency Bonus:** +3
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR | 17 | +3 |
+| DEX | 14 | +2 |
+| CON | 16 | +3 |
+| INT | 10 | +0 |
+| WIS | 15 | +2 |
+| CHA | 20 | +5 |
+
+### Defenses
+
+- **Armor Class:** 12
+- **Hit Points:** 54 current / 63 max | Hit Dice: d8
+- **Passive Perception:** 10
+- **Initiative:** -2 [illegible — possibly +2]
+
+### Saving Throws *(proficient)*
+
+- DEX (proficient — marked)
+- CHA (proficient — marked)
+
+### Skills *(proficient)*
+
+- Acrobatics (DEX — marked)
+- Performance (CHA — marked)
+- *(Other proficiencies not clearly marked on sheet)*
+
+### Spellcasting
+
+- **Spellcasting Ability:** Charisma (modifier +5)
+- **Spell Save DC:** [not filled on sheet]
+- **Spell Attack Bonus:** [not filled on sheet]
+
+**Spell Slots:** *(spellcasting stats section blank on back sheet — standard Bard 6 slots apply: L1×4, L2×3, L3×3)*
+
+**Spells Known (from back sheet):**
+
+| Level | Spell | Notes |
+|-------|-------|-------|
+| C | Prestidigitation | |
+| C | Vicious Mockery | |
+| C | Thunderclap | |
+| 1 | Healing Word | |
+| 1 | Thunderwave | |
+| 1 | [illegible] | |
+| 1 | Charm Person | 3× notation |
+| 1 | Tasha's Hideous Laughter | Written as "Chain Madness" [phonetic] |
+| 2 | Invisibility | |
+| 2 | Silence | |
+| 3 | Mass Healing Word | |
+| 3 | Plant Growth | "Grows fast" noted |
+
+### Weapons & Attacks
+
+| Weapon | Attack | Damage | Notes |
+|--------|--------|--------|-------|
+| Warhammer | — | 1d8 bludgeoning | Purchased Session 11 |
+| Scythe | +2 | 1d6+2 slashing | |
+
+### Equipment
+
+- Drum, Flute, Lyre (instruments)
+- Entertainers Pack
+- 1 [illegible item]
+- Shards of something important (cord held by Inquizo)
+- Jar of black liquid (from Baleam, Session 5)
+- Two-sided necklace (olive branch / music symbol — Session 12)
+- Sending Stone (from Valu — Session 13)
+
+### Armor Training & Proficiencies
+
+- **Armor:** Light, Medium, Heavy, Shields
+- **Weapons:** Scythe (listed specifically)
+- **Tools:** Drum, Flute, Lyre
+
+### Class Features *(Bard)*
+
+- **Bardic Inspiration** (d6) — bonus to another creature's roll; uses = CHA mod (5) per long rest
+- **Jack of All Trades** — add half proficiency to any skill check not using full proficiency
+- **Cutting Words** — reaction: expend Bardic Inspiration to subtract from enemy attack, ability check, or damage roll
+- **Font of Inspiration** — regain Bardic Inspiration on short or long rest
+- **Magical Discoveries** — [additional spells or abilities noted; details [illegible]]
+
+### Species Traits *(Dwarf)*
+
+- **Darkvision** — 120 ft
+- **Advantage on saving throws vs. poison** — and resistance to poison damage
+- **Stonecunning** — +1 to proficiency bonus on stonecutting / trap-finding checks at 1st level
+
+### Feats
+
+- **Musician** — Bardic Inspiration grants Musical Inspiration (allies can add die to Persuasion or Performance when target is audience)
+- **Inspiring Leader** — Considers 12 HP; Level 4+; after short rest, grant temp HP to up to 6 allies = CHA mod + level
+
+### Languages
+
+- [not clearly shown on sheet]
+
+---
+
 ### Personality Notes
 - Genuinely the most chaotic person in every room, usually by accident
 - His smile when given the pirate hat was described as "the most pure smile"
@@ -102,6 +216,6 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Heard the wind voice (Session 13)** — rolled Perception 18; one of two people who heard the subtle wind on the airship that sounded almost like a voice. He noted it aloud but moved on.
 - **The Ballad of Mira** — confirmed to be a pre-existing piece he's been trying to learn for her. What it says, and whether he'll ever perform it, remains open.
 
-*Last updated: Session 13*
+*Last updated: Session 13 — Character sheet stats added*
 
 ---

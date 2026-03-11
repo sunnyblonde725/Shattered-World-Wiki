@@ -61,6 +61,124 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - **The spike from the blood cocoon** — dagger image frozen inside crystal
 - **Chains of Eternity** (Session 12) — shackle bracelets on both wrists; up to proficiency bonus times, he can launch the chains to restrain a target — but he is also restrained at the same time; they share the same chains (Marley-style)
 
+## Character Sheet Stats
+
+> *Extracted from physical character sheet. Level 6 as of Session 13.*
+
+**Full Name:** Inquizo (also spelled "Inquizion" on sheet header)
+**Class:** Rogue 6 (Thief subclass)
+**Species:** Kobold
+**Background:** [not clearly legible on sheet]
+**Size:** Small
+**Speed:** 25 ft
+**Proficiency Bonus:** +3
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR | 13 | +1 |
+| DEX | 16 | +3 |
+| CON | 12 | +1 |
+| INT | 13 | +1 |
+| WIS | 9 | -1 |
+| CHA | 17 | +3 |
+
+### Defenses
+
+- **Armor Class:** 13 (Light armor; Shield 0)
+- **Hit Points:** 59 max | Temp HP: 5d4 [partially illegible]
+- **Passive Perception:** 7
+- **Initiative:** +2
+
+### Saving Throws *(proficient)*
+
+- DEX +5 (proficient — filled dot)
+- INT (proficient — filled dot)
+
+### Skills *(proficient / expertise)*
+
+| Skill | Bonus | Notes |
+|-------|-------|-------|
+| Acrobatics (DEX) | +5 | Proficient |
+| Insight (WIS) | +5 | Proficient |
+| Sleight of Hand (DEX) | +5 | Proficient |
+| Stealth (DEX) | +8 | Expertise (double proficiency) |
+| Deception (CHA) | +9 | Expertise (double proficiency) |
+| Persuasion (CHA) | +9 | Expertise (double proficiency) |
+| Athletics (STR) | +4 | Proficient |
+
+*(Note: Kobolds also have Pack Tactics, but advantage on mental saves per species traits is what the sheet records)*
+
+### Sneak Attack
+
+- **3d6 Sneak Attack** — applied when attacking with a finesse or ranged weapon with advantage, or when an ally is adjacent to target
+
+### Weapons & Attacks
+
+| Weapon | Attack | Damage | Notes |
+|--------|--------|--------|-------|
+| Daggers ×2 | +4 | 1d8 piercing | Dual wield |
+| Rapier | +4 | 1d8 slashing | |
+| Short Sword | +4 | 1d6 piercing | |
+| Light Crossbow | +4 | 1d8 piercing | Two-handed; range 80/320 |
+
+### Equipment & Armor
+
+**Armor:** Leather armor
+**Proficiencies:** Light, Piercing weapons, Simple weapons, Martial (selected)
+**Tools:** Thieves' tools, Forgery kit, Thieve's cant
+- Burglar's pack
+- Spider tube [purpose unclear — possibly spider container remnant]
+- Forgery kit
+- Dark clothes
+- Safe with [illegible — "stickied cinder"?]
+- Spare arrows (noted with 1d6)
+- [Two items marked "Mish spoon" — possibly Mish potion or misuse item]
+- Recital gas [illegible/uncertain]
+- Leather armor
+- Straw hat
+- Sod red hat [illegible]
+- Chains of Eternity (wrist shackles — Session 12)
+- Three stacked hats + Pmurt's crown + two tree-symbol hats
+- Black orb (Caelus imprisoned inside — in backpack)
+- Lorya's serpent-circle jewel
+- Arcus's nail image
+- Spike from blood cocoon
+
+**Coins:** 24
+
+### Languages
+
+- Thieves' Cant
+- Goblin
+- Infernal
+- Draconic
+
+### Class Features *(Rogue — Thief subclass)*
+
+- **Sneak Attack** — 3d6 extra damage (finesse/ranged weapon + advantage or ally adjacent)
+- **Cunning Action** — bonus action: Dash, Disengage, or Hide
+- **Steady Aim** — bonus action: gain advantage on next attack (can't move this turn); adds 5 ft of effective reach
+- **Two-Handed Slash** — all bonus action attacks [Thief specific feature — use object/Fast Hands]
+- **Use Magic Device** — use magic items without meeting class/race requirements (Thief level 13 feature — may be listed ahead on sheet)
+- **Climber** +1 to climbing
+- **Jump** +1 ft [kobold / feat bonus]
+- **Improvised Weapon Proficiency** — any weapon that [illegible]; always more creative DC might 13
+- **Cunning Strike** — after Sneak Attack: Poison (CON save or poisoned), Paralyze, or Withdraw (target must move away)
+- **Uncanny Dodge** — reaction: halve damage from one attack per round
+
+### Species Traits *(Kobold)*
+
+- **Darkvision** — 60 ft
+- **Running advantage on mental state** — [likely Grovel, Cower, and Beg: use action to distract enemies, allies gain advantage vs. those creatures; or Pack Tactics variant]
+
+### Feats
+
+- [No feats clearly listed in feats box on sheet]
+
+---
+
 ### Personality Notes
 - Indeterminate gender presentation — city citizens couldn't determine his gender; he squeaked at them
 - Passes as an "exotic pet" (a "cobold quiet") when convenient
@@ -102,5 +220,7 @@ Inquizo's shadow — the Warden Brother — confronted him about his sister and 
 - **Pressed the button on Starglass (Session 13)** — he released Starglass from the glass case, which turned out to be important. Classic Inquizo: presses the button, accidentally advances the plot.
 - **Second glass case on the airship (Session 13)** — below deck, under a tapestry. He was not present for its discovery. It has not been opened.
 - **The hat collection grows** — he is now carrying: DO NOT TOUCH pirate hat, bard hat, tiny mystery hat, Pmurt's crown, two tree-symbol hats. Something about hat accumulation feels narratively intentional.
+
+*Last updated: Session 13 — Character sheet stats added*
 
 ---

@@ -97,6 +97,139 @@ Multiple stanzas speak directly to Halcyra:
 - **Confronted her mother (Session 12)** — in the dream, her mother switched faces with her older shadow-self and screamed "Why have you left me?!" Halcyra flew toward a booming, familiar, kind voice calling from the sky — Apollo's voice calling her name and saying "The worlds are at stake." She went to her mother, whispered "I promise I do love you," and walked out the door toward the voice.
 - **Apollo called her (Session 12)** — the booming voice from the sky, described as "familiar, kind," calling her name three times and saying "the worlds are at stake" — this was Apollo, reaching her in the dream. She turned toward it.
 
+## Character Sheet Stats
+
+> *Extracted from physical character sheet. Level 6 as of Session 13.*
+
+**Full Name:** Halcyra Elowen Dawnmere
+**Class:** Paladin 6 (Oath of the Ancients)
+**Species:** Aasimar
+**Background:** Farmer
+**Alignment:** Neutral Good
+**Size:** Medium | **Height:** 5'6"
+**Speed:** 30 ft
+**Proficiency Bonus:** +3
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR | 12 | +1 |
+| DEX | 12 | +1 |
+| CON | 16 | +3 |
+| INT | 12 | +1 |
+| WIS | 12 | +1 |
+| CHA | 10 | +0 |
+
+### Defenses
+
+- **Armor Class:** 18 (Chainmail + Shield)
+- **Hit Points:** 78 (max) | Hit Dice: d10
+- **Passive Perception:** 11
+
+### Saving Throws *(proficient)*
+
+- STR +1 (not proficient)
+- CON +6 (proficient — marked)
+- CHA +3 (proficient — marked)
+
+### Skills *(proficient)*
+
+- Athletics +3 (STR — proficient)
+- History +1, Investigation +1 (INT)
+- Nature +4, Religion +4 (WIS — marked)
+- Animal Handling +4, Insight +4, Medicine +1, Perception +1, Survival +1 (WIS)
+- Deception +3, Intimidation +3, Performance +3 (CHA)
+- Acrobatics +1 (DEX)
+
+### Spellcasting
+
+- **Spellcasting Ability:** Charisma
+- **Spell Save DC:** 14
+- **Spell Attack Bonus:** +6
+- **Spellcasting Modifier:** +3
+
+**Spell Slots:**
+| Level | Total |
+|-------|-------|
+| 1st | 4 |
+| 2nd | 3 |
+| 3rd | 3 |
+| 4th | 1 |
+| 5th | 1 |
+
+**Cantrips:** Light
+
+**Prepared Spells:**
+- *1st level:* Ensnaring Strike, Speak with Animals, Bless, Cure Wounds, Heroism, Searing Smite
+- *2nd level:* Misty Step, Moonbeam, Aid, Zone of Truth
+- *3rd level:* Plant Growth, Protection from Energy
+- *4th level:* Ice Storm, Stoneskin
+- *5th level:* Tree Stride, Commune with Nature
+- *Bonus spells (Oath / Class):* Divine Smite (always), Find Steed (1/long rest, no slot)
+
+### Weapons & Attacks
+
+| Weapon | Attack | Damage | Notes |
+|--------|--------|--------|-------|
+| Longsword | — | 1d8 slashing | Primary melee |
+| Longbow | — | 1d8 piercing | Range 100/400 |
+| Bow of Dusk | +2 | 1d8 radiant | Always 12 to roll; currently dusk version |
+
+### Equipment & Armor
+
+- **Armor:** Chainmail (equipped)
+- **Shield:** Equipped
+- **Holy Symbol:** Amulet (Magic Item Attunement slot)
+- **Priest's Pack** + rope
+- **Prophecy Scroll**
+- Book: *Ruins from Ancient Ages* pg 35–40
+- River Styx pearl
+- Sending Stone (from Valu)
+- Bow of Dusk (from the old man at her paladin oath)
+
+### Armor Training & Proficiencies
+
+- **Armor:** Light, Medium, Heavy, Shields
+- **Weapons:** Simple and Martial weapons
+- **Tools:** Land vehicles
+
+### Class Features *(Oath of the Ancients)*
+
+- **Weapon Mastery** — Longsword + Longbow
+- **Fighting Style: Archery** — +2 bonus to attack rolls with ranged weapons
+- **Lay on Hands** — Pool of 30 HP to heal or remove disease/poison (1/long rest)
+- **Fighting Style: Archery** (+2 to ranged)
+- **Paladin's Divine Smite** — uses spell slot; always available
+- **Divine Sense** — use to detect celestials, fiends, undead
+- **Divine Grace** — use Charisma for non-magical effects
+- **Abjure Foes / Detect creatures** — detect fiends, locations, types; detect consecrated/desecrated spaces; similar to Aura of Piety
+- **Paladin Subclass: Oath of the Ancients** — lvl 5: Aura of Protection (+CHA to all saves within 10 ft of allies)
+- **Level 4+:** Extra Attack (2 attacks per action when taking Attack action)
+- **Aura of Protection** (Lvl 6+) — [illegible detail on sheet]
+- **Divine Smite** (bonus action) — Divine Smite always available
+
+### Species Traits *(Aasimar)*
+
+- **Darkvision** — 60 ft
+- **Celestial Resistance** — resistance to necrotic and radiant damage
+- **Healing Hands** — touch heal; 1d4 × proficiency bonus HP or remove one disease; bonus action
+- **Light Bearer** — knows Light cantrip (Charisma); natural spell
+- **Paladin Traits** — Lay on Hands, Pool of 30 HP
+- **Celestial Revelation** — [specific form not clearly written; likely Necrotic Shroud or Radiant Soul given wing imagery]
+
+### Feats
+
+- **Origin: Tough** — when rolling HP add +2 to hit points per level
+- **Fighting Style: Archery** — +2 to attack on ranged weapons
+- **ASI** — 10/11/12/16 spread; either increased one stat by 2 or two stats by 1
+
+### Languages
+
+- Common, Celestial, Elvish
+
+---
+
 ### Session 13 Update
 On the airship, Halcyra discovered George alone, quietly practicing the Ballad of Mira — he was caught mid-song, embarrassed, and fled red-faced. She also found the second glass case in the cargo hold by tripping on the tapestry showing sun, rays, wings, and sheep — the party decided to leave it unopened until docked.
 
@@ -123,6 +256,6 @@ On the airship, Halcyra discovered George alone, quietly practicing the Ballad o
 - **Dex and his nightmares (Session 13)** — Mira connected his dream experience to the shattered world's dream realm rules. Halcyra is aware there is someone on the ship with recurring, real dream-realm contact.
 - **Found George with the Ballad of Mira (Session 13)** — discovered George alone on the airship quietly practicing the song; he was caught and fled embarrassed.
 
-*Last updated: Session 13*
+*Last updated: Session 13 — Character sheet stats added*
 
 ---

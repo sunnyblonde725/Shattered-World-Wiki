@@ -96,6 +96,110 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 
 **George’s records at X-salent guild were retrieved by Justin** (at Reficul’s request) — a badly water-damaged piece of paper, bottom half completely missing, including George’s birthdate. Reficul is trying to determine when George’s birthday is.
 
+## Character Sheet Stats
+
+> *Extracted from D&D Beyond screenshot (reficul1.jpg / reficul2.jpg). Level 13 as displayed — possibly a D&D Beyond display anomaly; campaign context suggests Level 6 as of Session 13. Stats recorded as shown.*
+
+**Full Name:** Reficul
+**Class:** Bard (College of Whispers) — Level shown as 13 on D&D Beyond
+**Species:** Changeling
+**Background:** [not shown]
+**Speed:** 30 ft
+**Proficiency Bonus:** +3 (shown on sheet as +3)
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR | 7 | -2 |
+| DEX | 17 | +3 |
+| CON | 14 | +2 |
+| INT | 7 | -2 |
+| WIS | 17 | +3 |
+| CHA | 18 | +4 |
+
+### Defenses
+
+- **Armor Class:** 13 (Class / Light Armor)
+- **Hit Points:** 45 current / 45 max
+- **Passive Perception:** 14
+- **Passive Investigation:** 9
+- **Passive Insight:** 14
+- **Initiative:** +4
+
+### Saving Throws *(proficient)*
+
+- STR (filled dot — proficient)
+- CON (filled dot — proficient)
+- CHA (filled dot — proficient)
+
+### Skills
+
+| Skill | Bonus | Notes |
+|-------|-------|-------|
+| Acrobatics (DEX) | +4 | |
+| Animal Handling (WIS) | +9 | Expertise |
+| Arcana (INT) | +1 | |
+| Athletics (STR) | +1 | |
+| Deception (CHA) | +7 | |
+| History (INT) | +1 | |
+| Insight (WIS) | +4 | |
+| Intimidation (CHA) | +4 | |
+| Investigation (INT) | +1 | |
+| Medicine (WIS) | +4 | |
+| Nature (WIS/INT) | +1 | |
+| Perception (WIS) | +4 | |
+| Performance (CHA) | -5 | Notably low — possible intentional flaw |
+| Persuasion (CHA) | +9 | Expertise |
+| Religion (INT) | +1 | |
+| Sleight of Hand (DEX) | -4 | Notably low |
+
+### Weapons & Attacks
+
+| Weapon | Attack | Damage | Notes |
+|--------|--------|--------|-------|
+| Rapier | +6 | 1d8+3 piercing | Martial, Finesse, Vex |
+| Starry Wisp | +7 | 2d8+ radiant | Cantrip, V/S |
+| Unarmed Strike | -1 | 1 bludgeoning | |
+
+### Equipment & Armor
+
+- **Armor:** Light Armor
+- **Weapons Proficient:** Crossbow (hand), Longsword, Rapier, Shortsword, Simple Weapons
+- **Tools:** Bagpipes, Carpenter's Tools, Horn, Songhorn
+- **Shadow tattoo** (left arm — Session 12) — summon another creature's shadow; psychic damage to living targets within 30 ft; project appearance of deceased through Whispers mechanics
+- *(Currently staying behind in island city — portable inventory unknown)*
+
+### Class Features *(College of Whispers)*
+
+- **Psychic Blades** — expend Bardic Inspiration on hit; 3d6 psychic damage at lvl 5+
+- **Words of Terror** — 1 min conversation; WIS save (Spell Save DC) or frightened for 1 hour; 1/short rest
+- **Mantle of Whispers** — *Reaction:* absorb humanoid's appearance when it dies within 30 ft; *Action:* become that person for up to 1 hour or until dismissed as bonus action; Wisdom (Insight) check vs. Deception +5 to see through
+- **Jack of All Trades**
+- **Cutting Words** (reaction)
+- **Font of Inspiration**
+- **Bardic Inspiration** die (Proficiency Bonus uses per long rest)
+
+### Species Traits *(Changeling / noted in Notes section)*
+
+- **Telepathy** — 60 ft (to creatures sharing a language)
+- **Detect Thoughts** — 1/long rest, free (2nd level spell)
+- **Shapeshifting** — full form change; clothes shift with him
+- **Speaks Hebrew** — noted in the D&D Beyond notes section
+
+### Additional Notes (from D&D Beyond notes page)
+
+- **Psychic Blades:** 3d6 at bardic inspiration level 5
+- **Words of Terror:** 1 min convo, save spell DC, 1 hour frightened
+- **Mantle of Whispers:** absorb reaction / become action; can absorb a humanoid dead within 30 ft; stays in inventory until used or long rest; another creature can see through it on WIS vs. Deception (+5 extra for Cooper)
+- **Can become someone's shadow** (Psychology) — same mechanics, but the person can be alive within 30 ft
+
+### Languages
+
+- [Languages section not visible on screenshot]
+
+---
+
 ### Open Threads
 - His real cause of death (Session 3) is still unknown — the DM flagged this. What actually killed him?
 - The King of Hell connection — is this mechanical, narrative, or both?
@@ -116,5 +220,7 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 - **Stayed behind in the island city (Session 13)** — separated from party; helping people settle; will Gunge's presence be enough? Will he be safe? His violence on the platform (killing the heckler, killing Naamon) leaves open whether the people will trust him or turn on him.
 - **Mira confrontation (Session 13)** — "This is not the first time I have witnessed you kill someone because you were angry." He acknowledged it. No resolution yet.
 - **Devil's deal progress** — does staying in the city advance or stall his deal?
+
+*Last updated: Session 13 — Character sheet stats added*
 
 ---

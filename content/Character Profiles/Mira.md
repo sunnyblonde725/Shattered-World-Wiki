@@ -77,6 +77,153 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Stormwake Sigil** (Session 12) — a lightning bolt necklace; father’s final gift passed through the shadow. Add 2d6 lightning damage to any attack (physical or magical) up to proficiency bonus times per day. She put it on immediately after waking.
 - *(Character sheet upload will fill this in further)*
 
+## Character Sheet Stats
+
+> *Extracted from physical character sheet. Level 6 as of Session 13.*
+
+**Full Name:** Cassidy "Miracle" Ticke-Mira (goes by Mira)
+**Class:** Warlock 6 (Fiend patron)
+**Species:** "Human" *(listed in quotes on sheet)*
+**Background:** [not clearly legible]
+**Alignment:** [not filled]
+**Size:** Medium
+**Speed:** 30 ft
+**Proficiency Bonus:** +3
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR | 12 | +1 |
+| DEX | 14 | +2 |
+| CON | 16 | +3 |
+| INT | 16 | +3 |
+| WIS | 16 | +3 |
+| CHA | 16 | +3 |
+
+### Defenses
+
+- **Armor Class:** 13 (Light armor)
+- **Hit Points:** 41 max | Hit Dice: 1d8 per level (noted on sheet as "1d8 per level" and "1d3 per level" — likely 1d8 primary)
+- **Passive Perception:** 10
+- **Initiative:** +2
+
+### Saving Throws *(proficient)*
+
+- CON (proficient — filled dot)
+- CHA (proficient — filled dot)
+
+### Skills *(proficient)*
+
+- Arcana (INT — filled dot)
+- History (INT — filled dot)
+- Investigation (INT — filled dot)
+- *(Other proficiencies not clearly visible)*
+
+### Spellcasting
+
+- **Spellcasting Ability:** Charisma
+- **Spell Save DC:** 18 (partially legible — may be 14 or 15 given CHA +3 + PB +3; written value unclear)
+- **Spell Attack Bonus:** +5
+- **Spellcasting Modifier:** +3
+- **Prepared spells:** 7
+
+**Spell Slots:** (Warlock Pact Magic — short rest recovery)
+| Level | Total |
+|-------|-------|
+| 1st | 4 (or 2 — Pact Magic slots at L6 = 2 slots of L3; additional slots may be from Magical Cunning) |
+| 2nd | 2 |
+| 3rd | 2 |
+
+**Cantrips:** Chill Touch, Mage Hand, Toll the Dead
+
+**Spells Known:**
+
+| Level | Spell | Notes |
+|-------|-------|-------|
+| 1 | False Life | No spell slot version — always self |
+| E1 | Comprehend Languages | |
+| E1/2 | Crown of Madness | Action, 120 ft, up to 1 minute |
+| 2 | Hold Person | Action, 60 ft, up to 1 minute |
+| F | Burning Hands | Action, Self (15 ft cone) — Fiend spell, always prepared |
+| F | Command | Action, 60 ft — Fiend spell, always prepared |
+| F | Scorching Ray | Action, 120 ft — Fiend spell; one or several targets, roll for each ray |
+| F | Suggestion | Action, 30 ft, up to 9 hours — Fiend spell, always prepared |
+| 2 | Mind Spike | Action, 60 ft; WIS save — always prepared |
+| C | Toll the Dead | Action, 60 ft; WIS save — cantrip |
+| 2 | Invisibility | Action, Touch — always prepared |
+| 1 | Cause Fear | Action, 60 ft — always prepared |
+| 3 | Hunger of Hadar | Action, 150 ft; 20 ft sphere — always prepared |
+| 2 | Aid | Action, 30 ft; 15 HP for 3 allies |
+| 2 | Zone of Truth | Action, 60 ft; 1 hour |
+
+*(F = Fiend patron spell, always prepared; C = cantrip; E = eldritch / expanded list)*
+
+### Weapons & Attacks
+
+| Weapon | Attack | Damage | Notes |
+|--------|--------|--------|-------|
+| Quarterstaff | — | 1d6 B | Versatile (1d8 with two hands) |
+| Dagger | — | 1d4 P | Range 20/60 |
+| Scythe | — | 1d4 slashing | Pact weapon |
+
+### Equipment
+
+- Staff (primary weapon)
+- 2 daggers/knives
+- Component pouch
+- Jar of chimney [illegible] blood
+- Jar of moths
+- Book and quill
+- Scholar's pack
+- Leather armour
+- Lamp, oil
+- Parchment
+- **Grungrak's spellbook** (also noted: Grungrak's hammer — broken)
+- **Stormwake Sigil** (lightning bolt necklace — father's soul gift, Session 12): +2d6 lightning damage added to any attack (physical or magical), up to proficiency bonus times per day
+- **Sending Stone** (from Valu — Session 13)
+- Pages 35–40 from *Ruins from Ancient Ages*
+- 18 copied plant entries
+- Alchemy Guild research notes
+- Goop sample (cave creature, Session 10)
+- Skull shards and snake teeth (cave creature, Session 10)
+- Gavikwest berry
+- Journal from the cave (Session 10)
+- Pact weapon sickle (manifested Session 11)
+
+**Coins:** 8 SP + 3 GP (partially legible)
+
+### Armor Training & Proficiencies
+
+- **Armor:** Light, Medium, Heavy, Shields (marked)
+- **Weapons:** Simple weapons
+- **Tools:** Calligrapher's Supplies
+
+### Class Features *(Warlock — Fiend Patron)*
+
+- **Eldritch Invocations** — [specific invocations not legible from sheet; known from play: Agonizing Blast equivalent, possibly Devil's Sight]
+- **Pact Magic** — short-rest spell slot recovery
+- **Magical Cunning** — recover half spell slots on short rest (1/long rest)
+- **Fiend Patron:** Dark One's Blessing — when reducing a creature to 0 HP, gain temp HP = CHA mod + Warlock level
+- **Fiend Spells** — always prepared: Burning Hands, Command, Scorching Ray, Suggestion (these appear as "F" marked on sheet)
+
+### Species Traits *("Human")*
+
+- **Resourceful** — gain 1 Heroic Inspiration after a long rest
+*(Note: quotation marks around "Human" on sheet are likely intentional — her status as the dead-but-walking makes "Human" complicated)*
+
+### Feats
+
+- **Skilled** — gain proficiency in three skills or tools of choice
+
+### Languages
+
+- Common
+- Elvish
+- Dwarvish
+
+---
+
 ### Prophecy Connections
 - *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — Mira, precisely. The stanza fits her condition exactly.
 - *"Where Hades' veil and sunlight meet / The child shall walk in realms replete"* — possibly Mira or Halcyra; both exist at a boundary between living and dead, divine and mortal
@@ -111,6 +258,6 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunge plan.
 - **Sending Stone** — received from Valu; in her inventory.
 
-*Last updated: Session 13*
+*Last updated: Session 13 — Character sheet stats added*
 
 ---
