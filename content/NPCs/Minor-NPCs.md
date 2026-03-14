@@ -40,7 +40,7 @@ tags: [dnd, shattered-world, npc]
 | Name | Who They Are | Status | Notes |
 |---|---|---|---|
 | **Eric** | Ariel's husband; drowned trying to breathe underwater to be with her | Gone | Traveled with the party briefly. Saw Ariel in the River Lethe and jumped in. The river erased his memory of her — and hers of him. His arc is closed. |
-| **Sisyphus** *(the Greek one)* | The actual Sisyphus; has been pushing his boulder up a cliff for eternity | Still on his cliff, weeping | Grungrak rolled a nat 20 (Strength 30) and pushed the boulder over for the first time ever. Sisyphus was gobsmacked. It landed on Scylla. |
+| **Sisyphus** *(the Greek one)* | The actual Sisyphus; has been pushing his boulder up a cliff for eternity | Still on his cliff, weeping | Grungrak rolled a nat 20 (Strength 30) and pushed the boulder over for the first time ever. Sisyphus was gobsmacked. It landed on Urscylla. |
 | **Glendale + Unnamed Cartographer** | Two cartographers at X-salent's Cartography Guild | Active — Guild Room 5 | The unnamed one maps individual ponds and large trees. Gives directions in incomprehensible "jigg jog" compass terms. Glendale refused to speak to the party unless necessary. |
 
 ---
@@ -58,11 +58,11 @@ tags: [dnd, shattered-world, npc]
 
 ## Session 9
 
-| Name | Who They Are | Status | Notes |
-|---|---|---|---|
-| **Altair** | Elf alchemist at X-salent's Alchemy Guild | Active | Helped Mira with preliminary testing of the mystery substance. Calm and methodical. |
-| **Leander** | Alchemist at X-salent's Alchemy Guild | Active | More enthusiastic than Altair; associated with explosive experiments. Also assisted Mira's research. |
-| **Ny'e** | Goblin librarian at X-salent's city library | Active | Notably tiny legs. Helped Mira locate *"Ruins from Ancient Ages"* and checked out the relevant pages. Efficient and friendly. |
+| Name                          | Who They Are                                                            | Status   | Notes                                                                                                                                                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Altair**                    | Elf alchemist at X-salent's Alchemy Guild                               | Active   | Helped Mira with preliminary testing of the mystery substance. Calm and methodical.                                                                                                                           |
+| **Leander**                   | Alchemist at X-salent's Alchemy Guild                                   | Active   | More enthusiastic than Altair; associated with explosive experiments. Also assisted Mira's research.                                                                                                          |
+| **Ny'e**                      | Goblin librarian at X-salent's city library                             | Active   | Notably tiny legs. Helped Mira locate *"Ruins from Ancient Ages"* and checked out the relevant pages. Efficient and friendly.                                                                                 |
 | **Unknown Adventuring Party** | Four adventurers encountered inside the writing-covered Victorian manor | At large | Members: a dragonborn fighter (possessed, went berserk — put to sleep and left in the manor), a tiny mouse NPC, a minotaur in mage robes, and a sorcerer woman whose warlock companion *"just left one day."* |
 
 ---

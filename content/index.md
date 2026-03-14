@@ -40,6 +40,7 @@ title: A Shattered World
 >
 > - [[World State|World State]]
 > - [[Campaign Narrative|Campaign Narrative]]
+> - [[Prophecy|The Prophecy]]
 
 ---
 

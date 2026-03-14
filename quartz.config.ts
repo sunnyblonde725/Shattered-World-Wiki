@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fdf6e3",       // warm parchment background
+          lightgray: "#e8dfc8",   // soft aged paper for borders
+          gray: "#a89880",        // muted warm grey
+          darkgray: "#3d2e1e",    // dark brown for body text
+          dark: "#1a0f00",        // near-black with warmth for headers
+          secondary: "#c0850a",   // deep gold (Halcyra) — links and accents
+          tertiary: "#8b3a6b",    // rich purple (Mira) — hover states
+          highlight: "rgba(192, 133, 10, 0.12)",   // gold tint highlight
+          textHighlight: "#c0850a44",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#12100e",       // near-black with warmth (Reficul/dark)
+          lightgray: "#2a2018",   // dark brown-black for borders/panels
+          gray: "#6b5a4e",        // muted mid-tone
+          darkgray: "#d4c4a8",    // warm cream for body text
+          dark: "#f5e6c8",        // bright warm cream for headers
+          secondary: "#d4a017",   // bright gold (Halcyra) — links and accents
+          tertiary: "#a855a0",    // deep purple (Mira) — hover states
+          highlight: "rgba(212, 160, 23, 0.15)",   // gold glow highlight
+          textHighlight: "#8b1a1a88",              // deep red (Grungrak/Reficul)
         },
       },
     },

@@ -6,7 +6,7 @@ tags: [dnd, shattered-world, location]
 # Voxus
 
 > [!success] Status
-> **LEFT** — The party departed on Pmurt's airship after receiving sending stones from Valu. Gunge remains here, stalling his chief and preparing to assist the island city.
+> **LEFT** — The party departed on Pmurt's airship after receiving sending stones from Valu. Gunj remains here, stalling his chief and preparing to assist the island city.
 
 ---
 
@@ -23,7 +23,7 @@ tags: [dnd, shattered-world, location]
 
 ## Description
 
-Picture Rito Village from Wind Waker, but with more complicated politics. Voxus is the home of kenku and other avian peoples — feathered, winged, living on structures built for beings who can fly. The chief of Voxus is Ravalli, an eagle king, and the power here runs through him. Gunge, the shadow therapist, lives and practices here. The air smells like salt and height. Classical kenku lore says they can't speak — in Voxus, post-Shattering, some can. The rules changed when the world broke.
+Picture Rito Village from Wind Waker, but with more complicated politics. Voxus is the home of kenku and other avian peoples — feathered, winged, living on structures built for beings who can fly. The chief of Voxus is Ravalli, an eagle king, and the power here runs through him. Gunj, the shadow therapist, lives and practices here. The air smells like salt and height. Classical kenku lore says they can't speak — in Voxus, post-Shattering, some can. The rules changed when the world broke.
 
 ---
 
@@ -37,7 +37,7 @@ Voxus also holds a darker thread: two days before the party arrived, a man with 
 
 ## Notable Sub-Locations
 
-- **Gunge's Practice Space** — Where the shadow therapy sequences took place; the party slept here after Session 12
+- **Gunj's Practice Space** — Where the shadow therapy sequences took place; the party slept here after Session 12
 - **Ravalli's Nest** — The chief's quarters; site of the wire-glasses man's visit; site of the Valu manifestation
 - **The General Settlement** — Kenku and avian community structures; market and residential areas not fully detailed
 
@@ -47,14 +47,14 @@ Voxus also holds a darker thread: two days before the party arrived, a man with 
 
 | Session | What Happened |
 |---|---|
-| [[Session Notes/DND Session 12\|Session 12]] | Shadow therapy sequence conducted for all five characters. Major character revelations for each. Party slept at Gunge's. |
-| [[Session Notes/DND Session 13\|Session 13]] | Party woke at Gunge's. Met Ravalli (chief). Valu/wind god manifested; gave sending stones to Mira and Gunge. Party received information about Sypium and the God of Dreams situation. Departed on Pmurt's airship. |
+| [[Session Notes/DND Session 12\|Session 12]] | Shadow therapy sequence conducted for all five characters. Major character revelations for each. Party slept at Gunj's. |
+| [[Session Notes/DND Session 13\|Session 13]] | Party woke at Gunj's. Met Ravalli (chief). Valu/wind god manifested; gave sending stones to Mira and Gunj. Party received information about Sypium and the God of Dreams situation. Departed on Pmurt's airship. |
 
 ---
 
 ## Open Threads
 
 - **Ravalli and the wire-glasses man** — Two days before the party arrived, Numgis (almost certainly) was at Ravalli's nest setting up something sleep-related. Ravalli cooperated. What was installed? What does it do? Is Ravalli compromised?
-- **Gunge's constraint** — He knows about the God of Dreams situation. His chief believes reaching Sypium requires destroying the town. Gunge disagrees. He is stalling. How long can he stall?
+- **Gunj's constraint** — He knows about the God of Dreams situation. His chief believes reaching Sypium requires destroying the town. Gunj disagrees. He is stalling. How long can he stall?
 - **The kenku's voices** — They gave their voices to a god. Post-Shattering, some can speak again because the rules changed. What god holds all those voices? Is that god still holding them?
 - **The Liberators** — A Scarlet Pimpernel-style troupe from another world had already visited Voxus before the party arrived. Their third target is "the fish." Who is the fish?

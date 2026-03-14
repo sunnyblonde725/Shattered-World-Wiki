@@ -50,7 +50,7 @@ What is known: Numgis is ahead of the party, and the party's chief at Voxus beli
 
 | Session | What Happened |
 |---|---|
-| [[Session Notes/DND Session 13\|Session 13]] | Sypium confirmed as the party's next destination. Inquizo impersonated Pmurt to direct the airship north. Dossiers and map found on the ship reference it. Gunge confirmed the unsealing mechanism is in or near the town. |
+| [[Session Notes/DND Session 13\|Session 13]] | Sypium confirmed as the party's next destination. Inquizo impersonated Pmurt to direct the airship north. Dossiers and map found on the ship reference it. Gunj confirmed the unsealing mechanism is in or near the town. |
 
 ---
 
@@ -61,4 +61,4 @@ What is known: Numgis is ahead of the party, and the party's chief at Voxus beli
 - **Is the party heading into a trap?** — Numgis knows about Sypium. The Doctor has been there (or sent people there). Pmurt was originally going there. The party is flying in on Pmurt's ship, with Pmurt's crown, pretending to be Pmurt. If anyone is watching for that ship...
 - **Haki and the prophetess** — Starglass's brother is protecting a small glowing girl in all white heading north. Are they in Sypium? What is the prophetess's role in whatever is about to happen?
 - **The Thorin statue** — Mira and Halcyra suspect the statue needs to reach its people. Are Thorin's people in Sypium? Is that the real reason Pmurt was heading here?
-- **Destroying the town** — Ravalli's chief believes reaching the unsealing mechanism requires it. Gunge disagrees and is stalling. Does it? Is there another way?
+- **Destroying the town** — Ravalli's chief believes reaching the unsealing mechanism requires it. Gunj disagrees and is stalling. Does it? Is there another way?

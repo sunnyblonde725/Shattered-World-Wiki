@@ -18,13 +18,13 @@ tags: [dnd, shattered-world, npc]
 | **Role** | God of Wind; one of the four gods connected to the statues from Pmurt's kingdom |
 | **Faction** | The gods; connected to the Valu statue |
 | **First Appeared** | [[Session Notes/DND Session 13\|Session 13]] |
-| **Last Seen** | [[Session Notes/DND Session 13\|Session 13]] — manifested in Voxus; gave sending stones to Mira and Gunge; left |
+| **Last Seen** | [[Session Notes/DND Session 13\|Session 13]] — manifested in Voxus; gave sending stones to Mira and Gunj; left |
 
 ---
 
 ## Appearance & Personality
 
-Extremely ADHD-ish. Hard to pin down. Comes and goes with the wind — this appears to be literal. He gave **sending stones** to Mira and Gunge, then departed. He is one of the gods connected to the four statues that used to stand in Pmurt's town square, and his manifestation confirms the statues-returning-to-their-people mechanic is real.
+Extremely ADHD-ish. Hard to pin down. Comes and goes with the wind — this appears to be literal. He gave **sending stones** to Mira and Gunj, then departed. He is one of the gods connected to the four statues that used to stand in Pmurt's town square, and his manifestation confirms the statues-returning-to-their-people mechanic is real.
 
 Referenced as both "Valu" and "Aeolus" during the session. Whether these are two names for the same entity or something more complicated has not been established.
 
@@ -48,7 +48,7 @@ He gave them sending stones and left. The party now has a long-distance communic
 
 | Session | What Happened |
 |---|---|
-| [[Session Notes/DND Session 13\|Session 13]] | Manifested at Voxus near the Valu statue; gave sending stones to Mira and Gunge; departed |
+| [[Session Notes/DND Session 13\|Session 13]] | Manifested at Voxus near the Valu statue; gave sending stones to Mira and Gunj; departed |
 
 ---
 

@@ -39,6 +39,7 @@ Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply m
 - **Detect Magic** (Session 8 — level 1 spell; cast on the mud to track the mysterious figure's magical footprint; used alongside Survival check of 22 to locate the disguised figure)
 - **Starry Wisp** (Session 8 — attempted to cast on the mysterious figure to mark/track them; figure grabbed his arm and shoved it away; failed to land)
 - **Silent Image** (Session 8 — cast outside Mira's door: a grandfather clock with sticky note "You need time XOXO" and a smiling face; dismissed it after Mira smiled at it)
+- **Door-to-door petition idea** (Session 8 — Reficul originated the idea of going door-to-door in the slums to gather support; Inquizo executed it)
 - **Words of Terror** (Session 8 — WIS save DC 15; the target barely passed via coin flip; no terror effect landed)
 - **Vicious Mockery + Psychic Blades** (Session 8 — cast from the mud after being kicked; 12 psychic damage; target clutched their head and wailed; crowd turned hostile)
 - **Earth Tremor** (Session 8 — cast in slums square to intimidate hostile crowd; 5 ft radius; 4 homeless commoners knocked to 0 HP; all later revived)
@@ -62,9 +63,9 @@ Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply m
 Reficul was part of the town/portal group in Session 11 (with Mira, and then later at the palace). His curse activated again — bullywug form this time. He used Dissonant Whispers for a devastating 32 damage hit on King Pmurt, and later killed the phantasmal spectator with Starry Wisp. He was present for the Zone of Truth interrogation of Pmurt post-fight, and for Mira's partial castration attempt. The party leveled to 6 at session's end.
 
 ### Session 13 Update
-Reficul chose to **stay behind** in the former island city of King Pmurt. The city was in chaos — the people had seized power, executed or imprisoned their former guards, and a man named Naamon had taken over, planning more public executions. Reficul walked onto the execution platform when the crowd chanted his name, was handed an axe, and gave a long speech about death and punishment — arguing that death is freedom, not punishment, and that the true sentence is making a person live with their crimes. He threw the axe into the crowd and split someone in half who shouted "Get his wife and kids!" Then he punched Naamon off the platform (Mira caught the man, but he died from the punch — just a normal person). Mira confronted him directly: "This is not the first time I have witnessed you kill someone because you were angry." Reficul did not defend himself. He said, "I don't feel good about this."
+Reficul chose to **stay behind** in the former island city of King Pmurt. The city was in chaos — the people had seized power, executed or imprisoned their former guards, and a man named Naamon had taken over, planning more public executions. Reficul walked onto the execution platform when the crowd chanted his name, was handed an axe, and gave a long speech about death and punishment — arguing that death is freedom, not punishment, and that the true sentence is making a person live with their crimes. He threw the axe into the crowd and split someone in half who shouted "Get his wife and kids!" Then he punched Naamon off the platform (Halcyra caught the man, but he died from the punch — just a normal person). Halcyra confronted him directly: "This is not the first time I have witnessed you kill someone because you were angry." Reficul did not defend himself. He said, "I don't feel good about this."
 
-Despite this, he decided he could not leave the people without guidance again. He said: **"I cannot leave these people. I have to stay."** He will remain long-term, helping the city resettle. Before the party left, he had brief goodbyes with the group. To George: *"Don't be scared of the stick"* and *"If you have to change yourself to sleep, that's okay."* The party arranged for Gunge to visit and assist him.
+Despite this, he decided he could not leave the people without guidance again. He said: **"I cannot leave these people. I have to stay."** He will remain long-term, helping the city resettle. Before the party left, he had brief goodbyes with the group. To George: *"Don't be scared of the stick"* and *"If you have to change yourself to sleep, that's okay."* The party arranged for Gunj to visit and assist him.
 
 He is **separated from the party** for the foreseeable future. Whether this means his player is now co-DMing full-time or he returns when the plot calls for it is not specified.
 
@@ -85,7 +86,7 @@ His clothes were already waiting for him in a chest inside Persephone's shrine. 
 ### Session 7 Update
 Reficul appeared at the Gate of Ivory beach — exhausted, dressed normally. His first words: *"Crush the—"* before the boat landed on him (barely survived, d4 = 2, beard trimmed).
 
-His voice had been stolen by Scylla and was orbiting her as a glowing yellow orb. Grungrak caught it and returned it.
+His voice had been stolen by Urscylla and was orbiting her as a glowing yellow orb. Grungrak caught it and returned it.
 
 He revealed more clearly in the tavern (in conversation with George/Halcyra):
 - He made **a deal with the devil** — a job he must complete before he can be allowed peace. He **cannot die** until the job is done.
@@ -211,14 +212,14 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 - **Curse form escalation** — 4th activation in Session 10 → kobold; 5th activation in Session 11 → bullywug. Running list: bull shark (Session 2), very tall naked man (Session 6), Oni (Session 8), kobold (Session 10), bullywug (Session 11). How many forms are there? What determines which one triggers?
 - **Session 10 backstory reveal** — childhood: picked up an ink and quill and his hands moved on their own. He learned to write before he could speak. The writing was unintelligible to anyone else. This connects directly to the wall writing mystery and his Oni nature.
 - **Earth Tremor incident** — he killed 4 commoners (all revived). Mira confronted him. This may have consequences with the city guard or the homeless community.
-- **Victorian manor encounter (Session 9)** — entered the house covered in mysterious script; encountered an adventuring party whose dragonborn member was visibly possessed by the house (eyes glowing red, weapon shapeshifting). Was pinned by an invisible boulder cast by the mouse party member. Escaped after Grungrack's Sleep spell. Received Grungrack's speech about second chances afterward.
-- **Received Grungrack's speech (Session 9)** — Grungrack used Refisul's own philosophy of second chances to argue for believing in him. Emotional impact unclear but the moment landed.
+- **Victorian manor encounter (Session 9)** — entered the house covered in mysterious script; encountered an adventuring party whose dragonborn member was visibly possessed by the house (eyes glowing red, weapon shapeshifting). Was pinned by an invisible boulder cast by the mouse party member. Escaped after Grungrak's Sleep spell. Received Grungrak's speech about second chances afterward.
+- **Received Grungrak's speech (Session 9)** — Grungrak used Reficul's own philosophy of second chances to argue for believing in him. Emotional impact unclear but the moment landed.
 - **Dissonant Whispers 32 damage (Session 11)** — single-cast, 32 damage against King Pmurt. One of the most impactful offensive moments of the session.
 - **Pmurt escaped (Session 11)** — he was present for the full throne room fight. Pmurt used a contingency poof mechanic and escaped; Reficul and the others now need to decide what comes next in the island city.
 - **Shadow merged (Session 12)** — the First and Last Witness did not fight him; it integrated. The tattoo now gives him the ability to show people their own shadows. His philosophical argument — that his mistakes were his, and his peaceful counterpart had learned nothing because he had never earned pain — was the thing that got him here. The shadow agreed, in its own way, by becoming part of him rather than staying separate.
 - **The shadow is looking for a deity** — during the therapy, his shadow mentioned it was looking for a deity who might be able to change form. Reficul noted this without fully engaging the thread. The shadow may know something about the campaign's larger divine landscape that Reficul now has access to through the tattoo.
-- **Stayed behind in the island city (Session 13)** — separated from party; helping people settle; will Gunge's presence be enough? Will he be safe? His violence on the platform (killing the heckler, killing Naamon) leaves open whether the people will trust him or turn on him.
-- **Mira confrontation (Session 13)** — "This is not the first time I have witnessed you kill someone because you were angry." He acknowledged it. No resolution yet.
+- **Stayed behind in the island city (Session 13)** — separated from party; helping people settle; will Gunj's presence be enough? Will he be safe? His violence on the platform (killing the heckler, killing Naamon) leaves open whether the people will trust him or turn on him.
+- **Halcyra confrontation (Session 13)** — Halcyra (not Mira) said: "This is not the first time I have witnessed you kill someone because you were angry." He acknowledged it. No resolution yet.
 - **Devil's deal progress** — does staying in the city advance or stall his deal?
 
 *Last updated: Session 13 — Character sheet stats added*

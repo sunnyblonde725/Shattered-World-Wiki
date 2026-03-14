@@ -1,20 +1,32 @@
 ---
-title: Session 08 — The Writing on the Wall
-tags: [dnd, session-notes, a-shattered-world, chapter-2]
+title: "Session 08 — The Writing on the Wall"
+session: 8
+date: unknown
+tags: [dnd, shattered-world, session-notes, session-8]
 ---
 
 # Session 8 — The Writing on the Wall
 
+*Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
+
+---
+
+## Pre-Session Recap
+
+Session 7 ended with the party arriving at X-salent — the guild town where Mira and Grungrak were once members. They got rooms, met Justin (the perpetually exhausted guild receptionist), met Penopolis (the sentient pine cone bartender), and heard about the drying saltwater river quest. Reficul told George about his devil's deal over pints. Halcyra shared the existence of her prophecy to George and Reficul (not Mira) for the first time. Mira had stepped outside briefly after overhearing part of the conversation.
+
+---
+
 ## TL;DR
 
-The morning after arriving at X-salent, the party is split and frayed. Reficul, Halcyra, and Inquizo spent all night searching for Mira; Grungrak passed out on stage with Penopolis. Halcyra visits Mira and shares the prophecy she's been following — the first real crack in her emotional armor. While exploring the slum district, Reficul spots a suspicious figure running through back alleys, telepathically invites them to a meeting, and then chases them into a crowd of homeless people, attacking them, triggering his curse to turn him into an Oni, and accidentally killing four people (all later revived by Mira and Grungrak). Separately, Mira and Grungrak investigate mysterious writing appearing inside people's homes — a dark, creature-focused poem written in an unidentified substance — and learn of a missing merchant who had been raving about a monster in the woods for months before disappearing. The session ends with a powerful reconciliation between Grungrak/George and Mira, and a promise: next session is Prophecy Day.
+The morning after arriving at X-salent, the party is split and frayed. Reficul, Halcyra, and Inquizo spent all night searching for Mira; Grungrak passed out on stage with Penopolis. Halcyra visits Mira and shares the prophecy she's been following — the first real crack in her emotional armor. While exploring the slum district, Reficul spots a suspicious figure running through back alleys, telepathically invites them to a meeting, and then chases them into a crowd of homeless people, attacking them, triggering his curse to turn him into an Oni, and accidentally killing four people (all later revived by Halcyra and Grungrak). Separately, Mira and Grungrak investigate mysterious writing appearing inside people's homes — a dark, creature-focused poem written in an unidentified substance — and learn of a missing merchant who had been raving about a monster in the woods for months before disappearing. The session ends with a powerful reconciliation between Grungrak/George and Mira, and a promise: next session is Prophecy Day.
 
 ---
 
 ## Full Summary by Scene
 
 ### Scene 1 — Finding Mira (00:00–22:00)
-Grungrak spent the previous night at the tavern drinking with Penopolis and passed out on stage. Reficul, Halcyra, and Inquizo spent all night searching the city for Mira. Inquizo's approach: going door-to-door collecting signatures on a petition for the river quest, accumulating signatures from multiple households across 10% of the city. The sun came up at 8am and they finally knocked on Mira's room.
+Grungrak spent the previous night at the tavern drinking with Penopolis and passed out on stage. Reficul, Halcyra, and Inquizo spent all night searching the city for Mira. The door-to-door petition idea was Reficul's. Inquizo executed it — going door-to-door collecting signatures on a petition for the river quest, accumulating signatures from multiple households across 10% of the city. The sun came up at 8am and they finally knocked on Mira's room.
 
 Reficul used the river petition as a cover story; Mira (awake, not in good shape) told them to "just go away." Halcyra asked to come in. Mira said it was unlocked.
 
@@ -48,7 +60,6 @@ Grungrak nabbed the notebook the guard was using and copied down the full poem i
 ### Scene 5 — The Full Poem (01:37–01:52)
 The guard shared the complete accumulated text — the 12th writing in as many days — written in the same substance across different homes:
 
-> *Take Carol, you sicken, do you outcast, do you ill?*
 > *Take care all you sickened, you outcast, you ill.*
 > *The nightmare surrounds us, its voice high and shrill.*
 > *The dreamers, the doubters, the dead and the dim.*
@@ -78,21 +89,20 @@ Reficul approached: "I will heal you." The figure: "I'm quite fine." Reficul tri
 Reficul reached for his rapier.
 
 ### Scene 7 — Chaos in the Slums (02:25–02:52)
-- Halcyra cast **Calm Emotions** (20 ft sphere, DC 15 charisma save) — about half the crowd calmed down. The mysterious figure was not among them.
+- Grungrak cast **Calm Emotions** (20 ft sphere, DC 15 charisma save) — about half the crowd calmed down. The mysterious figure was not among them.
 - The mysterious figure **teleported away** — disappearing completely, leaving blankets behind. Halcyra and Grungrak (perception nat 20 and 16) saw the figure disappear; Mira and Reficul did not.
 - Grungrak tried to grapple Reficul (failed — still hungover; rolled 5 vs Reficul's 15).
 - Mira smacked Reficul on the head with her stick.
 - Reficul stood up and cast **Earth Tremor** (5 ft radius) — knocking the people directly around him prone. **4 homeless commoners dropped to 0 HP.**
 - Reficul's devil's deal curse activated: **rolled wild transformation**, turned into an **Oni** (large, blue-haired, white-skinned, red-eyed giant).
-- Halcyra cast **Command ("Approach")** on the Oni-Reficul — he failed the save and walked toward her.
-- Grungrak cast **Spare the Dying** (cantrip) on two of the four people.
-- Mira used **Healing Hands** and **Spare the Dying** on the others.
+- Mira cast **Command ("Approach")** on the Oni-Reficul — he failed the save and walked toward her.
+- Halcyra used **Healing Hands** on the fallen commoners; Grungrak cast **Spare the Dying** as well.
 - All four people survived.
 - Mira apologized to the community on behalf of the group. Gave them gold coins.
 - As they left, a **Black dragonborn** (sitting against the wall, appeared to be connected to the group) grabbed Mira's arm briefly before letting go and sinking back. Mira took note of his appearance.
 
 ### Scene 8 — Mira Confronts Reficul (02:45–02:52)
-Mira laid into Reficul: a person running through alleys doesn't make them a crime syndicate. The homeless community attacked him because he was verbally berating one of their own. "Have you considered that they were going to protect one of their community members from a stranger who was verbally berating him?" Reficul: "...And that's why I cast Spare the Dying." He was surprised by how brittle their bones were.
+Mira laid into Reficul: a person running through alleys doesn't make them a crime syndicate. The homeless community attacked him because he was verbally berating one of their own. "Have you considered that they were going to protect one of their community members from a stranger who was verbally berating him?" He was surprised by how brittle their bones were.
 
 ### Scene 9 — George and Mira Reconcile (03:00–03:15)
 The emotional centerpiece of the session. **Mira** initiated the reconciliation — she pulled George aside for a quiet conversation and apologized first.
@@ -115,7 +125,7 @@ George then opened up to her:
 
 George said both he and Grungrak deserve to be treated as people — not extensions of grief or something to be fixed. Mira agreed.
 
-They ended the conversation in a bear hug. George started crying again.
+They ended the conversation in a bear hug. Mira started crying.
 
 ### Scene 10 — End of Session
 Inquizo slipped away (Stealth 16) as soon as things got serious. Nobody noticed until later. He's on his own somewhere.
@@ -169,8 +179,7 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 **Halcyra**
 - Finally opened up about the prophecy to Mira — the first time she's shared it one-on-one, emotionally
 - Revealed she thinks George is part of the prophecy and that's part of why she takes care of him
-- Used Calm Emotions effectively to de-escalate the slum chaos
-- Got a Command spell off on the Oni-Reficul without blinking
+- Used Healing Hands to revive the fallen commoners after Reficul's Earth Tremor
 - Is running on empty — 48+ hours awake, Cosphere exhaustion still in effect
 
 **Grungrak / George**
@@ -190,7 +199,7 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 - Got kicked into the mud, cast Vicious Mockery from the floor
 - Earth Tremor killed 4 people (all revived)
 - Devil's deal curse fired: transformed into an Oni in the middle of the city
-- Failed Command save from Halcyra — had to walk toward her
+- Failed Command save from Mira — had to walk toward her
 - Confronted by Mira; his defense was basically "I was surprised by how brittle their bones were"
 - Mysterious figure escaped entirely — Reficul never got their name, face, or information
 
@@ -199,13 +208,13 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 - Did the most investigative work of the session (arcana 18, investigation 14)
 - Took ink sample for analysis; noted magical sigils on window frame
 - Physically smacked Reficul with her stick
-- Saved all 4 of the people Reficul killed with Healing Hands + Spare the Dying
+- Cast Command on Oni-Reficul to stop him from attacking more people
 - Gave gold to homeless community out of her own pocket
 - Confronted Reficul with a surgical and deserved breakdown of his logic
 - **Initiated** the reconciliation with George — she apologized first, acknowledged she had been too aggressive about pushing his memory. George opened up about his grief in response. The thread is resolved.
 
 **Inquizo**
-- Spent all night on a door-to-door petition for the river quest
+- Spent all night executing Reficul's door-to-door petition idea for the river quest
 - Was face-down at Mira's door being the emotional support dog
 - Was not involved in any of the slum chaos
 - Slipped away (Stealth 16) the moment serious conversations started
@@ -264,13 +273,13 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 | Reficul | Vicious Mockery + Psychic Blades | 12 psychic damage | Target clutched head, crowd rose |
 | Reficul | Earth Tremor | Dex saves from crowd | 4 commoners dropped to 0 HP |
 | Reficul | Devil's Curse | Random (Oni) | Transformed into Oni |
-| Halcyra | Calm Emotions (DC 15 CHA) | ~Half passed | Partial de-escalation |
-| Halcyra | Command ("Approach") on Reficul | Reficul failed | Had to walk to her |
+| Grungrak | Calm Emotions (DC 15 CHA) | ~Half passed | Partial de-escalation |
+| Mira | Command ("Approach") on Reficul | Reficul failed | Had to walk to her |
 | Grungrak | Grapple (Reficul) | 5 vs Reficul's 15 | Failed |
 | Grungrak | Perception (figure vanish) | Nat 20 | Saw figure teleport away |
 | Halcyra | Perception (figure vanish) | 16 | Also saw figure vanish |
 | Mira | Insight (figure vanish) | 12 | Did not see/notice |
-| Grungrak + Mira | Spare the Dying + Healing Hands | Success | All 4 commoners revived |
+| Halcyra + Grungrak | Healing Hands + Spare the Dying | Success | All 4 commoners revived |
 
 ---
 
@@ -290,13 +299,13 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 
 ## Funny Moments
 
-- Inquizo spending all night door-to-door collecting petition signatures with "services" — getting 6+ people per building
+- Inquizo spending all night door-to-door collecting petition signatures (Reficul's idea) — getting 6+ people per building
 - Inquizo face-down at Mira's door doing the dog snout thing
 - Reficul buying a terrible hand-carved totem for 3 gold ("it looks like a prehistoric fertility goddess but shittier") then convincing the vendor he's a lawyer and getting him to sign a contract making Reficul an unpaid employee
 - Reficul giving the vendor his "business card" — actually his room number slip from the guild
 - Grungrak remembering his room number (821): "There was one day that was two days where I killed half of eight people."
 - Reficul transforming into a massive Oni in the middle of a public square, now carrying a "tiny rapier"
-- Halcyra casting Command on the Oni-Reficul immediately and without hesitation
+- Mira casting Command on the Oni-Reficul immediately and without hesitation
 - Inquizo quietly sneaking off (Stealth 16) the second any serious conversation started — nobody noticed until he was long gone
 - Grungrak (still hungover) attempting to grapple Reficul and rolling a 5 total
 
@@ -309,8 +318,6 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 > *"Divinity needs your haste. Meet the tavern in two hours."* — Reficul (telepathically, to a stranger running away from him)
 
 > *"I was surprised by how brittle their bones were."* — Reficul, defending his decision to cast Earth Tremor on homeless people
-
-> *"And that's why I cast Spare the Dying."* — Reficul, after Mira points out he attacked people defending a community member
 
 > *"Have you considered that they were going to protect one of their community members from a stranger who was verbally berating him?"* — Mira to Reficul
 

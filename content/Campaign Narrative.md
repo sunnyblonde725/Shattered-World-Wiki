@@ -360,7 +360,7 @@ In the elevator, Grungrak composed "The Ballad of George" — an adaptation of "
 
 They boarded a new boat. The Psychopomp took the helm. The water road led toward the Gate of Ivory. The gate was close.
 
-Then Scylla surfaced. Six dog-heads above the waterline. Six tentacles below. Three on each side of the boat. Initiative was called. The session ended there.
+Then Urscylla surfaced. Six dog-heads above the waterline. Six tentacles below. Three on each side of the boat. Initiative was called. The session ended there.
 
 The party is close to the exit. Grungrak ate pomegranate. The sickle is gone. Eric is with them. The horse is with them. The gate is right there.
 
@@ -368,13 +368,13 @@ The party is close to the exit. Grungrak ate pomegranate. The sickle is gone. Er
 
 ### Session 7 — The Boulder Rolls, and Chapter 2 Begins
 
-The battle with Scylla was not clean. It was never going to be clean.
+The battle with Urscylla was not clean. It was never going to be clean.
 
 Halcyra cleaved a tentacle off with thirty-seven radiant damage on a natural twenty. The tentacle fell into the water like a tree coming down. The voice in her head said *"please let me taste that divine voice of yours"* — intimate and hungry and wrong. Halcyra did not waver. This is who she is.
 
-Then Scylla started singing.
+Then Urscylla started singing.
 
-Inquizo and Mira both failed their saves. Inquizo, charmed into trust, cycled through his collection of interesting objects — the penis rock, the wrong rock — and eventually landed on the necklace. The jade/emerald design of a snake eating itself, or a bird. He held it out. Scylla smiled. Eels don't smile, but this one did. It took the necklace gently in its teeth and sank. Whatever that necklace was, it is gone now, and whatever it meant to Inquizo — or to whatever has been watching Inquizo — went with it.
+Inquizo and Mira both failed their saves. Inquizo, charmed into trust, cycled through his collection of interesting objects — the penis rock, the wrong rock — and eventually landed on the necklace. The jade/emerald design of a snake eating itself, or a bird. He held it out. Urscylla smiled. Eels don't smile, but this one did. It took the necklace gently in its teeth and sank. Whatever that necklace was, it is gone now, and whatever it meant to Inquizo — or to whatever has been watching Inquizo — went with it.
 
 Mira heard the voice say "get in the water." She got in the water. The river around them was the Lethe and the Cocytus mixing — Grungrak's persuasion failed, his Healing Word failed catastrophically, and his voice disappeared into the air instead of reaching Mira at all. The logic was impeccable: Healing Word is verbal. He said a spell. His voice left.
 
@@ -388,19 +388,19 @@ Then Grungrak tackled Charon into the river too, which was possibly a tactical d
 
 Grungrak grabbed it. Natural twenty on the self-acceptance roll. Of course it was.
 
-The Anglite rock that the duplicate was carrying sparked against the water, against Scylla, against whatever the Lethe decided was happening — and an explosion fired them both up and out of the river like a cork from a bottle. The boat went with them, aimed at the cliffs, and Reficul appeared at exactly the wrong moment: close enough to be the first thing the boat found. He said "Crush the—" before the hull landed on him. D4 for luck: two. His beard got a trim. His body went on another brief vacation.
+The Anglite rock that the duplicate was carrying sparked against the water, against Urscylla, against whatever the Lethe decided was happening — and an explosion fired them both up and out of the river like a cork from a bottle. The boat went with them, aimed at the cliffs, and Reficul appeared at exactly the wrong moment: close enough to be the first thing the boat found. He said "Crush the—" before the hull landed on him. D4 for luck: two. His beard got a trim. His body went on another brief vacation.
 
 Grungrak landed like a superhero. Inquizo landed like he'd planned it. The horse was fine. The boat was done.
 
-Five tentacles still above water. Scylla's main body walked out of the sea.
+Five tentacles still above water. Urscylla's main body walked out of the sea.
 
 Grungrak caught Reficul's voice — an arcana check and a dexterity check and a glowing orb that said, in Reficul's voice, *"George, George — big run. Heave."* It was not a poem. It was instructions. Grungrak looked up at the cliff and saw Sisyphus pushing his boulder. And he understood.
 
-The boulder went over for the first time in history. Result of thirty. Sisyphus's eternal punishment, interrupted by a dwarf with his pinky toes still mortal and something to prove. The boulder landed on Scylla. The glowing orbs flew free. The voice came home.
+The boulder went over for the first time in history. Result of thirty. Sisyphus's eternal punishment, interrupted by a dwarf with his pinky toes still mortal and something to prove. The boulder landed on Urscylla. The glowing orbs flew free. The voice came home.
 
 It is raining on the other side of the cliff. Just Sisyphus's tears.
 
-The party crushed the pearls — each one dissolving the body into something between alive and ghost, leaving only the weakest part mortal. Grungrak's pinky toes. Inquizo's ear fins. Scylla's last water jet hit Grungrak for twenty points of damage before the pinning, pulling him back into his body before he could fully ascend. They passed through the Gate of Ivory anyway.
+The party crushed the pearls — each one dissolving the body into something between alive and ghost, leaving only the weakest part mortal. Grungrak's pinky toes. Inquizo's ear fins. Urscylla's last water jet hit Grungrak for twenty points of damage before the pinning, pulling him back into his body before he could fully ascend. They passed through the Gate of Ivory anyway.
 
 They leveled up. And Charlie took the DM seat.
 
@@ -420,7 +420,7 @@ In the tavern — where Penopolis the sentient pine cone served food and asked n
 
 George asked Reficul directly: *"How is it that you can just die and come back in two minutes?"* And Reficul, after a long pause and a half pint, told him. A deal with the devil. A job that must be completed. Peace withheld until the task is done. He cannot die until it is finished. He is one hundredth of the way there after everything that just happened. 
 
-Grungrack revealed that he relived dying in the Lethe — the lightning, the dragon from the beginning, again and again until he wanted to forget.
+Grungrak revealed that he relived dying in the Lethe — the lightning, the dragon from the beginning, again and again until he wanted to forget.
 
 George told him: *"You died. Dying is not your fault."*
 
@@ -628,9 +628,9 @@ The party split before they ever reached the island city.
 
 Mira and Reficul went through a portal at midnight — a narrow window, operated by a gender-fluid figure who let them through without ceremony. The portal delivered them to a city operating under a regime of fear. The first thing they saw was a body hanging from the portcullis. Above the body, a sign: *Do Not Rebel.* The butcher's corpse swayed. Reficul's curse activated — bullywug this time — and they pressed on.
 
-Meanwhile, Inquisio had gone ahead of everyone and gone invisible.
+Meanwhile, Inquizo had gone ahead of everyone and gone invisible.
 
-His recon of the palace was thorough and grim. A prison building held mostly women, birds, and mermaids — the populations this king had decided were threats or tools or both. Bodies on both portcullises. Pmurt's bedroom: empty. The king was not sleeping. Inquisio tracked what he needed, withdrew, and reported back.
+His recon of the palace was thorough and grim. A prison building held mostly women, birds, and mermaids — the populations this king had decided were threats or tools or both. Bodies on both portcullises. Pmurt's bedroom: empty. The king was not sleeping. Inquizo tracked what he needed, withdrew, and reported back.
 
 The party gathered. They bought supplies. George bought a war hammer — finally, a real one, even if it wasn't *his*. They disguised Mira (human, relatively unnoticed in a city that surveils the unusual), and they went in.
 
@@ -638,7 +638,7 @@ Their stealth results going through the palace: 28, 24, 14, 8, and George-3. A p
 
 What followed in the throne room was one of the biggest fights of the campaign.
 
-King Pmurt — English breakfast in hand, Nightmare entities as his patron saints, and Numgis's absent blessing behind him — fought the party across two phases. Phase one: conventional king-with-guards combat. He cast Fear; George failed the save and fled the room. He threw his breakfast around with bizarre effectiveness. Reficul hit him with Dissonant Whispers for 32 damage — a single spell, a devastating number. Halcyra applied Searing Smite and lit him on fire. Inquisio pulled the chandelier lever. George came back through the door and used Thunder Wave. Then used it again. The second cast landed in the middle of the wave of guards Pmurt had summoned — approximately twenty of them — and the room went quiet.
+King Pmurt — English breakfast in hand, Nightmare entities as his patron saints, and Numgis's absent blessing behind him — fought the party across two phases. Phase one: conventional king-with-guards combat. He cast Fear; George failed the save and fled the room. He threw his breakfast around with bizarre effectiveness. Reficul hit him with Dissonant Whispers for 32 damage — a single spell, a devastating number. Halcyra applied Searing Smite and lit him on fire. Inquizo pulled the chandelier lever. George came back through the door and used Thunder Wave. Then used it again. The second cast landed in the middle of the wave of guards Pmurt had summoned — approximately twenty of them — and the room went quiet.
 
 Twenty palace guards died in a single cast. George did not comment on this. He moved on.
 
@@ -678,7 +678,7 @@ The wire-glasses man was Numgis. He had been at the Bird Kingdom — at Voxus �
 
 The party departed the island city after that. They freed the remaining guards from Pmurt's chain of command, uncovered the falcon face on the gold-topped bird statue (Mira confirmed it was historically significant; she couldn't name it), and left. The Liberators went separately, toward the fish. The party went north.
 
-Voxus was the Bird Kingdom — built like the Rito from an old story, layered into the mountainside, enormous and structured and ancient in ways the party was not equipped to fully appreciate on a quick visit. They met Gunge. He was an owl-adjacent figure, a shadow therapist, someone who worked with the nightmare side of consciousness as a professional practice. He had something to tell them, but first he had a thing he needed to try.
+Voxus was the Bird Kingdom — built like the Rito from an old story, layered into the mountainside, enormous and structured and ancient in ways the party was not equipped to fully appreciate on a quick visit. They met Gunj. He was an owl-adjacent figure, a shadow therapist, someone who worked with the nightmare side of consciousness as a professional practice. He had something to tell them, but first he had a thing he needed to try.
 
 He walked them through breathing exercises. He faded them to black. And then each of them found themselves somewhere that was not the room they were sitting in.
 
@@ -694,7 +694,7 @@ And then Mira walked into a dragon.
 
 She had been talking to her father's image in the dream when her shadow grew. Green veins became wings. Her head shifted into a dragon's head. Before her stood a blue dragon with green veins — her patron, her dark power, the thing that had been speaking through her in a masculine voice and manifesting the sickle she still barely understood.
 
-Inside the dragon, the DM had expected denial. Mira does not deny; Mira reflects. She walked into it and found Grungrak inside.
+Inside the dragon, the DM had expected denial. Mira does not deny; Mira deflects. She walked into it and found Grungrak inside.
 
 The dragon told her she was the one behind the deaths. She asked it what the other Mira — the one in the mirror — had done differently when told to run. *She saved.* Black tendrils came from Mira and held the dragon still. She dealt the final blow. She found the cord — physical, real — and severed it.
 
@@ -706,9 +706,9 @@ After Grungrak faded, her shadow shrank to a small frightened girl. *What am I w
 
 Mira had learned something. Her father had sold his soul to save her when she was five and first getting sick. The contract read: *my soul for hers.* The patron, the dragon, the masculine voice, the sickle — all of it was downstream of that transaction. She had been purchased. Her father was gone somewhere because of her. And the necklace around her neck was from him, passed through the smallest version of herself, in a dream that was also somehow true.
 
-Gunge, after they woke, gave them tissue boxes and one more piece of information.
+Gunj, after they woke, gave them tissue boxes and one more piece of information.
 
-He had been on his way to unseal the God of Dreams. Part of the unsealing mechanism was in the next town. The God of Dreams was sealed by her own nightmare — her own shadow — and Numgis was working with that nightmare, for it, deliberately. Gunge believed this had to be stopped. He could not help much. He had duties and a chief who believed the town might need to be destroyed. He would stall as long as he could.
+He had been on his way to unseal the God of Dreams. Part of the unsealing mechanism was in the next town. The God of Dreams was sealed by her own nightmare — her own shadow — and Numgis was working with that nightmare, for it, deliberately. Gunj believed this had to be stopped. He could not help much. He had duties and a chief who believed the town might need to be destroyed. He would stall as long as he could.
 
 *It's one thing to kill people,* he said. *It's another to torment them in their dreams.*
 
@@ -759,7 +759,7 @@ He is Arcus — son of Cybele, child of the divine divorce, previously wielded t
 
 ### The Jade/Emerald Necklace
 
-Inquizo gave it to Scylla while charmed. The design was a snake eating itself, or possibly a bird — an ouroboros, a symbol of cycles and eternity. Scylla smiled when she took it. Eels do not smile. This was not a random item being taken by a greedy monster. The question is what it was and why Scylla wanted it specifically. The answer has gone underwater with her.
+Inquizo gave it to Urscylla while charmed. The design was a snake eating itself, or possibly a bird — an ouroboros, a symbol of cycles and eternity. Urscylla smiled when she took it. Eels do not smile. This was not a random item being taken by a greedy monster. The question is what it was and why Urscylla wanted it specifically. The answer has gone underwater with her.
 
 ### The Serpent
 
@@ -859,7 +859,7 @@ Whether Pmurt returns to reclaim the city, whether the resistance fills the powe
 
 The God of Dreams is female. She was sealed by her own nightmare — her own shadow self — and Numgis is working with that nightmare deliberately. This is the largest active supernatural threat in the campaign: a sealed deity whose unsealing is being managed by someone with bad intentions, in a way that involves the party's next destination and possibly requires destroying a town to complete.
 
-Gunge believes the town does not need to be destroyed. His chief believes it does. Gunge is stalling. The window is closing.
+Gunj believes the town does not need to be destroyed. His chief believes it does. Gunj is stalling. The window is closing.
 
 ### Mira's Father — Where Is He
 
@@ -883,9 +883,9 @@ They are still operating. They have a third location to handle — the fish. The
 
 *(This section is my best read of where the story is heading based on what's been established. It will be updated and corrected as sessions continue.)*
 
-**Immediate (after Session 12):** The party is in Voxus, the Bird Kingdom, sitting on Gunge's couch with new items and new scars. Everyone has just met their shadow self. Numgis is already in position at the next town, managing the unsealing of the God of Dreams. Gunge is stalling his chief. The window is closing. The party needs to move.
+**Immediate (after Session 12):** The party is in Voxus, the Bird Kingdom, sitting on Gunj's couch with new items and new scars. Everyone has just met their shadow self. Numgis is already in position at the next town, managing the unsealing of the God of Dreams. Gunj is stalling his chief. The window is closing. The party needs to move.
 
-**The God of Dreams unsealing:** This is the active crisis. Numgis is working with the nightmare that sealed her, and part of the mechanism is in the next town. Gunge's chief believes the town needs to be destroyed to complete it. The party's job — whether or not they know it yet — is to get there first and find a way to do this without destroying the town. Or to stop it entirely. Neither option is easy when Numgis is already there.
+**The God of Dreams unsealing:** This is the active crisis. Numgis is working with the nightmare that sealed her, and part of the mechanism is in the next town. Gunj's chief believes the town needs to be destroyed to complete it. The party's job — whether or not they know it yet — is to get there first and find a way to do this without destroying the town. Or to stop it entirely. Neither option is easy when Numgis is already there.
 
 **King Pmurt's next move:** He is alive, humiliated, mutilated, and has personal, visceral reasons to hunt Mira specifically. He will reach out to Numgis if he hasn't already. Whatever form his revenge takes, it is coming.
 

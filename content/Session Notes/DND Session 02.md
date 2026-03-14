@@ -1,5 +1,5 @@
 ---
-title: Session 02
+title: "Session 02 — The Submarine, The City, and Evil Ariel"
 session: 2
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-2]
@@ -44,7 +44,7 @@ The submarine was a metal aircraft/submarine hybrid. It had a full control panel
 - [[Reficul]] transformed into a bull shark to push [[Grungrak]] back up through the bottom hatch before it closed. He succeeded, but was then locked outside the submarine in shark form.
 - On the way out, someone pressed button 61 — which unlocked the back door into a second room.
 
-The back room was the pirate crew's quarters and gear storage. It contained flight suits, scuba diving equipment, and ornate pirate costumes (all sized for tall women). [[Inquizo]] immediately claimed a black pirate hat with a giant pink feather, despite the words "DO NOT TOUCH" inscribed on the inside brim — which he couldn't read. He now has three hats stacked: the forbidden pirate hat, his bard hat, and a tiny mystery hat that was already nested underneath his bard hat.
+The back room was the pirate crew's quarters and gear storage. It contained flight suits, scuba diving equipment, and ornate pirate costumes (all sized for tall women). [[Inquizo]] immediately started poking through the contents, playing dumb — he can read, but pretends he can't.
 
 Someone gave [[Grungrak]] the pirate hat as a gift, along with a sash worn like a scarf. His resulting smile was described as "the most pure smile."
 
@@ -57,9 +57,9 @@ The submarine, now navigated using the user manual, arrived at its destination: 
 The submarine docked by floating up into the underside of the city. The party emerged into an air-filled section with pearly white and gold paths, tidal pools where citizens relaxed, and windows looking out into the surrounding ocean. The city was populated almost entirely by women.
 
 Key problems:
-- **[[Halcyra]]** has wings. The city is at war with winged beings (the "bird folk"). Her wings made her a political target. She spent much of the session wrapped in a trench coat, passed off as [[Inquizo]]'s "exotic pet" or kept out of sight.
+- **[[Halcyra]]** has wings. The city is at war with winged beings (the "bird folk"). Her wings made her a political target. She spent much of the session wrapped in a trench coat or kept out of sight.
 - **[[Grungrak]]** is a man. In this city, men are treated as lesser beings or enslaved. He was left in the submarine to nap and avoid incident.
-- **[[Inquizo]]** is small, non-human, and of indeterminate gender presentation — he passed as a "quiet" (exotic pet/kobold). *("What are you supposed to be?" "A cobalt quiet." "Effectively a pet, truly.")*
+- **[[Inquizo]]** is small, non-human, and of indeterminate gender presentation — he was presented as the exotic pet, passing as a "Kobold quiet." *("What are you supposed to be?" "A Kobold quiet." "Effectively a pet, truly.")*
 - **[[Reficul]]** was grabbed by city guards while in shark form and thrown into a holding room with a window overlooking the water.
 
 [[Reficul]] used the window to telepathically communicate with his assigned merman guard — a man he named "Sisyphus" after the guard couldn't remember his own name (brainwashed). Over the course of a very long, very philosophical conversation, [[Reficul]] learned:
@@ -75,7 +75,7 @@ Meanwhile, [[Mira]] (with [[Inquizo]] on her head) navigated the city and found 
 ### What the Historian Revealed
 
 - The city had a **statue of one of their gods stolen** within the last few weeks. They blame the bird folk.
-- The statue is NOT with the bird folk. **The men on the island — between the sea and the mountain — have it.** [[Mira]] saw the statue during the party's time on the island, and its face had been replaced with the face of the island tribe's leader.
+- The statue is NOT with the bird folk. **The men on the island — between the sea and the mountain — have it.** [[Mira]] saw the statue during the party's time on the island, and its face had been replaced with **King Pmurt's face**.
 - The **pirate crew arrived around the same time the statue disappeared** — not a coincidence.
 - **Clams on the walls are surveillance devices** ("Security Glabra"). [[Mira]] noticed this.
 - The city has a complicated relationship with all neighboring powers: they hate the bird folk (at war), they hate the island men (sexist tribe), and the pirates are an unknown wildcard.
@@ -100,55 +100,48 @@ The queen listened. Then announced combat.
 
 ---
 
-## Timestamped Play by Play
+## Timestamped Play-by-Play
 
-- **[00:01]** — Beach scene, party with pirate captain. Debt conversation.
-- **[00:17]** — Inquizo buries head in sand, nearly drowns.
-- **[09:17]** — Grungrak launches Inquizo from the sand by kicking.
-- **[10:30]** — Pirate offers submarine or mountain access. Party chooses submarine.
-- **[15:00]** — Party boards submarine. Inquizo presses first button. Darkness.
-- **[17:00]** — Inquizo finds button panel. Chaos begins.
-- **[21:23]** — Submarine goes underwater. Giant pearly castle visible ahead.
-- **[32:35]** — Merman appears outside top hatch — huge, ripped, trident, giant beard.
-- **[37:55]** — Bottom hatch opens. Grungrak slides toward water.
-- **[41:44]** — Reficul transforms into a bull shark to push Grungrak back in.
-- **[43:10]** — Merman tries to pull Grungrak DOWN. Reficul wins. Grungrak flies back in. Reficul locked outside.
-- **[45:15]** — Reficul (bull shark) discovers the water is fresh, not salt. Crisis averted (bull shark).
-- **[54:28]** — Grungrak heals Reficul anyway (guilt about the eye).
-- **[55:15]** — Submarine arrives at underwater city. Docks.
-- **[57:45]** — Submarine auto-docks. Footsteps above them.
-- **[01:03:00]** — Back gear room discovered. Dive suits, pirate outfits, the hat.
-- **[01:04:00]** — Inquizo claims the DO NOT TOUCH pirate hat. Can't read. Three hats achieved.
-- **[01:11:00]** — Party puts on dive suits. Grungrak gets pirate hat as gift. Purest smile.
-- **[01:14:00]** — Grungrak + Inquizo attempt "kobold in a trench coat" (dive helmet on Grungrak's shoulders, Inquizo inside). They crab walk.
-- **[01:23:00]** — They open the hatch into the city. Air, not water. Crabs staring at them.
-- **[01:25:30]** — City is populated mostly by women. Halcyra's wings are a problem.
-- **[01:28:40]** — Reficul (shark) spotted through city windows. Still outside.
-- **[01:31:00]** — Reficul finds a white-tip reef shark in the city water.
-- **[01:36:30]** — Reficul changes back from shark form (constitution check, 16). Thrown into holding room.
-- **[01:43:28]** — Reficul begins telepathic conversation with merman guard "Sisyphus."
-- **[01:44:00]** — Sisyphus reveals: had legs cut off, given a fishtail, brainwashed, 300-year contract.
-- **[01:51:33]** — Reficul declares the contract inhumane and illegal. Offers to be his lawyer.
-- **[01:54:04]** — "I will be your lawyer. I am taking whoever brainwashed you to court immediately."
-- **[02:00:00]** — Mira and Inquizo head into the city. Grungrak left in submarine.
-- **[02:01:25]** — City encounter: the city is at war with bird folk. Halcyra's wings are a problem.
-- **[02:08:24]** — Mira talks them into a historian visit. Directed "down the hall to the right."
-- **[02:15:00]** — Reficul claims to be the "God of Freedom." Sisyphus reveals the queen IS a god.
-- **[02:45:00]** — Historian (puffer fish) reveals the stolen statue situation.
-- **[02:53:19]** — Historian confirms a god-statue went missing recently, blamed on bird folk.
-- **[02:55:51]** — Mira reveals: the men on the island have the statue, face defaced with their leader's.
-- **[02:57:04]** — Pirates arrived same time as the statue went missing.
-- **[03:20:49]** — Clams on the walls are surveillance ("Security Glabra").
-- **[03:21:30]** — Party is on a time limit — must reach the queen before her dinner ends.
-- **[03:22:24]** — They ascend the spiral staircase. Three floors.
-- **[03:22:45]** — Throne room: giant arched door, two seahorse guards.
-- **[03:24:14]** — The queen: beautiful, red-haired, crowned. "Ariel, the bad version."
-- **[03:25:16]** — Mira approaches. Begins her diplomatic report.
-- **[03:31:50]** — Queen announces combat. Session ends before it begins.
+| Timestamp | Event | Key Detail |
+|-----------|-------|------------|
+| 00:01 | Beach scene, pirate captain | Debt conversation; party decides to take the submarine |
+| 00:17 | Inquizo buries head in sand, nearly drowns | Nearly kills himself in a sandcastle |
+| 09:17 | Grungrak launches Inquizo from the sand by kicking | Natural 1 on strength; Inquizo becomes a projectile |
+| 10:30 | Pirate offers submarine or mountain access | Party chooses submarine |
+| 15:00 | Party boards submarine; Inquizo presses first button | Magical darkness descends |
+| 17:00 | Inquizo finds button panel; chaos begins | Buttons control everything from lights to hatches |
+| 21:23 | Submarine goes underwater | Giant pearly castle visible ahead |
+| 32:35 | Merman appears outside top hatch | Huge, ripped, trident, giant beard |
+| 37:55 | Bottom hatch opens | Grungrak slides toward water |
+| 41:44 | Reficul transforms into a bull shark to push Grungrak back in | Succeeds; Grungrak flies back in; Reficul locked outside |
+| 43:10 | Merman tries to pull Grungrak down | Reficul wins; Reficul locked outside the sub |
+| 45:15 | Reficul (bull shark) discovers the water is fresh, not salt | Bull sharks live in freshwater; crisis averted |
+| 54:28 | Grungrak heals Reficul anyway | Guilt about the eye; heals 14 HP |
+| 55:15 | Submarine arrives at underwater city; docks | Party prepares to explore |
+| 01:03:00 | Back gear room discovered | Dive suits, pirate outfits, and the DO NOT TOUCH hat |
+| 01:04:00 | Inquizo claims the DO NOT TOUCH pirate hat | "Can't read." Three hats achieved. |
+| 01:11:00 | Grungrak gets pirate hat as gift | "The most pure smile." |
+| 01:14:00 | Grungrak and Inquizo attempt "kobold in a trench coat" | Dive helmet on Grungrak's shoulders; Inquizo inside; they crab walk |
+| 01:23:00 | Party opens the hatch into the city | Air, not water; crabs staring at them |
+| 01:25:30 | City is populated mostly by women | Halcyra's wings make her a political liability |
+| 01:36:30 | Reficul changes back from shark form (Con check: 16) | Thrown into a holding room |
+| 01:43:28 | Reficul begins telepathic conversation with merman guard "Sisyphus" | Sisyphus: legs cut off, fishtail given, brainwashed, 300-year contract |
+| 01:51:33 | Reficul declares the contract inhumane and illegal | Offers to be his lawyer |
+| 01:54:04 | "I will be your lawyer." | Reficul invokes the King of Hell as legal authority |
+| 02:00:00 | Mira and Inquizo head into the city | Grungrak left in submarine to nap and avoid incident |
+| 02:08:24 | Mira talks them into a historian visit | Directed "down the hall to the right" |
+| 02:45:00 | Historian (puffer fish) reveals the stolen statue situation | God-statue went missing; city blames bird folk |
+| 02:55:51 | Mira reveals: the men on the island have the statue | Its face has been defaced with their leader's |
+| 02:57:04 | Pirates arrived same time as the statue went missing | Not a coincidence |
+| 03:20:49 | Clams on the walls are surveillance devices | "Security Glabra" |
+| 03:22:24 | Party ascends the spiral staircase | Three floors to the throne room |
+| 03:24:14 | The queen: beautiful, red-haired, crowned | "Ariel, the bad version." |
+| 03:25:16 | Mira begins her diplomatic report | Explains the stolen statue situation to the queen |
+| 03:31:50 | Queen announces combat | Session ends before combat begins |
 
 ---
 
-## Character Moments & Development
+## Character Moments
 
 **[[Halcyra]] (Lorenne/Sunny):**
 Halcyra's wings were a source of constant tension in this session — the underwater city is at war with winged beings, making her a political liability. She adapted by using her wings as an umbrella to shield the group from the city's brightness, and spent the throne room approach either hidden in a trench coat or walking with eyes down behind [[Mira]]. She also revealed she has healing hands *(unconfirmed: possibly Paladin's Lay on Hands)* and used them on Grungrak after his nose-bonking incident.
@@ -160,7 +153,7 @@ Grungrak was this session's most chaotic presence — ironically by just existin
 Reficul's session was almost entirely in shark form and then in a holding cell, but his conversation with Sisyphus showed his full personality — philosophical, manipulative, charming, theatrical. He invoked the King of Hell as legal authority, offered anarchy as a lifestyle, tried to name the merman guard, and genuinely seemed to enjoy himself. His changeling nature confirmed: clothes shift with him during transformation.
 
 **[[Inquizo]] (Charlie):**
-Maximum chaos, minimum consequences. Inquizo pressed every button he could find, acquired three hats (one of which says DO NOT TOUCH), briefly piloted a dwarf from inside a diving helmet, was presented as a legitimate exotic pet, and squeaked at the city's citizens when they couldn't determine his gender. His illiteracy remains one of his most useful character traits. *(Confirmed: Inquizo can't read, and knows he can't read.)*
+Maximum chaos, minimum consequences. Inquizo pressed every button he could find, briefly piloted a dwarf from inside a diving helmet, was presented as a legitimate exotic pet (the Kobold — he was the exotic pet this session), and squeaked at the city's citizens when they couldn't determine his gender. He can read, but plays dumb and "can't read" when it suits him.
 
 **[[Mira]] (Ele):**
 Mira was the session's unsung hero. She found the user manual, labeled every button, handled all diplomacy, talked the group into a historian meeting, translated political information across cultural lines, and managed three chaotic travel companions while also hiding a winged Aasimar in a trench coat. She is chronically ill and has a strength modifier, but she's still the most competent person in the room.
@@ -204,7 +197,7 @@ Mira was the session's unsung hero. She found the user manual, labeled every but
 
 ---
 
-## Rolls & Combat Highlights
+## Rolls & Combat
 
 - **Inquizo buries head in sand** — rolls to investigate a tiny rock → finds it → rolls to survive being buried → near death → Grungrak rolls strength to pull him out → natural one → Grungrak kicks Inquizo into the air.
 - **Grungrak launched from sand** — takes 1 damage on landing. Just one.
@@ -222,12 +215,11 @@ Mira was the session's unsung hero. She found the user manual, labeled every but
 ## Cliffhangers & Unresolved Threads
 
 - **The queen declared combat** — session ended before it began. The throne room encounter picks up next session. Unknown what triggered it (delivering information, or just being there as outsiders).
-- **The DO NOT TOUCH pirate hat** — Inquizo is wearing it. Something will happen. The DM specifically said he had "no reason to say you don't put this on" and "as a DM, I have to say you don't put this on. As a player, you know you need to not put this on."
 - **The stolen god-statue** — the men on the island have it. The pirates are involved. The queen now knows.
 - **Reficul's conversation with Sisyphus** — unresolved. Is Sisyphus wavering? Can Reficul get out of the holding room?
 - **[[Grungrak]] alone in the submarine** — surrounded by merpeople. The DM mentioned "they're going to love him" and "they might take his legs."
 - **The pirate captain's debt** — the party owes her. She expected them to come back with something. Did they deliver?
-- **The ballad of Grungrak** — apparently written as an "admission of love" before "dragon happened." [[Mira]] has not heard it yet.
+- **The ballad of Grungrak** — apparently written as an "admission of love" before "dragon happened." [[Mira]] has heard it.
 
 ---
 
@@ -242,14 +234,14 @@ Mira was the session's unsung hero. She found the user manual, labeled every but
 - The bull shark debate: heads or tails. He's a bull shark. They live in freshwater. Crisis averted.
 - Reficul telepathically tells the merman guard he is "your god" and "the God of Freedom." The merman responds: "We are unsure of orders in that case, sir."
 - Mira tries to convince the city citizens that Grungrak's behavior is due to "significantly reduced intellectual capacity." They believe her. She feels bad.
-- Inquizo's cover story: exotic pet. Species: "a cobalt quiet." The citizen accepts this.
+- Inquizo's cover story: exotic pet. Species: "a Kobold quiet." The citizen accepts this.
 - The clams are security cameras and someone only noticed after the diplomatic meeting.
 
 ---
 
 ## Session Quotes
 
-> "Unfortunately, this sign cannot stop me because I cannot read." — [[Inquizo]]
+> "Unfortunately, this sign cannot stop me because I cannot read." — [[Inquizo]] *(he can read — he just plays dumb)*
 
 > "Forward, my good son!" — [[Inquizo]] (directing blind Grungrak from inside the dive helmet)
 
@@ -277,7 +269,7 @@ Mira was the session's unsung hero. She found the user manual, labeled every but
 **Highlight moments:**
 - **[00:17]** — Inquizo drowning in sand / Grungrak launching him
 - **[41:44]** — Reficul turning into a bull shark to save Grungrak
-- **[01:04:00]** — Inquizo and the DO NOT TOUCH hat ("Unfortunately, this sign cannot stop me because I cannot read.")
+- **[01:04:00]** — Inquizo poking through the pirate crew's gear room
 - **[01:12:00]** — Kobold in a trench coat / crab mode
 - **[01:13:00]** — Grungrak receives pirate hat. Purest smile.
 - **[01:44:00]** — Reficul's conversation with Sisyphus begins

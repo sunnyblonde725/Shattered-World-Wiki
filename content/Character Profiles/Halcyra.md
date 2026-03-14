@@ -25,7 +25,7 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 
 **Confirmed so far:**
 - She has had the prophecy scroll since she was 15 — who gave it to her and whether she understands it is not yet established
-- **Session 7 confirmed:** At 18, her **wings fell** — described as significant and traumatic. She grew up feeling constantly judged by how she looked. She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes. This is the first time she shared this with the party.
+- **Session 7 confirmed:** At 18, when she was formally judged for her wings, they **physically drooped** as an involuntary shame response — she had been raised to hide them, and her body betrayed that in the moment. She grew up feeling constantly judged by how she looked. She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes. This is the first time she shared this with the party.
 
 **Pending — needs canon confirmation before developing further:**
 - How she got the scroll
@@ -49,17 +49,18 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - Thunder Wave (Session 5 — blasted Richard's crowd off the floating island)
 - Radiant bolt (Session 6 — rolled a 1; bounced off the metal horse and hit Reficul in the face for 7 damage instead)
 - Athletics catch (Session 6 — 15, caught Grungrak before he landed in the River Lethe)
-- **Divine Smite + Natural 20** (Session 7 — cleaved off one of Scylla's tentacles; 37 radiant damage total: 3d8 guaranteed max 24 + 3d8 rolled 13; "just like taking down a tree")
-- **Wisdom save vs. Scylla's aria** (Session 7 — rolled 22, not charmed; full presence of mind during the fight)
+- **Divine Smite + Natural 20** (Session 7 — cleaved off one of Urscylla's tentacles; 37 radiant damage total: 3d8 guaranteed max 24 + 3d8 rolled 13; "just like taking down a tree")
+- **Wisdom save vs. Urscylla's aria** (Session 7 — rolled 22, not charmed; full presence of mind during the fight)
 - **Level 5 — Extra Attack** gained
 - **Level 5 — Faithful Steed** gained: can cast Find Steed once without a spell slot; steed is almost certainly a Pegasus (Percy the horse with wings)
 - **Calm Emotions** (Session 8 — 20 ft sphere, DC 15 charisma save; used in slums to partially de-escalate the crowd after Reficul attacked them; ~half the crowd calmed; the mysterious figure was not among those affected)
 - **Command ("Approach")** (Session 8 — cast on Oni-Reficul; he failed the save and had to walk toward her)
 - **Divine Sense** (Session 10 — determined the cave creature is NOT a celestial, fiend, or undead; this was the most critical combat intel of the fight)
 - **Light cantrip** (Session 10 — cast on a torch to create 20-foot bright light; creature reacted badly)
-- **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquisio; partially expelled goop from bite wounds; dark shadow marks remained)
+- **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquizo; partially expelled goop from bite wounds; dark shadow marks remained)
 - **Searing Smite** (Session 11 — during the King Pmurt throne room fight; lit Pmurt on fire after a hit; fire damage persisted each turn with a Constitution save to extinguish)
-- **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquisio who pulled the lever to drop it)
+- **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquizo who pulled the lever to drop it)
+- **Zone of Truth** (Session 11 — cast before Pmurt escaped to interrogate him; a significant character moment given that Zone of Truth is a paladin spell and she used it to extract genuine information from the man who had been running from them)
 
 ### Current Known Inventory
 - **Longsword** — primary weapon
@@ -67,7 +68,7 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - *(Character sheet upload will fill this in further)*
 
 ### Session 11 Update
-Halcyra fought in the King Pmurt throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Pmurt on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Pmurt and the phantasmal spectator summoned in Phase 2. She coordinated with Inquisio on the chandelier tactic. Pmurt escaped via contingency poof before the fight could conclude. After Pmurt fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
+Halcyra fought in the King Pmurt throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Pmurt on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Pmurt and the phantasmal spectator summoned in Phase 2. She coordinated with Inquizo on the chandelier tactic. Pmurt escaped via contingency poof before the fight could conclude. After Pmurt fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
 
 ### Prophecy Connections
 Multiple stanzas speak directly to Halcyra:
@@ -88,7 +89,7 @@ Multiple stanzas speak directly to Halcyra:
 - She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
 - **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
 - **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
-- **YOMI letters glowed (Session 9)** — while Halqira prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached. Calm Emotions failed during this scene.
+- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached. Calm Emotions failed during this scene.
 - **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
 - **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
 - **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large. How does the party proceed from the island city?

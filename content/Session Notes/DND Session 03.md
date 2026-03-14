@@ -1,8 +1,8 @@
 ---
-title: Session 03
+title: "Session 03 — Ariel Falls, Mira Doesn't Know She's Dead"
 session: 3
 date: unknown
-tags: [dnd, shattered-world, session-notes]
+tags: [dnd, shattered-world, session-notes, session-3]
 ---
 
 # DND Session 3
@@ -33,7 +33,7 @@ The session opened mid-confrontation. Before the party could act, Ariel unleashe
 
 With half the party under the queen's charm, [[Inquizo]] improvised: he face-hugged [[Mira]] to physically prevent her from using any visual spell components. It was chaotic, absurd, and it worked after a fashion.
 
-During the fight, [[Reficul]] attempted emotional manipulation. He discovered — or intuited — that the queen had once loved a man named **Amos**, who was drowned by a sea witch. Reficul used this against her mid-combat, invoking Amos's memory. Ariel cried while still fighting. "You'll never replace him," she said. The tactic didn't stop her, but it revealed everything about who she used to be.
+During the fight, [[Reficul]] attempted emotional manipulation. He discovered — or intuited — that the queen had once loved a man named **Eric**, who was drowned by a sea witch. Reficul used this against her mid-combat, invoking Eric's memory. Ariel cried while still fighting. "You'll never replace him," she said. The tactic didn't stop her, but it revealed everything about who she used to be.
 
 The fight also surfaced more world context: the stolen statues have names. Ariel had hired the [[The Pirate Captain|pirate captain]] to retrieve both **"Poppa Poseidon"** and the **"God of the Seas"** — two divine statues missing from the city.
 
@@ -49,7 +49,7 @@ The party pushed through and killed Queen Ariel. As she died, a magical wave swe
 
 [[The Puffer Fish Historian]] found his voice. The party named him **Hamish**.
 
-He was thrilled beyond measure. Puffer fish, it turns out, communicate through bubble-size writing — but with the silence lifted, he could finally speak. Hamish told the party Ariel's full story: the kind mermaid who earned legs, fell in love with a man named Amos, lost him to a sea witch, and let grief hollow her out into the tyrant she became. He was eager to share everything he knew, freely and without fear.
+He was thrilled beyond measure. Puffer fish, it turns out, communicate through bubble-size writing — but with the silence lifted, he could finally speak. Hamish told the party Ariel's full story: the kind mermaid who earned legs, fell in love with a man named Eric, lost him to a sea witch, and let grief hollow her out into the tyrant she became. He was eager to share everything he knew, freely and without fear.
 
 ### Grungrak at the Bar
 
@@ -66,6 +66,8 @@ With Ariel dead, the contractor behind the mermen's 300-year servitude contracts
 After the events in the underwater city, the party took a long rest.
 
 ### The Field — A New Location
+
+*(Note: After the underwater city section concludes, the DM switches from Cooper to Ian.)*
 
 After leaving the city, the party arrived at a field/forest area featuring a circular pit section filled with strange glowing white strings. Something about this place was wrong.
 
@@ -97,34 +99,38 @@ The party did not enter formal combat. They, in the DM's words, "bullshitted the
 
 ### The Good Boy of the North
 
-During the chaos, the party heard high-pitched laughing from the forest to the north — distinct from the manticore's roar. Someone recognized it as the **Good Boy of the North**, a moon-associated entity. Three party members made religious rolls (needing 15+) to make it "candid" — they succeeded, rolling 14+modifier and 16. The Good Boy of the North simply did not need to show up right then, but acknowledged the prayer. This entity is real, moon-adjacent, and apparently reachable through sincere pug-prayer.
+During the chaos, the party heard high-pitched laughing from the forest to the north — distinct from the manticore's roar. Someone recognized it as the **Good Boy of the North**, a moon-associated entity. Three party members made religious rolls (needing 15+) to make it "canon" — the entity was made up on the spot and the table had to roll to make it a canon character. They succeeded, rolling 14+modifier and 16. The Good Boy of the North simply did not need to show up right then, but acknowledged the prayer. This entity is real, moon-adjacent, and apparently reachable through sincere pug-prayer.
 
 ### Session End
 
-The DM called it at approximately 5:15 AM. Post-session, the group fell into reminiscing about a previous campaign — "Alias and Thorn" — suggesting this group has significant shared DND history.
+Post-session, the group fell into reminiscing about a previous campaign — "Alias and Thorn" — suggesting this group has significant shared DND history.
 
 ---
 
-## Timestamped Play by Play
+## Timestamped Play-by-Play
 
-- **[00:00 - ~01:30]** — Throne room combat. Ariel's charm hits Mira, Inquizo, Halcyra. Inquizo face-hugs Mira.
-- **[~01:30 - ~02:00]** — Reficul's Amos manipulation attempt. Ariel cries and keeps fighting.
-- **[~02:00]** — Reficul stabs himself. "See you in hell." Changeling true form revealed.
-- **[~02:30]** — Mira's medicine check (21): cause of death unknown.
-- **[~03:00]** — Ariel killed. Silencing wave lifts across the city.
-- **[~03:15]** — Hamish speaks for the first time. Party names him. He shares Ariel's backstory.
-- **[~03:30]** — Grungrak at the bar. Fish George. Songs. Possible Thunderwave window-shattering.
-- **[~04:00]** — Long rest taken.
-- **[~04:15 - 04:28]** — Party arrives at field/forest with circular pit and glowing white strings. Mira struggles through the mud.
-- **[04:28 - 04:52]** — Mysterious white-haired NPC arrives. Tasha's Hideous Laughter. Laxative gum. Rose wing transformation. Grabs sheep. Kneecap nail and green foam.
-- **[04:52 - 05:07]** — Jar of spiders chaos. Manticore and hyenas emerge from forest north. Creature dismisses them. Gum ripped out. Creature retreats north.
-- **[05:09]** — Mira revelation: "You're not supposed to be here." Blood being tugged. "Mira doesn't know she's dead."
-- **[05:05]** — Good Boy of the North prayer. Religious rolls succeed. Pug doesn't show up, but heard.
-- **[05:15]** — DM calls the session.
+*Timestamps are approximate — no clean recording exists for this session.*
+
+| Timestamp | Event | Key Detail |
+|-----------|-------|------------|
+| ~00:00–01:30 | Throne room combat opens | Ariel's charm hits Mira, Inquizo, Halcyra; Inquizo face-hugs Mira to prevent visual spell components |
+| ~01:30–02:00 | Reficul's emotional manipulation gambit | Ariel cries and keeps fighting; "You'll never replace him." |
+| ~02:00 | Reficul stabs himself | "See you in hell." Changeling true form revealed: small, fiendish horns, white hair |
+| ~02:30 | Mira's medicine check (21) | Cause of death unknown — not from the stab, not from drowning |
+| ~03:00 | Ariel killed | Silencing wave lifts across the entire city |
+| ~03:15 | Hamish speaks for the first time | Party names him; he shares Ariel's backstory |
+| ~03:30 | Grungrak at the bar | Fish George; songs; possible Thunderwave window-shattering |
+| ~04:00 | Long rest taken | DM switches from Cooper to Ian |
+| ~04:15–04:28 | Party arrives at field/forest with circular pit | Mira struggles through the mud at ~1/15th normal speed |
+| ~04:28–04:52 | Mysterious white-haired NPC arrives | Tasha's Hideous Laughter; laxative gum; rose wing transformation; grabs green sheep; nail in kneecap |
+| ~04:52–05:07 | Jar of spiders chaos | Manticore and hyenas emerge; creature dismisses them; rips out gum; retreats north |
+| ~05:05 | Good Boy of the North prayer | Religious rolls succeed; the pug doesn't show up but is heard |
+| ~05:09 | Mira revelation | "You're not supposed to be here." Blood being tugged. "Mira doesn't know she's dead." |
+| ~05:09+ | Session winds down | Post-session reminiscing about previous campaign "Alias and Thorn" |
 
 ---
 
-## Character Moments & Development
+## Character Moments
 
 **[[Halcyra]] (Lorenne/Sunny):**
 - Charmed by Ariel's singing spell at session open. Had to fight against her own will to protect the queen. *(unconfirmed — based on context)*
@@ -153,19 +159,19 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 **[[Mira]] (Ele):**
 - Charmed by Ariel at session open.
 - Performed a medicine check of 21 on Reficul's body — could not determine cause of death.
-- Discovered she is dead. She does not know this yet. Her blood is being tugged in the pit area. She cannot heal or pray. She moves at approximately 1/15th normal speed in that location.
+- Discovered she is dead. She does not know this yet. Her blood is being tugged in the pit area. She cannot heal or pray in this space — her ability to pray and heal only works on herself, not others. She moves at approximately 1/15th normal speed in that location.
 - "She's technically reinvigorated." Something brought her back without her awareness.
 
 ---
 
 ## Lore & Worldbuilding Discoveries
 
-- **Ariel's origin** — She was once a kind mermaid. She earned legs, fell in love with a man named Amos, who was drowned by a sea witch. Grief and rage transformed her into the tyrant she became. *(Session 3)*
+- **Ariel's origin** — She was once a kind mermaid. She earned legs, fell in love with a man named Eric, who was drowned by a sea witch. Grief and rage transformed her into the tyrant she became. *(Session 3)*
 - **Ariel's silencing enchantment** — She had maintained a city-wide suppression spell on the speech of "inferior" beings. It lifted when she died. *(Session 3)*
 - **The two stolen statues have names** — "Poppa Poseidon" and the "God of the Seas." Ariel hired the pirates specifically to retrieve them. *(Session 3)*
 - **Reficul's true changeling form** — Small (~3 ft), fiendish horns, long white hair, blood that shifts green to blue by temperature. His death mechanic: when he dies, he goes to hell with no death saves. *(Session 3)*
 - **Reficul's cause of death is unknown** — A medicine check of 21 confirmed he did not die from the self-inflicted stab wound or from drowning. Cause unexplained. *(Session 3)*
-- **Mira is dead (or between states)** — She does not know. She is "reinvigorated" but "not supposed to be here." Her blood is tugged in the pit area. She cannot heal or pray. *(Session 3)*
+- **Mira is dead (or between states)** — She does not know. She is "reinvigorated" but "not supposed to be here." Her blood is tugged in the pit area. She cannot heal or pray in this space — her ability to pray and heal only works on herself, not others. *(Session 3)*
 - **Puffer fish communication** — Puffer fish communicate through bubble-size writing. With Ariel's silence lifted, [[Hamish]] can now also speak. *(Session 3)*
 - **The nail in the mysterious NPC's kneecap** — Striking it with a hammer produces green foam rather than blood or bone. Nature unknown. *(Session 3)*
 - **The Good Boy of the North** — A moon-associated entity reachable through sincere religious prayer. Real and present in this world. The high-pitched laughing from the northern forest was connected to it. *(Session 3)*
@@ -178,7 +184,7 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 
 | NPC Name                                          | Role / Faction                     | Attitude                 | Key Notes                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------- | ---------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Queen Ariel]]                                   | Ruler/deity of the underwater city | Hostile → Dead           | Defeated this session. Her grief over Amos (drowned by a sea witch) explains her cruelty. Maintained a city-wide silencing enchantment that lifted at her death.                                                                                                                                                                                                              |
+| [[Queen Ariel]]                                   | Ruler/deity of the underwater city | Hostile → Dead           | Defeated this session. Her grief over Eric (drowned by a sea witch) explains her cruelty. Maintained a city-wide silencing enchantment that lifted at her death.                                                                                                                                                                                                              |
 | [[Hamish]] *(formerly The Puffer Fish Historian)* | City Historian                     | Helpful / Thrilled       | Freed by Ariel's death. Told the party Ariel's full backstory. Named by the party. Communicates via bubble-size writing and now also speech.                                                                                                                                                                                                                                  |
 | Fish George                                       | City bar patron                    | Friendly                 | Fish the party met at the underwater bar. Befriended Grungrak. Cried while singing along to Grungrak's songs.                                                                                                                                                                                                                                                                 |
 | The Mysterious White-Haired NPC                   | Unknown                            | Volatile / Unpredictable | Short pure white hair, shirtless, bulkier build. Arrived with a gust of wind and a pine cone. Has been "waiting to come outside for a long time." Knows about the Island of Man; says horses are there. Transformation (rose wings) triggered by laxative gum. Commands or is recognized by a manticore and hundreds of hyenas. Has a nail in his kneecap. No confirmed name. |
@@ -197,7 +203,7 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 
 ---
 
-## Rolls & Combat Highlights
+## Rolls & Combat
 
 - **Ariel's charm spell** — Charmed Mira, Inquizo, and Halcyra with a bonus-action singing effect at combat start
 - **Reficul's Amos gambit** — Made Ariel cry mid-combat. Didn't stop her but revealed her humanity
@@ -219,7 +225,6 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 - **Grungrak's war hammer** — It's missing. The DM said "he may never have his hammer." What happened to it?
 - **The Good Boy of the North** — The party successfully prayed to it. It acknowledged but didn't appear. Is this a future ally? A god?
 - **The glowing white strings in the pit** — What are they? Why does Mira sink in that space?
-- **DO NOT TOUCH pirate hat** — [[Inquizo]] is still wearing it. Something is going to happen.
 
 ---
 
@@ -231,7 +236,7 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 - Reficul's death speech: "see you in hell" — immediately transforms into a tiny demon child
 - Feeding a mysterious, clearly-dangerous stranger laxative bubblegum
 - "Bullshitted our way out of initiative"
-- The party praying sincerely to the Good Boy of the North via a religious roll to make it "candid"
+- The party praying sincerely to the Good Boy of the North via a religious roll to make it "canon" — the entity was made up on the spot and rolled into existence
 - The submarine hatch opened and rain poured in — looking up through it, the party saw what appeared to be a moving cucumber in the sky. Debate: is it the whole person or just part of the person? Conclusion: *"So we are looking at somebody's penis. Someone is pissing on us."* Grungrak heard thunder. "There is a cucumber in the sky. And frankly, I was scared of cucumbers."
 - One of the two throne room seahorse guards is pregnant (male seahorses carry the young). The party discovered this and immediately spiraled: someone looked up the gestational period of a seahorse (10–45 days), calculated it accounting for giant size (~33 days), someone suggested inducing labor, and Ian was caught mid-session looking up how to cast Tidal Wave instead of paying attention. *"Honest seahorse?"* — officially quotable.
 - "Mira doesn't know she's dead" delivered completely casually mid-chaos
@@ -242,7 +247,7 @@ The DM called it at approximately 5:15 AM. Post-session, the group fell into rem
 
 > "See you in hell." — [[Reficul]], before stabbing himself
 
-> "You'll never replace him." — [[Queen Ariel]], crying mid-combat when Reficul invoked Amos
+> "You'll never replace him." — [[Queen Ariel]], crying mid-combat when Reficul invoked Eric
 
 > "Mira doesn't know she's dead." — DM
 

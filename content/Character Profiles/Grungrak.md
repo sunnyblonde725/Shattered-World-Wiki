@@ -39,8 +39,8 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - Bard performance abilities (singing, possibly bardic inspiration)
 - **Composed "The Ballad of George"** in Session 6 — adaptation of The Ballad of Grungrak, retitled for Eric, performed live in the underworld elevator
 - **Self-acceptance in the River Lethe** (Session 7 — nat 20 when grabbing his own duplicate's hand; George/Grungrak held hands with himself in the river)
-- **Anglite rock vs. Scylla** (Session 7 — strength save 19; the rock created an electrical steam explosion that fired him and George out of the Lethe)
-- **Boulder push** (Session 7 — nat 20, result 30; rolled Sisyphus's boulder over the cliff for the first time in history; it landed on and pinned Scylla)
+- **Anglite rock vs. Urscylla** (Session 7 — strength save 19; the rock created an electrical steam explosion that fired him and George out of the Lethe)
+- **Boulder push** (Session 7 — nat 20, result 30; rolled Sisyphus's boulder over the cliff for the first time in history; it landed on and pinned Urscylla)
 - **Healing Word misfire** (Session 7 — nat 1; his voice disappeared instead of healing; Healing Word is verbal)
 - **Level 5 — proficiency bonus now +3**
 - **Level 5 — Mass Healing Word** and other new bard abilities gained
@@ -50,7 +50,7 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Motivational Speech** (Session 10 — before setting out for the forest; gave everyone 6 temp HP for the day; Mira got 4 due to her psychic package)
 - **Cloud of Daggers** (Session 10 — 11 slashing damage to the cave creature when it moved through)
 - **Heroism** (Session 10 — touch spell cast on Halcyra; immune to frightened + temp HP at start of each turn)
-- **Song of Healing** (Session 10 — healed both Halcyra and Inquisio for 9 HP each; gave Bardic Inspiration to Halcyra)
+- **Song of Healing** (Session 10 — healed both Halcyra and Inquizo for 9 HP each; gave Bardic Inspiration to Halcyra)
 - **War hammer purchase** (Session 11, pre-session — bought a war hammer at the market before the palace mission; finally has a real weapon again, though it is not his original hammer)
 - **Fear (failed save)** (Session 11 — Pmurt cast Fear on the party; George failed the save and ran out of the throne room)
 - **Earth Tremor** (Session 11 — used during King Pmurt fight; contributed to the overall assault)
@@ -63,7 +63,7 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - ~~**The sickle "Castrator of the Sky"**~~ — **GIVEN TO PERSEPHONE (Session 6).** No longer in Grungrak's possession. Handed over as payment for passage out of the underworld.
 - **Shards of something important** — he carries them; the cord connecting them is held by Inquizo
 - **Jar of black liquid** (from Baleam, Session 5) — unidentified; same substance as one of Richard's hallucinogen spoons
-- **Two-sided necklace** (Session 12) — spins; one side shows an olive branch (Necklace of Tranquility), the other a foray music symbol (Power of Courage); George holds the deal and can choose which face to use
+- **Two-sided necklace** (Session 12) — spins; one side shows an olive branch (Necklace of Tranquility), the other a forte music symbol (Power of Courage); George holds the deal and can choose which face to use
 - *(Character sheet upload will fill this in further)*
 
 ## Character Sheet Stats
@@ -204,10 +204,10 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Reconciliation with Mira (Session 8)** — Major emotional scene. Mira initiated and apologized first — she acknowledged she had been too aggressive in pushing him to remember. George then opened up: he told her he was not ready to face Reficul's death again (he watched Grungrak die to a blue dragon, was told to run, regretted it). He acknowledged he had met Grungrak in the Lethe ("He was kind. I see why he was your friend."). He asked Mira to someday tell him "the tale of a jolly good fellow." **This thread is resolved.**
 - **Wants a new hammer** — ~~asked about the blacksmith at X-salent~~ **RESOLVED (Session 11).** He bought a war hammer before the palace mission. The hammer issue is settled for now.
 - **Copied the wall poem into his songbook** — snagged the guard's notebook copy of the 12-line writing mystery poem during the Session 8 investigation.
-- **Speech to Refisul (Session 9)** — after the party fled the Victorian manor, Grungrack gave Refisul a sincere, emotionally earnest speech about believing in him and deserving second chances, using Refisul's own words back at him. One of his strongest character moments.
+- **Speech to Reficul (Session 9)** — after the party fled the Victorian manor, Grungrak gave Reficul a sincere, emotionally earnest speech about believing in him and deserving second chances, using Reficul's own words back at him. One of his strongest character moments.
 - **Session 10 card game reveal** — described the original Grungrak as his best friend: *"He found me when I first came to the guild. Decided we were gonna be best friends, just by my attempts not to be. And now it's in our river."* He knows who Grungrak was. He grieves it quietly.
 - **Saw the lightning and the dragon in the Lethe** (Session 7) — the lightning and the dragon from the start of the campaign played out in his vision during the Lethe sequence.
-- **Session 11 — Palace infiltration group / Town group** — George was with the palace group (Halcyra, Inquisio). He used Thunder Wave twice; the second one wiped ~20 guards in a single cast. He failed the Fear save and fled briefly. He used Mass Healing Word to keep the party up. Pmurt escaped before the fight ended. Level up to 6 at session end.
+- **Session 11 — Palace infiltration group / Town group** — George was with the palace group (Halcyra, Inquizo). He used Thunder Wave twice; the second one wiped ~20 guards in a single cast. He failed the Fear save and fled briefly. He used Mass Healing Word to keep the party up. Pmurt escaped before the fight ended. Level up to 6 at session end.
 - **Thunder Wave mass kill (Session 11)** — the guard wipe via Thunder Wave is now the largest single-action kill count George has achieved. The DM confirmed approximately 20 guards died. This is almost certainly going to have political consequences in the island city.
 - **Session 12 — The dragon and Grungrak** — Inside Mira's shadow therapy dragon, the real Grungrak was present. He was ethereal, then became physical for a moment when Mira severed the cord. He embraced her and said: *"Thank you for letting me be me."* Then faded. George woke up smiling through tears. He received the two-sided necklace as his item — olive branch / music symbol, tranquility or courage.
 - **Grungrak is inside the dragon** — Cooper confirmed: when Mira's shadow became a blue dragon with green veins, Grungrak was part of it. The exact nature of this — whether it is about his death, his soul, or his connection to Mira's patron — is not yet clear. But he was present enough to become physical when Mira cut the cord.

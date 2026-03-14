@@ -45,7 +45,7 @@ tags: [dnd, shattered-world, status]
 
 > [!warning] Medium Priority
 > - **Something is attacking [[NPCs/Alias|Alias]]** — The pirate captain from the very beginning of the campaign is beached and wounded, currently fighting something unknown.
-> - **Island City instability** — Reficul is alone trying to hold things together. Gunge is being sent to help.
+> - **Island City instability** — Reficul is alone trying to hold things together. Gunj is being sent to help.
 > - **The cave civilization near Sypium** — The Doctor's dossier turned violent toward them. Are they a threat, or victims of one?
 
 ---

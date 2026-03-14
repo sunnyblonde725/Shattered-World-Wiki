@@ -34,7 +34,7 @@ Then, when [[NPCs/Queen-Ariel|Ariel]] appeared in the River Lethe to call her hu
 
 The ferryman of Greek mythology. Has been doing this job since the underworld existed. Has presumably crossed these rivers an uncountable number of times. Session 6 called him "the Psychopomp / Thanatos" before the party corrected themselves.
 
-In Session 7, the Scylla fight broke out, Ariel appeared in the Lethe, and [[Character Profiles/Grungrak|Grungrak]] tackled him — trying to get his voice back (it's unclear exactly what mechanism Grungrak believed was in play). Coin flip: Grungrak also went in headfirst. Charon fell into the River Lethe.
+In Session 7, the Urscylla fight broke out, Ariel appeared in the Lethe, and [[Character Profiles/Grungrak|Grungrak]] tackled him — trying to get his voice back (it's unclear exactly what mechanism Grungrak believed was in play). Coin flip: Grungrak also went in headfirst. Charon fell into the River Lethe.
 
 The River Lethe is the river of forgetting. When a person enters it, they forget. What the ferryman forgets when he enters the river of forgetting — and what an amnesiac ferryman means for the dead who need crossing — is completely unresolved.
 

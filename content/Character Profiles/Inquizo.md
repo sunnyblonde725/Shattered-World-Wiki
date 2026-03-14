@@ -37,7 +37,7 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - Rogue abilities (stealth, precision, athletics)
 - **Flight** — used in Session 5 to dive at the blood angel and rip out the final nail
 - **Stealth while invisible** — Session 6: rolled 15 to sneak past the horse on the boat; succeeded
-- **Charmed by Scylla's aria** (Session 7 — rolled 13; gave the jade/emerald necklace to Scylla while charmed)
+- **Charmed by Urscylla's aria** (Session 7 — rolled 13; gave the jade/emerald necklace to Urscylla while charmed)
 - **Goo on eel** (Session 7 — sleight of hand 18; Reficul's goo on the dry eel reacted with a spell and spawned a CR3 mummy on the tentacle)
 - **Level 5 — Blade Pact:** summons a **scythe** as pact weapon (sickle damage, quarterstaff reach); can do melee damage without spell slots
 - **Level 5 — Cutting Strike:** can convert one sneak attack die to a poison effect on a hit
@@ -55,7 +55,7 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 ### Current Inventory (notable items)
 - **Three stacked hats**: the DO NOT TOUCH pirate hat (forbidden, on top), his bard hat, the tiny mystery hat
 - **The black orb** (Caelus imprisoned inside) — wrapped in spare clothes, in his backpack
-- ~~**The jade/emerald necklace**~~ — **GIVEN TO SCYLLA (Session 7) WHILE CHARMED.** Design depicted a snake eating itself (or a bird). Scylla smiled when she took it. Gone.
+- ~~**The jade/emerald necklace**~~ — **GIVEN TO Urscylla (Session 7) WHILE CHARMED.** Design depicted a snake eating itself (or a bird). Urscylla smiled when she took it. Gone.
 - **Lorya's serpent-circle jewel** — purpose unknown
 - **Arcus's nail image** — showed a person cutting their own stomach open
 - **The spike from the blood cocoon** — dagger image frozen inside crystal
@@ -189,7 +189,7 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - *"The ring where colors spin and dance / Illusions weave and take a chance / Beneath the tent where laughter hide / Spinning wheels and secrets bide"* — possibly Inquizo, or a location tied to him. Illusions, deception, chaos dressed as entertainment. His energy is all over this stanza.
 
 ### Session 11 Update
-Inquisio was the palace advance scout — his invisible recon of the island city palace was the critical intelligence that informed the party's infiltration plan. His stealth 28 during the actual infiltration was the session's best roll. During the King Pmurt fight, he got creative: English breakfast as a blinding attack (effective), chandelier lever (tactically coordinated), and sustained melee. He came close to dying (described as near-death at 16 HP at one point during the fight). Pmurt escaped before the party could finish him. Level up to 6 at session's end. The town/portal group (Mira and Reficul) ultimately joined them at the palace after going through the portal from the town.
+Inquizo was the palace advance scout — his invisible recon of the island city palace was the critical intelligence that informed the party's infiltration plan. His stealth 28 during the actual infiltration was the session's best roll. During the King Pmurt fight, he got creative: English breakfast as a blinding attack (effective), chandelier lever (tactically coordinated), and sustained melee. He came close to dying (described as near-death at 16 HP at one point during the fight). Pmurt escaped before the party could finish him. Level up to 6 at session's end. The town/portal group (Mira and Reficul) ultimately joined them at the palace after going through the portal from the town.
 
 ### Session 13 Update
 Inquizo spent the island city stop going invisible and sneaking around the alleys listening to what the townspeople were saying behind closed doors (Perception 3, rerolled to 6 — found the bartender just wanting everyone to be nice). He was deliberately avoiding the chaos of the platform/execution scene. He later ran out of the throne room on seeing George running, just to keep him company — he sat contemplatively on a throne until invisible spell wore off. On the airship he wandered into the cargo hold with his oversized crown on his head, bumped into the push-to-start button (wearing Pmurt's crown, being greeted as "King Pmurt"), and used his changeling/mimic ability to imitate Pmurt's voice and direct the ship to "Sypium" — which launched the northward journey. He later pressed the button to release Starglass from the glass case despite protests. He found: Pmurt's crown (kept), a **skull-face metal mask** (kept — labeled "dr.l" though he cannot read), two very tall hats with golden tree symbols (kept), and was generally the most hat-focused person in the room while the ship flew into danger.
@@ -209,7 +209,7 @@ Inquizo's shadow — the Warden Brother — confronted him about his sister and 
 - **The serpent** — it appeared in Lorya's nail image, staring directly at Inquizo. It also appeared in Arcus's nail, in the glass mines, and on Richard's spoon. Something is watching him specifically.
 - **Lorya's serpent-circle jewel** — he took it. What is it? Was it meant for him?
 - **The black orb / Caelus** — he's carrying a trapped sky deity in his backpack.
-- **The jade/emerald necklace is gone** — he gave it to Scylla while charmed. The design (snake eating itself, or a bird) was significant enough that Scylla smiled. What was it? Was it important to Inquizo specifically, or to the campaign?
+- **The jade/emerald necklace is gone** — he gave it to Urscylla while charmed. The design (snake eating itself, or a bird) was significant enough that Urscylla smiled. What was it? Was it important to Inquizo specifically, or to the campaign?
 - **Baby Inquizo in the Lethe** — he saw a smaller version of himself reaching out to him in the River Lethe. He ignored it. The child version disappeared. This was a failed acrobatics check (coin flip: tails). Does this have lasting consequences?
 - **Goop bite wound (Session 10)** — the cave creature had him in its mouth for multiple rounds; his entire midsection was coated in the goop substance afterward. Cure Wounds expelled some but dark shadow marks remain. Long-term effect unknown.
 - **Island city prison building (Session 11)** — his recon revealed the prison holds mostly women, birds, and mermaids. Bodies on both portcullises with "Do Not Rebel" signs. This knowledge is now in the party's possession; what do they do with it?

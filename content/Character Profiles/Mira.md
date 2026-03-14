@@ -32,20 +32,20 @@ Mira is the most competent person in the party and has been dead the entire time
 - She noticed the **Security Glabra** (clam surveillance cameras) in the underwater city
 
 ### Real Name
-**Cassidy.** She was called "Mira" after she recovered from her illness — short for "miracle child." Also referred to as "Natamira" in at least one context. The party calls her Mira.
+**Cassidy.** She was called "Mira" after she recovered from her illness — short for "miracle child." The party calls her Mira.
 
 ### Abilities Seen in Play
 - **Medicine check (21)** — used to examine Reficul's body in Session 3
 - Diplomatic skills / high social stats (handled the entire throne room diplomacy in Session 2)
 - Fast reading, labeling, and information processing (submarine manual in Session 2)
-- **Mind Spike** (Session 4, with Halcyra — 9 damage, pierced angel's lungs, failed Wisdom save)
+- **Mind Spike** (Session 4 — 9 damage, pierced angel's lungs, failed Wisdom save)
 - **Toll the Dead** (Session 4 — 11 damage, d12. A masculine voice came out of her. Not her own voice.)
 - **False Life** (Session 5 — used to hold her turn while partially fighting off patron control)
 - **Burning Hands** (Session 6 — 15-foot cone on the horse; horse succeeded Dex save 13; took 5 fire damage)
 - **Deception (19)** — Session 6, attempting to mask her fear of the turkey. Did not fool anyone.
 - She was **charmed by Ariel's singing** (Session 3)
-- **Charmed by Scylla's aria** (Session 7 — rolled 13; jumped into the River Lethe while charmed; saw duplicates of herself in the water)
-- **Cosphere** (Session 7 — cast with no spell slots remaining; took a **level of exhaustion**; DC 13, 4 of Scylla's tentacles were frightened)
+- **Charmed by Urscylla's aria** (Session 7 — rolled 13; jumped into the River Lethe while charmed; saw duplicates of herself in the water)
+- **Cosphere** (Session 7 — cast with no spell slots remaining; took a **level of exhaustion**; DC 13, 4 of Urscylla's tentacles were frightened)
 - **Level 5 — Extra Attack** gained
 - **Level 5 — Plant Growth** added as a spell
 - **Level 5 — Two new level 3 spell slots** gained
@@ -53,12 +53,12 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Arcana (18)** (Session 8 — confirmed the window sigils are magical; the wall writing itself has no arcane energy imbued in it; the sigils appear to be a separate layer used to access the room)
 - **Spare the Dying** (Session 8 — used on commoners knocked to 0 HP by Reficul's Earth Tremor; combined with Grungrak's Healing Hands, all four survived)
 - **Comprehend Languages** (Session 8 — planned for use on the sigil script; not yet cast)
-- **Arcane energy detection (Arcana — roll 12)** (Session 9 — confirmed magical energy present when the YOMI letters glowed during Halqira's prayer at the Apollo temple)
+- **Arcane energy detection (Arcana — roll 12)** (Session 9 — confirmed magical energy present when the YOMI letters glowed during Halcyra's prayer at the Apollo temple)
 - **False Life** (Session 11 — used during the King Pmurt fight to give herself a buffer of temporary HP before or during combat)
 - **Warding Wind** (Session 11 — used to protect the party's position during the throne room fight; also confirmed to have been used earlier in the session to protect the journal recovered in Session 10)
 - **Hunger of Hadar x2** (Session 11 — cast Hunger of Hadar twice during the session; once in the town/portal section and once during the Pmurt fight; the spell creates a 20-foot sphere of darkness and tentacles, dealing cold and acid damage)
 - **Pact weapon sickle manifested** (Session 11 — Mira's pact weapon manifested as a sickle during the Pmurt fight; she is an unknowing warlock with an unknown patron; the sickle appearing confirms the patron is actively present and granting warlock features)
-- **Zone of Truth** (Session 11 — cast after Pmurt's contingency escape; used to interrogate Pmurt while he was briefly incapacitated or contained; Persuasion 17 was used at some point in the session to get through guards)
+*(Note: Zone of Truth in Session 11 was cast by Halcyra, not Mira — Mira has Zone of Truth on her spell list but Halcyra was the one who used it on Pmurt.)*
 - **Partial castration attempt** (Session 11 — after Zone of Truth, Mira attempted to castrate King Pmurt with her pact sickle; she partially succeeded before he escaped; Pmurt is now alive, wounded, and missing something important; this is now a defining Mira moment)
 - **Invisibility** (Session 13 — cast on herself to enter the island city square unseen; used a floating rope to communicate with Dex while invisible; remained invisible for the full Dex rescue and interview)
 
@@ -251,11 +251,11 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Grungrak was inside the dragon (Session 12)** — Inside the dragon, Mira found Grungrak. She asked what the other Mira (in the mirror) had done differently when told to run. *She saved.* Mira severed the cord. Grungrak became physical — real — for a moment. He hugged her and said *"Thank you for letting me be me."* Then faded. George woke up smiling through tears.
 - **Shadow is the Hollow Heir (Session 12)** — her shadow's name. After severing all the cords, the shadow shrank to a small, scared girl asking *"What am I when they all leave?"* Mira answered her honestly. The shadow gave her the necklace and faded.
 - **She carried Inquizo (Session 12)** — after waking, Mira was not crying but reflecting; she dissipated her sickle, put on the necklace, then went to Inquizo (catatonic, muttering "I'm sorry") and picked him up like a cat. She held him and gently brought him out of the panic attack. This is who she is.
-- **Dex rescue (Session 13)** — used Invisibility and a floating rope to free Dex from the execution platform without being recognized. Interviewed him about Numgis's dream conversations and his own nightmares. She questioned him about the nightmares and connected his experience to the dream realm: his tavern dream on the night of the major event means he accidentally entered the God of Dreams' realm through sleep.
+- **Dex rescue (Session 13)** — used Invisibility and a floating rope to free Dex from the execution platform without being recognized. Interviewed him about Numgis's dream conversations and his own nightmares. She questioned him about the nightmares and connected his experience to the dream realm: his tavern dream on the night of the major event means he accidentally entered a god's realm through sleep — probably Latar's, not necessarily the God of Dreams'.
 - **Thorin statue investigation (Session 13)** — rolled Investigation 15; confirmed the Thorin statue is made of different materials than the Valu statue (different makers); collected a material sample; observed the single tear the statue shed. Also suggested bringing the statue with them on the airship, connecting the Valu-release mechanic to the idea that Thorin needs to reach his people.
-- **Confronted Reficul (Session 13)** — stood on the platform after he punched Naamon to death and said clearly: "This is not the first time I have witnessed you kill someone because you were angry. We can't leave this in the state it is." She also held Naamon's dead body. She did not flinch. She did not walk away. She required him to sit with it.
-- **Decompressing via prophecy (Session 13)** — on the ship, she was in the cargo area reading the prophecy scroll. She used the sending stone to contact Gunge, asking him to come to the island city to help Reficul and keep an eye on the Thorin statue. She visited the prison on the way out of the island city to update the remaining prisoners that executions were likely over. She also found the map's slot, triggered the ship reboot, followed the ticking into the cargo hold, and discovered Starglass in the glass case behind the wallpaper. She confirmed the "Heal the Statues Made of Stone" stanza applies to the statue situation. She then spent a very long time in the server room failing to understand steampunk machinery. She accepted this failure immediately.
-- **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunge plan.
+*(Note: It was Halcyra, not Mira, who confronted Reficul on the platform after the Naamon incident and said "This is not the first time I have witnessed you kill someone because you were angry.")*
+- **Decompressing via prophecy (Session 13)** — on the ship, she was in the cargo area reading the prophecy scroll. She used the sending stone to contact Gunj, asking him to come to the island city to help Reficul and keep an eye on the Thorin statue. She visited the prison on the way out of the island city to update the remaining prisoners that executions were likely over. She also found the map's slot, triggered the ship reboot, followed the ticking into the cargo hold, and discovered Starglass in the glass case behind the wallpaper. She confirmed the "Heal the Statues Made of Stone" stanza applies to the statue situation. She then spent a very long time in the server room failing to understand steampunk machinery. She accepted this failure immediately.
+- **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunj plan.
 - **Sending Stone** — received from Valu; in her inventory.
 
 *Last updated: Session 13 — Character sheet stats added*

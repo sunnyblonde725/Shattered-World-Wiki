@@ -6,7 +6,7 @@ tags: [dnd, shattered-world, location]
 # The Island City
 
 > [!warning] Status
-> **POST-REVOLUTION — UNSTABLE** — Pmurt fled. Naamon is dead by Reficul's hand. Former prisoners are nominally in control. [[Character Profiles/Reficul|Reficul]] stayed behind as a stabilizing presence; the rest of the party departed on the airship. Gunge has been asked to assist.
+> **POST-REVOLUTION — UNSTABLE** — Pmurt fled. Naamon is dead by Reficul's hand. Former prisoners are nominally in control. [[Character Profiles/Reficul|Reficul]] stayed behind as a stabilizing presence; the rest of the party departed on the airship. Gunj has been asked to assist.
 
 ---
 
@@ -60,7 +60,7 @@ Pmurt ruled this city with Numgis as his spiritual backer — the "Nightmare pro
 ## Open Threads
 
 - **Reficul is here alone** — No party support. Two people dead by his hand on day one of the revolution. Can he stabilize this? Is the city going to trust him?
-- **Gunge has been asked to assist** — Halcyra contacted Gunge via sending stone. He's coming. But how fast?
+- **Gunj has been asked to assist** — Halcyra contacted Gunj via sending stone. He's coming. But how fast?
 - **The prison population** — Women, birds, mermaids — now nominally free. Where do they go? What do they need? Is there any structure left to support them?
 - **King Pmurt's revenge** — He escaped. He is badly wounded and furious. He knows the party was here. He had the airship. He is missing part of his anatomy. He will not forget.
 - **The resistance (Reverie and others)** — The people who helped the party in Session 11 are still here somewhere. What role do they play now that Naamon is also dead?

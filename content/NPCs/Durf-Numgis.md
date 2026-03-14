@@ -54,7 +54,7 @@ He has not been directly encountered since, but his fingerprints are everywhere:
 |---|---|
 | [[Session Notes/DND Session 1\|Session 1]] | Cast Nightmare Spell on party; offered his ship; was refused; party jumped off the balcony railing |
 | [[Session Notes/DND Session 11\|Session 11]] | Referenced during palace infiltration; observed communicating via waterfall-light projection; confirmed as Pmurt's co-ruler; already gone north |
-| [[Session Notes/DND Session 12\|Session 12]] | His palace room investigated; Gunge revealed he's working with Yomi's nightmare; wire-glasses man at Ravalli's nest = almost certainly him |
+| [[Session Notes/DND Session 12\|Session 12]] | His palace room investigated; Gunj revealed he's working with Yomi's nightmare; wire-glasses man at Ravalli's nest = almost certainly him |
 | [[Session Notes/DND Session 13\|Session 13]] | Dex confirmed: Numgis was told in dreams to free Yomi; was building the disciple network; spoke with the Doctor; heading north to Sypium |
 
 ---

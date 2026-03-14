@@ -26,7 +26,7 @@ tags: [dnd, shattered-world, npc]
 
 The actual Sisyphus, the Greek myth one. Has been pushing a boulder up a cliff at the Gate of Ivory for eternity. It rains on his side of the cliff — presumably all his tears. He has never once, in all that time, gotten the boulder over the top. Not once. Until Session 7.
 
-He was gobsmacked. The party found him mid-push. Grungrak rolled a nat 20 (result: 30 Strength) and put his shoulder into it. The boulder went clean over — and landed directly on Scylla, who had tentacles retreating below.
+He was gobsmacked. The party found him mid-push. Grungrak rolled a nat 20 (result: 30 Strength) and put his shoulder into it. The boulder went clean over — and landed directly on Urscylla, who had tentacles retreating below.
 
 Sisyphus's two cents on the experience: *"Two less leg workouts — it was all arms."*
 
@@ -50,13 +50,13 @@ The party assisted him in the most meaningful act of his entire eternal existenc
 
 | Session | What Happened |
 |---|---|
-| [[Session Notes/DND Session 7\|Session 7]] | Encountered mid-push on the cliff; Grungrak (nat 20, Str 30) pushed the boulder over the top for the first time ever; boulder landed on Scylla; Sisyphus wept |
+| [[Session Notes/DND Session 7\|Session 7]] | Encountered mid-push on the cliff; Grungrak (nat 20, Str 30) pushed the boulder over the top for the first time ever; boulder landed on Urscylla; Sisyphus wept |
 
 ---
 
 ## Open Threads
 
-- The boulder landed on Scylla. Is Scylla pinned? Dead? Waiting?
+- The boulder landed on Urscylla. Is Urscylla pinned? Dead? Waiting?
 - With the boulder over the top — does Sisyphus's punishment reset? Does he have to start over? Is he free?
 - The mermen's freedom question (from Ariel's death) is separate — but does Sisyphus's boulder completion have any divine significance?
 

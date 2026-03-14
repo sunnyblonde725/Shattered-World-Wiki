@@ -1,5 +1,7 @@
 ---
-title: Session 05
+title: "Session 05 — Lorya Dies, The Portal Splits, Fields of Asphodel"
+session: 5
+date: unknown
 tags: [dnd, shattered-world, session-notes, session-5]
 ---
 
@@ -11,7 +13,7 @@ tags: [dnd, shattered-world, session-notes, session-5]
 
 ## TL;DR
 
-The party finished the blood angel fight — **Lorya died**, Arcus went comatose, and Mira's wrist was broken by the angel's hammer before Inquizo finally ripped the last nail out of the angel's chest and ended it. The party fled deeper into the cave, passed through a mirror wall, and emerged into a bizarre floating archipelago ruled by a drug-dealing half-elf cult leader named **Richard**. After discovering the wheat seeds they needed had been thrown away, the party camped overnight near the portal. Richard confronted them at dawn with a crowd and two chained women. Mira took the sickle and **slashed the portal in half as the crowd ran through**, cleaving several cult members in two. The party escaped into the **Fields of Asphodel** — a wheat field in Hell — where they met a farmer named **Reficul**, who has the seeds, knows Stewart the green sheep, and says this field belongs to **Ariel**, by permission from Hades.
+The party finished the blood angel fight — **Lorya died**, Arcus died, and Mira's wrist was broken by the angel's hammer before Inquizo finally ripped the last nail out of the angel's chest and ended it. The party fled deeper into the cave, passed through a mirror wall, and emerged into a bizarre floating archipelago ruled by a drug-dealing half-elf cult leader named **Richard**. After discovering the wheat seeds they needed had been thrown away, the party camped overnight near the portal. Richard confronted them at dawn with a crowd and two chained women. Mira took the sickle and **slashed the portal in half as the crowd ran through**, cleaving several cult members in two. The party escaped into the **Fields of Asphodel** — a wheat field in Hell — where they met a farmer named **Reficul** — their Reficul, disguising himself — who has the seeds, knows Stewart the green sheep, and says this field belongs to **Ariel**, by permission from Hades.
 
 ---
 
@@ -25,7 +27,7 @@ The DM recapped Session 4: the party explored an abandoned town, learned Arcus a
 
 ### Phase Two: The Blood Angel Fight Concludes
 
-The blood angel's corpse did not stay down. Its remains reformed into a blood cocoon — a crystalline egg covered in geode spikes. A voice spoke through it: the sky entity **Caelus/Kaelas**, asking Grungrak *"Are you one of her two?"* — testing whether he was one of Cybele's children. Grungrak was not, and paid for it: three Constitution saves, the third failing. Cold wind grabbed his neck, decompressed his spine, and hurled him out of the cocoon.
+The blood angel's corpse did not stay down. Its remains reformed into a blood cocoon — a crystalline egg covered in geode spikes. A voice spoke through it: the sky entity **Caelus/Kaelas**, asking Grungrak *"Are you one of her two?"* — testing whether he was one of Cybele's children. Grungrak was not, and paid for it: three Constitution saves, the third failing. Cold wind grabbed his neck, decompressed his spine, and hurled him at the cocoon — he was thrown against it from the outside, not placed inside it.
 
 Inquizo swooped under the creature and pried loose one of the crystal spikes. Inside it: an image of a dagger, like a picture frozen in glass.
 
@@ -38,7 +40,7 @@ Grungrak cast Calm Emotions (level 2, DC 16 Charisma saves). The angel went indi
 
 Mira's patron then forcibly took control of her body. Dark ink tendrils shot from her fingernails and flung the angel back into the spikes. Calm Emotions broke.
 
-The angel retaliated — aimed a nail at Lorya and Naph, missed, and hit Mira instead (6 damage, nail embedded in her arm). Inquizo loosened the nail; Grungrak ripped it out. Grungrak cast Healing Word on Mira (+6 HP), then sang to help her regain partial control of herself. The pain in Mira's voice, the party noted, *"doesn't belong to her."*
+The angel retaliated — aimed a nail at Lorya (also known as Naph — same person), missed, and hit Mira instead (6 damage, nail embedded in her arm). Inquizo loosened the nail; Grungrak ripped it out. Grungrak cast Healing Word on Mira (+6 HP), then sang to help her regain partial control of herself. The pain in Mira's voice, the party noted, *"doesn't belong to her."*
 
 Halcyra cast Divine Favor and fired a radiant arrow — hit (14, 6 damage). The angel's glass side glowed. Its flesh side sizzled and melted. **The angel is extremely weak to radiant damage.**
 
@@ -68,7 +70,7 @@ Constitution saves:
 - Inquizo: 7 — took 5 damage (ankle caught in nail pile)
 - Mira: 9 — took 1 damage
 
-Grungrak used his last spell slot to heal Mira's broken wrist (+8 HP). The break will still need a day to properly set. Arcus remained comatose; Lorya was dead. Stewart sat next to Arcus, pressing his tiny head against him — Lion King style.
+Grungrak used his last spell slot to heal Mira's broken wrist (+8 HP). The break will still need a day to properly set. Arcus was dead; Lorya was dead. Stewart sat next to Arcus, pressing his tiny head against him — Lion King style.
 
 The party ventured deeper into the cave. Bioluminescent hexagonal stone pockets lined the walls, encased in glass. Inquizo, with the lowest perception (negative 1), walked directly into a mirror wall.
 
@@ -80,7 +82,7 @@ They emerged into a completely different realm: a **floating archipelago of isla
 
 They were met by **Narek**, Richard's personal scheduler. She manages his calendar, books appointments, and is very firm about the spoons. ("Don't touch the spoons.") The party booked a 15-minute meeting with **Richard** under the name "T.I.K." — with Stewart listed as the fifth member.
 
-Grungrak went ahead to the mining islands. Roughly 100 miners worked, chiseling thick glass chunks out of the rock. An overseer — bald, with a cracked skull scar across his head and two whips — was punching miners for unsatisfactory work. Grungrak raised the sickle and **cut off the overseer's hand**. The overseer's voice shot up three octaves. He said "It's super delicious!" and ran off the edge of the cliff. A Duergar miner kissed Grungrak's hand with a single tear and returned to work.
+Grungrak went ahead to the mining islands. Roughly 100 miners worked, chiseling thick glass chunks out of the rock. An overseer — bald, with a cracked skull scar across his head and two whips — was punching miners for unsatisfactory work. Grungrak raised the sickle and **cut off the overseer's hand**. The overseer's voice shot up three octaves. He said something like *"It's super delicious!"* *(probable mishearing — likely referencing the laxative gum from Grungrak's MRE rations)* and ran off the edge of the cliff. A Duergar miner kissed Grungrak's hand with a single tear and returned to work.
 
 The glass chunks held images. Grungrak saw a golden laurel in one — and **the serpent, staring directly at him**, in another. He lied to the party about what he saw (Deception with disadvantage). Halcyra rolled Insight 22 and caught the lie immediately.
 
@@ -102,7 +104,7 @@ History/Arcana checks (double 19s): every single powder and liquid was a differe
 Richard confirmed:
 - The crystals and glass in this realm show different things to different people. **Looking too deeply risks mind-altering gas or "activating something within you."**
 - He has been trapped here **472 days**. Pulled in by a light show paid for by merchants from a mountain blacksmith town. Every exit leads somewhere unrecognized — except one.
-- A **wheat field exit** appears approximately 20 times so far, and returns roughly once a day. It was coming back tomorrow.
+- A **wheat field exit** appears approximately 20 times so far, and returns roughly once a day. It will come back tomorrow.
 - His workers harvested wheat seeds from that field. They can't grow here — the soil isn't fertile. The seeds were held by a man named **Baleam**.
 - Party warning from Richard: *"You may not want to plant those seeds in particular"* — they might grow into sheep or giants.
 - Richard's previous industry: his father's wealth, invested in blacksmiths as artists. He took royalties and mentored younger smiths. The party's internal assessment: **"The MLM of blacksmiths."**
@@ -112,9 +114,9 @@ Richard confirmed:
 
 ### Baleam Has No Seeds
 
-Party found **Baleam's tent** by following Narek's directions north. They heard moaning from inside — definitely a pain variety of moaning. Grungrak shouted Baleam's name. Pots and pans crashed inside. A salt-and-pepper haired man in his forties scrambled out, fixing his belt, with someone slipping out the back.
+Party found **Baleam's tent** by following Narek's directions north. They heard moaning from inside — definitely a sexual variety of moaning. Grungrak shouted Baleam's name. Pots and pans crashed inside. A salt-and-pepper haired man in his forties scrambled out, fixing his belt, with a random person slipping out the back.
 
-Halcyra's offer was direct: *"We can both forget this ever happened if you give us the seeds."*
+Mira's offer was direct: *"We can both forget this ever happened if you give us the seeds."*
 
 Baleam confessed: **he threw the seeds away**. They didn't work. Nothing grows here. He doesn't remember how long ago. He handed the party a jar of black liquid — the same substance as one of the spoons — as a consolation. The party took it.
 
@@ -126,7 +128,7 @@ The party debated dumpster diving for the discarded seeds but voted against it. 
 
 **Watch assignments:** Inquizo volunteered for first watch — the party correctly noted he is probably the only one who cannot be affected by the drugs saturating the air in this realm.
 
-**Grungrak's vision:** A crystal-clear puddle of water formed directly in front of where he was trying to sleep. A face was visible beneath the surface. Others watching could see something blue in the water. Grungrak, half-delirious with exhaustion, called out *"Reficul!"* — a name, seemingly a friend or companion — and said *"I'm going back into the water. I'm going to find my buddy."* He closed his eyes before the image fully formed. The party watched quietly.
+**Grungrak's vision:** A crystal-clear puddle of water formed directly in front of where he was trying to sleep. A face was visible beneath the surface. Others watching could see something blue in the water. Grungrak, half-delirious with exhaustion, called out *"Reficul!"* — their companion, who George believes went "on vacation" — and said *"I'm going back into the water. I'm going to find my buddy."* He closed his eyes before the image fully formed. The party watched quietly. *(The face was Reficul — their Reficul — who was in hell.)*
 
 **During Inquizo's watch:** The clanking of metal from the mines stopped. A bell rang. The island the party was on began to move — creaking and rotating on some invisible rail.
 
@@ -172,47 +174,49 @@ The farmer's name is **Reficul**. He welcomed them to the **Fields of Asphodel**
 
 The party: *"We're in hell."*
 
-Rufi confirmed he knows the way out — but it only works for him, because of his "particular complex." He came here voluntarily ("a bit of a punishment, slightly") — he came to think. Thinking appears to be done now.
+*(Note: This IS the party's Reficul — their companion who died in Session 3 and went to hell. He was disguising himself here. From George/Grungrak's perspective, Reficul "went on vacation" — George does not know the full story of what happened to him.)*
+
+Reficul confirmed he knows the way out — but it only works for him, because of his "particular complex." He came here voluntarily ("a bit of a punishment, slightly") — he came to think. Thinking appears to be done now.
 
 **Reficul knows Stewart.** It's a long story.
 
-Rufi has wheat seeds, and he offered them to the party. The field, he said, belongs to a woman named **Ariel** — confirmed to be the same Ariel the party killed in the underwater city. She holds this section of the Fields of Asphodel **by permission from Hades**.
+Reficul has wheat seeds, and he offered them to the party. The field, he said, belongs to a woman named **Ariel** — confirmed to be the same Ariel the party killed in the underwater city. She holds this section of the Fields of Asphodel **by permission from Hades**.
 
 The session ended here.
 
 ---
 
-## Timestamped Play by Play
+## Timestamped Play-by-Play
 
-| Timestamp | Event |
-|-----------|-------|
-| ~00:00 | Session opens in Phase Two of blood angel combat |
-| ~00:15 | Caelus/Kaelas voice through the cocoon; Grungrak fails Con save, thrown out |
-| ~00:30 | Grungrak casts Calm Emotions; angel becomes indifferent |
-| ~00:45 | Halcyra interrogates the calmed angel; key lore revealed |
-| ~00:55 | Mira's patron takes over; Calm Emotions broken |
-| ~01:10 | Angel nails Lorya into a cocoon; Arcus's nail pulled out |
-| ~01:25 | Grungrak pulls Lorya's nail; Lorya dies |
-| ~01:35 | Mira's wrist broken by angel's hammer |
-| ~01:45 | Inquizo rips final nail from angel's chest; angel dissolved |
-| ~01:55 | Nail cave; party takes damage from Con saves |
-| ~02:05 | Mirror wall; Inquizo walks through; party follows |
-| ~02:10 | Party arrives in the floating archipelago; meets Narek |
-| ~02:15 | Meet Richard; Inquizo sneezes on the spoons |
-| ~02:25 | Grungrak cuts off overseer's hand at the mines |
-| ~02:30 | 15-minute meeting ends; party investigates Richard |
-| ~02:31 | Baleam interrogated; seeds confirmed thrown away |
-| ~02:45 | Camp established near portal; watch assignments |
-| ~02:48 | Grungrak's vision: face in puddle, calls for "Reficul" |
-| ~02:50 | Island begins moving on rail; long rest begins |
-| ~02:50 | Long rest completed; golden glow appears |
-| ~02:51 | Richard confronts party with crowd and chained women |
-| ~02:52 | Halcyra's Cause Fear; crowd flees; Richard holds |
-| ~02:54 | Inquizo stabs Richard; hits solid object; no damage |
-| ~02:55 | Thunder Wave; crowd blown off island; party sprints through portal |
-| ~02:58 | Mira slashes portal in half; crowd bisected |
-| ~03:00 | Wheat field / Fields of Asphodel; Reficul introduced |
-| ~03:06 | Rufi knows Stuart; reveals field belongs to Ariel; session ends |
+*Timestamps are approximate.*
+
+| Timestamp | Event | Key Detail |
+|-----------|-------|------------|
+| ~00:00 | Session opens in Phase Two of blood angel combat | Blood cocoon has formed from the angel's remains |
+| ~00:15 | Caelus/Kaelas voice through the cocoon | Grungrak fails 3rd Con save; thrown against the cocoon |
+| ~00:30 | Grungrak casts Calm Emotions | Angel becomes indifferent; peeks out and says "Bye" |
+| ~00:45 | Halcyra interrogates the calmed angel | Key lore: angel has orders to make Arcus and Lorya suffer; father is Kaelas; "children of a cheater" |
+| ~00:55 | Mira's patron takes over | Dark ink tendrils from her fingernails; Calm Emotions broken |
+| ~01:10 | Angel nails Lorya into a cocoon | Missed Lorya; hit Mira instead (6 damage, nail in arm); Inquizo pulls Arcus's nail |
+| ~01:25 | Grungrak pulls Lorya's nail (Strength 21) | Lorya appears briefly — horrified look — then collapses dead |
+| ~01:35 | Mira's wrist broken by angel's hammer | Loud crack; hand drops |
+| ~01:45 | Inquizo rips final nail from angel's chest | Angel tears apart from the abdomen; combat over |
+| ~01:55 | Nail cave; party takes Con save damage | Inquizo: 7 → 5 damage; Mira: 9 → 1 damage |
+| ~02:05 | Mirror wall; Inquizo walks through | Lorya's serpent-circle jewel found; party follows |
+| ~02:10 | Party arrives in the floating archipelago | Purple-black space; islands connected by wooden bridges; Narek the scheduler |
+| ~02:15 | Meet Richard; Inquizo sneezes on the spoons | "It's all drugs." — every substance is a hallucinogen or opiate |
+| ~02:25 | Grungrak cuts off overseer's hand at the mines | Overseer runs off cliff; Duergar miner kisses Grungrak's hand and weeps |
+| ~02:31 | Baleam interrogated | Seeds confirmed thrown away; party receives black liquid as compensation |
+| ~02:45 | Camp established near portal; watch assignments | Inquizo takes first watch — he can't be affected by the drugs |
+| ~02:48 | Grungrak's vision: face in a puddle | Calls for "Reficul"; says he wants to go back into the water to find him |
+| ~02:50 | Island begins moving on rail; long rest begins | Metal clanking stops; a bell rings |
+| ~02:51 | Richard confronts party with crowd and chained women | "I'm sorry, but I have to make an example of you all." |
+| ~02:52 | Halcyra's Cause Fear | Crowd flees; Richard holds (made his save) |
+| ~02:54 | Inquizo stabs Richard | Hits something solid under the robe; no damage |
+| ~02:55 | Thunder Wave; crowd blown off island | Party sprints through portal |
+| ~02:58 | Mira slashes portal in half | Crowd bisected; top halves on top, bottom halves on bottom |
+| ~03:00 | Wheat field / Fields of Asphodel; Reficul introduced | Completely unfazed by pile of bisected corpses |
+| ~03:06 | Reficul knows Stewart | Field belongs to Ariel; seeds available; session ends |
 
 ---
 
@@ -239,40 +243,30 @@ The session ended here.
 - **The Fields of Asphodel belong to Ariel** (the underwater queen the party killed in Session 3), held by permission from Hades. She has some form of continued existence or power in the underworld.
 - **Richard is running a drug operation / cult** in the Lost Place. Every substance on his spoon table was a hallucinogen or opiate. He uses them for control. His wooden revolver fired real shots. Something solid (possibly magical armor or a constructed body) sat beneath his graduation robes.
 - **Reficul** knows the green sheep Stewart. Stewart apparently moves freely across realms and is more than he appears.
-- **Grungrak saw a face in a pool of water** and called out "Reficul" — a name, seemingly a friend or companion — and said he wanted to go back in the water to find them.
+- **Grungrak saw a face in a pool of water** and called out "Reficul" — their companion, currently in Hell. George/Grungrak believes Reficul went "on vacation" and doesn't know the full story of his death. He said he wanted to go back in the water to find him.
 - **Lorya is dead.** Her nail (pulled by Grungrak) showed a large serpent with fangs staring at Inquizo. This image is connected to what was also inside Arcus's nail (a figure cutting their own stomach open) and the spike Inquizo loosened at the start of combat (a dagger). The nails appear to be prophecy or memory-images.
 
 ---
 
 ## Notable NPCs
 
-### [[Richard]] *(The Lost Place — cult leader)*
-Half-elf. Long brunette hair, well-groomed beard, graduation robes with a mismatched tie, gold pocket watch ornament. A drug dealer operating a cult in a pocket dimension he has been trapped in for 472 days. Runs a scheduler, a mining operation, and an army of clipboard workers. Immune to at least some magical fear. Something solid and supernatural lives under his robe. Carries a wooden revolver that fires real shots. Invested in blacksmiths as his former trade — essentially an MLM scheme. Wanted to force the party to work for him or die. **Likely dead** — ran through the bisected portal with the crowd.
-
-### [[Narek]] *(The Lost Place — Richard's scheduler)*
-Richard's personal scheduler. Books all meetings. Very protective of the spoons. Efficient, businesslike, a little frantic. Not obviously a true believer — may just be stuck there like everyone else.
-
-### [[Baleam]] *(The Lost Place — inventory keeper)*
-Disheveled, salt-and-pepper hair, found mid-tryst with Richard when the party interrupted. Responsible for holding the wheat seeds. **Threw them away** because they wouldn't grow. Gave the party a jar of black liquid as compensation. Not malicious — just overwhelmed and forgetful.
-
-### [[Reficul]] *(Fields of Asphodel — farmer)*
-Calm, dry-humored farmer harvesting wheat in the underworld. Completely unfazed by a pile of bisected corpses. Came here voluntarily as "a bit of a punishment" to think. **Knows the way out but it only works for him** due to his "particular complex." Knows Stewart. Has wheat seeds. The field he works in belongs to Ariel, under Hades' permission. First impression: trustworthy, direct, possibly very powerful.
-
-### [[Arcus]] *(update)*
-Pulled out of his cocoon by Inquizo after the angel was defeated. Now comatose/slumped. Stewart sat next to him. Eyes went dark. No longer responsive.
-
-### [[Lorya]] *(update — deceased)*
-**Lorya is dead.** Grungrak pulled her nail from the blood cocoon (Strength 21). She appeared briefly, looked horrified, and dropped. The nail she left behind showed a large serpent with fangs — staring at Inquizo.
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| Richard | Half-elf cult leader; The Lost Place | Likely dead — bisected portal | Graduation robes, wooden revolver, drug operation. Trapped in pocket dimension 472 days. Immune to some magical fear. Something solid lives under his robe. "The MLM of blacksmiths." |
+| Narek | Richard's personal scheduler | Unknown — at the Lost Place | Books all meetings; protective of the spoons; businesslike; may just be stuck there |
+| Baleam | Lost Place inventory keeper | Unknown | Threw the wheat seeds away because they wouldn't grow. Gave party a jar of black liquid as compensation. |
+| Reficul | Party member — disguised as wheat farmer | Alive — Fields of Asphodel | This IS the party's Reficul, who died in Session 3. Came to Hell voluntarily to think. Knows the way out (only works for him). Knows Stewart. Has wheat seeds. George thinks he's on vacation. |
+| Arcus | Son of Cybele/Avani | Dead | Pulled from cocoon by Inquizo; Stewart sat next to him; eyes went dark |
+| Lorya | Daughter of Cybele/Avani | **Dead** | Grungrak pulled her nail (Strength 21). She appeared briefly, looked horrified, and dropped. Her nail showed a serpent staring at Inquizo. |
 
 ---
 
 ## Notable Locations
 
-### [[The Lost Place]] *(The Floating Archipelago)*
-A pocket dimension reached through the mirror wall in the nail cave. Floating islands in purple-black space, connected by wooden bridges and lightning slides. Crystal pools, hot springs, bioluminescent plants. Populated by workers (clipboard-holders, glass miners). Ruled by Richard and contested by a rival faction at the far end of the archipelago. Cycles daily — exits lead to different locations, one of which is the Fields of Asphodel. **Effectively a cult compound in a pocket dimension.** The party is unlikely to return voluntarily.
-
-### [[The Fields of Asphodel]]
-A section of the underworld. Massive wheat field under a stone sky that curves in at the horizon. Mechanical spotlights sweep the field from above like prison towers. The sky is stone — this is an interior space. Belongs to Ariel, by permission from Hades. Reficul farms here. A pile of bisected cult members now decorates the wheat near the doorway. The wheat may have unusual properties — Richard warned seeds from this field could grow into sheep or giants.
+| Location | Significance |
+|----------|-------------|
+| The Lost Place (The Floating Archipelago) | A pocket dimension reached through the mirror wall in the nail cave. Floating islands in purple-black space, connected by wooden bridges and lightning slides. Crystal pools, hot springs, bioluminescent plants. Ruled by Richard; contested by a rival faction. Exits cycle daily. Effectively a cult compound in a pocket dimension. |
+| The Fields of Asphodel | A section of the underworld. Massive wheat field under a stone sky that curves in at the horizon. Mechanical spotlights from above. Belongs to Ariel by permission from Hades. Reficul farms here. A pile of bisected cult members now decorates the wheat near the doorway. The wheat may have unusual properties. |
 
 ---
 
@@ -280,7 +274,7 @@ A section of the underworld. Massive wheat field under a stone sky that curves i
 
 | Roll | Who | Result | Effect |
 |------|-----|--------|--------|
-| Con save (3rd) | Grungrak | 6 (fail) | 6 damage, thrown out of cocoon by cold wind |
+| Con save (3rd) | Grungrak | 6 (fail) | 6 damage, hurled at the cocoon by cold wind (from the outside) |
 | Athletics (spike) | Inquizo | 12 | Pried loose a crystal spike; image of dagger inside |
 | Cha save (Calm Emotions DC 16) | Blood angel | Failed | Angel went indifferent; Halcyra interrogated it |
 | Healing Word | Grungrak | +6 | Healed Mira after nail in her arm |
@@ -309,8 +303,8 @@ A section of the underworld. Massive wheat field under a stone sky that curves i
 
 ## Cliffhangers & Unresolved Threads
 
-- **Lorya is dead.** What does this mean for Arcus? For the mission? For Cybele's children?
-- **Arcus is comatose.** Eyes went dark after the angel died. Where did he go? How long will he be like this? The party is carrying him through the Fields of Asphodel.
+- **Lorya and Arcus are both dead.** What does this mean for the mission? For Cybele's children?
+- **Arcus is dead.** Eyes went dark after the angel died. The party is carrying his body through the Fields of Asphodel.
 - **Reficul knows the way out of the Fields of Asphodel** — but it only works for him. How do the party get out?
 - **Reficul knows Stewart.** The green sheep has followed this party through realms and survived a cleaved portal. Who or what is Stewart?
 - **Ariel runs the Fields of Asphodel.** The party killed her. Is she aware they're here? Will there be consequences?
@@ -319,7 +313,7 @@ A section of the underworld. Massive wheat field under a stone sky that curves i
 - **Grungrak's vision: Reficul.** Who is this person? Why does the sight of them appearing in a puddle of water in a pocket dimension of Hell make Grungrak want to dive in?
 - **The jar of black liquid** from Baleam. Unidentified. The same substance as one of the spoons — which are all hallucinogens. Grungrak put it in his bag.
 - **The serpent-circle jewel** Inquizo took from Lorya. What is it? What does it do?
-- **The wheat seeds.** Rufi has them. Can he get the party back out of hell with seeds in hand? What will planting Cybele's seeds actually do to the world?
+- **The wheat seeds.** Reficul has them. Can he get the party back out of hell with seeds in hand? What will planting Cybele's seeds actually do to the world?
 
 ---
 
@@ -327,11 +321,11 @@ A section of the underworld. Massive wheat field under a stone sky that curves i
 
 - Inquizo arrived to the first meeting with Richard's scheduler and got Stewart listed as the 5th party member with full appointment privileges.
 - The entire contents of Richard's spoon table turned out to be cocaine, mushrooms, opium, and acid. *"It's all drugs."*
-- Grungrak cut off the overseer's hand and the overseer said *"It's super delicious!"* before gleefully running off a cliff.
-- Baleam was very clearly mid-tryst with Richard when the party showed up. The party used this information as blackmail leverage to get the seeds (which didn't exist anyway).
+- Grungrak cut off the overseer's hand and the overseer said *"It's super delicious!"* before gleefully running off a cliff. *(Quote likely refers to the laxative gum from Grungrak's MRE rations — exact wording uncertain, may be a mishearing.)*
+- Baleam was very clearly mid-tryst with a random person when the party showed up. The party used this information as blackmail leverage to get the seeds (which didn't exist anyway).
 - Mira tried to steal a spoon. Failed. The spoon clattered to the ground. She stared at it. Left the tent slowly.
 - Halcyra cast Cause Fear. Richard stared directly at her. Made his save. *"Now, that's not very nice, is it?"* Then pulled out a wooden revolver.
-- The portal broke into top and bottom halves instead of shattering entirely. Richard's crowd walked through in matching top/bottom pairs. *"Dwarf used roll. It was super effective."*
+- The portal broke into top and bottom halves instead of shattering entirely. Richard's crowd walked through in matching top/bottom pairs. *(Over-table joke, not an in-game action: "Dwarf used roll. It was super effective." — Pokémon-style table humor referencing Grungrak rolling through the portal.)*
 - Stewart the green sheep fit under the portal unharmed because he is simply too short to be bisected. The table immediately ruled this canonical.
 - Reficul offered the party cocaine off his spoon. *"Bit of a tolerance, I might need more than this."*
 

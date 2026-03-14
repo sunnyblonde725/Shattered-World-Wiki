@@ -35,7 +35,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Session history:**
   - Session 1 — Nightmare Spell on party; offered his ship; was refused; the party jumped off the railing instead.
   - Session 11 — Referenced during palace infiltration; observed communicating via waterfall light projection; confirmed as Pmurt's collaborator; already departed north.
-  - Session 12 — His room in the palace investigated; neon merch sign pointed toward it. Gunge revealed Numgis is working with the nightmare that sealed Yomi; the unsealing mechanism is in the next town. The man at Ravalli's nest with wire glasses two days prior is almost certainly Numgis.
+  - Session 12 — His room in the palace investigated; neon merch sign pointed toward it. Gunj revealed Numgis is working with the nightmare that sealed Yomi; the unsealing mechanism is in the next town. The man at Ravalli's nest with wire glasses two days prior is almost certainly Numgis.
   - Session 13 — Dex (palace chef) provided intelligence: Numgis was told in dreams to free Yomi; was building a dream-disciple network (Pmurt was #1); the Doctor spoke to Numgis. Numgis heading north toward Sypium. Also separately trying to free an unknown "him."
 
 #### [[The Butcher]] *(unnamed dissident)*
@@ -161,7 +161,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Key details:** Drowned trying to breathe underwater to be with Ariel. Traveled with the party toward the Gate of Ivory. Saw Ariel swimming in the River Lethe and cried out to her. Ariel used a small stone (with "come here, babe" written on it) to call him into the river. He jumped in. The Lethe erased his memory of her — and her memory of him. Grungrak tried to catch his ghost body, failed the dex check. Eric disappeared into the river. Ariel swam away, no longer knowing who he was. His story arc closed here.
 - **Session history:**
   - Session 6 — Retrieved from soul pool. Learned Ariel is dead and who did it. Agreed to travel with the party. On the boat heading toward Gate of Ivory.
-  - Session 7 — Saw Ariel in the Lethe during the Scylla fight. Jumped in. Memory erased. Gone.
+  - Session 7 — Saw Ariel in the Lethe during the Urscylla fight. Jumped in. Memory erased. Gone.
 
 #### The Horse *(grandson of Poseidon's horse)*
 - **First appeared:** Session 6
@@ -178,7 +178,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Role / Faction:** Greek myth figure; eternal boulder-pusher
 - **Attitude toward party:** Gobsmacked / Weeping
 - **Status:** On the other side of the cliff, weeping
-- **Key details:** The actual Sisyphus. Has been pushing his boulder up the cliff at the Gate of Ivory for eternity. Has never, in all that time, gotten the boulder over the top. Grungrak rolled a nat 20 (result 30 Strength) and pushed it clean over the top — where it landed on Scylla. Sisyphus was "gobsmacked." It is raining on his side of the cliff. All his tears. *"Two less leg workouts — it was all arms."*
+- **Key details:** The actual Sisyphus. Has been pushing his boulder up the cliff at the Gate of Ivory for eternity. Has never, in all that time, gotten the boulder over the top. Grungrak rolled a nat 20 (result 30 Strength) and pushed it clean over the top — where it landed on Urscylla. Sisyphus was "gobsmacked." It is raining on his side of the cliff. All his tears. *"Two less leg workouts — it was all arms."*
 *(Note: separate from the unnamed merman who was called "Sisyphus" by Reficul in Session 2 — that was a different character who just couldn't remember his name.)*
 - **Session history:**
   - Session 7 — Seen pushing boulder on the cliff above the Gate of Ivory beach. Grungrak pushed boulder over for him for the first time ever. Sisyphus weeps.
@@ -289,12 +289,12 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Attitude toward party:** Initially neutral → hostile during manor confrontation → departed
 - **Status:** At large; individual members' whereabouts unknown
 - **Key details:** A group of four encountered inside the Victorian manor covered in mysterious script. Members:
-  - **Dragonborn fighter** — carried a glowing purple rapier that shifted into a warhammer when he went berserk; eyes glowed red (house possession); put to sleep by Grungrack's Sleep spell; left sleeping in the manor
-  - **Mouse party member** — tiny mouse NPC; cast an invisible boulder that pinned Refisul; helped de-escalate after the dragonborn went down
+  - **Dragonborn fighter** — carried a glowing purple rapier that shifted into a warhammer when he went berserk; eyes glowed red (house possession); put to sleep by Grungrak's Sleep spell; left sleeping in the manor
+  - **Mouse party member** — tiny mouse NPC; cast an invisible boulder that pinned Reficul; helped de-escalate after the dragonborn went down
   - **Minotaur in mage robes** — third member; role in the confrontation unclear
   - **Sorcerer woman** — fourth member; mentioned that her warlock companion "just left one day" (potentially significant to warlock/patron lore)
 - **Session history:**
-  - Session 9 — Encountered inside the writing-covered Victorian manor. The dragonborn was possessed by the house's malevolent force and went berserk. Party fled after Grungrack's Sleep spell. Dragonborn left asleep inside.
+  - Session 9 — Encountered inside the writing-covered Victorian manor. The dragonborn was possessed by the house's malevolent force and went berserk. Party fled after Grungrak's Sleep spell. Dragonborn left asleep inside.
 
 #### [[Black Dragonborn]] *(X-salent slums — homeless community)*
 - **First appeared:** Session 8
@@ -342,9 +342,9 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Role / Faction:** Unknown — treated as a rebel or dissenter by Pmurt's regime
 - **Attitude toward party:** N/A (deceased)
 - **Status:** Dead — body hanging from the portcullis
-- **Key details:** A body hanging from the island city's portcullis with a sign reading "Do Not Rebel." The display is deliberate — it is Pmurt's warning to the population. Inquisio's recon confirmed bodies on both portcullises. Whether this person was a butcher by trade or was labeled that way is unclear. This is distinct from the unnamed dissenter in Session 1 who approached Reficul.
+- **Key details:** A body hanging from the island city's portcullis with a sign reading "Do Not Rebel." The display is deliberate — it is Pmurt's warning to the population. Inquizo's recon confirmed bodies on both portcullises. Whether this person was a butcher by trade or was labeled that way is unclear. This is distinct from the unnamed dissenter in Session 1 who approached Reficul.
 - **Session history:**
-  - Session 11 — Observed by Mira/Reficul on arrival at the island city portal entrance; also confirmed by Inquisio's invisible recon.
+  - Session 11 — Observed by Mira/Reficul on arrival at the island city portal entrance; also confirmed by Inquizo's invisible recon.
 
 #### [[The Chef]] *(King Pmurt's Palace — deceased)*
 - **First appeared:** Session 11 (encountered and killed)
@@ -500,8 +500,8 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Significance:** The exit level of the underworld. The Psychopomp (Charon) docks here. The Gate of Ivory is the party's route out.
 - **Status:** Left — party passed through the Gate of Ivory in Session 7
 - **Session history:**
-  - Session 6 — Party arrives via elevator. Receives new map from Persephone. Boards new boat with Charon. Scylla surfaces — initiative called. Session ends here.
-  - Session 7 — Scylla fought; Grungrak pushes boulder, pins Scylla. Party crushes pearls and passes through the Gate of Ivory.
+  - Session 6 — Party arrives via elevator. Receives new map from Persephone. Boards new boat with Charon. Urscylla surfaces — initiative called. Session ends here.
+  - Session 7 — Urscylla fought; Grungrak pushes boulder, pins Urscylla. Party crushes pearls and passes through the Gate of Ivory.
 
 #### [[The Gate of Ivory — Beach]] *(Underworld exit point)*
 - **First visited:** Session 7
@@ -509,7 +509,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Significance:** The exit from the underworld. Where Reficul reappeared. Where the boulder was pushed. Where the River Styx pearls were crushed.
 - **Status:** Left — party passed through the Gate of Ivory
 - **Session history:**
-  - Session 7 — Scylla beach confrontation. Reficul's brief reappearance. Boulder thrown. Pearls crushed. Party levels up. Party exits through the gate.
+  - Session 7 — Urscylla beach confrontation. Reficul's brief reappearance. Boulder thrown. Pearls crushed. Party levels up. Party exits through the gate.
 
 #### [[X-salent]] *(Guild Town — Chapter 2 base)*
 - **First visited:** Session 7
@@ -519,9 +519,9 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Session history:**
   - Session 7 — Party arrives through the Gate of Ivory portal. Registers as "The Incredible Mistakes." Gets rooms. Meets Justin, Clipboard NPC, Glendale, Penopolis. Three quests available. Chapter 2 begins.
   - Session 8 — Morning. Party reunites after split night. Party investigates writing mystery in wealthy district. Reficul causes chaos in slums (4 homeless people briefly killed, all revived). Grungrak/George and Mira reconcile. Inquizo snuck off unknown. Mira heading to Alchemy Guild. Grungrak heading to blacksmith. Session ended with Reficul still in Oni form.
-  - Session 9 — Mira spends the day at the Alchemy Guild (substance analysis with Altair and Leander) then the city library (finds "Ruins from Ancient Ages" pages 35–40, copies 18 plant entries; assisted by Ny'e). Refisul and others explore the writing-covered Victorian manor in the wealthy district; encounter adventuring party inside; dragonborn is possessed by the house, goes berserk; Grungrack's Sleep spell saves the party; house screams as they flee. The spaghetti incident occurs during/after. Grungrack gives Refisul a speech. Halqira prays to Apollo at temple district; YOMI letters glow. Prophecy Day postponed again. It is now 8 PM in-game. Party heading to Refisul's apartment for long rest. Plan for next session: forest in the morning.
-  - Session 10 — Morning at Refisul's apartment; card game reveals (Halcyra is 18, Refisul's hands moved on their own when writing as a child, George's grief over original Grungrak). Velodorn caravan goods are gooped at the gate (Transmutation magic). Party goes to forest; follows trail of candle wax and broken branches to a cave. Encounters and kills a goop creature (NOT celestial/fiend/undead; a construct built to consume). Missing merchant confirmed dead and consumed. Two guilds now investigating caravan at gate. Enchanters found runes on wagon bottoms (same alphabet as ruins). Mira has the dead man's journal.
-  - **Sub-locations confirmed (Sessions 8–10):** Slum district along outer city wall; wealthy Victorian manor district near Guild Hall (houses covered in writing are actively malevolent); river separates two sections of the city; alchemy guild and city library confirmed; Apollo's temple in the temple district; Refisul's apartment (party long rest location); forest trail and cave (bear den, ~35 ft wide) confirmed; caravan camping site in woods (~1 hour from gate, party plans to investigate).
+  - Session 9 — Mira spends the day at the Alchemy Guild (substance analysis with Altair and Leander) then the city library (finds "Ruins from Ancient Ages" pages 35–40, copies 18 plant entries; assisted by Ny'e). Reficul and others explore the writing-covered Victorian manor in the wealthy district; encounter adventuring party inside; dragonborn is possessed by the house, goes berserk; Grungrak's Sleep spell saves the party; house screams as they flee. The spaghetti incident occurs during/after. Grungrak gives Reficul a speech. Halcyra prays to Apollo at temple district; YOMI letters glow. Prophecy Day postponed again. It is now 8 PM in-game. Party heading to Reficul's apartment for long rest. Plan for next session: forest in the morning.
+  - Session 10 — Morning at Reficul's apartment; card game reveals (Halcyra is 18, Reficul's hands moved on their own when writing as a child, George's grief over original Grungrak). Velodorn caravan goods are gooped at the gate (Transmutation magic). Party goes to forest; follows trail of candle wax and broken branches to a cave. Encounters and kills a goop creature (NOT celestial/fiend/undead; a construct built to consume). Missing merchant confirmed dead and consumed. Two guilds now investigating caravan at gate. Enchanters found runes on wagon bottoms (same alphabet as ruins). Mira has the dead man's journal.
+  - **Sub-locations confirmed (Sessions 8–10):** Slum district along outer city wall; wealthy Victorian manor district near Guild Hall (houses covered in writing are actively malevolent); river separates two sections of the city; alchemy guild and city library confirmed; Apollo's temple in the temple district; Reficul's apartment (party long rest location); forest trail and cave (bear den, ~35 ft wide) confirmed; caravan camping site in woods (~1 hour from gate, party plans to investigate).
 
 ---
 
@@ -557,9 +557,9 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Notable sub-locations:**
   - **The Portal** — connects to a mainland town; operates at limited hours; run by the gender-fluid portal operator
   - **The Market** — where the party bought supplies (George bought his war hammer here)
-  - **The Prison Building** — holds mostly women, birds, and mermaids; observed by Inquisio during recon; a hub of the dissenter population
+  - **The Prison Building** — holds mostly women, birds, and mermaids; observed by Inquizo during recon; a hub of the dissenter population
   - **The Palace** — Pmurt's residence; multiple guard layers; kitchen (chef encounter); throne room (Pmurt fight)
-  - **Pmurt's Bedroom** — observed by Inquisio during recon; empty bed; Pmurt was not sleeping
+  - **Pmurt's Bedroom** — observed by Inquizo during recon; empty bed; Pmurt was not sleeping
   - **The Throne Room** — site of the King Pmurt fight; has a chandelier with a lever; space for a large court; now emptied of ~20 guards by George's Thunder Wave
 - **Session history:**
   - Session 11 — Party traveled here via portal; infiltrated the palace; fought King Pmurt; Pmurt escaped; party at session's end is standing in the throne room at level 6.
@@ -652,19 +652,19 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **The sickle "Castrator of the Sky" / Vengeance is now in Persephone's possession** — Given as payment for the party's passage out of the underworld. It was a sentient artifact with its own agenda (Vengeance against the sky, against love lost). What Persephone intends to do with it is unknown. *(Session 6)*
 
-**Scylla guards the river near the Gate of Ivory** — Six dog-heads above water, six tentacles below. Surfaces on both sides of the boat simultaneously. *(Session 6)*
+**Urscylla guards the river near the Gate of Ivory** — Six dog-heads above water, six tentacles below. Surfaces on both sides of the boat simultaneously. *(Session 6)*
 
 **The River Lethe causes memory loss and self-duplication** — Entering it makes your body "duplicate" — you see smaller versions of yourself. The river contains something like "an ocean of alcohol." Entering causes the Lethe to draw out reflections of who you are. Eric lost all memory of Ariel after entering. Grungrak encountered a duplicate of himself ("George"). The effects on Mira (who is technically already dead) are unresolved. *(Session 7)*
 
-**River Styx Pearls allow passage through the Gate of Ivory** — Small pearls associated with the River Styx. Ariel distributed them to the party during the Scylla fight. Crushing one in your mouth makes your body go ethereal/numb for ~10 minutes — except your "Achilles heel" (one mortal spot remains: Grungrak's pinky toes, Inquizo's ear fins). The effect doesn't transfer between planes. *(Session 7)*
+**River Styx Pearls allow passage through the Gate of Ivory** — Small pearls associated with the River Styx. Ariel distributed them to the party during the Urscylla fight. Crushing one in your mouth makes your body go ethereal/numb for ~10 minutes — except your "Achilles heel" (one mortal spot remains: Grungrak's pinky toes, Inquizo's ear fins). The effect doesn't transfer between planes. *(Session 7)*
 
-**Sisyphus is real and guards the Gate of Ivory cliffs** — The actual Sisyphus from Greek mythology has been pushing his boulder at the Gate of Ivory cliffs since eternity. Grungrak pushed it over for him for the first time ever (nat 20). It landed on Scylla. Sisyphus wept. *(Session 7)*
+**Sisyphus is real and guards the Gate of Ivory cliffs** — The actual Sisyphus from Greek mythology has been pushing his boulder at the Gate of Ivory cliffs since eternity. Grungrak pushed it over for him for the first time ever (nat 20). It landed on Urscylla. Sisyphus wept. *(Session 7)*
 
-**Scylla's voice can steal voices** — She stole Grungrak's voice by luring him into trying to cast Healing Word (which failed). The voice was contained in a glowing orb and orbited around Scylla's body. Grungrak recovered it after the boulder pinned Scylla. *(Session 7)*
+**Urscylla's voice can steal voices** — She stole Grungrak's voice by luring him into trying to cast Healing Word (which failed). The voice was contained in a glowing orb and orbited around Urscylla's body. Grungrak recovered it after the boulder pinned Urscylla. *(Session 7)*
 
-**Scylla was pinned by the boulder — not confirmed dead** — The boulder from Sisyphus's cliff landed on Scylla after Grungrak threw it. Her tentacles retreated and she was pinned. Whether she is dead or merely immobilized is not confirmed. *(Session 7)*
+**Urscylla was pinned by the boulder — not confirmed dead** — The boulder from Sisyphus's cliff landed on Urscylla after Grungrak threw it. Her tentacles retreated and she was pinned. Whether she is dead or merely immobilized is not confirmed. *(Session 7)*
 
-**Inquizo's jade/emerald necklace went to Scylla** — Inquizo, charmed by Scylla's singing aria, gave her a necklace depicting a snake eating itself (or a bird, or a bird eating itself). Scylla smiled when she received it — eels don't smile. The significance of this item is unknown but was clearly not nothing. *(Session 7)*
+**Inquizo's jade/emerald necklace went to Urscylla** — Inquizo, charmed by Urscylla's singing aria, gave her a necklace depicting a snake eating itself (or a bird, or a bird eating itself). Urscylla smiled when she received it — eels don't smile. The significance of this item is unknown but was clearly not nothing. *(Session 7)*
 
 **The world has changed drastically in the last 6 months** — From X-salent's perspective: "huge arcs of lightning broke the land." Mountains and volcanoes appeared that were not there before. This is a major world-shaping event that the party was not present for (they were in the underworld or portaling). It is connected to the campaign's larger shattered-worlds narrative. *(Session 7)*
 
@@ -717,7 +717,7 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **The houses covered in writing are actively malevolent** — The Victorian manor in X-salent's wealthy district is not merely a site of strange script — it appears to have an active, hostile intelligence. A dragonborn adventurer inside the manor had his weapon shift shape and his eyes glow red, seemingly possessed by the house. The house screamed audibly when the party fled. A magical aura surrounds these structures. The writing and the malevolent presence may be connected to the deity linked to the ruins. *(Session 9)*
 
-**The YOMI letters glow near divine proximity or heat** — The crossed-out letters spelling "YOMI" from the mysterious bundle of notes began glowing with heat and light when Halqira prayed to Apollo at the temple district. Mira confirmed arcane energy (Arcana roll 12). Two unresolved theories: (1) Apollo responded to Halqira's prayer, or (2) the ink in the letters reacted to the temple's candle heat, similar to how the mystery substance reacts to other stimuli. *(Session 9)*
+**The YOMI letters glow near divine proximity or heat** — The crossed-out letters spelling "YOMI" from the mysterious bundle of notes began glowing with heat and light when Halcyra prayed to Apollo at the temple district. Mira confirmed arcane energy (Arcana roll 12). Two unresolved theories: (1) Apollo responded to Halcyra's prayer, or (2) the ink in the letters reacted to the temple's candle heat, similar to how the mystery substance reacts to other stimuli. *(Session 9)*
 
 **A sorcerer in the adventuring party mentioned her warlock companion "just left one day"** — One of the four adventurers encountered in the Victorian manor noted that her warlock party member departed without explanation at some point. This may be connected to larger patron/warlock lore in the campaign. *(Session 9)*
 
@@ -747,7 +747,7 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **Mira's pact weapon is a sickle** — During the King Pmurt fight, Mira's warlock pact weapon manifested as a sickle without her fully consciously calling it. She used it to partially castrate Pmurt before he escaped. She is an unknowing warlock — she does not understand what is happening to her or who her patron is. The patron's presence is undeniable at this point. The sickle is notable given that the last major sickle in the campaign was the "Castrator of the Sky" — now in Persephone's possession. Whether there is a connection is unresolved. *(Session 11)*
 
-**The party dealt ~250 damage to King Pmurt** — The throne room fight accumulated: Searing Smite fire burns (Halcyra), Dissonant Whispers 32 damage (Reficul), Earth Tremor (George), English breakfast blinding (Inquisio), Starry Wisp killing the spectator (Reficul), Thunder Wave wiping 20 guards (George), and sustained melee damage. This is the highest single-encounter damage total the party has accumulated against a named target. *(Session 11)*
+**The party dealt ~250 damage to King Pmurt** — The throne room fight accumulated: Searing Smite fire burns (Halcyra), Dissonant Whispers 32 damage (Reficul), Earth Tremor (George), English breakfast blinding (Inquizo), Starry Wisp killing the spectator (Reficul), Thunder Wave wiping 20 guards (George), and sustained melee damage. This is the highest single-encounter damage total the party has accumulated against a named target. *(Session 11)*
 
 **George's Thunder Wave killed approximately 20 palace guards** — A single Thunder Wave cast wiped out a wave of guards that had been summoned into the throne room during the Pmurt fight. ~20 deaths in one action. This is the largest single-action kill count in the campaign to date and will likely have political consequences in the island city. *(Session 11)*
 
@@ -759,7 +759,7 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **The party leveled to 6** — All five characters are now level 6. New abilities not yet documented for any character. *(Session 11)*
 
-**The three cobalts quest item** — The party has one of three cobalts. The location of the other two and what all three together accomplish remains unknown. Pmurt or the Nightmare/Numgis connection may have information about the other cobalts. *(Referenced Session 11)*
+**The three Kobolds quest item** — The party has one of three Kobolds. The location of the other two and what all three together accomplish remains unknown. Pmurt or the Nightmare/Numgis connection may have information about the other Kobolds. *(Referenced Session 11)*
 
 ## Unresolved Threads
 
@@ -792,12 +792,12 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Reficul ate pomegranate** — Same situation, different character. His death mechanic already anchors him to hell. Extra pomegranate binding may compound this. *(Opened: Session 6)*
 - **The sickle is now Persephone's** — Given as payment in Session 6. Vengeance is a sentient artifact with its own agenda. What does Persephone intend to do with it? *(Opened: Session 6)*
 - **Eric is with the party** — Ariel's husband. He knows the party killed his wife. He wants to find her ("somewhere else" in the afterlife). He is now on the boat with them. How this develops is unresolved. *(Note: Eric is a separate NPC from George the party member — they are not the same person.) (Opened: Session 6)*
-- ~~**Scylla**~~ — Pinned under Sisyphus's boulder at the Gate of Ivory beach. Tentacles retreated. Possibly not dead, just pinned. *(Opened: Session 6, updated: Session 7)*
+- ~~**Urscylla**~~ — Pinned under Sisyphus's boulder at the Gate of Ivory beach. Tentacles retreated. Possibly not dead, just pinned. *(Opened: Session 6, updated: Session 7)*
 - **The horse** — Grandson of Poseidon's horse, now at X-salent with the party. Poseidon is implied present in this campaign. This may not go unnoticed. *(Opened: Session 6)*
 - **A chest of Reficul's clothes was already in Persephone's shrine** — Someone knew he would be there. Who? *(Opened: Session 6)*
 - ~~**Eric with the party**~~ — Eric jumped into the River Lethe and forgot everything. He is gone. Ariel forgot him too. Their arc is closed — sadly. *(Opened: Session 6, resolved: Session 7)*
 - **Charon in the Lethe** — Grungrak tackled him into the river. What does the ferryman forget when he enters the river of forgetting? What happens to the underworld's system without its ferryman? *(Opened: Session 7)*
-- **Inquizo's jade/emerald necklace — given to Scylla** — He was charmed when he gave it away. The necklace depicted a snake eating itself (or a bird). Scylla smiled. What was it? Was it significant to Inquizo personally? Does losing it have consequences? *(Opened: Session 7)*
+- **Inquizo's jade/emerald necklace — given to Urscylla** — He was charmed when he gave it away. The necklace depicted a snake eating itself (or a bird). Urscylla smiled. What was it? Was it significant to Inquizo personally? Does losing it have consequences? *(Opened: Session 7)*
 - **Baby Inquizo in the Lethe** — A smaller version of himself reached out to him in the river. He ignored it (coin flip: tails). Did this choice matter? *(Opened: Session 7)*
 - **The Lethe's effects on the party** — Everyone who entered the river (Mira, Grungrak/George) had unusual experiences. Mira is already technically dead — did the Lethe affect her in a way specific to her condition? *(Opened: Session 7)*
 - **The drying saltwater river at X-salent** — The party's most immediate quest. Why is it stopping 100 feet early? *(Opened: Session 7)*
@@ -814,11 +814,11 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Inquizo's location** — He snuck off (Stealth 16) during the serious conversations in the slum aftermath. Nobody noticed until later. Where did he go? *(Opened: Session 8)*
 - ~~**The ink sample and the sigil script**~~ — Mira's substance analysis is complete (Session 9): not from SKRP; gaseous with Agopyl; graphite-solid with salt. Ruins pages confirm magical/deity-linked origin. Comprehend Languages on the sigil script still pending. *(Opened: Session 8, partially resolved: Session 9)*
 - **Prophecy Day postponed (again)** — The full-party prophecy discussion was planned for Session 9 but derailed by the Victorian manor incident. Still pending. *(Opened: Session 8)*
-- **The YOMI letters glowed** — During Halqira's prayer to Apollo, the crossed-out YOMI letters glowed with heat and light. Was this Apollo responding? The ink reacting to candle heat? Something else? *(Opened: Session 9)*
+- **The YOMI letters glowed** — During Halcyra's prayer to Apollo, the crossed-out YOMI letters glowed with heat and light. Was this Apollo responding? The ink reacting to candle heat? Something else? *(Opened: Session 9)*
 - **The houses with writing are actively malevolent** — At least one Victorian manor is possessed by a hostile intelligence capable of taking over people inside it. The possessed dragonborn is still asleep in the manor. What wakes him? What happens to someone who was possessed by the house? *(Opened: Session 9)*
 - **The unknown adventuring party** — Four adventurers encountered in the Victorian manor. Their names, faction, and goals are unknown. The sorcerer's missing warlock may be significant. Where did they go after the manor encounter? *(Opened: Session 9)*
 - ~~**The forest — creature**~~ — **PARTIALLY RESOLVED (Session 10).** The party entered the forest, found the cave, and killed the goop creature. The creature is dead. But the goop constructs are not done — someone is making them. The forest itself remains dangerous and unexplored beyond the cave trail.
-- **The goop bite wounds** — Halcyra (arm, bite punctures) and Inquisio (midsection, whole-mouth contact) both have dark shadow marks remaining after Cure Wounds. The goop was partially expelled but something is still there. Long-term effect unknown. *(Opened: Session 10)*
+- **The goop bite wounds** — Halcyra (arm, bite punctures) and Inquizo (midsection, whole-mouth contact) both have dark shadow marks remaining after Cure Wounds. The goop was partially expelled but something is still there. Long-term effect unknown. *(Opened: Session 10)*
 - **The dead man's journal** — Mira recovered the open journal from the cave. It belonged to the missing merchant. The DM has indicated its contents will be revealed in a future session. What did he see? What was he writing? *(Opened: Session 10)*
 - **The Velodorn caravan camping site** — The caravan spent the night in the woods (~1 hour from X-salent's gate) before their goods were gooped. Mira wants to investigate. Were the wagon runes added there? Was the creature following the caravan? *(Opened: Session 10)*
 - **Who put runes on the Velodorn wagons?** — The enchanters found runes from the ruins alphabet on the bottom of the wagons. Did the Velodorn merchants know? Were the runes placed before or after they camped in the woods? Did the runes cause the goop reaction at the gate? *(Opened: Session 10)*
@@ -827,21 +827,21 @@ tags: [dnd, shattered-world, world-state, reference]
 - **King Pmurt is alive and coming for revenge** — He escaped via contingency poof after ~250 damage and partial castration. He is badly wounded but alive. He has now been publicly humiliated, physically mutilated, and his throne room has been destroyed (20 guards killed). He will not forget the party. Where does he go? Who does he contact? Does Numgis know what happened? *(Opened: Session 11)*
 - **Numgis is heading north — for what?** — Pmurt's collaborator and the self-proclaimed Nightmare prophet departed north before the party arrived. His destination and purpose are unknown. Is he gathering more Nightmare entities? Meeting with someone? Establishing a new seat of power? *(Opened: Session 11)*
 - **The island city resistance** — Reverie and the others who helped the party are still inside the city. Pmurt escaped but the party killed 20 guards and destroyed his throne room presence. What does this mean for the resistance? Is there a power vacuum? Who steps in? *(Opened: Session 11)*
-- **The prison building** — Inquisio's recon confirmed the prison holds mostly women, birds, and mermaids — the populations most threatened by Pmurt's regime. With Pmurt gone (for now), do they stay imprisoned? Does the party return to free them? *(Opened: Session 11)*
+- **The prison building** — Inquizo's recon confirmed the prison holds mostly women, birds, and mermaids — the populations most threatened by Pmurt's regime. With Pmurt gone (for now), do they stay imprisoned? Does the party return to free them? *(Opened: Session 11)*
 - **Mira's pact weapon and patron** — The sickle manifested. Mira is an unknowing warlock. Her patron is present and active. Who or what is this entity? Why Mira? What does the patron want in return for the warlock abilities it has been extending to her? *(Opened: Session 11)*
 - **Zone of Truth results** — What exactly did Pmurt confirm or reveal under Zone of Truth before escaping? The full contents of the interrogation need to be played out. *(Opened: Session 11)*
 - **George's mass guard kill — consequences** — Thunder Wave wiped ~20 palace guards. This is a significant body count in a city with a small guard force. Does this create political fallout even if Pmurt is temporarily gone? Is there someone loyal to Pmurt who catalogues what happened? *(Opened: Session 11)*
-- **Three cobalts — the other two** — The party has one cobalt. Two remain. Where are they? What do all three together accomplish? Is Pmurt or Numgis connected to the other cobalts? *(Opened: referenced Session 11)*
+- **Three Kobolds — the other two** — The party has one Kobold. Two remain. Where are they? What do all three together accomplish? Is Pmurt or Numgis connected to the other Kobolds? *(Opened: referenced Session 11)*
 - **The Nightmare entities / Numgis's "prophecy"** — Numgis presents the shadow/goop/psychic constructs as divine — as entities whose prophet he is. What is his actual relationship to them? Is he serving them, manipulating them, or lying about the connection entirely? *(Opened: Session 11)*
 - **Level 6 abilities** — All characters are now level 6. New class features and spells not yet established for any of them. *(Opened: Session 11)*
-- **The God of Dreams is sealed by her own nightmare** — Gunge (shadow therapist at Voxus) revealed this in Session 12. The God of Dreams is female. She was sealed by her own shadow / nightmare. Numgis knows this and is actively working with that nightmare to unseal her — presumably on his own terms, in a way that benefits him. Unsealing her involves something in the next town the party is heading toward. *(Opened: Session 12)*
-- **Part of the unsealing is in the next town** — Gunge said this directly. He does not know if it requires destroying the town; his chief believes it does; Gunge does not agree. He will stall his chief. The party needs to reach the town before Numgis can use it. *(Opened: Session 12)*
+- **The God of Dreams is sealed by her own nightmare** — Gunj (shadow therapist at Voxus) revealed this in Session 12. The God of Dreams is female. She was sealed by her own shadow / nightmare. Numgis knows this and is actively working with that nightmare to unseal her — presumably on his own terms, in a way that benefits him. Unsealing her involves something in the next town the party is heading toward. *(Opened: Session 12)*
+- **Part of the unsealing is in the next town** — Gunj said this directly. He does not know if it requires destroying the town; his chief believes it does; Gunj does not agree. He will stall his chief. The party needs to reach the town before Numgis can use it. *(Opened: Session 12)*
 - **Mira's patron is a dragon** — In the shadow therapy dream, the patron manifested as a blue dragon with green veins. Grungrak was somehow part of it. The patron's origin: Mira's father sold his soul to save her when she was a child (shortly after her fifth birthday). The contract terms: *My soul for hers.* The dragon is the entity who held that contract. *(Opened / revealed: Session 12)*
 - **Mira's father's soul** — Signed away shortly after Mira's fifth birthday. The patron/dragon has held the contract ever since. What happened to her father? Is he alive? Is he in hell? Does the dragon hold him? *(Opened: Session 12)*
 - **The Liberators** — A Scarlet Pimpernel-style troupe deployed from another world via a book in a grand library on a mountain. Sent by a 7-foot jovial old man (same figure adjacent to X-salent's larger mysteries). They had already visited the Bird Kingdom and the island city before the party arrived. Elton is their spokesperson. Their third target is the fish. *(Opened: Session 12)*
 - **The prisoner Grant (shifting-eye farmer)** — A farmer from another world, merged in the Shattering. Described blue lightning, paper tearing across reality, the sound of a machine. His eyes shift from brilliant gold to silver. The arcana check confirmed this is a cast magical effect, not innate — meaning two entities (or a deity and a mortal) were layered together during the Shattering. He ran up the stairs after the party gave him the context. His location is unknown. *(Opened: Session 12)*
 - **Ravalli and the wire-glasses man** — Two days before the party arrived at Voxus, a man with wire glasses was at Ravalli's nest setting up a sleep-related system. Ravalli cooperated. The wire-glasses man is almost certainly Numgis. The "sleep" system is almost certainly connected to the God of Dreams unsealing. *(Opened: Session 12)*
-- **Gunge / Gundrak** — Shadow therapist at or near Voxus. Knows about the God of Dreams situation. Has duties at Voxus and is constrained by his chief's agenda. He is trying to stall. He is an ally if the party can move fast enough. *(Opened: Session 12)*
+- **Gunj / Gunj** — Shadow therapist at or near Voxus. Knows about the God of Dreams situation. Has duties at Voxus and is constrained by his chief's agenda. He is trying to stall. He is an ally if the party can move fast enough. *(Opened: Session 12)*
 - **Inquizo's shadow is suppressed, not resolved** — The Warden Brother told him on the way out: *You can't let this hold you down forever. You can't let me be gone forever.* The sister thread was touched. The shadow is waiting. *(Opened: Session 12)*
 - **Halcyra's mother confrontation (unresolved)** — Her mother said she had something related to Halcyra's father to give her, and asked for one more minute. Halcyra left before receiving it. The item — whatever it was — is still in her mother's hands (dreamworld or real). *(Opened: Session 12)*
 

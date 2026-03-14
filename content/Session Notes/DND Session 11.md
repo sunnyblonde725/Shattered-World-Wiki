@@ -1,19 +1,33 @@
 ---
-title: Session 11 — The Palace Assault
+title: "Session 11 — The Palace Assault"
 session: 11
 date: 2026-03-07
-tags: [session-notes, betrayers, a-shattered-world]
+tags: [dnd, shattered-world, session-notes, session-11]
 ---
 
 # Session 11 — The Palace Assault
 
+*Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
+
 > **Runtime:** ~6.5+ hours across three recorded parts
-> **DMs:** Lorenne (Parts 1–2), Cooper (Part 3 palace section)
+> **DMs:** Charlie (Parts 1–2), Cooper (Part 3 palace section)
 > **Party Level:** 5 → leveling up to 6 at end of session
 
 ---
 
-## Pre-Game
+## Pre-Session Recap
+
+Session 10 ended with the party successfully killing a goop construct in a cave in the woods outside X-salent — confirming the missing merchant's body was inside, the creature's body was made of the same substance as the wall writing and the Velodorn caravan goods, and the enchanters found runes on the bottom of the caravan wagons in the same alphabet as the ruins. George speculated someone is making goop constructs in the woods. Halcyra and Inquizo both had spreading goop in bite wounds from the fight, with dark shadow marks remaining after healing. The party still had the merchant's journal (unopened) and Mira wanted to investigate the caravan camping site. Prophecy Day still had not happened.
+
+---
+
+## TL;DR
+
+A marathon session across three parts and two DMs. The party spent the morning in town — reading the merchant's journal, meeting the mysterious Reverie (a vessel for the imprisoned God of Dreams, Yomi), and stepping through an unstable portal at midnight into King Pmurt's island city. They arrived to find the butcher hanging dead from the portcullis with a "DO NOT REBEL" sign, and guards dragging people into a newly constructed prison building. The palace infiltration went sideways the moment George crit-failed his stealth landing in front of 20 guards — Grungrak saved it with a fake second George illusion (deception 24). The party fought their way to Pmurt's bedroom, confirmed Durf Numgis had already left for the northern continent, and triggered a massive boss fight in the throne room: Pmurt, a phantasmal spectator, and 60 guards. Halcyra cast Zone of Truth before Pmurt could flee, pulling key intel — Numgis has become the prophet of the Nightmares; Pmurt had no idea who Yomi is. Pmurt escaped via contingency poof, partially castrated by Mira's sickle. The session ended with the party in the throne room surrounded by dead guards, scattered baked beans, and a shattered chandelier. Party levels up to 6.
+
+---
+
+## Pre-Game Warm-Up
 
 The session opened with the group playing a card game called **"Blurt Out"** in character, which devolved into extremely chaotic in-character banter. Snacks were on the table. This is a recurring pre-game warm-up tradition.
 
@@ -35,11 +49,11 @@ The party read aloud from a journal recovered from a dead merchant. This was a m
 **Reficul's Duck Spell (Wild Shape curse):**
 Reficul (Ian's character) revealed — or it was revealed again — that his wild shape has become a curse. He randomly and uncontrollably transforms into animals. The **bullywug frog** form is his most commonly triggered one, but he has also turned into other creatures at inconvenient times. The party refers to this as the "duck spell." This is played entirely for comedy but also has real mechanical consequences at bad moments.
 
-**World-building: Skrub Dream Mechanics:**
-A significant conversation unpacked how the world of Skrub handles dreams:
-- In Skrub, **dreaming is a form of literal travel** — sleeping carries your consciousness into god-adjacent realms
-- Named dream destinations include **La Tar's Tavern** and **Thorn's Woods**
-- This is not metaphor — it is how Skrub's cosmology works. Gods and entities can reach mortals through dreams
+**World-building: SKRP Dream Mechanics:**
+A significant conversation unpacked how the world of SKRP handles dreams:
+- In SKRP, **dreaming is a form of literal travel** — sleeping carries your consciousness into god-adjacent realms
+- Named dream destinations include **La Tar's Tavern** and **Thorin's Woods**
+- This is not metaphor — it is how SKRP's cosmology works. Gods and entities can reach mortals through dreams
 - "Going on vacation" = Reficul's euphemism for dying / going unconscious. He does not permanently die, so going unconscious is treated as a holiday
 
 **Party splits to gather information:**
@@ -75,8 +89,8 @@ Reverie is not entirely herself. She is a **vessel** — an entity (implied to b
 The party read the full prophecy aloud. Key elements discussed:
 - **George may have caused the Shattering** — or was its primary victim. The prophecy references a hammer striking a dragon scale, which aligns with George's background
 - **Durf Numgis is deeply involved** — the prophecy names or implies a figure matching his description
-- References to "three cobalts" — the party currently has one cobalt; two more need to be found. Someone mutters "oh boy howdy" when this is discussed, implying the other two are going to be very hard to get
-- DM (Lorenne/Cooper) strongly encouraged the players to re-read the prophecy before next session, saying "there's relevant shit in there for this arc"
+- References to "three Kobolds" — the party currently has one Kobold; two more need to be found. Someone mutters "oh boy howdy" when this is discussed, implying the other two are going to be very hard to get
+- DM (Cooper) strongly encouraged the players to re-read the prophecy before next session, saying "there's relevant shit in there for this arc"
 
 **Portal travel:**
 At midnight, the party went to the portal depot. Key portal details:
@@ -87,14 +101,16 @@ At midnight, the party went to the portal depot. Key portal details:
 - Reficul went through first, almost too slowly. The full party made it through
 - On the other side: the gate of King Pmurt's island city, at midnight
 
+*(Note: After the portal crossing, the DM switches from Charlie to Cooper for the palace section.)*
+
 **Arriving at the city gate:**
 Emerging from the portal inside the city, the party immediately saw:
 - A man **hanging from the portcullis**. A chain sign around his neck read: **"DO NOT REBEL"**
-- Inquisio (flying recon, invisible, 18-minute window): discovered **two portcullises** — one facing the beach, one facing the giant staircase where the party had first appeared. **A body hung from each one**
+- Inquizo (flying recon, invisible, 18-minute window): discovered **two portcullises** — one facing the beach, one facing the giant staircase where the party had first appeared. **A body hung from each one**
 - The butcher — a recurring NPC who told Reficul "there are others of us who agree with you" during the previous session's chaos — was identified as **the man hanging at the first gate**. He had been hanging for approximately a week (the party had been gone about a month in-world time)
 - Guards were checking **household doors** across 3+ city blocks, **dragging people out** — mostly quiet, muffled screams. They were being taken to a **new large stone building connected to the palace** with almost no windows, described as 4 stories tall and packed **mostly full of women**, plus some birds and some mermaids
 - The guard told those being taken: *"The quieter you are, the nicer we can treat you, so be silent."*
-- Inquisio noted there were **very few guards watching the towers**, but the prison building was heavily fortified with a double-door vestibule entrance
+- Inquizo noted there were **very few guards watching the towers**, but the prison building was heavily fortified with a double-door vestibule entrance
 
 **Disguises:**
 The party discussed disguising Mira (who is a wanted criminal in this city). Solutions attempted:
@@ -106,7 +122,7 @@ The party discussed disguising Mira (who is a wanted criminal in this city). Sol
 
 ### PART 3 — Palace Infiltration, The King Pmurt Fight
 
-*Note: This section ran simultaneously to Part 2 in a split-party scenario. The palace group was Halcyra, Inquisio, Mira, George, and Grungrak/GruntGrak.*
+*Note: This section ran simultaneously to Part 2 in a split-party scenario. The palace group was Halcyra, Inquizo, Mira, George, and Grungrak.*
 
 **Beach approach and initial palace scouting:**
 The party arrived at the beach outside the island/palace city. Halcyra flew up to a palace balcony and rolled **perception 23**: guards visible in every window, balcony clear.
@@ -128,7 +144,7 @@ Grungrak created an **illusion of a second George** and used **deception roll of
 - Vicious Mockery caused a guard to trip and fall to his death (1 kill)
 - George did 3 damage to a guard
 - Mira cast **Hunger of Hadar** — a void sphere centered on the area where the fake Pmurt illusion was (the illusory second George had been positioned near a fake Pmurt figure)
-- Inquisio toppled **17 candelabras in a chain** — doing **45 total damage** to approximately **15 guards**
+- Inquizo toppled **17 candelabras in a chain** — doing **45 total damage** to approximately **15 guards**
 - The remaining guards (all 20 total) were herded onto the balcony
 - The door was **slammed and barricaded** using all 20 candelabras stacked against it
 - Final count: **6 guards killed** out of the 20
@@ -155,7 +171,7 @@ The bedroom was enormous — a California/Texas/Alaskan king sized bed taking up
 **Mira casts False Life** (gaining 8 temp HP, bringing her to 40 total).
 
 **The chef incident:**
-While the party was debating what to do, **door 1 opened** and the chef stepped out carrying breakfast. He saw Halcyra (a winged woman — they're at war with birds). He **screamed**, **dropped a full English breakfast** (baked beans, egg, sausage) and ran back into the kitchen. This ended stealth.
+While the party was debating what to do, **door 1 opened** and the chef stepped out carrying breakfast. He saw Halcyra (a winged woman — humans in this kingdom view birds/winged beings with extreme hostility). He **screamed**, **dropped a full English breakfast** (baked beans, egg, sausage) and ran back into the kitchen. This ended stealth.
 
 **Grungrak smashes the window** (instead of a door — by accident/exuberance).
 
@@ -174,9 +190,9 @@ King Pmurt, fully armored (gold-plated armor, slightly melted from earlier event
 
 **Mira's turn:** Cast **Warding Wind** — cleared all the fog, revealed the waterfall-projector setup, made ranged attacks have disadvantage within 10-foot radius
 
-**Halcyra's turn:** Hit Pmurt with **Searing Smite** (longsword attack, roll of 21 to hit). Damage: **1d8 slashing + 1d6 fire = 10 damage total**. Pmurt was set on fire. Warding Wind eventually put the fire out (Mirt gets a free constitution save at start of his turn — he passed with higher than 13).
+**Halcyra's turn:** Hit Pmurt with **Searing Smite** (longsword attack, roll of 21 to hit). Damage: **1d8 slashing + 1d6 fire = 10 damage total**. Pmurt was set on fire. Warding Wind eventually put the fire out (Pmurt gets a free constitution save at start of his turn — he passed with higher than 13).
 
-**George's Fear:** Inquisio climbed onto George's shoulders and started singing/humming a calming melody (help action). Rolled **6 on d6** — George succeeded on his wisdom saving throw. George turned around, ran back up the stairs. Grungrak barricaded the door on that turn.
+**George's Fear:** Inquizo climbed onto George's shoulders and started singing/humming a calming melody (help action). Rolled **6 on d6** — George succeeded on his wisdom saving throw. George turned around, ran back up the stairs. Grungrak barricaded the door on that turn.
 
 **King Pmurt's counter — Charisma save:**
 Pmurt used an ability targeting those who failed charisma saves: **on attacks against Pmurt, subtract a d4 from the attack roll**. Two of three targets failed (one succeeded with a 25). Duration: until start of Pmurt's next turn.
@@ -186,13 +202,13 @@ Reficul/Ian cast **Dissonant Whispers** against Pmurt (attack roll 19, hit). Pmu
 
 **Halcyra's second Searing Smite:** Roll of 10 — missed. Sword clinked off the melted gold armor.
 
-**Mirt counterspells Dissonant Whispers** (in a later round, he burned a level-3 spell slot to counterspell, wasting the party's action but also costing himself a slot).
+**Pmurt counterspells Dissonant Whispers** (in a later round, he burned a level-3 spell slot to counterspell, wasting the party's action but also costing himself a slot).
 
-**Lauren's cantrip (Toll the Dead):** Pmurt repeatedly made his saves against this (rolled 17 and 16 in different rounds). The cantrip also triggers Pmurt to make a constitution saving throw — he kept passing.
+**Mira's cantrip (Toll the Dead):** Pmurt repeatedly made his saves against this (rolled 17 and 16 in different rounds). The cantrip also triggers Pmurt to make a constitution saving throw — he kept passing.
 
 **Mira summons her Pact Weapon sickle** (as a bonus action). She notes that her character Mira "doesn't consciously do this — it just seems to materialize in her hand." This is a recurring character mystery: **Mira doesn't know she's a warlock. She doesn't know she has a patron. She doesn't know who her patron is.** Her powers manifest without explanation.
 
-**Charles (Inquisio):** Multiple turns of varied support. In one memorable moment, **threw a handful of the chef's English breakfast (baked beans + eggs) directly into King Pmurt's eyes**. Rolled strength for the improvised attack — DM ruled it hit. Pmurt was considered **blinded** as a result. The group went wild.
+**Charlie (Inquizo):** Multiple turns of varied support. In one memorable moment, **threw a handful of the chef's English breakfast (baked beans + eggs) directly into King Pmurt's eyes**. Rolled strength for the improvised attack — DM ruled it hit. Pmurt was considered **blinded** as a result. The group went wild.
 
 **Total damage in first 3 rounds: approximately 150 damage.** King Pmurt started with triple-digit HP. He was in double digits after 3 rounds.
 
@@ -202,7 +218,7 @@ Pmurt **tapped his shoulder** (this was foreshadowed as something significant he
 This was the moment the party had been chasing Pmurt down the stairs into the throne room, where **60 guards** waited — archers, spear guys, and swordsmen in battalion formation.
 
 **The spectator's eye rays** hit:
-- Inquisio: 11 damage
+- Inquizo: 11 damage
 - Mira: 6-7 damage
 - Halcyra: 22 damage (took full force)
 
@@ -212,24 +228,24 @@ This was the moment the party had been chasing Pmurt down the stairs into the th
 
 **George used Thunder Wave** twice across the fight — one cast killed **20 guards** in a single blast. Earth shook. Guards fell into each other.
 
-**Halcyra dropped a chandelier** (Inquisio pulled the mechanism lever, disabling the safety — rolled an 8 on dex, was fiddling with it). The chandelier dropped on the spectator — only **2 damage** (chandelier was not directly over it). The spectator then **blasted the chandelier** and it shattered.
+**Inquizo dropped a chandelier** (he pulled the mechanism lever — rolled an 8 on dex, was fiddling with it). The chandelier dropped on the spectator — only **2 damage** (chandelier was not directly over it). The spectator then **blasted the chandelier** and it shattered.
 
 **Halcyra killed the spectator** with a **Starry Wisp cantrip** (her last real action of the fight) — the spectator exploded in **purple dust**. This terrified the archers and spear men. The swordsmen remained unbothered.
 
 **Remaining guards' turns:**
 - Archers: terrified, fired at Halcyra, **8 damage** total
-- Spear guys: threw at Ian/Inquisio — **14 damage**
+- Spear guys: threw at Ian/Inquizo — **14 damage**
 - Sword guys: missed flat
 
 By the end of the guard's turns:
-- Inquisio HP: 16 remaining (came very close to going down)
+- Inquizo HP: 16 remaining (came very close to going down)
 - Mira: had taken 0 actual damage the entire fight (position, luck, False Life buffer)
 - Halcyra: had taken the most (22 from spectator eye ray + archery fire)
 
 **George cast Mass Healing Word:** healed all allies within sound of his voice for **9 HP** each.
 
 **King Pmurt's final push:**
-Pmurt cast **Hunger of Hadar** on a 20-foot radius that would hit Halcyra, Inquisio, and George — plus many of his own guards. He did not care. He also tried a second charisma save effect on the party. Most succeeded or failed minimally.
+Pmurt cast **Hunger of Hadar** on a 20-foot radius that would hit Halcyra, Inquizo, and George — plus many of his own guards. He did not care. He also tried a second charisma save effect on the party. Most succeeded or failed minimally.
 
 Mira dealt 19 damage with a final spell.
 
@@ -244,7 +260,7 @@ He had a **hidden emergency medical salve stored in his throne** — the DM conf
 
 ## Zone of Truth Interrogation (before Pmurt escaped)
 
-Before Pmurt fled, the party pinned him momentarily. Mira cast **Zone of Truth**. They interrogated him while he was still cornered and talking:
+Before Pmurt fled, the party pinned him momentarily. Halcyra cast **Zone of Truth** — a big moment for her character. They interrogated him while he was still cornered and talking:
 
 **Question: "Where is Numgis?"**
 - *"He went through to the main continent — north."* (Pmurt pointed straight north)
@@ -258,7 +274,7 @@ Before Pmurt fled, the party pinned him momentarily. Mira cast **Zone of Truth**
 
 **Question: "Tell us everything you know about the Nightmares."**
 - *"They gave me some f***ing awesome powers. But that was all this. It wasn't nearly as cool as a good friend DERF [Numgis]. Boy howdy, can he know how to wield the Nightmares. He understands how to use the nightmares to see the person's deepest fears. I believe you have faced it. You're not very effective at it, but you got to see a glimpse. But those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—"*
-  (At this point, Inquisio knocked him unconscious with a Bible / book)
+  (At this point, Inquizo knocked him unconscious with a Bible / book)
 
 **Question (final): "What do you know of the goddess Yomi?"**
 - *"Who the f*** is that?"* (Genuine confusion — he doesn't know)
@@ -266,6 +282,59 @@ Before Pmurt fled, the party pinned him momentarily. Mira cast **Zone of Truth**
 This confirms: **Durf Numgis is operating with Nightmare knowledge that goes beyond what Pmurt was given.** Pmurt was a lower-level ally. Numgis is the one who truly understands and wields them.
 
 **Mira partially castrated Pmurt with her sickle** before he poofed. Per DM: "He still has part of his dick." He is alive, escaped, partially mutilated.
+
+---
+
+## Timestamped Play-by-Play
+
+*This session ran across three recorded parts. Timestamps are approximate and cross-part.*
+
+| Timestamp | Event | Key Detail |
+|-----------|-------|------------|
+| Part 1 start | Pre-game "Blurt Out" card game | In-character banter; snacks; warm-up tradition |
+| Part 1 | Party reads the merchant's journal | Shadow creatures are parasitic; born from personal fears; Numgis connection to "the prison" |
+| Part 1 | Reficul's duck spell / wild shape curse revealed | Randomly transforms into animals; referred to as "the duck spell" |
+| Part 1 | SKRP dream mechanics worldbuilding | Dreaming is literal travel; La Tar's Tavern; Thorin's Woods |
+| Part 1 | Party splits to gather information | Halcyra and Mira visit dragonborn NPC in slums about Pmurt's city |
+| Part 1 | George buys a war hammer | 15 gold from a dwarf blacksmith |
+| Part 2 | Discovery of Reverie at caravan campsite | Inky black eyes; dissecting a goop creature; rune circle with salt barrier |
+| Part 2 | Reverie's revelations | Yomi consumed eons ago; shadow creatures born from personal fears; Nightmares are hungry |
+| Part 2 | The prophecy read aloud for the first time | George may be connected to the Shattering; three Kobolds needed; Numgis deeply involved |
+| Part 2 | Portal travel at midnight | Blue energy then black ooze; mysterious figure operating it; roots engraved |
+| Part 2 | Arrive at King Pmurt's island city gate | The butcher hanging from the portcullis with "DO NOT REBEL" sign; dead ~1 week |
+| Part 2 | Inquizo scouts the prison (Stealth 18) | 4 stories, almost no windows, double-vestibule entry; mostly women, birds, mermaids inside |
+| Part 3 | Beach approach; stealth rolls | Halcyra: 24; Someone: 28; George: Nat 1 — all 20 guards see him |
+| Part 3 | Grungrak's illusion saves the day | Deception 24; all 20 guards believe two Georges were supposed to be there |
+| Part 3 | Balcony combat | Inquizo topples 17 candelabras (45 damage to ~15 guards); 6 killed; 14 barricaded |
+| Part 3 | Speak With Dead on two guards | Numgis already left on a ship; Pmurt in northeast tower bedroom |
+| Part 3 | Navigate to Pmurt's bedroom | Persuasion 17; door was unlocked; fog room = Numgis's hologram projector |
+| Part 3 | Chef incident ends stealth | Chef sees Halcyra's wings, screams, drops full English breakfast; initiative called |
+| Part 3 | King Pmurt fight begins | Gold-plated armor; AC 17; triple-digit HP; casts Fear (only George fails) |
+| Part 3 | Dissonant Whispers — 32 damage | Burns Pmurt's reaction; tactical win |
+| Part 3 | Inquizo throws English breakfast into Pmurt's eyes | DM rules it effective; Pmurt blinded |
+| Part 3 | Phase 2: Pmurt summons a phantasmal spectator | 60 guards in the throne room; archers, spear guys, swordsmen |
+| Part 3 | Halcyra kills the spectator with Starry Wisp | Purple dust; archers terrified; swordsmen unmoved |
+| Part 3 | George's Thunder Wave kills 20 guards | Two casts total; ~40 guards killed or fled across the fight |
+| Part 3 | Zone of Truth interrogation | Numgis is prophet of the Nightmares; Pmurt has no idea who Yomi is |
+| Part 3 | Mira partially castrates Pmurt with her sickle | "Not a clean cut" — medicine check 13 |
+| Part 3 | Pmurt uses contingency poof | Escapes via shoulder-tap teleport; heals himself from emergency salve in his throne |
+| Session end | Party in throne room | ~20 terrified guards, ~40 dead, scattered baked beans, shattered chandelier |
+
+---
+
+## Rolls & Combat
+
+### Encounter 1: Palace Balcony Guards
+
+| Roll | Who | Result | Outcome |
+|------|-----|--------|---------|
+| Perception (balcony) | Halcyra | 23 | Saw all guard positions |
+| Stealth | Unknown | 28 (Nat 20 doubled) | Ghosted through palace |
+| Stealth (landing) | George | Nat 1 | All 20 guards saw him |
+| Deception (second George illusion) | Grungrak | 24 | All 20 guards convinced |
+| Candelabra chain topple | Inquizo | Success | 45 damage to ~15 guards |
+
+### Encounter 2: King Pmurt's Bedroom + Throne Room
 
 ---
 
@@ -282,10 +351,10 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 | 32 | Reficul/Ian | Dissonant Whispers damage | Burned Pmurt's reaction |
 | 24 | Arcana | Rune circle analysis | Containment/study circle |
 | 19 | Religion | Rune circle analysis | Same |
-| 18 | Inquisio | Stealth (inside prison building) | Successfully scouted prison |
+| 18 | Inquizo | Stealth (inside prison building) | Successfully scouted prison |
 | 17 | Persuasion | Getting guards to believe party belongs | Guards waved them through |
 | 20 | Various | Multiple wisdom saves against Pmurt abilities | Party largely resisted |
-| 14 | Spears | Attack on Inquisio | 14 damage — nearly downed him |
+| 14 | Spears | Attack on Inquizo | 14 damage — nearly downed him |
 
 ---
 
@@ -305,27 +374,27 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 - Spectator killed by Starry Wisp (Halcyra)
 - ~40 guards killed (20 by Thunder Wave, 2 more by Earth Tremor damage, some by other means, remaining ~18 fled in terror)
 - Pmurt escaped via contingency — partially castrated, escaped with emergency medical salve
-- Party casualties: no deaths, Inquisio brought very low (16 HP remaining), Halcyra took heavy damage
+- Party casualties: no deaths, Inquizo brought very low (16 HP remaining), Halcyra took heavy damage
 
 ---
 
-## New NPCs
+## Notable NPCs
 
 **Reverie** — mysterious woman with inky black eyes. Vessel/host for an entity (likely Yomi, God of Dreams). Found dissecting goop monster remains at a caravan campsite. Constructed a salt-and-rune containment circle. Speaks with apparent god-level knowledge about the Nightmares and Yomi's history. She does not appear to be fully in control of herself. Her eyes go fully black when the entity speaks through her.
 
-**The Portal Operator** — recurring mysterious figure. Previously appeared as a full human. Now appears gender-ambiguous, same voice. Operates the portal at the depot. DM described them as intentionally genderfluent/genderfucking. Not fully explained yet.
+**The Portal Operator** — recurring mysterious figure. Previously appeared as a full human. Now appears gender-ambiguous, same voice. Operates the portal at the depot. DM described them as intentionally genderfluent/genderfucking. This figure is the counterpart to Reverie. Not fully explained yet.
 
 **The Butcher** (deceased) — previously told Reficul "there are others of us who agree with you." Was hanged from the portcullis with a "DO NOT REBEL" sign around his neck. Had been dead approximately one week by the time the party arrived.
 
-**The Chef** — King Pmurt's personal cook. Lived in an attached kitchen off the royal bedroom. Stepped out carrying a full English breakfast and immediately screamed at the sight of Halcyra (bird-war context). Fled back into the kitchen, hiding with a butcher knife. Not harmed by the party. Presumably gave reinforcements information later.
+**The Chef** — King Pmurt's personal cook. Lived in an attached kitchen off the royal bedroom. Stepped out carrying a full English breakfast and immediately screamed at the sight of Halcyra (she has wings — this kingdom is deeply hostile toward winged beings). Fled back into the kitchen, hiding with a butcher knife. Not harmed by the party. Presumably gave reinforcements information later.
 
 ---
 
-## New Locations
+## Notable Locations
 
 **The Prison Building** (new construction, connected to the palace)
 - 4 stories tall
-- Almost no windows (very small, near the top — cobalt-width at most)
+- Almost no windows (very small, near the top — Kobold-width at most)
 - Double-vestibule entry system (bars → vestibule → second barrier)
 - Guards: 60 stationed to protect it
 - Population: mostly women, some birds, some fish people/mermaids
@@ -345,13 +414,13 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 - Giant elaborate room
 - Indoor balcony visible from throne room floor
 - Three staircases from the balcony — one extravagant (northeast, to Pmurt's tower), others less so
-- Multiple chandeliers — Inquisio manipulated the chandelier release mechanism
+- Multiple chandeliers — Inquizo manipulated the chandelier release mechanism
 - 60 guards deployed here for the fight
 - Chandelier fell on the spectator for 2 damage before being blasted apart
 
 ---
 
-## Lore Reveals
+## Lore & Worldbuilding Discoveries
 
 1. **Yomi, God of Dreams, was consumed by a monster eons ago.** Yomi is not dead but is imprisoned/absorbed. They still communicate through a vessel (Reverie).
 
@@ -367,7 +436,7 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 
 7. **The Shattering and George are connected.** The prophecy implies George either caused the Shattering or was its central victim. "A hammer striking a dragon scale" is the key image. The DM strongly suggested re-reading the prophecy before next session.
 
-8. **Three cobalts are needed for something.** The party has one. Two more must be found. Based on context, this is extremely difficult.
+8. **Three Kobolds are needed for something.** The party has one. Two more must be found. Based on context, this is extremely difficult.
 
 9. **The prison is for rebels** — people and other races (birds, fish folk, mermaids) who joined the uprising against Pmurt's rule. The uprising was against "getting burned." Whatever Pmurt was doing, the resistance was multiracial and growing.
 
@@ -378,27 +447,27 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 ## Inventory Changes
 
 - **George:** Purchased war hammer (15 gold). War hammer was dropped during Fear effect but recovered.
-- **Inquisio:** Used a portion of "Ressugu" (a goop/substance — only a quarter jar remaining). Invisibility recharged at start of Pmurt fight per DM ruling.
-- **Inquisio:** Has stolen **3 hats** over the course of the campaign.
+- **Inquizo:** Used a portion of "Ressugu" (a goop/substance — only a quarter jar remaining). Invisibility recharged at start of Pmurt fight per DM ruling.
+- **Inquizo:** Has stolen **3 hats** over the course of the campaign.
 - **Halcyra:** Still wearing George's(?) trench coat.
 - **Mira:** Pact weapon sickle (materialized in hand — does not know where it came from).
 - **Party:** Library books returned before portal departure. Two berries dropped off at drop box (the one considered "more common" was kept, or vice versa).
-- **Inquisio's tab at the bar in town:** 3 gold, paid off before leaving.
-- **Chef's Hat:** Added to Inquisio's collection (there is now a chef's hat in someone's inventory).
+- **Inquizo's tab at the bar in town:** 3 gold, paid off before leaving.
+- **Chef's Hat:** Added to Inquizo's collection (there is now a chef's hat in someone's inventory).
 
 ---
 
-## Funny/Memorable Moments
+## Funny & Memorable Moments
 
 1. **George crit-fails his stealth landing** in front of all 20 guards. Grungrak immediately saves the entire situation with a deception roll of 24 and a fake second George. All 20 guards: convinced.
 
-2. **Inquisio topples 17 candelabras in sequence** like a domino line for 45 damage. Someone noted: "I did approximately six of them." (Inquisio: "I did nothing. You did three damage in that one.")
+2. **Inquizo topples 17 candelabras in sequence** like a domino line for 45 damage. Someone noted: "I did approximately six of them." (Inquizo: "I did nothing. You did three damage in that one.")
 
-3. **Inquisio throws a full English breakfast into King Pmurt's eyes.** DM ruled it effective. Pmurt was blinded. "Cobert!" (The medieval fantasy version of "Kobe!")
+3. **Inquizo throws a full English breakfast into King Pmurt's eyes.** DM ruled it effective. Pmurt was blinded. "Cobert!" (The medieval fantasy version of "Kobe!")
 
 4. **The chef steps out of the kitchen and screams at Halcyra** (birds vs. bird war). Drops the full English breakfast everywhere. Baked beans on the floor. The party later muses about the beans multiple times throughout the rest of the fight.
 
-5. **George runs out of the room under Fear**, drops his hammer which clangs loudly. Inquisio climbs onto George's shoulders and starts humming a calming song. George snaps out of it.
+5. **George runs out of the room under Fear**, drops his hammer which clangs loudly. Inquizo climbs onto George's shoulders and starts humming a calming song. George snaps out of it.
 
 6. **Grungrak smashes the window** instead of the door because someone misunderstood which one they meant. The window shatters dramatically. "No, Grungrak!" "I should have talked in the window."
 
@@ -408,13 +477,13 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 
 9. **Pmurt healed himself with an emergency medical salve hidden in his throne.** "When you have an emergency medical salve in your f***ing throne, god damn it."
 
-10. **Inquisio's recon visit to the prison:** "Guys, I'm about to die. This is the end of Inquisio's story." — successfully made it out.
+10. **Inquizo's recon visit to the prison:** "Guys, I'm about to die. This is the end of Inquizo's story." — successfully made it out.
 
-11. **The Inquisio-is-attracted-to-pirate-ladies moment** from the "Blurt Out" card game at the start. "Raise your hand if you were attracted to the pirate ladies." *Inquisio's player raises hand.* "Congratulations! You're a little gay." "Anyway, it's Charlie who thinks they're hot, not Inquisio."
+11. **The Inquizo-is-attracted-to-pirate-ladies moment** from the "Blurt Out" card game at the start. "Raise your hand if you were attracted to the pirate ladies." *Inquizo's player raises hand.* "Congratulations! You're a little gay." "Anyway, it's Charlie who thinks they're hot, not Inquizo."
 
 ---
 
-## Direct Quotes
+## Session Quotes
 
 > "I inspire revolution wherever I go." — Reficul
 
@@ -422,13 +491,13 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 
 > "Woman, what the f***?" — King Pmurt, to Halcyra upon being attacked in his own room
 
-> "Those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—" — King Pmurt (under Zone of Truth, cut off by Inquisio hitting him with a book)
+> "Those nightmares... they're hungry. They want more. The chaos of these three fickle worlds is only going to get worse. There is no balance. There is no right. There is no wrong—" — King Pmurt (under Zone of Truth, cut off by Inquizo hitting him with a book)
 
 > "He has become the prophet of the Nightmares." — King Pmurt (on Durf Numgis)
 
 > "Who the f*** is that?" — King Pmurt (on Yomi)
 
-> "My mom always said you are what you eat, so you must be a dick." — Reficul/Inquisio, Vicious Mockery style, to Pmurt (after he put out the fire)
+> "My mom always said you are what you eat, so you must be a dick." — Reficul/Inquizo, Vicious Mockery style, to Pmurt (after he put out the fire)
 
 > "I don't have a mom." — Pmurt's response
 
@@ -448,7 +517,7 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 
 ---
 
-## Cliffhangers and Unresolved Threads
+## Cliffhangers & Unresolved Threads
 
 1. **King Pmurt escaped.** He is alive, partially castrated, somewhere unknown. He has the Nightmare faction's backing. He will return.
 
@@ -466,7 +535,7 @@ This confirms: **Durf Numgis is operating with Nightmare knowledge that goes bey
 
 8. **Mira's warlock patron.** Her sickle appeared without her summoning it. She doesn't know what she is. This will come to a head.
 
-9. **Three cobalts.** One acquired. Two more needed. The other two are implied to be very difficult or very dangerous to obtain.
+9. **Three Kobolds.** One acquired. Two more needed. The other two are implied to be very difficult or very dangerous to obtain.
 
 10. **The "goop" connection.** Everything is connected — shadow creatures, Numgis, Pmurt's powers, Yomi's imprisonment — all through the goop/nightmares. The party is beginning to understand the shape of the conspiracy.
 
@@ -489,19 +558,32 @@ The session ended with:
 
 ---
 
-## Character Notes (Session Updates)
+## Character Moments
 
 **Halcyra** — Flying, cast Speak With Dead twice, cast Searing Smite twice (one hit for 10, one hit for 50 via Nat 20). Still wearing the trench coat. Took the most damage of any party member in the boss fight.
 
-**Inquisio (Charles)** — Toppled 17 candelabras for 45 damage. Scouted the prison building while invisible (18 stealth). Discovered the butcher hanging dead. Did English breakfast improvised attack. Pulled the chandelier lever. Nearly went down (16 HP remaining). Inquisio does not have a mother, apparently.
+**Inquizo (Charlie)** — Toppled 17 candelabras for 45 damage. Scouted the prison building while invisible (18 stealth). Discovered the butcher hanging dead. Did English breakfast improvised attack. Pulled the chandelier lever. Nearly went down (16 HP remaining). Inquizo does not have a mother, apparently.
 
 **Mira** — Took zero damage the entire session. Cast Hunger of Hadar twice (once on the fake Pmurt illusion during balcony fight, once on real Pmurt). Identified the Reverie/Yomi connection. Her sickle manifested in her hand without her willing it. She is a warlock who doesn't know she's a warlock. She partially castrated King Pmurt.
 
 **George** — Bought a war hammer. Crit failed his stealth. Ran out of the room under Fear. Came back. Used Thunder Wave twice, killing approximately 22 guards across both casts. Used Mass Healing Word to heal 9 HP to all allies.
 
-**Grungrak/GruntGrak** — Created the second George illusion (deception 24). Smashed the window by accident. Cast Earth Tremor on the guards. Threw a chair under the kitchen door handle (rolled 14). Barricaded the staircase door.
+**Grungrak** — Created the second George illusion (deception 24). Smashed the window by accident. Cast Earth Tremor on the guards. Threw a chair under the kitchen door handle (rolled 14). Barricaded the staircase door.
 
-**Reficul** — Transformed into a bullywug frog at one point. Cast Dissonant Whispers for 32 damage (the single highest damage roll of the fight). Had the memorable Vicious Mockery line about his mom.
+---
+
+## YouTube Edit Notes
+
+- **Cold open candidate:** Reverie at the caravan campsite — inky black eyes, crouching over a dissected goop creature surrounded by a salt rune circle. No dialogue needed.
+- **Best comedy moment:** George landing loudly in front of all 20 guards, immediately followed by Grungrak's Deception 24 illusion. The turnaround is perfect.
+- **Best physical gag:** Inquizo toppling 17 candelabras in sequence — 45 damage, mostly from dominos.
+- **Best gross-out moment:** Inquizo throwing the full English breakfast into King Pmurt's eyes. "Cobert!" DM ruled it effective.
+- **Best horror/lore beat:** Reverie's eyes going fully black while delivering the Yomi lore dump. The God of Dreams was consumed. His voice speaks through her.
+- **Best villain moment:** Pmurt under Zone of Truth: "Those nightmares... they're hungry." Inquizo hits him with a book mid-sentence.
+- **Best tension moment:** The chef stepping out of the kitchen. Drops his tray. Screams at Halcyra. Baked beans everywhere. End of stealth.
+- **Best reveal:** Mira's sickle materializing in her hand without her willing it. She doesn't know she's a warlock.
+- **Suggested cuts:** Logistics discussion after returning from the portal; extended disguise debate for Mira at the city gates.
+- **Suggested natural breaks:** After the prophecy reading (Part 2 end); after the balcony fight (before Pmurt's bedroom); after the Zone of Truth (before Pmurt escapes).
 
 ---
 
