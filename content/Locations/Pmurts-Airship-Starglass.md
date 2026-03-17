@@ -71,4 +71,4 @@ What the party has learned so far: the rune alphabet seen throughout the campaig
 - **"Where did he put it"** — The voice in the wind, heard by both George and Mira. Not explained. What is it looking for?
 - **The hologram AI and Pmurt's crown** — Inquizo is currently passing as Pmurt. What happens if the ship finishes rebooting and the AI has a more sophisticated authentication? What happens if someone figures out the crown is on a kobold?
 - **Dex's nightmares** — He's asleep on this ship. His nightmares are confirmed as real contact with the dream realm. Is something going to reach through while the party is airborne?
-- **The skull mask labeled "dr.l"** — Found in ship cargo by Inquizo. Metal skull-face. Belongs to the Doctor. Inquizo cannot read. Does anyone know what the label means?
+- **The skull mask labeled "dr.l"** — Found in ship cargo by Inquizo. Metal skull-face. Belongs to the Doctor. Inquizo could read it but won't — playing dumb as always. Does anyone know what the label means?

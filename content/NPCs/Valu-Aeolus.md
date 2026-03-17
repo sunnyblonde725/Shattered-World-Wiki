@@ -32,7 +32,7 @@ Referenced as both "Valu" and "Aeolus" during the session. Whether these are two
 
 ## Backstory
 
-One of four gods whose statues were placed in [[NPCs/King-Pmurt|Pmurt]]'s town square. The statues-return mechanic: when the Valu statue was brought to Voxus (the kenku homeland), Valu/Aeolus manifested. He is connected to the Valu statue — possibly imprisoned in it, linked to it, or simply summoned by its proximity to the right people.
+One of four gods whose statues were placed in [[NPCs/King-Pmurt|Pmurt]]'s town square. The statues-return mechanic: when the Valu statue was brought to Voxus (the kenku homeland), Valu/Aeolus manifested. He was imprisoned in his statue. When the party returned it to Voxus (his people), he was freed — partially. He is "freed-ish," briefly manifest but not fully present.
 
 The **Thorin statue** is a separate statue — the one the party picked up at the island city, which shed a single tear. The party suspects it needs to reach Thorin's people. Sypium may be where those people are.
 

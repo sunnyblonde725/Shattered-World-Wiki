@@ -26,15 +26,15 @@ tags: [dnd, shattered-world, npc]
 
 Red-haired mermaid with a massive crown. Both queen and god in her domain — her authority overrode ordinary divine orders. She described herself (or was described) as "Judge, Jury, Executioner."
 
-She maintained a city-wide silencing enchantment over what she deemed "inferior creatures" — effectively suppressing the entire non-ruling-class population of her city. She opened combat with a bonus-action singing spell that charmed [[Character Profiles/Mira|Mira]], [[Character Profiles/Inquizo|Inquizo]], and [[Character Profiles/Halcyra|Halcyra]] simultaneously. And yet — she cried mid-fight when [[Character Profiles/Reficul|Reficul]] invoked the name of her dead husband, Amos.
+She maintained a city-wide silencing enchantment over what she deemed "inferior creatures" — effectively suppressing the entire non-ruling-class population of her city. She opened combat with a bonus-action singing spell that charmed [[Character Profiles/Mira|Mira]], [[Character Profiles/Inquizo|Inquizo]], and [[Character Profiles/Halcyra|Halcyra]] simultaneously. And yet — she cried mid-fight when [[Character Profiles/Reficul|Reficul]] invoked the name of her dead husband, Eric.
 
 ---
 
 ## Backstory
 
-She was not always a tyrant. Ariel was once described as kind. She earned legs, fell in love with a human man named Amos, and was happy. Amos was drowned by a sea witch. The grief hollowed her out and refilled her with something colder. She became the being the party fought — absolute, silent, and cruel.
+She was not always a tyrant. Ariel was once described as kind. She earned legs, fell in love with a human man named Eric, and was happy. Eric was drowned by a sea witch. The grief hollowed her out and refilled her with something colder. She became the being the party fought — absolute, silent, and cruel.
 
-She was the one who hired the all-women pirate crew (see [[NPCs/Alias|Alias]]) to retrieve two stolen god-statues: "Poppa Poseidon" and "God of the Seas," taken by an island tribe. Her hire of the pirates was how the party's first adventure began.
+She was the one who hired the all-women pirate crew (see [[NPCs/The-Pirate-Captain|The Pirate Captain]]) to retrieve two stolen god-statues: "Poppa Poseidon" and "God of the Seas," taken by an island tribe. Her hire of the pirates was how the party's first adventure began.
 
 After her death, it was revealed she controls a section of the Fields of Asphodel — the wheat fields — by permission from Hades. Her husband Eric was trapped there, semi-corporeal and searching for her, before the party retrieved him. In Session 7, Ariel appeared in the River Lethe and lured Eric in with a stone — the river erased his memory of her. She swam away not knowing who he was. Their arc closed there, quietly and sadly.
 
@@ -53,7 +53,7 @@ Her niece is [[NPCs/Persephone-Kori|Persephone]], whom the party later met in th
 | Session | What Happened |
 |---|---|
 | [[Session Notes/DND Session 2\|Session 2]] | Received the party's diplomatic report; declared combat; session ended before fight began |
-| [[Session Notes/DND Session 3\|Session 3]] | Combat; charmed three party members with singing; cried when Amos was invoked; defeated and killed; silence enchantment lifted at death |
+| [[Session Notes/DND Session 3\|Session 3]] | Combat; charmed three party members with singing; cried when Eric was invoked; defeated and killed; silence enchantment lifted at death |
 | [[Session Notes/DND Session 5\|Session 5]] | Revealed posthumously to control a wheat-field section of the Fields of Asphodel |
 | [[Session Notes/DND Session 7\|Session 7]] | Appeared in the River Lethe; called Eric in with a "come here, babe" stone; both forgot each other |
 

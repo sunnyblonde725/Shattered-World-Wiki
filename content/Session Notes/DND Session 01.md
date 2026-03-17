@@ -1,11 +1,12 @@
 ---
-title: "Session 01 — Five Strangers, One Carnival, One Heist"
+title: "Session 01 — The Carnival Trick"
+alt_title: "The Waking Strangers"
 session: 1
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-1]
 ---
 
-# DND Session 1
+# DND Session 1 — The Carnival Trick
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -227,7 +228,7 @@ That's where Session 1 ended.
 |------|-----------|--------|---------|
 | Perception | Party | Success | Spotted the carny clicking the hidden button on the strongman game |
 | Performance | Reficul | Nat 20 | Directed the dwarves in an impromptu trapeze/cannon circus |
-| Nightmare Spell | Numgis | Succeeded on Mira, Halcyra, George | Failed on Inquizio and Reficul |
+| Nightmare Spell | Numgis | Succeeded on Mira, Halcyra, George, Reficul | Failed on Inquizio — *(Note: table previously said "Failed on Reficul" but narrative confirms he experienced a full Duke of Hells vision and was forced to call Numgis "mommy")* |
 
 ---
 

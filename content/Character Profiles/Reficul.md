@@ -7,6 +7,11 @@ tags: [dnd, shattered-world, characters, reficul]
 
 ---
 
+> *"See you in hell."*
+> — Reficul
+
+---
+
 ## [[Reficul]]
 
 **Player:** Ian
@@ -15,7 +20,7 @@ tags: [dnd, shattered-world, characters, reficul]
 **Role:** DM 2/3 + Player
 
 ### Who He Is
-Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply manipulative — in the best possible way. He spends sessions doing the most extreme thing available to him with complete confidence, then saying something surprisingly profound to a stranger in a prison cell. He died in Session 3 and is currently in hell. He will be back.
+Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply manipulative — in the best possible way. He spends sessions doing the most extreme thing available to him with complete confidence, then saying something surprisingly profound to a stranger in a prison cell. He died in Session 3, went to hell, and returned in Session 6. As of Session 13, he has chosen to stay behind in the former island city of King Pmurt to help the people resettle. He is separated from the party.
 
 ### What We Know About Him
 - His name is **Lucifer spelled backwards** — devil-theming is intentional
@@ -24,9 +29,9 @@ Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply m
 - His **clothes shift with him** during transformation — the shapeshifting is complete
 - He **invokes the King of Hell** as legal and divine authority
 - He called himself the **"God of Freedom"** when trying to recruit Sisyphus
-- He figured out Ariel's weakness (**Amos**) mid-combat through intuition or deduction, and used it against her — she cried but kept fighting
-- He **stabbed himself mid-combat**, said "see you in hell," and died. His cause of death was NOT the stab wound — a medicine check of 21 confirmed this. The real cause is unknown.
-- He is **currently in hell**
+- He figured out Ariel's weakness (**Eric** — her dead husband) mid-combat through intuition or deduction, and used it against her — she cried but kept fighting
+- He **stabbed himself mid-combat**, said "see you in hell," and died. He died from the stab wound. Mira's medicine check of 21 could not clinically confirm this, but the stab was the cause of death.
+- He is **currently separated from the party** — staying in the island city (as of Session 13)
 
 ### Abilities Seen in Play
 - **Nat 20 Performance** (Session 1 — directed an impromptu dwarf circus in the carnival big top; got dwarves up trapeze ladders and firing them as human cannonballs with zero planning)
@@ -55,7 +60,7 @@ Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply m
 - *"Souls adrift in shadow streams / Bound by neither hopes nor dreams"* — what he may encounter or collect in hell; or what he carries back
 
 ### Current Known Inventory
-- *(Currently in hell — unknown what he has on him)*
+- *(Currently staying in the island city — portable inventory unknown)*
 - **Shadow tattoo (Session 12)** — on his left arm; pulsating dark mark; grants the ability to summon another creature's shadow physically (living targets within 30 ft — he becomes the shadow, deals psychic damage); for deceased people, he can project their appearance through Whispers-style mechanics
 - *(Character sheet upload will fill this in further)*
 
@@ -65,7 +70,7 @@ Reficul was part of the town/portal group in Session 11 (with Mira, and then lat
 ### Session 13 Update
 Reficul chose to **stay behind** in the former island city of King Pmurt. The city was in chaos — the people had seized power, executed or imprisoned their former guards, and a man named Naamon had taken over, planning more public executions. Reficul walked onto the execution platform when the crowd chanted his name, was handed an axe, and gave a long speech about death and punishment — arguing that death is freedom, not punishment, and that the true sentence is making a person live with their crimes. He threw the axe into the crowd and split someone in half who shouted "Get his wife and kids!" Then he punched Naamon off the platform (Halcyra caught the man, but he died from the punch — just a normal person). Halcyra confronted him directly: "This is not the first time I have witnessed you kill someone because you were angry." Reficul did not defend himself. He said, "I don't feel good about this."
 
-Despite this, he decided he could not leave the people without guidance again. He said: **"I cannot leave these people. I have to stay."** He will remain long-term, helping the city resettle. Before the party left, he had brief goodbyes with the group. To George: *"Don't be scared of the stick"* and *"If you have to change yourself to sleep, that's okay."* The party arranged for Gunj to visit and assist him.
+Despite this, he decided he could not leave the people without guidance again. He said: **"I cannot leave these people. I have to stay."** He will remain long-term, helping the city resettle. Before the party left, he had brief goodbyes with the group. To George: *"Don't be scared of the stick"* and *"If you have to cry yourself to sleep, that's okay."* The party arranged for Gunj to visit and assist him.
 
 He is **separated from the party** for the foreseeable future. Whether this means his player is now co-DMing full-time or he returns when the plot calls for it is not specified.
 
@@ -78,8 +83,6 @@ Reficul's shadow — the First and Last Witness — showed him the peaceful alte
 He died **twice** in Session 6:
 1. The boat crashed into Persephone's shrine and the hull landed on him. His changeling child true form appeared, then a very tall naked man emerged from the sand — his new form. He threw his own dead child body into the River Lethe and fashioned white robes into a loincloth.
 2. He swan dived into Persephone's soul pool to retrieve Eric and died in the process. Came back. Kept going. Eventually succeeded.
-
-He also **ate pomegranate** in Persephone's forest (the mythological implications of this are significant and unresolved).
 
 His clothes were already waiting for him in a chest inside Persephone's shrine. Someone put them there.
 
@@ -186,6 +189,7 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 - **Telepathy** — 60 ft (to creatures sharing a language)
 - **Detect Thoughts** — 1/long rest, free (2nd level spell)
 - **Shapeshifting** — full form change; clothes shift with him
+- **True Sight** — can see through invisibility; confirmed from Session 1 (spotted Inquizo while invisible; no one else in the party can see him when invisible)
 - **Speaks Hebrew** — noted in the D&D Beyond notes section
 
 ### Additional Notes (from D&D Beyond notes page)
@@ -201,10 +205,26 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 
 ---
 
+### Relationships
+
+> Reficul, George, and Halcyra were a trio before the party formed. They met [[Inquizo]] and [[Mira]] at the tavern — that's how the group came together.
+
+**[[Halcyra]]**
+She confronted him after the platform — *"This is not the first time I have witnessed you kill someone because you were angry."* He acknowledged it without defending himself. She also cast Command on him during the Oni incident to stop him. There is no hostility between them, but she sees through his confidence and he knows it.
+
+**[[Grungrak]] (George)**
+George gave him a speech using his own words about second chances. Reficul called him "gorgeous." Before parting, he told George: *"Don't be scared of the stick"* and *"If you have to cry yourself to sleep, that's okay."* He has been quietly investigating George's birthday for reasons he hasn't explained. He called out George's name in a Lethe vision. There is a warmth here that Reficul rarely shows directly.
+
+**[[Mira]]**
+She confronted him directly about his choices — one of the clearest calls-out he received all campaign. She physically smacked him on the head with her staff at least once. She also immediately checked on him after his shadow therapy session when he was pretending to be asleep. He didn't fool her for a second. They balance each other in a way that isn't comfortable but is honest.
+
+**[[Inquizo]]**
+They share chaos energy more than they share scenes. Their dynamic is mostly ambient — they exist in the same party and occasionally amplify each other's worst decisions.
+
+---
+
 ### Open Threads
-- His real cause of death (Session 3) is still unknown — the DM flagged this. What actually killed him?
 - The King of Hell connection — is this mechanical, narrative, or both?
-- He ate pomegranate in Persephone's domain (Session 6) — does this bind him further to the underworld on top of his existing death mechanic?
 - A chest of his clothes was waiting for him inside Persephone's shrine. Who put them there? Did someone know he'd be there?
 - **The devil's deal** — what is the job? What does "1/100th done" actually mean in terms of the task? What happens when it's complete — does he get peace, or does peace mean death?
 - **Investigating George’s birthday** — Reficul retrieved George’s X-salent guild record (via Justin); it is badly water-damaged with the bottom half missing, including George’s birthdate. Reficul is trying to find out when George was born. The record existing but being damaged raises its own questions.
@@ -222,6 +242,6 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 - **Halcyra confrontation (Session 13)** — Halcyra (not Mira) said: "This is not the first time I have witnessed you kill someone because you were angry." He acknowledged it. No resolution yet.
 - **Devil's deal progress** — does staying in the city advance or stall his deal?
 
-*Last updated: Session 13 — Character sheet stats added*
+*Last updated: Session 13 — True sight added to Species Traits (2026-03-17)*
 
 ---

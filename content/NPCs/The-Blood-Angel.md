@@ -36,7 +36,7 @@ Unknown origin. It was waiting underground. It had been gathering and cataloguin
 
 It claimed Mira: *"You're already mine."* It whispered "Bina" (capital B, Infernal — a name, not a word) to [[NPCs/Arcus|Arcus]], which triggered an enrapture response and transformation in him. When near death, it was shown [[Character Profiles/Mira|Mira]]'s reflection from during her illness — something about that image caused it to speak to her directly and then self-destruct. In doing so, it stole her memories of the time before her sickness.
 
-The blood angel called its king/creator/father "K.L.I.S." — possibly the same entity connected to [[NPCs/Caelus|Caelus]]'s imprisonment.
+The blood angel called its king/creator/father "K.L.I.S." / "K-Less" / "Kaelas" — possibly the same entity as Caelus (the sky deity who divorced Cybele and is the blood angel's father). The entity imprisoned in the black orb is NOT Caelus (Ian confirmed), so K.L.I.S. may refer to a separate, still-unknown figure.
 
 ---
 
@@ -59,7 +59,7 @@ Hostile. Fought the entire party. Specifically claimed [[Character Profiles/Mira
 - "I have a number. It's 8. And I'm not alone." — There are at least 7 others. What are they? Where?
 - Mira's stolen pre-sickness memories — the DM hinted they may be recoverable. Who holds them now?
 - "Bina" — what is this Infernal name, and why did it specifically work on Arcus?
-- Its king/creator/father K.L.I.S. — connected to [[NPCs/Caelus|Caelus]]? The same? Opposed?
+- Its king/creator/father K.L.I.S. / Kaelas — is this the same as Caelus the sky deity, or a separate entity? The orb entity is NOT Caelus (Ian confirmed), so what is K.L.I.S.'s relationship to the orb?
 - "Phase two combat" was flagged for the session after this one. What was phase two, and is it still coming?
 
 ---

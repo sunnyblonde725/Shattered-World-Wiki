@@ -1,11 +1,11 @@
 ---
-title: "Session 06 — Persephone's Forest, Eric, and Urscylla Rising"
+title: "Session 06 — The Eel That Sings"
 session: 6
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-6]
 ---
 
-# A Shattered World — Session 6
+# DND Session 6 — The Eel That Sings
 
 *Linked to: [[Shattered World]] | [[World State]] | [[Halcyra]] | [[Grungrak]] | [[Inquizo]] | [[Mira]] | [[Reficul]]*
 
@@ -25,7 +25,7 @@ Session 5 ended with the party arriving in the Fields of Asphodel, a wheat field
 
 ## Full Summary
 
-### The Reunion in the Fields of Asphodel
+### The Reunion in the Fields of Asphodel *(~11:00)*
 
 Session 6 picks up immediately — Reficul is on the ground looking up at Mira, saying *"Well, I didn't realize you missed me that much."* Mira is on top of him. Grungrak has no idea who this man is.
 
@@ -37,7 +37,7 @@ Spirits of the bisected cult members drift through the wheat field as green silh
 
 Reficul has a boat. The plan is to get to it.
 
-### The Turkey Situation
+### The Turkey Situation *(~40:50)*
 
 Between the party and the boat: bear traps and three cassowary-sized turkeys.
 
@@ -51,7 +51,7 @@ Reficul produces the wheat seeds and holds them out. The turkey turns and eats d
 
 The turkey has a handle on its back — a harness, like a carrying handle on a bag. Reficul grabs it and carries the turkey toward the boat. It is now the group's emotional support turkey.
 
-### Getting on the Boat
+### Getting on the Boat *(~45:06)*
 
 The boat is floating roughly 15 feet from shore. There is a gangplank. Everyone gets on. Mira grabs onto Grungrak's shirt while navigating, which briefly causes a crisis because there appears to be an invisible entity clinging to him. Everyone gets aboard. Gangplank raised.
 
@@ -59,13 +59,13 @@ To test if the turkey can survive open water, someone puts it in. The turkey swi
 
 Reficul confirms: the anchor needs to come up. He didn't know how to raise it when he found the boat, so he threw things around until something fell. They need to find the winch. It's below deck.
 
-### The Boat — Anchor Is a Horse
+### The Boat — Anchor Is a Horse *(~1:11:26)*
 
 Grungrak goes below and finds what he assumes is the steering wheel. He grabs it and pulls with everything he has — **Strength: 24** — and successfully removes it from the floor. He removes the floor section attached to it. He also removes himself from the boat, arcing backward through the air toward the River Lethe. **Halcyra catches him (Athletics: 15)**, pulling him back before he hits the forget water. The platform and most of the wheel land in the river.
 
 There is now a large hole in the deck.
 
-Below that hole: the anchor system. What everyone assumed was a metal anchor is a **metal horse**, chained through a bandana collar around its neck. The horse also has an axe affixed to the bandana. The collar reads: `...` (dot, dot, dot — meaning: source. Interpreted during session as the grandson of Poseidon's horse, though this is uncertain).
+Below that hole: the anchor system. What everyone assumed was a metal anchor is a **metal horse**, chained through a bandana collar around its neck. The horse also has an axe affixed to the bandana. The collar reads: `...` (dot, dot, dot — meaning: source. The horse is a grandson of Poseidon's horse — descended from a divine horse in Poseidon's bloodline).
 
 The horse notices Grungrak. It grabs the axe in its teeth and pulls it free.
 
@@ -74,13 +74,13 @@ The horse notices Grungrak. It grabs the axe in its teeth and pulls it free.
 **The Horse Fight:**
 - Grungrak runs. The horse is faster. It's a horse.
 - Inquizo (still invisible) attempts to sneak past the horse to lock the winch. **Stealth: 15.** Gets through. **Strength to lock the winch: 6** — too light. Tries again with everything he has. **Strength: 20** — pulls the lever so hard it pins him underneath it. He is now on the floor under a lever, invisible, next to a horse with an axe.
-- Grungrak casts **Earth Tremor**. The table briefly debates whether boat decking counts as "ground." It does. Both the horse and Reficul are in the area. Both fail their Dexterity saves. Both fall prone and take 2d6 damage.
-- Mira casts **Burning Hands** (15-foot cone toward the horse). **Horse Dex save: 13** (succeeds — half damage). Horse takes **5 fire damage**. Total damage on the horse: approximately 11.
+- Grungrak casts **Earth Tremor**. The table briefly debates whether boat decking counts as "ground." It does. Both the horse and Reficul are in the area. Both fail their Dexterity saves. Both fall prone and take 2d6 damage. *(~1:26:19)*
+- Mira casts **Burning Hands** (15-foot cone toward the horse). **Horse Dex save: 13** (succeeds — half damage). Horse takes **5 fire damage**. Total damage on the horse: approximately 11. *(~1:39:19)*
 - Halcyra shoots the horse with radiant damage. **Rolls a 1.** The radiant bolt bounces off the horse and hits Reficul squarely in the face. **7 radiant damage.** Reficul is described as looking very crispy.
-- Reficul casts **Heat Metal** on the chain/collar. The collar is a polyester bandana. It heats and melts. The horse, now very warm, takes a slow breath, **sits down on the hole in the deck** (plugging it entirely with its body weight), closes its eyes, and goes to sleep. The flooding stops. The horse has napped the problem into submission.
+- Reficul casts **Heat Metal** on the chain/collar. The collar is a polyester bandana. It heats and melts. The horse, now very warm, takes a slow breath, **sits down on the hole in the deck** (plugging it entirely with its body weight), closes its eyes, and goes to sleep. The flooding stops. The horse has napped the problem into submission. *(~1:43:53)*
 - Everyone makes **Constitution saves** from the boat shaking (all pass, one nat 20). The horse remains asleep on the hole. Everything is fine.
 
-### The Boat Crashes
+### The Boat Crashes *(~1:54:53)*
 
 Without a steering wheel and with only the Lethe's current pushing them, navigation is theoretical. Grungrak tries to use the rudder post where the wheel used to be. **Strength: 1.** The rudder locks on something. The boat rotates.
 
@@ -100,7 +100,7 @@ The beach is **black sand**. The trees are **white** with **black leaves** and c
 
 The turkey went down with the boat. The turkey is **properly dead**. Stewart the sheep made it off safely. The horse is on the beach — it fell from the sinking boat and is fine, because it is metal.
 
-### The Pomegranate Forest
+### The Pomegranate Forest *(~2:07:55)*
 
 Grungrak moves through the white forest, angry, with the sickle whispering at him.
 
@@ -113,7 +113,7 @@ The percentage die is rolled for the sickle's influence on Grungrak: **27%** —
 
 Mira nearly eats one, then remembers what she knows about mythology and puts it down: *"She's not that hungry."*
 
-### Persephone Arrives (Kori)
+### Persephone Arrives (Kori) *(~2:29:24)*
 
 A figure walks out of the building. She is **12 feet tall**. She has a three-headed dog with her — a puppy, proportional to her size, which makes it roughly Scooby-Doo-sized to a normal person. Her name is **Kori** (Persephone).
 
@@ -129,7 +129,7 @@ Persephone, fighting back a smile: *"Keep calling me beautiful."*
 
 Grungrak, who called her "really pretty vine lady" one minute ago, accepts this without hesitation: *"I will call you beautiful."*
 
-### The Deal with Persephone
+### The Deal with Persephone *(~2:45:31)*
 
 Persephone will get them out of the underworld under two conditions:
 
@@ -139,19 +139,19 @@ The sickle — "Castrator of the Sky" / Vengeance — is given to Persephone. Th
 
 **The sickle is no longer in the party's possession.**
 
-**2. Get Eric out of her pool.**
+**2. Get Eric out of her pool.** *(~2:48:43)*
 
-Persephone has a problem. Her **niece** (Ariel — the queen the party killed in Session 3) has been swimming through her soul pool looking for her husband. The husband — **Eric** — drowned trying to breathe underwater to make out with his wife. He has been in the pool. Ariel keeps looking for him. *(Note: Eric introduces himself as "George" — his own name happens to be George, but he is a completely separate NPC from the party member George, who is the clay copy of Grungrak. They are not the same person and have no connection.)*
+Persephone has a problem. Her **niece** (Ariel — the queen the party killed in Session 3) has been swimming through her soul pool looking for her husband. The husband — **Eric** — drowned trying to breathe underwater to make out with his wife. He has been in the pool. Ariel keeps looking for him. *(Note: Eric is a completely separate NPC from the party member George, who is the clay copy of Grungrak. They are not the same person and have no connection.)*
 
 Persephone needs them separated. She needs Eric removed from her domain so Ariel stops swimming through her things. She cannot handle it herself for reasons she does not explain.
 
 The deal: she gets the party out through the Gate of Ivory if they bring Eric up with them — and take him wherever he needs to go to find Ariel.
 
-The party agrees. Reficul **swan dives into the soul pool** to retrieve Eric. He dies immediately (soul pool is dangerous). He comes back. He dies again. He comes back again, shaking his dice. Eventually — using a different set of dice — a **semi-corporeal attractive figure** surfaces and flops on the stone floor.
+The party agrees. Reficul **swan dives into the soul pool** to retrieve Eric. *(~2:56:37)* He dies immediately (soul pool is dangerous). He comes back. He dies again. He comes back again, shaking his dice. Eventually — using a different set of dice — a **semi-corporeal attractive figure** surfaces and flops on the stone floor.
 
 Persephone snaps her fingers. Eric's throat shifts. He can speak.
 
-*"Hello. My name is George."*
+*"Hello. My name is George."* *(~2:59:19)*
 
 Then, immediately: *"Where is Ariel?"*
 
@@ -160,7 +160,7 @@ The party navigates this information exchange badly. Someone tells him Ariel is 
 **Eric's confirmed skill:** He can run a sailboat *"all night long."* He demonstrates this by immediately knowing the correct nautical terminology for everything.
 
 
-### The Upper City and the Elevator
+### The Upper City and the Elevator *(~3:08:36)*
 
 Persephone snaps her fingers. The party is at the base of a massive elevator system ascending through the underworld's layers.
 
@@ -172,13 +172,13 @@ At the top: a city. **Skyscrapers** in every direction. Trees wrapped around bui
 
 Persephone gives them a new, more accurate map. The Gate of Ivory is nearby, accessible via the water roads.
 
-### The Psychopomp (Thanatos)
+### The Psychopomp (Thanatos) *(~3:17:20)*
 
 At the top of the water road, near the gate: a **very tall cloaked figure with antlers**, drowsy, barely acknowledging their existence. He makes the exact sound from the Hades video game. The party explains Persephone sent them. He gets in the boat. The boat sinks slightly under his weight. He begins to guide them toward the Gate of Ivory.
 
 Eric is on board. The horse is on board. Stuart the sheep is on board. Reficul is on board (he found a chest containing his own clothes inside Persephone's shrine — someone put them there).
 
-### Urscylla — Session Cliffhanger
+### Urscylla — Session Cliffhanger *(~3:20:14)*
 
 The boat moves along the water road toward the gate.
 
@@ -240,17 +240,17 @@ Session ends. The party had to leave for dinner.
 
 - **The River Lethe ("forget water") flows through the underworld.** Fall in and you forget everything. Grungrak nearly landed in it when the steering wheel came out.
 
-- **Pomegranate seeds in Persephone's domain bind you to the underworld.** Persephone herself ate six seeds and is bound here for six months a year. **Grungrak ate multiple pomegranate seeds** in her forest. **Reficul also ate pomegranate.** The DM knows. No one told the characters what this means yet.
+- **Pomegranate seeds in Persephone's domain bind you to the underworld.** Persephone herself ate six seeds and is bound here for six months a year. **Grungrak ate multiple pomegranate seeds** in her forest. The DM knows. No one told the characters what this means yet.
 
 - **The soul pool** in Persephone's shrine is a swirling mass of souls (not water). Semi-corporeal dead can be recovered from it, but the process is dangerous and kills Reficul twice in the attempt.
 
 - **The Psychopomp (Thanatos)** is accessible in the upper city. He is very tall, cloaked, antlered, and perpetually drowsy. He can guide the dead (or near-dead, or not-dead) to the appropriate gate.
 
-- **Ariel's husband Eric** drowned trying to breathe underwater to be with Ariel. He is semi-corporeal. He can run a sailboat flawlessly and is now traveling with the party to find her. *(His own name happens to be George, but he is a completely separate character from the party member George — Grungrak's clay copy. They are different people with no connection.)*
+- **Ariel's husband Eric** drowned trying to breathe underwater to be with Ariel. He is semi-corporeal. He can run a sailboat flawlessly and is now traveling with the party to find her. *(Note: Eric is a completely separate character from the party member George — Grungrak's clay copy. They are different people with no connection.)*
 
 - **Ariel is Persephone's niece** in some genealogical sense. Persephone referred to the situation as "my niece brought a problem." The exact family connection is unclear.
 
-- **The metal horse (possibly descended from Poseidon's horse — uncertain)** is now traveling with the party. Its collar reads "..." meaning "source" — it is descended from a divine horse in Poseidon's bloodline. It does not need air to breathe. It has an axe. It presses buttons with the flat of its axe blade. It is currently on the new boat.
+- **The metal horse (grandson of Poseidon's horse)** is now traveling with the party. Its collar reads "..." meaning "source" — it is descended from a divine horse in Poseidon's bloodline. It does not need air to breathe. It has an axe. It presses buttons with the flat of its axe blade. It is currently on the new boat.
 
 - **The sickle "Castrator of the Sky" / Vengeance is gone.** Given to Persephone as payment. This ends the sickle's influence on Grungrak but also removes a major artifact from the party.
 
@@ -263,7 +263,7 @@ Session ends. The party had to leave for dinner.
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | Persephone / Kori | Goddess of the Underworld; Shrine of Persephone | Alive — Underworld | 12 feet tall. Three-headed puppy. Truesight. Took the sickle. Reasonable once the party stopped lying. Grungrak called her "really pretty vine lady" and somehow got away with it. Treat as an ally, not an enemy. |
-| Eric | Ariel's husband; Persephone's soul pool | Semi-corporeal — traveling with party | Drowned trying to breathe underwater for love. Calls himself George (different person from the party's George). Can run a sailboat "all night long." Contributed the second verse of The Ballad of George without being asked. Knows the party killed Ariel; processing it. |
+| Eric | Ariel's husband; Persephone's soul pool | Semi-corporeal — traveling with party | Drowned trying to breathe underwater for love. Can run a sailboat "all night long." Contributed the second verse of The Ballad of George without being asked. Knows the party killed Ariel; processing it. |
 | The Horse | Unknown origin — possibly Poseidon's bloodline | Alive — on the boat | Metal. Has an axe. Sits on holes to plug them. Presses elevator buttons with the flat of its axe. Does not need air to breathe. Second emotional support animal (the turkey is dead). No name yet. |
 | Arcus | Son of Cybele/Avani | Dead | Not prominent this session. No status update. |
 
@@ -315,7 +315,7 @@ Session ends. The party had to leave for dinner.
 - **Eric is with the party.** He wants to find Ariel/Ariel, who is "somewhere else" in the afterlife. He knows the party killed her. How this develops is unresolved.
 - **The Gate of Ivory** — the party's exit — is presumably just past Urscylla. Fight, negotiate, or go around: TBD.
 - **Arcus** — dead. What happens when the party exits the underworld with a dead companion?
-- **The horse** — possibly descended from Poseidon's horse (uncertain), now on the party's boat. Poseidon is implied present in this campaign (via the stolen statues). This horse may be noticed by someone who knows it.
+- **The horse** — grandson of Poseidon's horse, now on the party's boat. Poseidon is implied present in this campaign (via the stolen statues). This horse may be noticed by someone who knows it.
 - **Ariel / Ariel** — somewhere in the afterlife. Eric is going to find her. The party killed her. That path leads somewhere.
 - **Grungrak's pomegranate count** — the DM knows exactly how many seeds he ate. Nobody told Grungrak what that means.
 
@@ -331,8 +331,7 @@ Session ends. The party had to leave for dinner.
 - Reficul dying and erupting from the sand as a seven-foot extremely naked man. The table response was extended and enthusiastic.
 - Grungrak telling Persephone she's a "really pretty vine lady" while in her vine grip. Getting away with it.
 - The horse pressing all the elevator buttons with the flat face of its axe. It has found a use for the axe.
-- Eric saying his name is George. Grungrak is also named George. Two Georges in hell, one of them a ghost.
-- Grungrak composing a song about Eric, for Eric, in an elevator, in the underworld, on the way out of hell.
+- Grungrak composing a song about Eric, for Eric, in an elevator, in the underworld, on the way out of hell — and Eric contributing the second verse without being asked.
 
 ---
 

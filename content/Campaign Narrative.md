@@ -173,7 +173,7 @@ tags: [dnd, shattered-world, narrative, analysis]
 > *To claim its power, none stand free,*
 > *For chains of gold still bind the sea.*
 
-**→ Ariel (partly fulfilled) + future.** The underwater throne was Ariel's — forged in grief over Amos. But "chains of gold still bind the sea" — the mermen's contracts may not be fully resolved by her death. Something still holds.
+**→ Ariel (partly fulfilled) + future.** The underwater throne was Ariel's — forged in grief over Eric. But "chains of gold still bind the sea" — the mermen's contracts may not be fully resolved by her death. Something still holds.
 
 ---
 
@@ -270,7 +270,7 @@ The party left the city with a body (Reficul's true form: small, horned, long wh
 
 Then they walked into a field and everything got weirder.
 
-The pit is something. The glowing white strings, the mud-slow movement, the voice that said *"you're not supposed to be here"* — this is not a normal location. This is a wound in the world. And the person it targeted specifically was Mira, who cannot pray, cannot heal, and moves through it like she's walking through the wrong side of a door.
+The pit is something. The glowing white strings, the mud-slow movement, the voice that said *"you're not supposed to be here"* — this is not a normal location. This is a wound in the world. And the person it targeted specifically was Mira, who cannot heal others or pray in that space, and moves through it like she's walking through the wrong side of a door.
 
 Mira is dead. She doesn't know it.
 
@@ -286,7 +286,7 @@ The Good Boy of the North laughed from the northern forest. The party prayed to 
 
 The party followed the white-haired man's path into the abandoned farmland and found something worse than a monster — they found a family history.
 
-The buildings were rotting, empty, covered in fungus. A nursery with no children. Murals of a winged figure descending, nails raising the ground. Inside a locked chest: a black orb containing a sky deity named Caelus, who speaks in contradictions and described his prison as "a terrible box without a blankie." Inquizo made contact and got his consciousness pulled inside. His body kept walking. Grungrak carried it.
+The buildings were rotting, empty, covered in fungus. A nursery with no children. Murals of a winged figure descending, nails raising the ground. Inside a locked chest: a black orb containing an imprisoned entity of unknown identity, who speaks in contradictions and described the prison as "a terrible box without a blankie." (The entity's name was spoken as "Caelus" during the session, but Ian later confirmed it is not Caelus — identity still unknown.) Inquizo made contact and got his consciousness pulled inside. His body kept walking. Grungrak carried it.
 
 Beneath the field was a marble temple with 247 sheep and a statue of a fertility goddess — Cybele, also called Avani — wings cut off at the ankles, wrists, and back. And a sickle in a stone cairn. The sickle is sentient. It called itself Vengeance. Against the sky. Against love lost. When Grungrak grabbed it, his eyes went red and he sprinted directly at the enemy before the pre-combat speech could happen. Bloodlust, persistent, pulling.
 
@@ -470,7 +470,7 @@ He tracked them. Survival roll of 22, Detect Magic on the mud, following a trail
 
 What followed was a diplomatic failure in the most specific sense of the word. Words of Terror: the person barely held their nerve. They kicked Reficul into the mud. Reficul, from the mud, cast Vicious Mockery with Psychic Blades — twelve damage, the person clutching their head — and reached for his rapier as the community around them began to rise.
 
-Halcyra used Calm Emotions. It worked on half the crowd. The mysterious figure used something else entirely: they vanished. No trace except the blankets they'd been sitting under, and the distinct absence of anyone who had been there a moment ago. Halcyra and Grungrak saw it happen. Mira and Reficul did not.
+Grungrak used Calm Emotions. It worked on half the crowd. The mysterious figure used something else entirely: they vanished. No trace except the blankets they'd been sitting under, and the distinct absence of anyone who had been there a moment ago. Halcyra and Grungrak saw it happen. Mira and Reficul did not.
 
 Reficul cast Earth Tremor.
 
@@ -737,13 +737,13 @@ Something brought Mira back. The question isn't whether this matters — it clea
 - Something that needed her for a purpose
 - A mistake — she was reinvigorated accidentally, or by a force that didn't fully understand what it was doing
 
-The pit area's white strings may be connected to whatever is anchoring her here, or whatever is trying to pull her back. The fact that she can't heal or pray suggests her connection to divine power is compromised — or that whatever holds her here isn't divine at all.
+The pit area's white strings may be connected to whatever is anchoring her here, or whatever is trying to pull her back. The fact that she couldn't heal others or pray in that space suggests her connection to divine power is compromised in that location — or that whatever holds her here isn't divine at all.
 
 ### Reficul in Hell (and Back, Repeatedly)
 
-Reficul's death mechanic — no death saves, goes to hell — is too specific to be flavor. He has a relationship with the King of Hell. His true form is fiendish. His cause of death in Session 3 was NOT the stab wound and NOT drowning. Something else killed him, and he knew it was coming.
+Reficul's death mechanic — no death saves, goes to hell — is too specific to be flavor. He has a relationship with the King of Hell. His true form is fiendish. His cause of death in Session 3 was the self-inflicted stab wound — he said "see you in hell" and stabbed himself. The medicine check couldn't confirm it clinically, but the stab was the cause.
 
-In Session 7, he finally said it plainly: he made a deal with the devil. He cannot die until a job is complete. He cannot have peace until it is done. He is one hundredth done. What the job is, he did not say. A chest of his clothes was already waiting for him inside Persephone's shrine — someone knew he'd be there. His X-salent guild records are damaged, the bottom half gone, including his birthdate. Someone, somewhere, may have ensured these things. That thread has not been pulled yet.
+In Session 7, he finally said it plainly: he made a deal with the devil. He cannot die until a job is complete. He cannot have peace until it is done. He is one hundredth done. What the job is, he did not say. A chest of his clothes was already waiting for him inside Persephone's shrine — someone knew he'd be there. Grungrak's X-salent guild record was retrieved by Reficul — badly water-damaged, the bottom half gone, including his birthdate. Someone, somewhere, may have ensured these things. That thread has not been pulled yet.
 
 ### The Sickle
 
@@ -751,11 +751,15 @@ The sickle "Castrator of the Sky" — Vengeance — was a sentient artifact that
 
 ### The Pomegranate
 
-Grungrak ate multiple pomegranate seeds in Persephone's forest. Reficul ate pomegranate. The mythology is explicit — in Greek tradition, eating pomegranate seeds in the underworld binds you there. Persephone herself ate six seeds and is bound to return every year. Grungrak ate more than six. The DM knows the exact count. The character does not know the mythology. This is not resolved. It may not be resolved for several sessions. But it was noted at the table, and it was real.
+Grungrak ate multiple pomegranate seeds in Persephone's forest. The mythology is explicit — in Greek tradition, eating pomegranate seeds in the underworld binds you there. Persephone herself ate six seeds and is bound to return every year. Grungrak ate more than six. The DM knows the exact count. The character does not know the mythology. This is not resolved. It may not be resolved for several sessions. But it was noted at the table, and it was real.
 
-### The White-Haired Man (Arcus)
+### The White-Haired Man and Arcus
 
-He is Arcus — son of Cybele, child of the divine divorce, previously wielded the sickle and descended into Hell. The rose wings, the hyenas, the nails — all of it is part of who he is. He is currently comatose in the Fields of Asphodel after the blood angel's nail-trap triggered a transformation into something large and fluffy with a shaved heart and a green sheep inside. He approached the blood angel with subservience, not aggression, in that form. Something happened to him. The party is carrying him.
+**Important:** The mysterious white-haired NPC from Session 3 (rose wings, pine cone, hyenas, nail in kneecap) is NOT the same person as Arcus. They are different characters.
+
+**Arcus** — son of Cybele, child of the divine divorce. The blood angel's nail-trap triggered his transformation into something large and fluffy with a shaved heart and a green sheep inside. He approached the blood angel with subservience, not aggression. His eyes went dark after the angel died. Arcus is dead.
+
+**The white-haired NPC from Session 3** — shirtless, pure white hair, bulkier build. Appeared in the field, triggered by laxative gum into a rose-winged transformation with hyenas deferring to him. Left northward. His identity and connection to Arcus or the campaign is still unknown.
 
 ### The Jade/Emerald Necklace
 
@@ -797,7 +801,7 @@ Grungrak called out this name in a vision in hell — a face in a puddle of wate
 
 ### The DO NOT TOUCH Hat
 
-Inquizo cannot read. He put on a hat that says DO NOT TOUCH. The DM flagged it multiple times. It has been on his head for every session since. Whatever this hat does, it is building up.
+Inquizo pretends he cannot read. He put on a hat that says DO NOT TOUCH. The DM flagged it multiple times. It has been on his head for every session since. Whatever this hat does, it is building up.
 
 ### The Goop and What It Is
 
@@ -901,7 +905,7 @@ They are still operating. They have a third location to handle — the fish. The
 
 **The prophecy reading:** Postponed through Session 12. Still in Halcyra's pocket. Prophecy Day will come when something makes it urgent. Given that Apollo is now calling her name in dreams, the urgency is approaching.
 
-**The pomegranate:** Grungrak ate multiple seeds. Reficul ate pomegranate. They are out of the underworld now. The consequences haven't arrived. The DM knows. Nobody at the table has forgotten.
+**The pomegranate:** Grungrak ate multiple seeds. They are out of the underworld now. The consequences haven't arrived. The DM knows. Nobody at the table has forgotten.
 
 **The drying river at X-salent:** Something is stopping the saltwater river fifty feet before the Falls. The cartographers' quest is still open. Given the Nightmare entities and their connection to shadow and psychic space, a drying supernatural water source could be symptomatic.
 
@@ -927,5 +931,135 @@ They are still operating. They have a third location to handle — the fish. The
 
 ---
 
-*Last updated: after Session 12*
+### Session 13 — The Ship Has a Name
+
+The party woke on Gunj's couch still raw from Session 12. Everyone had met their shadow. Everyone had received something they hadn't asked for and weren't sure what to do with. The world needed them to move anyway.
+
+Before they were fully awake, they dreamed.
+
+Halcyra's dream was the sharpest. She found herself on a beached pirate ship — jagged rocks, churning ocean, the water doing something wrong just below the surface. Alias emerged from belowdecks. Not the statue. The god. Covered in wounds leaking black ooze, moving with the bearing of someone who had not let herself stop. She saw Halcyra, and fear filled her eyes — not of Halcyra, but of something behind her — and she said: *What are you doing here. No one is supposed to be here.* Something invisible slammed her aside. She rose and said it again. Then she looked at Halcyra and threw a dagger at her to force her awake. This was Halcyra's first real dream. It felt completely real. It was not a metaphor.
+
+The others shared a variation — all four of them, a different angle on the same vision. Numgis, in a palace none of them had seen, speaking to a figure in dark robes. Numgis's voice: *I need ways to free him.* Not her. Him. A second prisoner, separate from Yomi, and Numgis is working toward that one too.
+
+They were awake before they'd fully processed any of it. The Valu statue was glowing.
+
+The chief of Voxus — a giant eagle named Ravalli — received them and confirmed what Gunj had already told them: Numgis had been at the nest two days prior, setting up a sleep system. He was ahead of them and in motion. The north was where this was going. But before they left, something remarkable happened in the throne room.
+
+The Kenku god-statue — the one the party had been forced to steal in the campaign's first chapter, the one they'd carried through the underworld and back — was glowing blue. Its light peeled off the stone and formed a 20-foot ethereal figure above it. A wind god, flighty and hard to pin down, speaking in six voices at once. Valu. Aeolus. He is the same deity rendered differently across every world that needed a word for wind and time.
+
+Halcyra recognized one of his shifting faces. The DM looked at her and said: *You recognize this face. Only you do.* She is from Planetos — a world where the Greek gods are real. The face was Aeolus.
+
+He confirmed the mechanic: there are four statues, each containing a sealed god. Freeing them requires removing the entrenched power subjugating their people — not killing a tyrant, but ending their grip. Pmurt's removal freed Valu. Two other statues are with Alias. One is trying to break free on its own, its face already damaged. He gave the party a mission with characteristic indifference: *It is imperative to the gods, you little weaklings, to do what we need to ask you to do. Some of us need to be freed.*
+
+Halcyra asked him about the prophecy she has been carrying since she was fifteen. He said it wasn't his realm. When she pushed, he named the god whose realm it was: *He's an asshole. It's Apollo.* He added, almost as an aside, that there are beings above even Apollo. He didn't know who. He left in a gust of wind before anyone could follow up.
+
+Apollo. The god of prophecy. The same voice that called Halcyra's name three times in her shadow dream and said the worlds are at stake. She asked a wind god about her prophecy and got back the name of her father — without knowing he is her father. She has been carrying his scroll since she was fifteen. She is looking for the chosen hero in it. She has not yet looked in a mirror.
+
+Sending stones were distributed — Halcyra received one from Valu; Mira had one as well. Before leaving Voxus, Alias was flagged as a thread the party almost dropped. A sea god from Charlie's world SKRP, not to be confused with the pirate captain from the campaign's first chapter. She is currently beached on her own ship and wounded, fighting something invisible that keeps slamming her into walls. The party filed it under "urgent" and kept moving.
+
+---
+
+The island city — former kingdom of King Pmurt — had not waited for someone to tell it what to do next. When the party landed on Pmurt's airship, they found revolution in progress. Former prisoners (women, birds, mermaids — the people Inquizo had scouted in the palace prison during Session 11) were now in control. The guards were in cells. The banners of the party — crude, hurried, unmistakably sincere — hung from the scaffolding of the city as icons of liberation.
+
+A man named Naamon had taken power. He was standing on a platform, ornamental headpiece, giving speeches about the new order. The arena below the platform told a different story. Former guards were killing each other for food. The "big wigs" had been reserved for public execution.
+
+Reficul walked to the platform. The crowd recognized him. Naamon handed him an axe and asked him to perform the Reconciliation.
+
+What followed was a long speech about death and punishment — about whether killing someone is the true cost or the easy exit, about whether making someone live with themselves is a harsher sentence. It was a real argument. Then someone in the crowd shouted about a wife and kids, and Reficul threw the axe. The heckler was split in half. The crowd fled. Naamon said something that earned him a punch off the platform, and Halcyra — moving fast, always moving fast — caught him on the way down. It didn't matter. He was just a normal man. He didn't survive the punch.
+
+Halcyra looked at Reficul and said: *"This is not the first time I have witnessed you kill someone because you were angry."*
+
+Mira said: *"Just because you know where they're going does not make it fine."*
+
+Reficul didn't argue. He's been in hell. He knows exactly where they're going.
+
+---
+
+While Reficul was handling the platform, Mira had gone invisible and used a floating rope to free the prisoner on the execution block — a young man named Dex, nineteen years old, who had worked in Pmurt's palace kitchens since he was fourteen. He'd been mistakenly swept up by people who knew his face from the palace and assumed allegiance.
+
+Dex knew things. He'd cooked breakfast for Pmurt and Numgis dozens of times. He'd overheard what the dreams told Numgis: free Yomi, she is trapped, the prison needs to be broken. He'd heard Numgis talk about a global network of "disciples of dreams" — not an army, not a cult of loyalty, but nodes of dream-power planted across the shattered world. Pmurt was disciple number one.
+
+And separately, recently, one more thing: *"I need ways to free him."* Not Yomi. Someone else, imprisoned, and Numgis is working toward freeing them too.
+
+Dex agreed to come with the party. He was given the captain's quarters. He mentioned he'd been having recurring nightmares — vivid, real-feeling, impossible to shake. Mira told him what they almost certainly meant: he had visited a god's realm in his sleep. Post-Shattering, the dream layer between worlds is thin. Dex has been accidentally crossing it. He'd once spent a night in a tavern he'd never seen before that turned out not to exist.
+
+He looked exhausted. He was put to bed.
+
+---
+
+The Thorin statue was beneath the execution platform. Mira investigated it properly for the first time — rolled a fifteen, confirmed it was a different construction from the Valu statue, different maker, different materials. She took a material sample. And then the statue shed a tear. One tear, from one eye, no glow, no light. Just grief.
+
+Mira's theory: Valu was only freed when he was brought to his people. The Thorin statue is weeping because it isn't home. She suggested bringing it on the airship. The party agreed. George — who hates stairs — carried it up the stairs and onto the ship.
+
+---
+
+Reficul said he wasn't leaving.
+
+He'd been here before — left people in the middle of something and kept moving. He wasn't doing it again. The island city needed help settling, needed someone who could hold authority without immediately abusing it, needed time. He was going to stay.
+
+He said goodbye to George privately. *"Don't be scared of the stick. If you have to cry yourself to sleep, that's okay."* George's expression was a complicated thing. Cooper played it with real weight. Reficul, who has been in hell, who cannot die until a job is done, who is one hundredth of the way through something he hasn't named — chose to stay in a city learning how to govern itself after a revolution. Whatever the job is, it apparently includes this.
+
+Mira used the new sending stone to contact Gunj: go to the island city, help them resettle alongside Reficul, keep an eye on the Thorin statue, come to Sypium if you can. Gunj agreed with his characteristic dry warmth.
+
+Before the rest of the party reboarded, Halcyra found George alone on the airship. He was reading from a folded piece of paper, singing quietly. Mira's name, repeated in the melody. He had been learning the Ballad of Mira in secret — the song about her mentioned sessions ago — and had been practicing it when he thought no one was there.
+
+He shoved the paper in his pocket and ran. He spent an hour pacing in Pmurt's throne room trying to calm himself down. His first attempt at Calm Emotions on himself failed.
+
+---
+
+The DM switched from Cooper to Ian partway through the ship exploration. Inquizo's portion of the session begins here.
+
+Inquizo found Pmurt's crown in the cargo hold — labeled, helpfully, "My special crown." Very tall. Very red velvet. About as tall as Inquizo himself. He put it on. He bumped into the push-to-start button. The ship's hologram navigation AI activated, recognized "King Pmurt," and commented on the nice crown.
+
+Inquizo mimicked Pmurt's voice. He told the AI to go to Sypium. The ship began flying north.
+
+In the server room, Mira spent a significant amount of time understanding nothing. The steampunk machinery was not legible to her. She filed the experience under "useful failure" and moved on.
+
+George found the nameplate at the front of the ship: "Starglass," visible only when the lever was partially pulled. He pulled the lever fully. A compartment opened: faces with paperclipped dossiers, and a map. The map showed Sypium past several islands near mountains — the ship's pre-assigned mission.
+
+---
+
+Mira found the slot for the map and inserted it into a rectangular port near the hologram display. The ship announced: *"Unknown file detected. Would you like to reboot the system?"*
+
+Inquizo said yes.
+
+Gliding mode engaged. The engines slowed. Fans turned on. Ticking sound from below.
+
+Mira followed the ticking into the cargo hold. Behind tasseled wallpaper: a grandfather clock, mostly chipped, blue, only the second hand moving, its mechanism connected to the ship's gears by a series of linkages. And behind the wallpaper next to it — a glass case. Someone inside.
+
+The entity in the glass case was called Starglass. Fleshy and robotic at once, connected to the ship by pipes and tubes that fed air into her lungs — she had been breathing for the ship, serving as its biological heart. George cast Healing Word on her. When the healing magic touched her, she shifted — more metallic, something changing in the transition between flesh and machine — and her eyes opened. Bioluminescent bugs lived in them. When she came on, they lit up.
+
+She called herself "a piece of her mother's heart." Her mother is Malafera.
+
+The rune alphabet — the circles-and-clouds writing the party has been encountering since Session 8, in the ruins, on the wagon, on the walls of the X-salent houses — is Malafera's language. Hello and goodbye to her constructs, said in a language that means both at once. The last word she taught: *life.*
+
+A doctor had arrived with men. There had been talking and then there had been fighting and her mother had run, and Starglass had not been able to keep up. The doctor put pipes into her chest and left her in the glass case as part of the ship. He traded the ship to Pmurt in exchange for the crown. He had spoken to someone named Derf — Derfnungus — Numgis. The doctor and Numgis knew each other. The doctor was, Starglass said, *a different man underneath his skin.*
+
+Her brother Haki had left to protect a prophetess — a small girl clad in all white who glows, whose name Starglass had never been told, who is apparently universally known. Haki heard a loud voice carried on the wind telling them to fight. He was ready. They headed north.
+
+Starglass pressed her own button and returned to the case. She is breathing for the ship. She will get them to Sypium. She asked only that the stay be as short as possible. *"He will hurt you,"* she said, about the doctor or Numgis or both. *"Don't."*
+
+She could no longer feel pain. She didn't seem to mind.
+
+---
+
+Halcyra tripped on a tapestry in the cargo hold. The tapestry showed a sun with rays, wings, people meeting a flock of sheep. George recognized the imagery. Underneath the tapestry: another glass case, foggy and hazy, the blue glow inside already fading. The party decided not to open it mid-flight. They will investigate when docked. Whatever or whoever is inside is losing light slowly. The clock for that one is already running.
+
+George went through the dossier papers. A file on Starglass — written with the clinical, objectifying distance of a colonizer cataloguing property. Notes on a cave civilization in the far mountains near Sypium — same tone. And then, mid-document: the handwriting changed. The rune alphabet took over. The tone shifted from detached description to extreme hostility toward Sypium. Threatening. Violent. Final.
+
+Whatever the doctor is or has in him, it is not entirely his own.
+
+---
+
+The ship is flying north. Sypium is ahead. Cooper, out of character, has teased "Cogwork" music — something mechanized, industrial, different from anything the party has been through.
+
+The party is four now, plus a sleeping chef who visits the dream realm by accident, plus a construct who breathes for the ship, plus a statue that weeps for its people, plus a second glass case whose occupant is losing their glow by the hour.
+
+Reficul is behind them in an island city learning how to exist without the party. George is embarrassed about a song and has not spoken of it. Alias is beached and wounded somewhere, fighting something, and the party is flying in the other direction.
+
+The north is waiting.
+
+---
+
+*Last updated: after Session 13*
 *[[Shattered World]] | [[World State]] | [[Character Profiles]]*

@@ -26,7 +26,7 @@ tags: [dnd, shattered-world, npc]
 
 Never seen by the party. What is known comes from [[NPCs/Starglass|Starglass]]'s account, physical evidence on the airship, and what [[NPCs/Dex|Dex]] overheard.
 
-[[NPCs/Starglass|Starglass]] described him as "a different man underneath his skin" — this phrasing suggests shapeshifting, possession, a constructed exterior, or a dual nature. His mask, found in the ship's cargo, is labeled "dr.l" — Dr. L, with a first name starting with L. [[Character Profiles/Inquizo|Inquizo]] found it and cannot read the label.
+[[NPCs/Starglass|Starglass]] described him as "a different man underneath his skin" — this phrasing suggests shapeshifting, possession, a constructed exterior, or a dual nature. His mask, found in the ship's cargo, is labeled "dr.l" — Dr. L, with a first name starting with L. [[Character Profiles/Inquizo|Inquizo]] found it and won't read the label — playing dumb, as he does.
 
 His dossier papers on the airship are disturbing: they begin as colonial documentation of the cave civilization near Sypium, then the handwriting shifts mid-document to [[NPCs/Malafera|Malafera]]'s rune alphabet, and the tone turns extremely violent toward the cave population. Two different voices, two different scripts, in the same document.
 

@@ -5,7 +5,7 @@ date: unknown
 tags: [dnd, shattered-world, session-notes, session-9]
 ---
 
-# Session 9 — The House That Screamed
+# DND Session 9 — The House That Screamed
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -25,7 +25,7 @@ The party splits to pursue research and recklessness in equal measure. Mira spen
 
 ## Full Summary
 
-### Scene 1 — Mira at the Alchemy Guild (Morning)
+### Scene 1 — Mira at the Alchemy Guild (Morning) *(~07:03)*
 
 Mira arrives at the Alchemy Guild to continue her research on the mysterious ink-like substance from the ruins. She is assisted by two alchemists:
 
@@ -41,7 +41,7 @@ Key findings from Mira's research:
 
 Mira completes a full write-up of her findings with guild documentation.
 
-### Scene 2 — Mira at the City Library (Afternoon)
+### Scene 2 — Mira at the City Library (Afternoon) *(~2:13:26)*
 
 Mira visits the city library to research the ruins further. She is helped by:
 
@@ -54,7 +54,7 @@ Research at the library:
 - **Halcyra checks out pages 35–40** from Ny'e *(note: Halcyra, not Mira, checked out these pages)*
 - Mira also **copies 18 plant entries** from a foraging guide for future field use
 
-### Scene 3 — Reficul and the Victorian Manor
+### Scene 3 — Reficul and the Victorian Manor *(~1:10:15)*
 
 While Mira handles research, Reficul ends up investigating the houses with writing in the street. Reficul enters a Victorian-style manor that is covered in the mysterious script. *(Note: Grungrak and Inquizo were outside — only Reficul went inside; the dragonborn was already inside with their party.)*
 
@@ -64,19 +64,19 @@ Inside, Reficul encounters **an adventuring party** already exploring the house:
 - A **minotaur in mage robes**
 - A **sorcerer woman** (who later mentions her warlock "just left one day")
 
-A confrontation begins. The dragonborn's rapier **shifts into a warhammer** and his eyes begin **glowing red** — he becomes berserk, seemingly possessed by the house. The house appears to have active, malevolent intelligence. The mouse party member pins Reficul using an **invisible boulder**.
+A confrontation begins. The dragonborn's rapier **shifts into a warhammer** and his eyes begin **glowing red** — he becomes berserk, seemingly possessed by the house. *(~2:04:38)* The house appears to have active, malevolent intelligence. The mouse party member pins Reficul using an **invisible boulder**.
 
-Grungrak casts **Sleep** — the dragonborn (below 30 HP at this point) goes down. The party flees. As they escape, **the house screams** — a loud, unnatural sound that follows them out.
+Grungrak casts **Sleep** — the dragonborn (below 30 HP at this point) goes down. The party flees. *(~2:06:09)* As they escape, **the house screams** — a loud, unnatural sound that follows them out. *(~2:08:37)*
 
-### Scene 4 — The Spaghetti Incident
+### Scene 4 — The Spaghetti Incident *(~51:37)*
 
 Reficul discovers **rancid spaghetti hidden inside a hollow brick in a wall** at the edge of town near the slums (not inside the manor itself). Inquizo and Grungrak attempt to use it as a prop for a religious "ascension" ritual outside. At some point, the **brick of spaghetti becomes an improvised weapon** and strikes one of the adventuring party NPCs.
 
-### Scene 5 — Grungrak's Speech
+### Scene 5 — Grungrak's Speech *(~2:09:29)*
 
 After the escape from the manor, Grungrak pulls Reficul aside and delivers a sincere, emotionally earnest speech about believing in him and the importance of second chances. Significantly, Grungrak **uses Reficul's own words back at him** — referencing Reficul's prior statements about giving others second chances. The speech is genuine and lands hard.
 
-### Scene 6 — Halcyra at the Temple District
+### Scene 6 — Halcyra at the Temple District *(~3:14:29)*
 
 Halcyra goes to the temple district to pray to **Apollo**. She brings with her the crossed-out letters — the YOMI papers — from the mysterious bundle discovered in earlier sessions.
 
@@ -88,7 +88,7 @@ During prayer:
 
 *(Note: A Calm Emotions fail was noted during this scene but does not appear to have been Halcyra's cast — attribution uncertain.)*
 
-### Scene 7 — End of Session
+### Scene 7 — End of Session *(~3:24:44)*
 
 It is now **8 PM in-game**. The full party is heading to **Reficul's apartment** for a long rest.
 
@@ -121,7 +121,7 @@ The DM pauses the recording at approximately 3:24 real-time to get food and take
 | Late | Grungrak gives Reficul sincere speech about second chances using Reficul's own words |
 | Late | Halcyra prays to Apollo at temple district with YOMI papers |
 | Late | YOMI letters glow — heat and light; Mira confirms arcane energy (roll: 12) |
-| Late | Halcyra's Calm Emotions fails |
+| Late | Calm Emotions fails *(attribution uncertain — not Halcyra; likely Grungrak)* |
 | ~3:24 real | Recording paused for food/photos; session effectively ends |
 | End | Party heading to Reficul's apartment for long rest; in-game time 8 PM |
 

@@ -1,11 +1,11 @@
 ---
-title: "Session 02 — The Submarine, The City, and Evil Ariel"
+title: "Session 02 — The City Below"
 session: 2
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-2]
 ---
 
-# DND Session 2
+# DND Session 2 — The City Below
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -29,20 +29,20 @@ The submarine (pre-programmed) delivered them to an underwater city built mostly
 
 ## Full Summary
 
-### The Beach — A Choice Between Debt and Death
+### The Beach — A Choice Between Debt and Death *(~00:01)*
 
 The session opened mid-scene on a beach. The party was already in the company of a female pirate captain who had no love for at least one of them. She offered assistance (access to the mountain, underwater travel equipment) but always at the cost of more debt. After some chaotic beachside hijinks — including [[Inquizo]] burying his head in the sand and nearly drowning, requiring [[Grungrak]] to yoink him out by the legs and launch him into the air — the pirate made her offer concrete: take the submarine (her dinghy) or die on the beach.
 
 They took the submarine.
 
-### The Submarine — Button Hell
+### The Submarine — Button Hell *(~15:00)*
 
 The submarine was a metal aircraft/submarine hybrid. It had a full control panel, which [[Inquizo]] immediately began pressing buttons on at random, with no regard for consequences. The session became a comedy of errors:
 
 - Pressing buttons turned off the lights (magical darkness), opened windows, activated windshield wipers on sealed windows, and opened both the top hatch (flooding the cabin) and the bottom hatch (through which [[Grungrak]] began to fall feet-first into the ocean).
 - [[Mira]] found the user manual sitting on top of the buttons and began speed-reading it and labeling each button with parchment and quill.
-- [[Reficul]] transformed into a bull shark to push [[Grungrak]] back up through the bottom hatch before it closed. He succeeded, but was then locked outside the submarine in shark form.
-- On the way out, someone pressed button 61 — which unlocked the back door into a second room.
+- [[Reficul]] transformed into a bull shark to push [[Grungrak]] back up through the bottom hatch before it closed. *(~41:44)* He succeeded, but was then locked outside the submarine in shark form.
+- On the way out, someone pressed button 61 — which unlocked the back door into a second room. *(~1:03:00)*
 
 The back room was the pirate crew's quarters and gear storage. It contained flight suits, scuba diving equipment, and ornate pirate costumes (all sized for tall women). [[Inquizo]] immediately started poking through the contents, playing dumb — he can read, but pretends he can't.
 
@@ -52,7 +52,7 @@ Outside, [[Reficul]] (bull shark) was joined in the water by the merman guard wh
 
 The submarine, now navigated using the user manual, arrived at its destination: an underwater city built into the ocean floor.
 
-### The Underwater City — Politics and Disguises
+### The Underwater City — Politics and Disguises *(~55:15)*
 
 The submarine docked by floating up into the underside of the city. The party emerged into an air-filled section with pearly white and gold paths, tidal pools where citizens relaxed, and windows looking out into the surrounding ocean. The city was populated almost entirely by women.
 
@@ -62,7 +62,7 @@ Key problems:
 - **[[Inquizo]]** is small, non-human, and of indeterminate gender presentation — he was presented as the exotic pet, passing as a "Kobold quiet." *("What are you supposed to be?" "A Kobold quiet." "Effectively a pet, truly.")*
 - **[[Reficul]]** was grabbed by city guards while in shark form and thrown into a holding room with a window overlooking the water.
 
-[[Reficul]] used the window to telepathically communicate with his assigned merman guard — a man he named "Sisyphus" after the guard couldn't remember his own name (brainwashed). Over the course of a very long, very philosophical conversation, [[Reficul]] learned:
+[[Reficul]] used the window to telepathically communicate with his assigned merman guard — a man he named "Sisyphus" after the guard couldn't remember his own name (brainwashed). *(~1:43:28)* Over the course of a very long, very philosophical conversation, [[Reficul]] learned:
 
 - Mermen in this city were once regular men whose legs were cut off and replaced with fishtails against their will.
 - They are brainwashed and forced to serve 300-year contracts, signed with fishbones they no longer remember signing.
@@ -72,7 +72,7 @@ Key problems:
 
 Meanwhile, [[Mira]] (with [[Inquizo]] on her head) navigated the city and found the historian — a puffer fish NPC — who shared crucial political information before going suspiciously quiet (possibly killed for it).
 
-### What the Historian Revealed
+### What the Historian Revealed *(~2:45:00)*
 
 - The city had a **statue of one of their gods stolen** within the last few weeks. They blame the bird folk.
 - The statue is NOT with the bird folk. **The men on the island — between the sea and the mountain — have it.** [[Mira]] saw the statue during the party's time on the island, and its face had been replaced with **King Pmurt's face**.
@@ -82,7 +82,7 @@ Meanwhile, [[Mira]] (with [[Inquizo]] on her head) navigated the city and found 
 
 After the historian, the group climbed a spiral staircase through three floors of the castle and arrived at the throne room.
 
-### The Throne Room — Diplomacy, Briefly
+### The Throne Room — Diplomacy, Briefly *(~3:22:24)*
 
 Two seahorse guards flanked a massive arched door. The group entered.
 
@@ -94,7 +94,7 @@ Two seahorse guards flanked a massive arched door. The group entered.
 - That tribe has the stolen statue — and possibly others.
 - The pirates seem to be running retrieval operations connected to the statues.
 
-The queen listened. Then announced combat.
+The queen listened. Then announced combat. *(~3:31:50)*
 
 **Session ended before combat began** — it was almost midnight. Combat picks up next session.
 
@@ -119,7 +119,7 @@ The queen listened. Then announced combat.
 | 54:28 | Grungrak heals Reficul anyway | Guilt about the eye; heals 14 HP |
 | 55:15 | Submarine arrives at underwater city; docks | Party prepares to explore |
 | 01:03:00 | Back gear room discovered | Dive suits, pirate outfits, and the DO NOT TOUCH hat |
-| 01:04:00 | Inquizo claims the DO NOT TOUCH pirate hat | "Can't read." Three hats achieved. |
+| 01:04:00 | Inquizo finds the DO NOT TOUCH pirate hat | "Can't read." *(He never actually took it — transcription error. The DM has flagged the hat multiple times. It remains unclaimed.)* |
 | 01:11:00 | Grungrak gets pirate hat as gift | "The most pure smile." |
 | 01:14:00 | Grungrak and Inquizo attempt "kobold in a trench coat" | Dive helmet on Grungrak's shoulders; Inquizo inside; they crab walk |
 | 01:23:00 | Party opens the hatch into the city | Air, not water; crabs staring at them |

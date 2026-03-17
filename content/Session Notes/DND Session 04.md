@@ -1,11 +1,12 @@
 ---
-title: "Session 04 — The Sickle, The Blood Angel, and Hell Beneath the Field"
+title: "Session 04 — The Blood Angel"
+alt_title: "What Vengeance Wants"
 session: 4
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-4]
 ---
 
-# A Shattered World — Session 4
+# DND Session 4 — The Blood Angel
 
 *Linked to: [[Shattered World]] | [[World State]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -25,7 +26,7 @@ The DM recapped Session 3: the kids were peeing off the submarine; Reficul died 
 
 ## Full Summary
 
-### The Abandoned Town
+### The Abandoned Town *(~54:44)*
 
 The party explored a cluster of rotting wooden buildings covered in fungus near the crop field. The buildings were empty and long since abandoned. Notable finds:
 
@@ -33,9 +34,9 @@ The party explored a cluster of rotting wooden buildings covered in fungus near 
 - **Interior — Nursery:** An unused crib. Murals of giant glowing horns and a black-winged angelic being. The children who should have been here were taken.
 - **Jade fragment:** Inscription reads "Birth" in Infernal (9th-accent dialect).
 - **Locked box:** Contained a topaz gem with a carving of a man and a Celestial inscription.
-- **Fancy chest with fog:** Contained the black orb — which turned out to be a prison for an entity. *(Note: The entity inside the orb was later clarified not to be Caelus — Ian indicated it was someone else. Identity uncertain.)*
+- **Fancy chest with fog:** Contained the black orb — which turned out to be a prison for an entity. *(~1:06:09)* *(Note: The entity inside the orb was later clarified not to be Caelus — Ian indicated it was someone else. Identity uncertain.)*
 
-### Caelus and the Black Orb
+### Caelus and the Black Orb *(~1:06)*
 
 Inquizo made contact with the entity inside the orb. The entity speaks in riddles and contradictions. It described the orb as "a terrible box without a blankie." Key details:
 
@@ -45,7 +46,7 @@ Inquizo made contact with the entity inside the orb. The entity speaks in riddle
 
 *(Note: The entity was described during session as Caelus, but Ian later clarified this was not correct — it is someone else. Identity unconfirmed.)*
 
-### Arcus and Lorya: The True Names
+### Arcus and Lorya: The True Names *(~2:24)*
 
 The sickle revealed the real names of the party's two mysterious companions when Grungrak wielded it:
 
@@ -67,7 +68,7 @@ The sickle revealed the real names of the party's two mysterious companions when
 
 Both Arcus and Lorya confirmed their mother is **Cybele/Avani** — the goddess statue — by raising their right hands.
 
-### The Temple and the Sickle
+### The Temple and the Sickle *(~10:28)*
 
 Beneath the abandoned field, a marble staircase led down to a stone temple with 247 sheep, a stone altar with the Cybele statue, and a newer stone cairn that held the sickle.
 
@@ -77,13 +78,13 @@ Beneath the abandoned field, a marble staircase led down to a stone temple with 
 - Silver/mirror-like blade with clockwork engravings and a sundial element.
 - Inscription in Infernal (9th-accent dialect).
 - The face of a woman is visible in the blade — same bone structure as the Cybele statue.
-- The sickle is sentient. It speaks: *"I am Vengeance. Against the sky. Against love loss."* It described itself as "a piece of his mother put in here."
-- When Grungrak grabbed it, he felt immediate bloodlust: eyes went red, muscles contracted. He made his Wisdom save, but the sickle's pull is persistent. It craves flesh.
+- The sickle is sentient. It speaks: *"I am Vengeance. Against the sky. Against love loss."* It described itself as "a piece of his mother put in here." *(~2:15)*
+- When Grungrak grabbed it, he felt immediate bloodlust: eyes went red, muscles contracted. He made his Wisdom save, but the sickle's pull is persistent. It craves flesh. *(~2:18:20)*
 - When Arcus twisted the clockwork mechanism on the sickle, the magical heartbeat pulsing through the temple (felt like a whale's heartbeat) stopped.
 
 **The Celestial mural inscription** was revealed in three parts when Grungrak sang and the sheep's horns glowed.
 
-### The Barrier and the Descent
+### The Barrier and the Descent *(~2:35)*
 
 The field above was protected by an illusion-type barrier: invisible spider-silk strands connecting the wings of winged beings to the sky, preventing descent into the underground. After Arcus activated the sickle:
 
@@ -94,7 +95,7 @@ The party descended via Lorya's secret tunnel and fell into an underground space
 
 Inquizo's orb was with Grungrak (Inquizo's zombie body was being carried). Combat was called.
 
-### Combat — The Blood Angel
+### Combat — The Blood Angel *(~2:44)*
 
 Rising from the blood was "a silhouette of half of an angel" — an entity that seemed to be only one side of a complete form. It had one working arm, a half-halo, and nails in its palm (right side only).
 
@@ -103,18 +104,18 @@ Rising from the blood was "a silhouette of half of an angel" — an entity that 
 **Round 1:**
 - **Inquizo:** Touched the blanket inside the orb-space, waking his consciousness. Grabbed the orb, wrapped it in spare clothes, put it in his backpack. Tried to go invisible — crit fail. Just his arm vanished.
 - **Grungrak:** Charged forward dragging the sickle through the blood. Swung at the angel — missed. The sickle cut a fracture through reality like broken glass (no blue light inside). The cut passed straight through the middle of the angel without connecting.
-- **Halcyra:** Skipped giving her normal pre-combat inspiration speech (Grungrak's bloodlust made him charge before she could).
+- **Halcyra:** Moved up with the group. *(Note: The pre-combat inspiration speech is Grungrak's signature, not Halcyra's — and neither gave one this round, as Grungrak charged immediately.)*
 - **Mira:** The angel pointed into the darkness, showing fragments of glass-shard memories: hundreds, maybe thousands of lives once lived on this island — people playing together, children growing old. Mira demanded to know why it had taken her memories. The angel responded cryptically, mentioning "K.L.I.S." as its king, creator, and father. When asked its name, it answered only: *"Underneath."*
 - **Angel:** Threw a nail up into the air with one hand, caught the hammer with the same hand, and smacked the nail midair — it flew directly into Arcus's chest. The angel whispered *"Bina"* (capital B, an Infernal name) to Arcus. Arcus became immediately enraptured, surrounded by a blooming flower nest formed from the swirling blood.
 - **Arcus:** Crit failed initiative. Trapped in the blood-bloom.
-- **Lorya:** Guided Grungrak: "Swing right here." He swung. Hit — 12 damage (8+4 across two d8s). The sickle immobilized the angel momentarily, slashing off a leg.
+- **Lorya:** Guided Grungrak: "Swing right here." He swung. Hit — 12 damage (8+4 across two d8s). The sickle immobilized the angel momentarily, slashing off a leg. *(~3:00)*
 
 **Round 2:**
 - **Inquizo:** Dashed to reposition.
 - **Grungrak:** Swung again — missed. The angel had fallen into the blood, making it hard to see where to strike. **Bonus action:** Called out to Arcus and cast Healing Word on him (+6 HP).
-- **Halcyra:** Moved forward. Rolled a natural 20. 13 damage (d10, double dice on crit). Cleaved off the angel's other arm. The angel was now reduced to a torso, half a face, and a halo. As it fell splashing into the blood, it smiled.
-- **Mira:** Cast Toll the Dead. She swung her staff in a half-circle through the blood, creating a wave. Rolled 11 damage (d12). — *The voice that came out of Mira was not her own.* A masculine voice emerged from her face. Her patron or some other entity spoke through her.
-- **Angel:** The half-halo glowed crimson. A trail of gold extended from the Arcus blood-bloom toward the angel. The angel crawled to lean up — failed athletics. Veins, sinuses, and glass-shard memory fragments began reforming its missing half like a golem being built from the island's memories.
+- **Halcyra:** Moved forward. Rolled a natural 20. 13 damage (d10, double dice on crit). Cleaved off the angel's other arm. The angel was now reduced to a torso, half a face, and a halo. As it fell splashing into the blood, it smiled. *(~3:06)*
+- **Mira:** Cast Toll the Dead. She swung her staff in a half-circle through the blood, creating a wave. Rolled 11 damage (d12). — *The voice that came out of Mira was not her own.* A masculine voice emerged from her face. Her patron or some other entity spoke through her. *(~3:09)*
+- **Angel:** The half-halo glowed crimson. A trail of gold extended from the Arcus blood-bloom toward the angel. The angel crawled to lean up — failed athletics. Veins, sinuses, and glass-shard memory fragments began reforming its missing half like a golem being built from the island's memories. *(~3:22)*
 - **Arcus:** The blood-bloom flower opened fully, and Arcus transformed into something else: *"a massive fluffy sheep-like beast... with a shaved heart on its head that looks like the sun."* A small **green sheep** popped its head from the fluff. Arcus approached the angel with subservience (Insight: not hostility).
 - **Lorya:** Guided Grungrak again. Another swing.
 
@@ -214,17 +215,17 @@ Rising from the blood was "a silhouette of half of an angel" — an entity that 
 
 ## Rolls & Combat
 
-| Roll | Character | Result | Outcome |
-|------|-----------|--------|---------|
-| Wisdom save (sickle) | Grungrak | Pass | Bloodlust engaged but controlled |
-| Hit (sickle) | Grungrak | Miss | Cut through reality like fractured glass; no damage |
-| Hit (sickle + Lorya guidance) | Grungrak | 12 (12 dmg) | Angel immobilized; leg severed |
-| Hit (longsword) | Halcyra | Nat 20 (13 dmg) | Both arms severed; angel reduced to torso |
-| Toll the Dead | Mira | 11 dmg (d12) | Angel's "brain burst"; masculine voice came from Mira |
-| Mind Spike | Mira | 9 dmg | Angel pierced through lungs; can barely move |
-| Perception (angel) | Inquizo | Nat 20 | Spotted nails in palm (right side only) |
-| Athletics (angel, self) | Blood Angel | Fail | Couldn't rise; spiked itself instead |
-| History (Bina) | Player | 4 | Not enough info |
+| Roll                          | Character   | Result          | Outcome                                               |
+| ----------------------------- | ----------- | --------------- | ----------------------------------------------------- |
+| Wisdom save (sickle)          | Grungrak    | Pass            | Bloodlust engaged but controlled                      |
+| Hit (sickle)                  | Grungrak    | Miss            | Cut through reality like fractured glass; no damage   |
+| Hit (sickle + Lorya guidance) | Grungrak    | 12 (12 dmg)     | Angel immobilized; leg severed                        |
+| Hit (longsword)               | Halcyra     | Nat 20 (13 dmg) | Both arms severed; angel reduced to torso             |
+| Toll the Dead                 | Mira        | 11 dmg (d12)    | Angel's "brain burst"; masculine voice came from Mira |
+| Mind Spike                    | Mira        | 9 dmg           | Angel pierced through lungs; can barely move          |
+| Perception (angel)            | Inquizo     | Nat 20          | Spotted nails in palm (right side only)               |
+| Athletics (angel, self)       | Blood Angel | Fail            | Couldn't rise; spiked itself instead                  |
+| History (Bina)                | Player      | 4               | Not enough info                                       |
 
 ---
 

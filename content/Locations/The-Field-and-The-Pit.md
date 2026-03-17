@@ -29,7 +29,7 @@ An open field edged by a northern forest, with a circular section at its center 
 
 ## Significance
 
-The Field and the Pit is where things started getting mythologically weird. [[NPC Registry#Arcus|Arcus]] appeared here — the white-haired mysterious figure with a nail through his kneecap and a manticore and hundreds of hyenas at his side. Mira's death-state was first revealed in this location: the pit treated her differently than everyone else, and no one fully understood why. The party prayed to the Good Boy of the North in the forest, and something answered.
+The Field and the Pit is where things started getting mythologically weird. A **mysterious white-haired NPC** appeared here — shirtless, bulkier build, with a nail through his kneecap and a manticore and hundreds of hyenas at his side. *(Note: This white-haired NPC is NOT Arcus — they are different characters. Arcus is Cybele's son from Session 4.)* Mira's death-state was first revealed in this location: the pit treated her differently than everyone else, and no one fully understood why. The party prayed to the Good Boy of the North in the forest, and something answered.
 
 The pit itself is a puzzle that hasn't been solved. What are the glowing white strings? Why does the ground resist the living but not the... differently living?
 
@@ -47,7 +47,7 @@ The pit itself is a puzzle that hasn't been solved. What are the glowing white s
 
 | Session | What Happened |
 |---|---|
-| [[Session Notes/DND Session 03\|Session 3]] | Arcus encountered here. Mira's death-state first revealed (she moves differently through the pit). Good Boy of the North prayer succeeds — entity acknowledged. Lorya and hyenas emerged from the northern forest, then retreated. |
+| [[Session Notes/DND Session 03\|Session 3]] | Mysterious white-haired NPC encountered here (NOT Arcus — different character). Mira's death-state first revealed (she moves differently through the pit). Good Boy of the North prayer succeeds — entity acknowledged. Hyenas emerged from the northern forest, then retreated. |
 | [[Session Notes/DND Session 04\|Session 4]] | Party returned. Mira passed through the barrier freely. Halcyra and Inquizo passed through using Lorya's cloak. Party descended via Lorya's secret tunnel into the underground temple below. |
 
 ---
@@ -56,5 +56,5 @@ The pit itself is a puzzle that hasn't been solved. What are the glowing white s
 
 - **The glowing white strings** — What are they? Why do they resist certain people and not others? Are they a ward, a membrane, a living thing?
 - **The Good Boy of the North** — The party prayed successfully and it acknowledged. Is this entity a god? A monster? A future ally? It still hasn't shown its face.
-- **The mysterious white-haired NPC** — Arcus vanished from here after Session 4. What is the nail in his kneecap? Where did he go? The manticore and hundreds of hyenas deferred to him.
+- **The mysterious white-haired NPC** — Not Arcus (they are different characters). He left northward after Session 3 on his rose wings. What is the nail in his kneecap? Where did he go? Who is he? The manticore and hundreds of hyenas deferred to him.
 - **Mira's condition** — The pit is the first environmental indicator that something is different about her. The full implications of her death-state are still unfolding.

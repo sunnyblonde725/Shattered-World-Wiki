@@ -44,51 +44,86 @@ The party woke from the aftermath of the shadow therapy sequence, still raw from
 
 ## Scene-by-Scene
 
-### Scene 1 — Waking at Gunj's / The Chief Meeting (early session)
+### Scene 1 — The Dreams / Waking at Gunj's *(~0:00)*
 
-The party woke on Gunj's couch in Voxus. They had a meeting with Ravalli — the giant eagle chief of Voxus. Gunj (an owl, Ravalli's right-hand) was also present. Ravalli confirmed knowledge of the dream-town situation and Numgis's movements. Key information from the chief meeting:
-- The **Valu statue** (the god-statue from the former Pmurt island city) glowed and showed a vision when the party interacted with it in Voxus. Specifically, it showed a figure of a wind god — **Valu** (also referred to as Aeolus in one line) — who manifested briefly and spoke to the party.
-- **Valu/the wind god** gave **Mira and Gunj** sending stones. He was described as flighty, ADHD-ish, brief and hard to pin down. His interaction confirmed the statues are connected to sealed/freed gods.
-- **Ravalli** (the eagle king) was revealed to be Gunj's chief, or at minimum Gunj's highest authority. The chief acknowledged Numgis had been at the nest "two days ago setting up a sleep system."
-- The chief mentioned a **"land of machinery"** to the north — this appears to be connected to where Numgis is headed.
-- **Mira and Gunj** received **sending stones** from Valu.
+Before the party fully woke, each character had a dream. These were not ordinary dreams — they were the first real dreams since the shadow therapy, and they were vivid and felt real.
 
-### Scene 2 — Halcyra's Dream Sequence
+**Halcyra's dream** *(~14:44)* (narrated by Charlie): Halcyra found herself on a pirate ship beached on jagged rocks. The ocean was churning, almost boiling, with strange texture. Emerging from belowdecks was a tall figure — wounded, covered in injuries leaking black ooze, moving with "almost Olympian" bearing. The figure was Alias (the sea goddess, recognizable from her statue). Alias looked at Halcyra with sudden fear, a dawning realization — and then charged at her, screaming *"What are you doing here? You're not supposed to be here."* Before she reached Halcyra, Alias was slammed aside by an invisible force. She rose, battered, and said it again: *"No one is supposed to be here."* The black ooze from her wounds thickened. She looked at Halcyra and threw a dagger at her — and Halcyra woke up. This was Halcyra's first real dream. It felt completely real, not like dreaming.
 
-Before or during the waking period, Halcyra experienced a dream/vision (narrated by a speaker — possibly Lorenne with DM assistance). The dream involved:
-- Apollo imagery
-- Halcyra's mother, mid-sentence, holding something she never received
-- The "Crown of Golden Lies" (Halcyra's shadow item from Session 12) appeared in context
-- The dream reinforced that Halcyra is Apollo's daughter, still unaware of this fact
-- Halcyra left the dream before her mother could finish — the item in her mother's hands remains unknown
+*(Note: This is also Scene 4 — Alias Beached. The dream confirmed Alias is actively fighting something that is battering her on a beached ship. The invisible attacker is unknown.)*
 
-### Scene 3 — Numgis Dream Overheard
+**Other party members' dreams** *(~22:13)*: All four remaining characters had a variation of the same dream — seeing Numgis in a glorious palace, speaking to a figure in dark robes with red embroidery. Numgis's line, heard clearly: *"I need ways to free him."* The "him" is not specified and may not be Yomi.
 
-During the early session, Mira (or the party) eavesdropped on Numgis through a dream-connection or heard accounts from Gunj. Key line confirmed: *"I need ways to free him."* This is distinct from freeing Yomi — someone else is imprisoned, and Numgis is working toward that goal as well.
+---
 
-### Scene 4 — Alias Beached
+### Scene 2 — The Valu Manifestation (morning, throne room of Voxus) *(~52:00)*
 
-The party learned (via dream or sending stone or vision — confirmed OOC by Ian) that **Alias** is **beached on her own ship and wounded**, currently fighting something. She is in danger. This is a significant unresolved thread. Ian flagged this as the detail he almost forgot. *(Note: Alias is not the pirate captain from the start of the campaign — she is a sea god from Charlie's world SKRP.)*
+The party had breakfast with Gunj, who told them the Valu statue had begun glowing blue overnight. They went to the throne room (the "throne nest"). The statue was glowing ethereal blue with veins of blue light, and Kenku were trying to scrape the glow into vials (only pebbles came out). Ravalli looked grumpy nearby.
 
-### Scene 5 — Departing Voxus / Airship Travel to the Island City
+**How Valu was summoned** *(~58:50)*: Reficul performed a religion roll (15), groveled before the statue. The blue light crawled up the statue and then peeled entirely off — forming a **20+ foot ethereal blue figure** above the stone *(~1:01:00)*. The god had manifested.
+
+**What Valu revealed**:
+
+- He is a **composite deity** — a wind-and-time god with multiple faces that correspond to the world of the viewer. His face shifted. **One character recognized one of the faces** *(~1:05:53)* (the DM said: *"You recognize this face. Only you do."*) — it was **Aeolus**, the Greek wind god. Given Halcyra's origins on Planetos (a world with Olympian mythology), she is the most likely character to have recognized this face.
+- Valu confirmed he is "Valu" to the Kenku, and Aeolus (or another name) to other worlds. He has **four or five other selves** — all versions of the same wind/time deity interpreted through different world's mythologies.
+- The **Kenku** used to offer their voices as tribute to Valu — he spoke of this fondly and with some grief. He has not received offerings in a long time.
+- He has visited **Olympus** (the Greek divine demi-plane). He casually mentioned there are several divine demi-planes: Olympus, a "tree thing," and something "altogether robotic and mechanical" that he wants nothing to do with.
+- He was **angry** the party left his statue behind the first time (they took the other statue when fleeing the pirates). *"It just took a month."* They were told they could have gone back.
+
+**The statues / freeing the gods**:
+- There are **4 statues total**, each containing a sealed deity.
+- Valu is the first freed. He is "freed-ish" — partially manifest but not fully.
+- One other god's statue is "really messed up" and **trying to break free on its own**.
+- **Two remaining statues** — "Poppa Poseidon" (location unknown; pirate captain was hired to retrieve it) and **Alias's statue** ("God of the Seas" — Alias is a sea god; her statue is one of the four). Alias's wounded/beached situation may be connected to her statue not being returned to her people yet.
+- Valu gave the party a mission: *"It is imperative to the gods, you little weaklings, to do what we need to ask you to do. Some of us need to be freed."*
+- Freeing the gods is not about killing tyrants — it's about removing the "hateful heart" (the entrenched hateful power) from their place. Removing Pmurt from his throne (taking his crown/testicles) is what freed Valu, not killing him.
+
+**The prophecy exchange (Halcyra)** *(~1:14:35)*:
+- Halcyra asked Valu directly: *"If you've been watching us, does that mean you're aware of this prophecy I have?"*
+- Valu: *"Not my realm."*
+- Mira: *"Who's realm?"*
+- Valu: *"The one you would know — when I've met him, he's an asshole. It's Apollo."* *(~1:14:38)* *(Note: the transcript transcription here is garbled — "It's a paw" — but the context strongly suggests the name was Apollo, the Greek god of prophecy and the sun, who would be known on Planetos.)*
+- Valu added: *"There are people over him too."* He did not know who.
+- Halcyra then read aloud from her prophecy scroll: *"Heal the faces made of stone, defeat hateful hearts, through fire's trial truth is shown — the hero reaps what they have sown."* She connected these lines to what Valu had just described: the statues ARE the "faces made of stone." The "hateful hearts" are the tyrants holding the gods prisoner (Pmurt, and others like him). The party had already begun fulfilling the prophecy.
+
+**Valu's exit** *(~1:15:26)*: He left in a gust of wind — flighty, barely focused, with six internal voices arguing at once (*"Some of them are yelling"*). His last words were roughly: *"You better go save the others, losers."*
+
+**After Valu left**:
+- The party debriefed with Ravalli. They agreed to act as his scouts/spies heading north in exchange for safe passage and supplies.
+- Ravalli mentioned a **"land of machinery"** to the north — this is likely Sypium.
+- Numgis had been at the Kenku nest **two days ago**, setting up a "sleep system."
+- The party asked about communication — they will try to establish a way to report back.
+- **Mira and Gunj each received a sending stone** from Valu (not explicitly from this scene — this may have occurred during or after the conversation; note for review).
+
+### Scene 3 — Numgis Dream Overheard *(~22:13)*
+
+The dream of Numgis saying *"I need ways to free him"* (see Scene 1) is the key intelligence. This is distinct from freeing Yomi — someone else is imprisoned, and Numgis is working toward a separate goal.
+
+### Scene 4 — Alias Beached *(~14:44)*
+
+*(This scene is covered fully in Scene 1 — Halcyra's dream.)*
+
+**Alias** is **beached on her own ship and wounded**, fighting an invisible attacker. Her wounds are leaking black ooze. She is aware enough to throw a dagger at Halcyra to force her out of the dream — she wanted Halcyra out of there, not watching. This is a significant unresolved thread. Ian confirmed OOC that this detail almost got forgotten. *(Note: Alias is not the pirate captain from the start of the campaign — she is a sea god from Charlie's world SKRP.)*
+
+### Scene 5 — Departing Voxus / Airship Travel to the Island City *(~1:22)*
 
 The party departed Voxus on **Pmurt's airship** (commandeered at the end of Session 11). They flew south/to the former island city — the kingdom of King Pmurt — to check on the Thorin statue there and see the aftermath of Pmurt's defeat.
 
-### Scene 6 — The Island City: Reign of Terror
+### Scene 6 — The Island City: Reign of Terror *(~1:40)*
 
 Upon arriving at the former Pmurt kingdom, the party discovered the people had staged a full uprising:
 - Former prisoners (women, birds, mermaids) were now in control
 - The former palace guards and soldiers were in the cells
-- A man named **Naamon** had taken power — pompously dressed, ornamental headpiece, giving speeches from a platform (already there, not built overnight), crude banners of the five party members hung as icons of the revolution
+- A man named **Naamon** had taken power — pompously dressed, ornamental headpiece, giving speeches from a platform (already there, not built overnight), crude banners of the five party members hung as icons of the revolution *(~1:58:39)*
 - The townspeople were executing former guards and officials — some in a public arena (those who survived killed each other to get fed), some directly
 - The farmer who first spoke to the party explained: the guards who mistreated people were being systematically eliminated; only the "big wigs" faced public execution, most others were thrown into an arena
-- **Reficul** walked up to the platform, was recognized, was handed an axe and asked to perform the Reconciliation (execute the chef from the Pmurt fight, Dex, who had been mistakenly captured)
-- Reficul gave a long speech to the crowd about death, life, and punishment. He declared death is freedom — that the true punishment is making people live with their crimes and suffer. He then **threw the axe** into the crowd and split someone in half after they shouted "Get his wife and kids!" — killing them as an example
+- **Reficul** walked up to the platform, was recognized, was handed an axe and asked to perform the Reconciliation *(~2:06:05)* (execute the chef from the Pmurt fight, Dex, who had been mistakenly captured)
+- Reficul gave a long speech to the crowd about death, life, and punishment *(~2:11:08)*. He declared death is freedom — that the true punishment is making people live with their crimes and suffer. He then **threw the axe** into the crowd and split someone in half *(~2:12:13)* after they shouted "Get his wife and kids!" — killing them as an example
 - The crowd fled. Naamon confronted Reficul. Reficul **punched Naamon off the platform** — **Halcyra** caught him, but he died from the punch (he was just a normal man)
-- **Halcyra** confronted Reficul: "This is not the first time I have witnessed you kill someone because you were angry."
+- **Halcyra** confronted Reficul *(~2:14:56)*: "This is not the first time I have witnessed you kill someone because you were angry."
 - Reficul: "I know where they're going. It'll be fine." Mira: "Just because you know where they're going does not make it fine."
 
-### Scene 7 — The Chef: Dex
+### Scene 7 — The Chef: Dex *(~2:19)*
 
 **Dex** (the young chef from Session 11, aged 19, who had worked in Pmurt's palace since age 14) was the bound prisoner on the execution platform. **Mira** (while invisible — she cast Invisibility and used a floating rope to communicate) freed him and spoke to him. Dex revealed:
 
@@ -103,26 +138,26 @@ Upon arriving at the former Pmurt kingdom, the party discovered the people had s
 Dex agreed to join the party on the airship. He was given the captain's quarters to rest. He mentioned having **recurring nightmares** that feel very real and are making it hard to sleep. Mira questioned him about them — his description fits the pattern of someone accidentally touching the dream realm post-Shattering. He confirmed once being in a tavern he'd never seen before the night of a major event — Mira told him this means he'd visited a god's realm in his sleep (not specifically the God of Dreams — probably Latar's realm).
 
 
-### Scene 8 — The Thorin Statue Investigation
+### Scene 8 — The Thorin Statue Investigation *(~2:35)*
 
 **Mira** investigated the **Thorin statue** beneath the execution platform. She rolled Investigation 15 and confirmed:
 - The Thorin statue and the Valu/Aeolus statue are **not the same construction** — clearly different makers, different materials
 - Mira collected a material sample
-- The statue shed a **single tear** from its eye — the only reaction, no glow or light
+- The statue shed a **single tear** from its eye *(~2:35:56)* — the only reaction, no glow or light
 - Mira speculated: Valu was freed only after being brought to his people. Thorin may need to be brought somewhere. The statue is weeping because it's not in the right place.
 - Mira also **suggested bringing the Thorin statue** with them on the airship
-- The party agreed; **George** carried the statue up the stairs ("I hate stairs") and loaded it into the ship
+- The party agreed; **George** carried the statue up the stairs *(~2:46:08)* ("I hate stairs") and loaded it into the ship
 
-### Scene 9 — Reficul Stays Behind
+### Scene 9 — Reficul Stays Behind *(~2:25)*
 
 **Reficul** announced he could not leave these people again. He stayed behind in the former island city to help the people resettle and find stable governance. He will be there long-term. Before parting:
 
-- Reficul and George had a brief goodbye — Reficul told George "Don't be scared of the stick" (advice) and "If you have to cry yourself to sleep, that's okay"
+- Reficul and George had a brief goodbye *(~2:44:22)* — Reficul told George "Don't be scared of the stick" and "If you have to cry yourself to sleep, that's okay"
 - George's expression was complicated; Cooper played the goodbye with real weight
 - The party informed the townspeople (via the farmer NPC and Dex) that **Gunj** would be coming to help them — a large brown owl who can speak common. They prepared people for his arrival.
 - Mira visited the prison on the way out to update the remaining prisoners that executions were likely over
 
-### Scene 10 — Calling Gunj / Sending Stone
+### Scene 10 — Calling Gunj / Sending Stone *(~2:49)*
 
 Mira used the sending stone to contact Gunj and ask him to:
 1. Visit the former Pmurt island city and help the people resettle alongside Reficul
@@ -131,34 +166,34 @@ Mira used the sending stone to contact Gunj and ask him to:
 
 Gunj responded with his characteristic dry warmth. He agreed.
 
-### Scene 11 — George's Song / Halcyra Moment
+### Scene 11 — George's Song / Halcyra Moment *(~2:38)*
 
-While the party was in the island city, Halcyra returned to the airship and found George alone, singing quietly, reading from a folded piece of paper. She heard Mira's name repeated in the song. George had been secretly learning the **Ballad of Mira** (a song about her mentioned ~8 sessions earlier) and had been practicing it for her. He was caught, embarrassed, shoved the paper in his pocket, and ran away red-faced. He spent an hour pacing in the throne room to calm down (failed his first Calm Emotions on himself). The party teased this moment gently.
+While the party was in the island city, Halcyra returned to the airship and found George alone, singing quietly *(~2:38:31)*, reading from a folded piece of paper. She heard Mira's name repeated in the song. George had been secretly learning the **Ballad of Mira** (a song about her mentioned ~8 sessions earlier) and had been practicing it for her. He was caught, embarrassed, shoved the paper in his pocket, and ran away red-faced. He spent an hour pacing in the throne room to calm down (failed his first Calm Emotions on himself). The party teased this moment gently.
 
-### Scene 12 — Airship Exploration / Inquizo Commandeers the Ship
+### Scene 12 — Airship Exploration / Inquizo Commandeers the Ship *(~2:53)*
 
 *(Note: After the party boarded the airship, the DM switched from Cooper to Ian.)*
 
 On the airship:
-- Inquizo found **Pmurt's crown** ("My special crown" labeled on it) — a very tall red velvet crown, about as tall as Inquizo himself
-- Inquizo activated the ship's **hologram navigation AI** by bumping the push-to-start button while wearing the crown — the AI greeted "King Pmurt" and commented on the nice crown
+- Inquizo found **Pmurt's crown** *(~2:59:25)* ("My special crown" labeled on it) — a very tall red velvet crown, about as tall as Inquizo himself
+- Inquizo activated the ship's **hologram navigation AI** *(~3:01:39)* by bumping the push-to-start button while wearing the crown — the AI greeted "King Pmurt" and commented on the nice crown
 - Inquizo mimicked Pmurt's voice and told the AI to go to **Sypium** — the ship began flying north
 - Mira spent extensive time in the **server room** (steampunk-style computer servers/machinery) and failed to understand any of it
-- George found an **empty nameplate** at the front of the ship that read **"Starglass"** when the lever was partially pulled
+- George found an **empty nameplate** at the front of the ship that read **"Starglass"** *(~3:07:07)* when the lever was partially pulled
 - George pulled the lever fully, which opened a compartment revealing: faces with paperclipped dossiers, and a detailed **map** showing Sypium located past several islands near mountains — the ship's mission map
 
-### Scene 13 — Rebooting the Ship / Grandfather Clock
+### Scene 13 — Rebooting the Ship / Grandfather Clock *(~3:12)*
 
 Mira found the map's slot and inserted it into a rectangular port near the hologram display. This triggered a system reboot: "Unknown file detected. Would you like to reboot the system?" Inquizo said yes. The ship entered **gliding mode** — engines slowed, fans turned on, ticking heard from below.
 
-Mira investigated the ticking. In the cargo hold, behind tasseled wallpaper, she found:
+Mira investigated the ticking. In the cargo hold, behind tasseled wallpaper, she found *(~3:13:33)*:
 - A **grandfather clock** (blue, mostly chipped, only the second hand moving)
 - The clock was connected to the ship via gears
 - Behind the wallpaper next to it was a **glass case** — containing a person
 
-### Scene 14 — Starglass
+### Scene 14 — Starglass *(~3:15)*
 
-The entity in the glass case: **Starglass**. Fleshy and robotic, connected to the ship by pipes/tubes that were breathing air into her lungs. George cast Healing Word on her; as healing magic touched her, she transformed slightly (more metallic), her eyes opened revealing **bugs inside her eyes** (bioluminescent once her light turned on).
+The entity in the glass case: **Starglass** *(~3:15:29)*. Fleshy and robotic, connected to the ship by pipes/tubes that were breathing air into her lungs. George cast Healing Word on her; as healing magic touched her, she transformed slightly (more metallic), her eyes opened revealing **bugs inside her eyes** (bioluminescent once her light turned on).
 
 What the party learned from Starglass:
 - She is **"a piece of her mother's heart"** — a construct/daughter of an entity named **Malafera** (different from any previously mentioned "mother")
@@ -173,11 +208,11 @@ What the party learned from Starglass:
 - Starglass presses her own button and the glass case closes again — she breathes for the ship and will help them get to Sypium; she asks that the stay be as short as possible
 - She warned: "He will hurt you" regarding the doctor/Numgis; "Don't." (She couldn't feel pain anymore)
 
-### Scene 15 — Second Glass Case / Tapestry
+### Scene 15 — Second Glass Case / Tapestry *(~3:39)*
 
 Halcyra tripped on a tapestry in the cargo hold. The tapestry showed: a sun with rays, wings, people meeting a flock of sheep (George recognized this imagery). Underneath the tapestry: another glass case, foggy and hazy, with faint blue glowing inside — already fading. The party decided not to open it while airborne. They will investigate when docked.
 
-### Scene 16 — The Dossiers / Pmurt's Papers
+### Scene 16 — The Dossiers / Pmurt's Papers *(~3:46)*
 
 George looked through the dossier papers from the compartment. He found:
 - A dossier about **Starglass** with her image — described as "before she was beautiful" (the text was written from the doctor's colonial, objectifying point of view)
@@ -185,7 +220,7 @@ George looked through the dossier papers from the compartment. He found:
 - The tone of the papers **shifts dramatically** mid-document — the handwriting changes to **circles and clouds** (the rune alphabet), and suddenly the text turns aggressive and threatening about **Sypium** — wanting to kill everyone there
 - This suggests the doctor was either possessed, had a personality split, or the document was taken over by another entity partway through
 
-### Scene 17 — En Route North (Session End)
+### Scene 17 — En Route North (Session End) *(~3:52)*
 
 The ship is flying north toward Sypium. The reboot is in process. The party is airborne, with:
 - Dex sleeping in the captain's quarters
@@ -205,7 +240,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 | Timestamp | Event | Key Detail |
 |-----------|-------|------------|
 | ~00:00 | Session begins — party wakes on Gunj's couch in Voxus | Post-shadow-therapy; still emotionally raw from Session 12 |
-| Early | Halcyra's dream sequence | Apollo imagery, her mother mid-sentence, the Crown of Golden Lies; she woke before her mother could finish |
+| Early | Halcyra's dream sequence | First real dream — beached pirate ship; Alias appeared wounded (black ooze), screamed "You're not supposed to be here," threw a dagger to wake Halcyra up |
 | Early | Meeting with Ravalli (giant eagle chief) | Gunj present; Ravalli confirms Numgis was at Voxus nest two days ago setting up a sleep system |
 | Early | Valu / Wind God manifests from the statue | Flighty, ADHD-ish deity; gave Mira and Gunj sending stones; confirmed statue-god connection |
 | Early | Numgis dream overheard — "I need ways to free him" | Distinct from Yomi — a second imprisoned being Numgis is working to release |
@@ -242,7 +277,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 ## Character Moments
 
 **Halcyra**
-- Experienced a dream involving Apollo, her mother mid-sentence, and the Crown of Golden Lies — woke before the dream completed
+- Experienced her first real dream — found herself on a beached pirate ship; Alias (the sea goddess, wounded, leaking black ooze) charged at her screaming "What are you doing here? You're not supposed to be here," was slammed aside by something invisible, then threw a dagger at Halcyra to wake her up
 - Caught Naamon after Reficul punched him off the platform — Naamon died anyway from the punch
 - Delivered one of the session's sharpest moral confrontations: "This is not the first time I have witnessed you kill someone because you were angry"
 - Discovered George practicing the Ballad of Mira alone on the airship — witnessed a private, tender moment
@@ -322,16 +357,32 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 
 ## YouTube Edit Notes
 
-- **Cold open candidate**: The execution platform scene — Reficul being handed an axe by the crowd, the party's crude banners hanging behind him
-- **Best dramatic beat**: Reficul's goodbye to George — the weight of a party member voluntarily separating for the first time
-- **Best emotional beat**: Halcyra catching Naamon mid-fall while he dies; or Halcyra's confrontation of Reficul immediately after
-- **Best WTF moment**: Starglass's bioluminescent bug-eyes opening when Healing Word touched her
-- **Comedy highlight**: Inquizo commandeering the airship AI with a Pmurt impression while wearing the king's oversized crown
-- **Comedy runner-up**: George caught practicing the Ballad of Mira and running away in embarrassment
-- **Mystery highlight**: The second glass case with the faint blue glow — slow hold on the party deciding not to open it
-- **Lore drop**: Starglass's reveal that the rune alphabet = Malafera's language — directly connecting to the ruins writing from Sessions 8–10
-- **Cliffhanger**: End on the airship flying north with Cooper teasing "Cogwork" music for Sypium, OR on the second glass case still unopened
-- **Transition note**: Strong contrast between the brutal island city sequence and the quiet, tender Ballad of Mira moment — could be used as a tonal reset
+**Cold open — "What are you doing here?"** *(14:44)*
+Open mid-dream. No context. Alias comes up from below deck wounded and trailing black ooze, and the second she sees Halcyra her expression breaks — fear, recognition, dawning horror — before something invisible slams her sideways into the hull. She gets up. *"You're not supposed to be here. No one is supposed to be here."* She throws a dagger. Cut to black. Don't explain any of it. Let it breathe and land wrong before the title card. The audience can catch up.
+
+**God sequence — "You recognize this face. Only you do."** *(1:01:00–1:05:53)*
+The Valu manifestation plays as spectacle — 20-foot ethereal blue figure, Kenku scraping glowing pebbles off the statue — but the real moment is quieter. At 1:05:49, the god's face shifts mid-conversation, and Cooper says directly to Halcyra's player: *"You recognize this face. Only you do."* This is Aeolus. Score it like a private reveal in a public room. Everyone else sees a wind god. One person sees someone from home. Hold on her reaction. The god doesn't stop talking — that's what makes it hit.
+
+**Execution platform — one sequence, three escalations** *(2:00:38–2:13:44)*
+Edit this as a continuous build. It has three acts and they run into each other without pause:
+1. The crowd chants "Reficul" and the crude party banners drop — comedy first, let the audience enjoy it.
+2. Reficul takes the axe and delivers his speech on death and punishment. The music is already working here — the table noticed it at 2:05:23. Don't cut away from him. The speech earns what comes next.
+3. At 2:12:13 someone shouts *"Get his wife and kids!"* — and at 2:12:32 the axe goes into them. Crowd scatters. Then at 2:13:00, Naamon goes off the platform. At 2:13:44, Halcyra catches a dead man. No fanfare. Just: *"You just saw a dead man fall into her arms."* Hold. Then cut to the confrontation. Do not soften the transition.
+
+**Best line of the session — the confrontation** *(2:14:56–2:15:16)*
+She's holding a dead man. She says: *"This is not the first time I have witnessed you kill someone because you were angry."* Reficul: *"I know where they're going. It'll be fine."* Mira, quietly: *"Just because you know where they're going does not make it fine."* Score this like a drama. It is one. Don't cut away from anyone's face. This is the moral weight of the entire island sequence landing in thirty seconds.
+
+**Quiet character beat — George alone with the song** *(2:38:31–2:39:27)*
+Halcyra boards the airship and finds George singing to himself, reading from a folded piece of paper. The word you can hear over and over is *Mira*. He has been learning the Ballad of Mira in secret. She knocks. He folds the paper mid-note and shoves it deep in his pocket. *"I'm passing the time."* He ran away red-faced and paced in the throne room for an hour to recover. Cut on the pocket shove. The silence after that is the joke and the heart of it at the same time. Do not undercut it with commentary.
+
+**The goodbye** *(2:44:22–2:44:50)*
+Reficul and George, right before the party leaves. George asks where he's going. Reficul says long-term. Then: *"Don't be scared of the stick."* Beat. *"If you have to cry yourself to sleep, that's okay."* That's it. That's the whole scene. A party member is leaving, possibly permanently, and that's what he chose to say. Score it slow. Hold on George after Reficul walks. This is the first voluntary party split in the campaign's history — let it feel like one.
+
+**Comedy set piece — the world's worst monarch commandeers an airship** *(2:59:25–3:01:39)*
+Inquizo finds Pmurt's crown. It is labelled *"my special crown."* It is approximately as tall as he is. He puts it on, immediately bumps into the ship's push-to-start button while wearing it, and the AI greets him as King Pmurt and compliments the crown. Inquizo does a Pmurt voice impression to set the destination. The ship starts flying north. This is a two-foot gremlin in a comically oversized hat accidentally conquering a vessel through pure chaos. Cut between the impressions and the AI's cheerful compliance. Score it like a heist that worked by accident.
+
+**The reveal — bug-eyes** *(3:15:29–3:18:36)*
+Play the Starglass discovery straight. There's a glass case behind the wallpaper. There's a person inside it, fleshy and robotic, connected to the ship by breathing tubes. George casts Healing Word. Her body starts shifting — more metallic, warming near the ears — and then her eyes open and there are bugs inside them, bioluminescent, lighting up as she wakes. Mira reacts audibly. Hold on the eyes. Then let Ian describe what she is. This moment earns the lore drop that follows: she is her mother's heart, her mother's language is the rune alphabet, and the rune alphabet is the same one the party has been finding carved into ruins since Session 8. The editor should not rush past any of that. It's all payoff.
 
 ---
 
@@ -367,7 +418,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 
 ## Lore & Worldbuilding Discoveries
 
-- **Valu / Wind God**: A god connected to the Thorin statue. Flighty, ADHD-ish, briefly manifest. His existence as a named god is new.
+- **Valu / Wind God**: The god of Voxus (the bird people). Was trapped in his statue — freed when the party returned it to his people. Flighty, ADHD-ish, briefly manifest. His existence as a named god is new. The Thorin statue is a separate statue entirely.
 - **The Dream Network**: Numgis's actual project is a global network of "disciples of dreams" — not an army of loyal followers, but a spreading of dream-power across the shattered world. Pmurt was disciple #1. This network may be what the party keeps encountering.
 - **Yomi / God of Dreams**: Numgis was told in his own dreams that he needs to free Yomi, who is trapped in/under something. This is what the party had suspected.
 - **The Rune Alphabet = Malafera's language**: The circles-and-clouds rune writing the party has seen since Session 8 is the language of Starglass's mother Malafera. It means "hello" and "goodbye" to her constructs — and the last word she taught was "life."

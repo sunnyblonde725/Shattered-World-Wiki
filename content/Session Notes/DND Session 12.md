@@ -29,7 +29,7 @@ Session 12 began in the wreckage of King Pmurt's throne room and ended on a couc
 
 ## Full Summary
 
-### Scene 1 — Throne Room Aftermath
+### Scene 1 — Throne Room Aftermath *(~00:11)*
 
 The party opened in the ruined throne room, picking through the carnage of Session 11. Cooper recapped: Pmurt had gone north before the party arrived, Numgis had gone north for unknown reasons, and Pmurt escaped via contingency teleport mid-castration. Under Zone of Truth, Pmurt confirmed he only knew Numgis was north — he had no further information about where or why.
 
@@ -39,7 +39,7 @@ The party investigated for Numgis's room. Investigation checks ranged from 9 (Ia
 
 ---
 
-### Scene 2 — The Prison and the Liberators
+### Scene 2 — The Prison and the Liberators *(~05:11)*
 
 The party entered the prison. The situation was mostly resolved: most cells were open and empty. The giant fish tank in the back had a pipe hammered through the glass, draining the water and creating a tube to the beach outside. The mermaids and birds had apparently already escaped via the tube.
 
@@ -49,7 +49,7 @@ Only one cell remained occupied — three men inside. One of them stood out imme
 
 When the party started to explain the Shattering to him, his eyes snapped back and he said "I need to figure out what's going on. I will find him." Then he jumped through the fish tank and got sucked up the tube.
 
-**The Liberators:** Outside on the beach, the pastel-colored men the party had heard about were waiting. They introduced themselves through their spokesperson, Elton — about 5'6", well put-together, clearly the talker of the group. The Liberators are a Scarlet Pimpernel-style troupe: heroes from another world who were told there were people in danger and deployed accordingly. They came out of a book in a library on a mountain, sent by a 7-foot old man. Their assignment was to liberate three locations: the island city (Pmurt's), the Bird Kingdom (Voxus/birds), and the fish.
+**The Liberators:** *(~26:20)* Outside on the beach, the pastel-colored men the party had heard about were waiting. They introduced themselves through their spokesperson, Elton — about 5'6", well put-together, clearly the talker of the group. The Liberators are a Scarlet Pimpernel-style troupe: heroes from another world who were told there were people in danger and deployed accordingly. They came out of a book in a library on a mountain, sent by a 7-foot old man. Their assignment was to liberate three locations: the island city (Pmurt's), the Bird Kingdom (Voxus/birds), and the fish.
 
 They had already dealt with the birds — they went to the eagle king's nest (Ravalli's), found another man with wire glasses already there, and that man and Ravalli were "setting up a system" to help with something. The word Elton remembered was "sleep." They left satisfied the birds were handled.
 
@@ -61,7 +61,7 @@ During the escape via the prison tube, George (Dwarf Bard) hit the water and imm
 
 ---
 
-### Scene 3 — Town, Statues, and Departing the Island City
+### Scene 3 — Town, Statues, and Departing the Island City *(~49:27)*
 
 The party returned to the island city's main square. Two statues remained — the bird (falcon-esque, gold face recently uncovered where giant claw marks had torn Pmurt's gilded face off) and the buff man with a staff. The Poseidon statue was gone (the party had stolen it previously). The pirate lady statue was also gone — the pirates presumably retrieved it.
 
@@ -71,11 +71,11 @@ The party gave the liberated guards a chance to stand down from Pmurt's authorit
 
 ---
 
-### Scene 4 — Travel to the Bird Kingdom / Voxus
+### Scene 4 — Travel to the Bird Kingdom / Voxus *(~1:09:00)*
 
 The party traveled to the Bird Kingdom using a combination of the Liberators' connections and their own resources. Details of the exact travel method are not fully clear from the transcript (the DM had cut some planned dungeon content). They arrived at Voxus — the bird people's mountain homeland, modeled on the Wind Waker Rito rather than Breath of the Wild Rito (the DM confirmed this explicitly in the post-session discussion).
 
-**Ravalli:** The giant eagle chief of Voxus. He runs the Bird Kingdom. The party met him. He was already aware that something was being arranged regarding sleep. He admitted to cooperating with the man with wire glasses (Numgis or his agent) on something, then acknowledged the party catching him in it. He was not hostile but was constrained — he mentioned having duties. Gunj is his right-hand (an owl who serves as shadow therapist for the kingdom).
+**Ravalli:** *(~1:24:49)* The giant eagle chief of Voxus. He runs the Bird Kingdom. The party met him. He was already aware that something was being arranged regarding sleep. He admitted to cooperating with the man with wire glasses (Numgis or his agent) on something, then acknowledged the party catching him in it. He was not hostile but was constrained — he mentioned having duties. Gunj is his right-hand (an owl who serves as shadow therapist for the kingdom).
 
 **General Os and General Fal:** Referenced as figures of authority in the Bird Kingdom or connected to its military/political structure. Not major players in this session but named.
 
@@ -85,7 +85,7 @@ The visit to the Bird Kingdom was cut short when Ravalli directed the party towa
 
 ---
 
-### Scene 5 — Gunj's Couch
+### Scene 5 — Gunj's Couch *(~2:07:20)*
 
 **Gunj:** A figure who functions as a shadow therapist — someone who works with the nightmare side of consciousness in a structured way. The party arrived at his space and he guided them into a shared unconscious experience, sitting on a couch together. He described it as similar to breathing exercises, then faded them to black individually and walked them through encounters with their shadow selves.
 
@@ -102,7 +102,7 @@ Shadow names (revealed post-sequence):
 
 ## The Dreams — Full Detail
 
-### Mira's Dream (first pass)
+### Mira's Dream (first pass) *(~2:31:25)*
 
 Mira found herself in a graveyard. A version of herself stood there — well-dressed, bright, doing better. The shadow self was tethered to Mira by something physical, like chains or rope.
 
@@ -110,7 +110,7 @@ The shadow challenged Mira: *You could have healed him. You had the ability.* Mi
 
 Then — before Mira's full sequence concluded — the scene went dark and shifted to Inquizo's sequence, then Halcyra's, then Reficul's, cycling back. (The DM ran them in rotating segments.)
 
-### Inquizo's Dream
+### Inquizo's Dream *(~2:37:16)*
 
 Inquizo arrived somewhere snowing. He could smell what he recognized as someone's breakfast. A voice from a doorway called: *Quizzy, is that you?* He did not respond. He looked outward, non-responsive. A version of him appeared — wearing a cloak, differently composed — and Inquizo decided immediately to run. He started sprinting. The DM said "okay" with complete acceptance.
 
@@ -126,7 +126,7 @@ Chains went around his neck and burned at the scales. Inquizo said: *I already t
 
 **Outcome:** Inquizo successfully suppressed his shadow — which is one of the two possible endings. He gave up. The shadow faded into bracelets — shackle chains — around his wrists. He woke up muttering *I'm sorry* over and over. By the end of the session, the muttering shifted to *there's nothing I could have done.* He was in a low-key catatonic state. Mira picked him up like a cat and held him.
 
-### Halcyra's Dream (first pass)
+### Halcyra's Dream (first pass) *(~2:51:25)*
 
 Halcyra was flying — the brightest, sunniest day she had ever experienced, utterly free, wings fully out. An older version of herself flew beside her and asked: *Why did you ever stop yourself from feeling this free?*
 
@@ -160,7 +160,7 @@ Mother: *Yes. You have no idea how much suffering it caused me to see you suffer
 
 Halcyra turned around. The session moved on to another character temporarily.
 
-### Reficul's Dream
+### Reficul's Dream *(~3:03:15)*
 
 *(Note: The order of events in this sequence may be slightly backwards — flag for manual review.)*
 
@@ -186,7 +186,7 @@ The shadow then merged with Reficul — the tattoo of darkness across his left a
 
 **Outcome:** Reficul's shadow fused with him, gaining the ability to summon others' shadows physically (living people within 30 feet) or, through Whispers-style mechanics, project deceased people's appearances.
 
-### Mira's Dream (second pass — the dragon)
+### Mira's Dream (second pass — the dragon) *(~2:49:56)*
 
 Mira's shadow, frustrated, screamed that Mira was *not supposed to do that* — a reference to Mira walking toward her father rather than away. The shadow grew. Mira's green veins shot into giant wings. Her shadow's head shifted into a dragon head. And the black tendrils that the shadow had been holding — the chains between Mira and the things she was tied to — became part of the wings.
 
@@ -226,7 +226,7 @@ Mira: *I am my best friend.*
 
 She found the tether — physical, real. She summoned her pact weapon and severed the cord.
 
-**Grungrak became physical for a moment.** Not ethereal. Real. He embraced her.
+**Grungrak became physical for a moment.** *(~2:59:45)* Not ethereal. Real. He embraced her.
 
 *Thank you. Thank you for letting me be me.*
 
@@ -234,7 +234,7 @@ He slowly faded.
 
 **The table cried.** All of them.
 
-### Mira's Dream (third pass — the contract)
+### Mira's Dream (third pass — the contract) *(~3:17:35)*
 
 *(Note: Some dialogue in this section may be wrongly attributed between Shadow and Mira — flag for manual review.)*
 
@@ -290,7 +290,7 @@ She put the necklace in Mira's hand. Everything faded.
 
 **The Stormwake Sigil.** A lightning bolt necklace. Mira's item.
 
-### Halcyra's Dream (conclusion)
+### Halcyra's Dream (conclusion) *(~3:11:04)*
 
 Halcyra, having turned her back on her mother, heard the booming voice louder: *Halcyra, I need you now. The world is at stake. The worlds are at stake.*
 
@@ -312,7 +312,7 @@ Outside: an old man — the same old man who helped her take her paladin oath be
 
 **The Bow of Dusk.** A +2 longbow. Does no piercing damage — only radiant. Named Dusk because Apollo is strongest at dawn, not dusk, meaning this bow is not Halcyra's final form — it will become the Dawn Bow when she gets there. The DM told her directly: *You just gotta get through the night first.*
 
-### George's Item
+### George's Item *(~3:21:23)*
 
 George did not have his own shadow dream sequence — Cooper (his player) is also the DM and did not want to roleplay with himself. George received an item, but it was mentioned after the shadow sequences rather than emerging from a dedicated dream of his own.
 
@@ -353,7 +353,7 @@ George received a two-sided necklace that spins. One side shows an olive branch.
 
 ## Waking Up
 
-The party woke on Gunj's couch in various states of wreckage:
+The party woke on Gunj's couch in various states of wreckage: *(~3:27:51)*
 
 - **Halcyra** — curled up sobbing, holding the bow
 - **Mira** — hunched forward, necklace in one hand, sickle in the other, staring at both; put the sickle away, put on the necklace, then went and picked up Inquizo
@@ -361,7 +361,7 @@ The party woke on Gunj's couch in various states of wreckage:
 - **Reficul** — allegedly pretending to be asleep (Mira checked)
 - **Inquizo** — curled, muttering "I'm sorry" over and over, then shifting to "there's nothing I could have done"; catatonic; Mira held him
 
-Gunj offered a tissue box (giant owl-sized, then person-sized). He had one more piece of information:
+Gunj offered a tissue box (giant owl-sized, then person-sized). He had one more piece of information: *(~3:34:20)*
 
 *I was on my way to unseal the God of Dreams. Part of it is in the next town. I don't know if my chief believes that means destroying the town — I don't know if that's accurate. It's one thing to kill people; it's another to torment them in their dreams.*
 
@@ -471,6 +471,14 @@ Gunj offered a tissue box (giant owl-sized, then person-sized). He had one more 
 
 ---
 
+## Pending Corrections [NEEDS REVIEW]
+
+> **Flag:** *"This world is large. Perfect and yellow. And I am a speck of dust amongst it."* — confirmed Mira quote from this session, but not found in the main notes. Possibly misattributed to Mira's shadow in the original transcription, or simply not captured. Find and add to the correct scene during the Session 12 correction pass.
+
+> **Note:** General corrections pass needed for Session 12 — some attributions and details are known to be wrong. Review against the recording when possible.
+
+---
+
 ## Session Quotes
 
 > *"These are not the testicles I wish to adorn my crown with."* — Reficul (Ian)
@@ -480,6 +488,8 @@ Gunj offered a tissue box (giant owl-sized, then person-sized). He had one more 
 > *"Thank you for letting me be me."* — Grungrak, physical for a moment, before fading
 
 > *"I am my best friend."* — Mira, when asked if she was happy
+
+> *"This world is large. Perfect and yellow. And I am a speck of dust amongst it."* — Mira
 
 > *"I promise I do love you."* — Halcyra, barely above a whisper, to her mother before walking out
 

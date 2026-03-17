@@ -56,8 +56,8 @@ Hell is where the campaign's mythology went from interesting to *cosmologically 
 
 - **"Number 8" — there are at least 7 others** — The blood angel identified itself as number 8. What are the others? Where are they? What are they for?
 - **"Bina"** — The angel whispered this name (capital B, Infernal) to Arcus before the blood-bloom. Who is Bina? Why Arcus?
-- **Caelus / K.L.I.S.** — The angel called its king/creator/father "K.L.I.S." This may be the same entity imprisoned in the black orb from the Abandoned Town.
+- **Caelus / K.L.I.S. / Kaelas** — The angel called its king/creator/father "K.L.I.S." / "K-Less" / "Kaelas." This may be the same entity as Caelus, or connected. The entity in the black orb from the Abandoned Town is NOT Caelus (Ian confirmed) — so K.L.I.S. may be a separate, unknown figure.
 - **Mira's stolen memories** — Gone. The DM hinted they might be recoverable. Something here took them.
 - **Arcus's transformation** — He became something large and fluffy with a green sheep inside. Is this his true form? A curse? Did the nail the angel drove into his chest do something?
 - **The masculine voice through Mira** — When she used Toll the Dead in this space, a male voice spoke through her. Her patron? A death-entity attached to her condition?
-- **Reficul died here (Session 3)** — He went to Hell with no death saves. What happened to him in this space before the party arrived? His unknown cause of death is still unexplained.
+- **Reficul died here (Session 3)** — He went to Hell with no death saves. He died from his self-inflicted stab wound.

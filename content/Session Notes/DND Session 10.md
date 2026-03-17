@@ -5,7 +5,7 @@ date: unknown
 tags: [dnd, shattered-world, session-notes, session-10]
 ---
 
-# Session 10 — The Thing That Eats
+# DND Session 10 — The Thing That Eats
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -25,7 +25,7 @@ The party wakes up at Reficul's apartment and plays a "get to know you" card gam
 
 ## Full Summary
 
-### Scene 1 — Morning at Reficul's Apartment
+### Scene 1 — Morning at Reficul's Apartment *(~12:37)*
 
 The party wakes up in stages across the early morning hours:
 - **Reficul** woke at **2 AM** (sad hours), realized he had failed his self-imposed push-up contract (he needed 30; managed 28), and channeled the guilt into making **apology omelets** for the group — the apology was for Grungrak's behavior against the slum community in the previous session
@@ -34,7 +34,7 @@ The party wakes up in stages across the early morning hours:
 - **Mira** woke around **9:30 AM**
 - **Grungrak** woke last and was immediately, inexplicably energetic
 
-### Scene 2 — Spin-the-Bottle "Get To Know You" Card Game
+### Scene 2 — Spin-the-Bottle "Get To Know You" Card Game *(~33:00)*
 
 Before setting out, the party played a spin-the-bottle-style get-to-know-you card game that produced several major character reveals.
 
@@ -55,11 +55,11 @@ Before setting out, the party played a spin-the-bottle-style get-to-know-you car
 
 **Note:** Mira still has not been told the full prophecy. Halcyra has tried multiple times but Mira has always been unavailable.
 
-### Scene 3 — Pre-Forest / Departure
+### Scene 3 — Pre-Forest / Departure *(~57:55)*
 
 Grungrak delivered a motivational speech to the party before leaving. Mechanical effect: everyone gains **6 temporary HP** for the day (Mira received only 4 due to her psychic package). The city was quiet as they departed — no incidents.
 
-### Scene 4 — The Caravan Incident at the Gate
+### Scene 4 — The Caravan Incident at the Gate *(~1:01:50)*
 
 A **caravan from Velodorn** — a city that appeared in the world approximately five months ago — was entering X-salent. As the wagons passed through the city gate, every piece of cargo was instantly coated in black inky goop. Notably: the people and the horses were unaffected. Only the goods.
 
@@ -77,7 +77,7 @@ This scene prompted a worldbuilding reveal from the DM: **salt is one of the mos
 - Salt is worth more than gold
 - **X-salent is a destination partly because it has food with salt** (it sits near saltwater falls)
 
-### Scene 5 — The Forest: The Trail
+### Scene 5 — The Forest: The Trail *(~1:19:38)*
 
 Following the plan from Session 9, the party entered the forest. A trail revealed itself:
 - Hardened **candle wax drips** → stumps of melted candles someone was carrying while moving
@@ -88,7 +88,7 @@ The trail led to a **cave / old bear den**, approximately 35 feet wide.
 
 **Mira found a Gavikwest berry** (one of the fetch quest items) on the way to the cave.
 
-### Scene 6 — The Cave
+### Scene 6 — The Cave *(~1:25:30)*
 
 Inside the cave:
 - A dead, emaciated human body
@@ -96,7 +96,7 @@ Inside the cave:
 - One still-burning torch
 - An **open journal** lying on the ground
 
-### Scene 7 — The Creature (Combat)
+### Scene 7 — The Creature (Combat) *(~1:30:14)*
 
 Something pressed against the party's backs from outside — the DM described its initial form as similar to No-Face *(probably Spirited Away-inspired, though the creature itself is not No-Face)* — and passed through them directly into the cave. It moved toward the dead body and began consuming it.
 
@@ -104,7 +104,7 @@ As it ate, it **became visible**. The DM described it as a *"fucked up deer"* �
 
 **Halcyra's Divine Sense:** The creature is **NOT a celestial, fiend, or undead.**
 
-**Initiative order (high to low):** George (19) → Reficul → Grungrak → Mira (8) → Inquizo → Halcyra (~5)
+**Initiative order (high to low):** George (19) → Reficul → Grungrak → Mira (8) → Inquizo → Halcyra (~5) *(~1:32:00)*
 
 **Round-by-round notable actions:**
 
@@ -126,11 +126,11 @@ As it ate, it **became visible**. The DM described it as a *"fucked up deer"* �
 | Mira | Toll the Dead | Creature failed Wis save; 1 damage (crit fail on d12); Warding Wind dropped (concentration) |
 | Reficul | Starry Wisp + Psychic Blades (15 to hit) | 19 total damage: 8 radiant + 11 psychic — **KILLING BLOW** |
 
-**The kill shot:** Reficul's mote of light hit the creature at the base of its skull. It let out *"the worst sound you've ever heard in your entire life"* — a mixture of nails on chalkboard, drowning sounds, and *"the wet sound of people smiling."* Both heads exploded simultaneously. The body crumpled into a pile of goop and began absorbing into the ground.
+**The kill shot:** *(~2:49:16)* Reficul's mote of light hit the creature at the base of its skull. It let out *"the worst sound you've ever heard in your entire life"* — a mixture of nails on chalkboard, drowning sounds, and *"the wet sound of people smiling."* Both heads exploded simultaneously. The body crumpled into a pile of goop and began absorbing into the ground.
 
 Inquizo was dropped from its mouth.
 
-### Scene 8 — Post-Combat: Wounds and Investigation
+### Scene 8 — Post-Combat: Wounds and Investigation *(~2:54:42)*
 
 **Bite wound aftermath:**
 - **Halcyra:** Small puncture holes on her arm (snake-tooth pattern) with black goop spreading from them
@@ -147,13 +147,13 @@ Halcyra cast **Cure Wounds** on herself (9 HP) and on Inquizo. The healing expel
 
 **Mira grabbed the journal** (partially on fire during combat; Warding Wind extinguished the flames).
 
-### Scene 9 — The Missing Person Confirmed
+### Scene 9 — The Missing Person Confirmed *(~3:07:07)*
 
 The DM asked: did the dead body match the missing-person description from the fetch quest? Answer: yes. **Average height human, dark complexion, appeared to have been a merchant degraded to homeless — extremely emaciated.** The party had found their mark. The creature that killed them is also dead.
 
 The party can claim quest completion. They have: skull shards, teeth, and goop samples as evidence.
 
-### Scene 10 — Return to X-salent
+### Scene 10 — Return to X-salent *(~3:12:42)*
 
 Returning to the city gate, the caravan was still blocking the entrance. Two groups were investigating it:
 
@@ -161,14 +161,14 @@ Returning to the city gate, the caravan was still blocking the entrance. Two gro
 
 **The Enchanter's Guild** — older, more disciplined, using special eyeglasses, reading instruments under the carts. Also present: the ex-alchemist-guild member who lost his license (still has singed hair and soot on his cheeks, now trying to fit in with the enchanters).
 
-**George overheard the Enchanters** discussing what they found: **runes on the bottom of the wagons**, from the **same alphabet family as the runes from the ruins**. The DM provided a rough translation:
+**George overheard the Enchanters** discussing what they found: **runes on the bottom of the wagons**, from the **same alphabet family as the runes seen in previous sessions**. The DM provided a rough translation:
 - Coherent concepts: *"sleep," "return," "catalyst," "invite"*
 - Noise in the signal: *"dinosaur cheesecake," "banana donkey"* (the language has never been deciphered; things get lost in translation)
 - **Two distinct rune sets** exist: the ones on doors/windows (Session 8) and these ones on the wagon bottoms specifically
 
 Mira rolled History (9) for additional insight — too low for specifics, just the general sense of meaning.
 
-### Scene 11 — End of Session
+### Scene 11 — End of Session *(~3:20:16)*
 
 **Time in-game:** Still morning — not even lunchtime yet.
 

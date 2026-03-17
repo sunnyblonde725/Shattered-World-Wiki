@@ -75,14 +75,14 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Key details:** Previously thought possibly mute or silenced; was in fact suppressed by Ariel's city-wide silence enchantment. Named "Hamish" by the party in Session 3. Puffer fish communicate via bubble-size writing, but can now also speak. Shared Ariel's full backstory freely. Eager to share knowledge without restriction.
 - **Session history:**
   - Session 2 — Communicated via pipes/signs under Ariel's silencing effect. Revealed the stolen statue situation and connection to the island tribe and pirates. Went quiet after — possibly out of fear.
-  - Session 3 — Freed when Ariel died and her silencing enchantment lifted. Named by the party. Told the party Ariel's backstory (Amos, the sea witch, her transformation).
+  - Session 3 — Freed when Ariel died and her silencing enchantment lifted. Named by the party. Told the party Ariel's backstory (Eric, the sea witch, her transformation).
 
 #### [[Queen Ariel]]
 - **First appeared:** Session 2 (as The Queen)
 - **Role / Faction:** Ruler and deity of the underwater city; controls a section of the Fields of Asphodel (by permission from Hades)
 - **Attitude toward party:** Hostile
 - **Status:** Dead — killed by the party in Session 3; holds posthumous authority in the underworld
-- **Key details:** Red-haired mermaid with a massive crown. Both queen and god — her authority overrode ordinary divine orders. "Judge, Jury, Executioner." Backstory revealed in Session 3: she was once kind, earned legs, fell in love with a man named **Amos**, who was drowned by a sea witch. Grief and rage transformed her into a tyrant. Maintained a city-wide silencing enchantment on "inferior" creatures. Charmed [[Mira]], [[Inquizo]], and [[Halcyra]] at the start of combat with a bonus-action singing spell. Cried mid-fight when [[Reficul]] invoked Amos's memory. Killed by the party. Her death lifted the silence across the city. **Session 5 reveal:** the wheat field section of the Fields of Asphodel belongs to Ariel — confirmed by [[Reficul]]. She holds this territory by permission from Hades.
+- **Key details:** Red-haired mermaid with a massive crown. Both queen and god — her authority overrode ordinary divine orders. "Judge, Jury, Executioner." Backstory revealed in Session 3: she was once kind, earned legs, fell in love with a man named **Eric**, who was drowned by a sea witch. Grief and rage transformed her into a tyrant. Maintained a city-wide silencing enchantment on "inferior" creatures. Charmed [[Mira]], [[Inquizo]], and [[Halcyra]] at the start of combat with a bonus-action singing spell. Cried mid-fight when [[Reficul]] invoked Eric's memory. Killed by the party. Her death lifted the silence across the city. **Session 5 reveal:** the wheat field section of the Fields of Asphodel belongs to Ariel — confirmed by [[Reficul]]. She holds this territory by permission from Hades.
 - **Session history:**
   - Session 2 — Received the party's diplomatic report in the throne room. Declared combat. Session ended before combat began.
   - Session 3 — Opened combat with charm spell. Defeated and killed by the party. Silence enchantment lifted at her death.
@@ -123,15 +123,15 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Status:** Active — present underground (Hell); fought alongside party
 - **Key details:** Real name revealed by the sickle in Session 4. A manticore woman with multiple rows of sharp teeth. Nails in right hand cover a "biblically accurate angel wings" tattoo. Wears a necklace made from remains of family members ("this is my mother... my grandfather... my brother"). Dark brown cloak with black spots — when wrapped around others, lets them pass through the magical barrier. Helped the party reach the underground via a secret tunnel. Guided Grungrak during combat ("Swing right here"). Arcus gave her a piece of jewelry (bracelet/anklet impression) to "buy a couple more weeks" before the agricultural agreement collapses.
 - **Session history:**
-  - Session 3 — Appeared as a manticore-shaped beast with hundreds of hyenas, both of which deferred to Arcus.
+  - Session 3 — Appeared as a manticore-shaped beast with hundreds of hyenas, both of which deferred to the mysterious white-haired NPC. *(Note: The white-haired NPC is NOT Arcus — they are different characters.)*
   - Session 4 — Real name revealed. Backstory established. Led party through barrier via cloak. Guided Grungrak in combat.
 
-#### [[Caelus]] *(the sky entity / orb prisoner)*
-- **First appeared:** Session 4
-- **Role / Faction:** Sky deity; prisoner of Kaelas/K.L.I.S.
-- **Attitude toward party:** Cryptic / Riddle-speaking
-- **Status:** Active — inside the black orb (now in Inquizo's backpack)
-- **Key details:** Speaks in riddles and contradictions. Has been inside the black orb "forever." Was given immortality by Kaelas/K.L.I.S. Agents called "agents of Kaelas" entrap minds — a Celestial inscription references: *"Agents of Kaelas, entrap the minds of the divorced."* Described the orb as "a terrible box without a blankie." Inquizo became trapped inside until sunrise after contact. The blood angel during Session 4 combat called its king/creator/father "K.L.I.S." — possibly Caelus and K.L.I.S. are the same entity or linked.
+#### [[Caelus]] *(the sky deity / blood angel's father)*
+- **First appeared:** Session 5 (referenced by name; voice through blood cocoon)
+- **Role / Faction:** Sky deity; father of the blood angel; divorced Cybele
+- **Attitude toward party:** Unknown — indirect; operates through the blood angel
+- **Status:** Unknown — location unconfirmed; NOT the entity in the black orb (Ian confirmed)
+- **Key details:** The blood angel in Session 5 called its father "K-Less" (Kaelas / Caelus) and said he divorced Cybele. Arcus and Lorya are Cybele's children from that marriage; the blood angel is his child through another parent. A Celestial inscription reads: *"Agents of Kaelas, entrap the minds of the divorced."* Whether Caelus, Kaelas, and K.L.I.S. are the same entity is unresolved. **The entity inside the black orb (identity unconfirmed — not Caelus) spoke in riddles and described the orb as "a terrible box without a blankie."** Inquizo became trapped inside until sunrise after contact.
 - **Session history:**
   - Session 4 — Discovered in a fancy chest in the abandoned town. Inquizo made contact. Inquizo trapped inside until sunrise. Inquizo exited by "stealing the blanket" inside the orb-space.
 
@@ -421,7 +421,7 @@ tags: [dnd, shattered-world, world-state, reference]
 #### [[The Submarine]]
 - **First visited:** Session 2
 - **Description:** A metal aircraft/submarine hybrid with a full button panel, magical interior, and a hidden back room containing dive suits, pirate costumes, and miscellaneous gear
-- **Significance:** The pirate captain's transport. Pre-programmed to dock at the underwater city. Contains the DO NOT TOUCH pirate hat (now claimed by [[Inquizo]]).
+- **Significance:** The pirate captain's transport. Pre-programmed to dock at the underwater city. Contains the DO NOT TOUCH pirate hat — Inquizo never actually took it; the DM keeps flagging it.
 - **Status:** Docked at underwater city — likely left behind when party departed after Session 3
 - **Session history:**
   - Session 2 — Chaos aboard. Reficul locked outside in shark form. Grungrak nearly drowned. Button 61 unlocked the back room. Submarine auto-docked.
@@ -459,13 +459,13 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Significance:** Where the party encountered Arcus and Lorya. Also where Mira's death-state was first revealed.
 - **Status:** Left (party descended underground in Session 4)
 - **Session history:**
-  - Session 3 — Arcus encounter. Mira revelation. Good Boy of the North prayer. Lorya and hyenas emerged and retreated.
+  - Session 3 — Mysterious white-haired NPC encounter (NOT Arcus — different character). Mira revelation. Good Boy of the North prayer. Lorya and hyenas emerged and retreated.
   - Session 4 — Party passed through the barrier (Mira freely; Halcyra and Inquizo via Lorya's cloak). Descended via secret tunnel.
 
 #### [[The Abandoned Town]]
 - **First visited:** Session 4
 - **Description:** A cluster of rotting wooden buildings covered in fungus, adjacent to the empty crop field. Long-abandoned. Nursery with an empty crib inside. Murals on the exterior: winged figure descending; nails digging into the ground and raising it up. Interior murals: giant glowing horns, black-winged angelic being.
-- **Significance:** Source of the jade fragment ("Birth," Infernal 9th accent), the topaz gem (carving of a man, Celestial inscription), and the black orb — Caelus's prison. The children who should have lived here were taken when the seed cycle broke.
+- **Significance:** Source of the jade fragment ("Birth," Infernal 9th accent), the topaz gem (carving of a man, Celestial inscription), and the black orb — prison of an unknown entity (identity unconfirmed; not Caelus per Ian's clarification). The children who should have lived here were taken when the seed cycle broke.
 - **Status:** Left
 - **Session history:**
   - Session 4 — Explored. Key items recovered. Backstory for the agricultural agreement established.
@@ -586,15 +586,15 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **Grungrak's backstory fragment** — Was once a miner who lived in a mountain town. Has amnesia about many things, including basic anatomy. *(Session 2)*
 
-**Ariel's origin** — She was once a kind mermaid who earned legs and fell in love with a man named Amos. A sea witch drowned Amos. Grief and rage transformed her into a tyrant. Revealed by [[Hamish]] in Session 3. *(Session 3)*
+**Ariel's origin** — She was once a kind mermaid who earned legs and fell in love with a man named Eric. A sea witch drowned Eric. Grief and rage transformed her into a tyrant. Revealed by [[Hamish]] in Session 3. *(Session 3)*
 
 **Ariel maintained a city-wide silencing enchantment** — She suppressed the speech of all "inferior" creatures. It dissolved instantly when she died. [[Hamish]] could now speak freely for the first time. *(Session 3)*
 
 **Reficul's true changeling form** — When he dies, he reverts to his true form: a small figure (~3 ft), fiendish horns, long white hair, blood that shifts from green to blue based on temperature. His death mechanic: no death saves — he goes to hell when he dies. *(Session 3)*
 
-**Reficul's cause of death is unknown** — A medicine check of 21 confirmed he did not die from the self-inflicted stab wound or from drowning. Cause unexplained. *(Session 3)*
+**Reficul died from his self-inflicted stab wound** — He stabbed himself in Session 3 and said "see you in hell." The medicine check of 21 could not clinically confirm this, but the stab was the cause of death. *(Session 3)*
 
-**Mira is dead (or caught between states)** — She does not know. She is "reinvigorated" by some unknown force but "not supposed to be here." Her blood is tugged in the pit area. She cannot heal or pray. She moves at ~1/15th normal speed in the pit location. *(Session 3)*
+**Mira is dead (or caught between states)** — She does not know. She is "reinvigorated" by some unknown force but "not supposed to be here." Her blood is tugged in the pit area. She cannot heal others or pray in that space (though she can pray and heal herself under normal circumstances). She moves at ~1/15th normal speed in the pit location. *(Session 3)*
 
 **Puffer fish communicate via bubble-size writing** — And can speak, when not silenced. *(Session 3)*
 
@@ -616,7 +616,7 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **The agricultural agreement is collapsing** — Seeds were stolen → field can't be replanted → creatures get hungry → they take children. Arcus bought a few more weeks by giving Lorya a piece of jewelry (bracelet/anklet impression from a box). *(Session 4)*
 
-**Caelus / K.L.I.S. / Kaelas** — A sky deity imprisoned in the black orb was given immortality by Kaelas. The blood angel in Hell called its king/creator/father "K.L.I.S." These may be the same entity or connected. A Celestial inscription reads: "Agents of Kaelas, entrap the minds of the divorced." *(Session 4)*
+**Caelus / K.L.I.S. / Kaelas** — A sky deity referenced by the blood angel as its father ("K-Less" / Kaelas / Caelus). The blood angel called its king/creator/father "K.L.I.S." — whether Caelus, Kaelas, and K.L.I.S. are the same entity is unresolved. A Celestial inscription reads: "Agents of Kaelas, entrap the minds of the divorced." The black orb contains a different, unknown entity — NOT Caelus (Ian confirmed). *(Sessions 4–5)*
 
 **"Bina"** — An Infernal name (capital B) whispered by the blood angel to Arcus, causing him to become enraptured. Meaning and identity unknown. History check of 4 was insufficient. *(Session 4)*
 
@@ -638,13 +638,13 @@ tags: [dnd, shattered-world, world-state, reference]
 
 **The River Lethe ("forget water") flows through the underworld** — Fall in and you forget everything. Nearly claimed Grungrak in Session 6 when the steering wheel came loose. *(Session 6)*
 
-**Eating pomegranate seeds in Persephone's domain** — In Greek mythology, eating pomegranate seeds in the underworld binds you there (Persephone herself ate six seeds and must spend six months a year in the underworld). **Grungrak ate multiple seeds** during Session 6. **Reficul also ate pomegranate.** Neither character has been told what this means. The DM knows. *(Session 6)*
+**Eating pomegranate seeds in Persephone's domain** — In Greek mythology, eating pomegranate seeds in the underworld binds you there (Persephone herself ate six seeds and must spend six months a year in the underworld). **Grungrak ate multiple seeds** during Session 6. He has not been told what this means. The DM knows. *(Session 6)*
 
 **The soul pool in Persephone's shrine** — A swirling mass of souls (not water). Semi-corporeal dead can be recovered from it. The process is dangerous — Reficul died twice retrieving Eric. *(Session 6)*
 
 **The Psychopomp (Thanatos)** — An extremely tall cloaked figure with antlers, perpetually drowsy, stationed in the upper city. He can guide the dead (and near-dead) to the appropriate gate. Accessible when Persephone vouches for you. *(Session 6)*
 
-**Ariel's husband Eric** — Drowned trying to breathe underwater to be with Ariel. Is now semi-corporeal and traveling with the party. Knows the party killed Ariel. Can sail a boat excellently. *(Note: Eric is a completely separate NPC from George. George is the clay copy of Grungrak and is a party member. Eric is Ariel's husband — they are not the same person and have no connection.) (Session 6)*
+**Ariel's husband Eric** — Drowned trying to breathe underwater to be with Ariel. Traveled with the party briefly after being retrieved from Persephone's soul pool. In Session 7, Ariel appeared in the River Lethe and lured him in — he jumped, the river erased his memories of her. He is gone. Arc closed. *(Note: Eric is a completely separate NPC from George. George is the clay copy of Grungrak and is a party member. Eric is Ariel's husband — they are not the same person and have no connection.) (Sessions 6–7)*
 
 **Ariel is confirmed as Persephone's niece in some sense** — Persephone referred to the situation as "my niece brought a problem." The genealogical connection is unclear but canonical. *(Session 6)*
 
@@ -764,15 +764,15 @@ tags: [dnd, shattered-world, world-state, reference]
 ## Unresolved Threads
 
 - ~~**The queen declared combat**~~ — Resolved: Ariel charmed half the party at combat start; the party defeated and killed her. *(Resolved: Session 3)*
-- **The DO NOT TOUCH pirate hat** — [[Inquizo]] is still wearing it. The DM flagged this explicitly in Session 2. Something will happen. *(Opened: Session 2)*
+- **The DO NOT TOUCH pirate hat** — It exists; Inquizo never actually took it. The DM has flagged it explicitly and repeatedly. Something will happen with it eventually. *(Opened: Session 2)*
 - **The stolen god-statues** — "Poppa Poseidon" and the "God of the Seas." The island tribe has at least one. The pirates were hired to retrieve both. What happens now that Ariel is dead? *(Opened: Session 2, updated Session 3)*
 - ~~**Reficul's conversation with Sisyphus**~~ — Reficul died in Session 3 without resolving this; Ariel's death may have freed Sisyphus anyway. *(Partially resolved: Session 3)*
 - **The mermen's freedom** — Ariel (the contractor) is dead. Are [[Sisyphus]] and all the mermen freed from their contracts? *(Opened: Session 3)*
 - **The pirate captain's debt** — The party owes her. Did delivering the diplomatic report satisfy any of it? *(Opened: Session 2)*
 - **The ballad of Grungrak** — Written as an "admission of love" before "dragon happened." [[Mira]] has not heard it yet. *(Opened: Session 2)*
 - **Mira is dead** — She doesn't know. Something reinvigorated her without her awareness. What happened to her, and what does this mean going forward? *(Opened: Session 3)*
-- **Reficul in hell** — He died and went to hell (no death saves). How does he come back? What happened down there? *(Opened: Session 3)*
-- **Reficul's unknown cause of death** — Medicine check 21 confirmed he did not die from the stab or drowning. The actual cause of death is unexplained. *(Opened: Session 3)*
+- ~~**Reficul in hell**~~ — **RESOLVED (Session 6).** He returned. *(Opened: Session 3, resolved: Session 6)*
+- ~~**Reficul's cause of death**~~ — He died from the self-inflicted stab wound. *(Resolved: Session 3)*
 - **The mysterious white-haired NPC** — Who is he? What is the nail in his kneecap? Why do a manticore and hundreds of hyenas defer to him? Where did he go? *(Opened: Session 3)*
 - **The Good Boy of the North** — The party successfully prayed to it. It acknowledged but didn't appear. What is this entity? Is it a future ally or a god? *(Opened: Session 3)*
 - **The glowing white strings in the pit** — What are they? Why does Mira move so slowly there? What is this place? *(Opened: Session 3)*
@@ -784,14 +784,13 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Mira's stolen pre-sickness memories** — Gone. The DM hinted they might be recoverable. Who or what holds them now? *(Opened: Session 4)*
 - **The masculine voice through Mira** — A male voice spoke through her when she used Toll the Dead. Her patron? A death-entity attached to her? *(Opened: Session 4)*
 - **"Bina"** — An Infernal name whispered to Arcus by the blood angel. Capital B. Who is Bina? *(Opened: Session 4)*
-- **Caelus / K.L.I.S. / Kaelas** — Sky deity in the orb was imprisoned by Kaelas. The blood angel called its king/creator/father "K.L.I.S." Are these the same? What does Kaelas want? *(Opened: Session 4)*
+- **The orb entity / K.L.I.S. / Kaelas** — An unknown entity is imprisoned in the black orb (NOT Caelus — Ian confirmed). The blood angel called its king/creator/father "K.L.I.S." / "Kaelas" / "Caelus." Are the orb entity, Kaelas, and K.L.I.S. all connected? Who is the entity in the orb? *(Opened: Session 4)*
 - **Arcus's transformation** — He became a large fluffy beast with a green sheep inside. Is this his true form? A curse? Connected to Cybele? *(Opened: Session 4)*
 - **The agricultural agreement's collapse** — Arcus bought a few more weeks. When it collapses, what happens? More children taken? Something worse? *(Opened: Session 4)*
 - **The nail in Arcus's chest** — The angel hit him with a hammered nail. Did it do something beyond the enrapture? Is it still in him? *(Opened: Session 4)*
 - **Grungrak ate pomegranate seeds** — Multiple seeds, in Persephone's forest, in the underworld. Mythologically this binds you to the underworld. The DM knows. The character does not. *(Opened: Session 6)*
-- **Reficul ate pomegranate** — Same situation, different character. His death mechanic already anchors him to hell. Extra pomegranate binding may compound this. *(Opened: Session 6)*
 - **The sickle is now Persephone's** — Given as payment in Session 6. Vengeance is a sentient artifact with its own agenda. What does Persephone intend to do with it? *(Opened: Session 6)*
-- **Eric is with the party** — Ariel's husband. He knows the party killed his wife. He wants to find her ("somewhere else" in the afterlife). He is now on the boat with them. How this develops is unresolved. *(Note: Eric is a separate NPC from George the party member — they are not the same person.) (Opened: Session 6)*
+- ~~**Eric is with the party** — Ariel's husband. He knows the party killed his wife. He wants to find her. He is now on the boat with them.~~ *(Superseded — see entry below. Opened: Session 6)*
 - ~~**Urscylla**~~ — Pinned under Sisyphus's boulder at the Gate of Ivory beach. Tentacles retreated. Possibly not dead, just pinned. *(Opened: Session 6, updated: Session 7)*
 - **The horse** — Grandson of Poseidon's horse, now at X-salent with the party. Poseidon is implied present in this campaign. This may not go unnoticed. *(Opened: Session 6)*
 - **A chest of Reficul's clothes was already in Persephone's shrine** — Someone knew he would be there. Who? *(Opened: Session 6)*
@@ -811,7 +810,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **The mysterious fleeing figure** — Was running from the direction of the Guild Hall through slum alleys. Disguised as homeless. Fought Reficul briefly and teleported away. Received the telepathic message: "Meet the tavern in two hours." Did they show up? *(Opened: Session 8)*
 - **The Black dragonborn in the slums** — Grabbed Mira's arm as she was leaving after the chaos. Said something (unclear). Connected to the figure? To the writing? To the homeless community? *(Opened: Session 8)*
 - **Reficul as Oni** — Session 8 ended with Reficul still transformed. How long does the Oni form last? What happens in the city when an Oni is walking around? *(Opened: Session 8)*
-- **Inquizo's location** — He snuck off (Stealth 16) during the serious conversations in the slum aftermath. Nobody noticed until later. Where did he go? *(Opened: Session 8)*
+- ~~**Inquizo's location**~~ — **RESOLVED (Session 9+).** He was back with the party. *(Opened: Session 8, resolved: Session 9)*
 - ~~**The ink sample and the sigil script**~~ — Mira's substance analysis is complete (Session 9): not from SKRP; gaseous with Agopyl; graphite-solid with salt. Ruins pages confirm magical/deity-linked origin. Comprehend Languages on the sigil script still pending. *(Opened: Session 8, partially resolved: Session 9)*
 - **Prophecy Day postponed (again)** — The full-party prophecy discussion was planned for Session 9 but derailed by the Victorian manor incident. Still pending. *(Opened: Session 8)*
 - **The YOMI letters glowed** — During Halcyra's prayer to Apollo, the crossed-out YOMI letters glowed with heat and light. Was this Apollo responding? The ink reacting to candle heat? Something else? *(Opened: Session 9)*
@@ -839,7 +838,7 @@ tags: [dnd, shattered-world, world-state, reference]
 - **Mira's patron is a dragon** — In the shadow therapy dream, the patron manifested as a blue dragon with green veins. Grungrak was somehow part of it. The patron's origin: Mira's father sold his soul to save her when she was a child (shortly after her fifth birthday). The contract terms: *My soul for hers.* The dragon is the entity who held that contract. *(Opened / revealed: Session 12)*
 - **Mira's father's soul** — Signed away shortly after Mira's fifth birthday. The patron/dragon has held the contract ever since. What happened to her father? Is he alive? Is he in hell? Does the dragon hold him? *(Opened: Session 12)*
 - **The Liberators** — A Scarlet Pimpernel-style troupe deployed from another world via a book in a grand library on a mountain. Sent by a 7-foot jovial old man (same figure adjacent to X-salent's larger mysteries). They had already visited the Bird Kingdom and the island city before the party arrived. Elton is their spokesperson. Their third target is the fish. *(Opened: Session 12)*
-- **The prisoner Grant (shifting-eye farmer)** — A farmer from another world, merged in the Shattering. Described blue lightning, paper tearing across reality, the sound of a machine. His eyes shift from brilliant gold to silver. The arcana check confirmed this is a cast magical effect, not innate — meaning two entities (or a deity and a mortal) were layered together during the Shattering. He ran up the stairs after the party gave him the context. His location is unknown. *(Opened: Session 12)*
+- **The prisoner Bant (shifting-eye farmer)** — A farmer from another world, merged in the Shattering. Described blue lightning, paper tearing across reality, the sound of a machine. His eyes shift from brilliant gold to silver. The arcana check confirmed this is a cast magical effect, not innate — meaning two entities (or a deity and a mortal) were layered together during the Shattering. He ran up the stairs after the party gave him the context. His location is unknown. *(Opened: Session 12)*
 - **Ravalli and the wire-glasses man** — Two days before the party arrived at Voxus, a man with wire glasses was at Ravalli's nest setting up a sleep-related system. Ravalli cooperated. The wire-glasses man is almost certainly Numgis. The "sleep" system is almost certainly connected to the God of Dreams unsealing. *(Opened: Session 12)*
 - **Gunj / Gunj** — Shadow therapist at or near Voxus. Knows about the God of Dreams situation. Has duties at Voxus and is constrained by his chief's agenda. He is trying to stall. He is an ally if the party can move fast enough. *(Opened: Session 12)*
 - **Inquizo's shadow is suppressed, not resolved** — The Warden Brother told him on the way out: *You can't let this hold you down forever. You can't let me be gone forever.* The sister thread was touched. The shadow is waiting. *(Opened: Session 12)*

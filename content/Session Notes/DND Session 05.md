@@ -1,11 +1,11 @@
 ---
-title: "Session 05 — Lorya Dies, The Portal Splits, Fields of Asphodel"
+title: "Session 05 — The Fields of Asphodel"
 session: 5
 date: unknown
 tags: [dnd, shattered-world, session-notes, session-5]
 ---
 
-# A Shattered World — Session 5
+# DND Session 5 — The Fields of Asphodel
 
 *Linked to: [[Shattered World]] | [[World State]] | [[Halcyra]] | [[Grungrak]] | [[Inquizo]] | [[Mira]] | [[Arcus]] | [[Lorya]]*
 
@@ -25,7 +25,7 @@ The DM recapped Session 4: the party explored an abandoned town, learned Arcus a
 
 ## Full Summary
 
-### Phase Two: The Blood Angel Fight Concludes
+### Phase Two: The Blood Angel Fight Concludes *(~00:00)*
 
 The blood angel's corpse did not stay down. Its remains reformed into a blood cocoon — a crystalline egg covered in geode spikes. A voice spoke through it: the sky entity **Caelus/Kaelas**, asking Grungrak *"Are you one of her two?"* — testing whether he was one of Cybele's children. Grungrak was not, and paid for it: three Constitution saves, the third failing. Cold wind grabbed his neck, decompressed his spine, and hurled him at the cocoon — he was thrown against it from the outside, not placed inside it.
 
@@ -50,7 +50,7 @@ The angel fired again — this time it hit Lorya. She was enveloped in a blood c
 
 Inquizo pulled the nail from Arcus's cocoon (strength check). Arcus slumped. The green sheep Stewart tumbled off and sat next to him. The nail from Arcus showed an image of a person cutting their own stomach open. Inquizo's stomach dropped.
 
-Grungrak gave Inquizo Bardic Inspiration, then ran to Lorya's forming cocoon and plunged his hand in. Strength check: 21. He pulled out her nail. **Lorya appeared briefly — a horrified look — then collapsed. Lorya is dead.**
+Grungrak gave Inquizo Bardic Inspiration, then ran to Lorya's forming cocoon and plunged his hand in. Strength check: 21. He pulled out her nail. **Lorya appeared briefly — a horrified look — then collapsed. Lorya is dead.** *(~51:00)*
 
 The nail from Lorya showed a **large serpent-like creature with fangs, staring directly at Inquizo**.
 
@@ -60,7 +60,7 @@ Mira, patron-controlled again, punched the angel with her bare fist. Inky knuckl
 
 Inquizo used his Bardic Inspiration, dove between Mira's punches, and ripped the final nail from the angel's chest (athletics with advantage). The angel's body tore apart from the abdomen. Glass shards scattered. Flesh melted. **The blood angel was reduced to a puddle of gooey mush. Combat over.**
 
-### The Nail Cave
+### The Nail Cave *(~51:00)*
 
 The blood realm retreated: the floor filled with a nail ball-pit, the hellish landscape replaced by a jagged cave.
 
@@ -76,7 +76,7 @@ The party ventured deeper into the cave. Bioluminescent hexagonal stone pockets 
 
 The mirror showed Inquizo holding a dagger. Everyone standing behind him could see only his reflection. The reflection dropped into a hole and disappeared. Inquizo found **Lorya's serpent-circle jewel** on the ground and took it. The mirror turned murky white. Grungrak kicked Inquizo through. Everyone followed.
 
-### The Lost Place: A Floating Archipelago
+### The Lost Place: A Floating Archipelago *(~1:12)*
 
 They emerged into a completely different realm: a **floating archipelago of islands suspended in purple-black space**. Islands connected by wooden bridges and ethereal lightning slides (grab on, electricity carries you upward). Crystal pools, hot springs, bioluminescent plants, purple gravel, gray rocks, and gray leaves. People in the distance carrying clipboards. The clanking of metal — glass being mined — echoed from farther islands. The green sheep Stewart appeared, sliding up behind the party as if he'd always been there.
 
@@ -86,7 +86,7 @@ Grungrak went ahead to the mining islands. Roughly 100 miners worked, chiseling 
 
 The glass chunks held images. Grungrak saw a golden laurel in one — and **the serpent, staring directly at him**, in another. He lied to the party about what he saw (Deception with disadvantage). Halcyra rolled Insight 22 and caught the lie immediately.
 
-### Meeting Richard
+### Meeting Richard *(~2:00)*
 
 **Richard** is a half-elf. Long brunette hair, a well-pressed beard, graduation robes with a clashing tie, and a gold pocket watch-style ornament ("look"). His tent holds a long table covered in spoons, each containing a different liquid or powder.
 
@@ -112,7 +112,7 @@ Richard confirmed:
 
 15 minutes up. Party exited.
 
-### Baleam Has No Seeds
+### Baleam Has No Seeds *(~2:30)*
 
 Party found **Baleam's tent** by following Narek's directions north. They heard moaning from inside — definitely a sexual variety of moaning. Grungrak shouted Baleam's name. Pots and pans crashed inside. A salt-and-pepper haired man in his forties scrambled out, fixing his belt, with a random person slipping out the back.
 
@@ -122,7 +122,7 @@ Baleam confessed: **he threw the seeds away**. They didn't work. Nothing grows h
 
 The seeds were gone. The plan shifted: wait for the wheat field exit to reappear tomorrow, collect seeds there directly.
 
-### A Night in the Lost Place
+### A Night in the Lost Place *(~2:43)*
 
 The party debated dumpster diving for the discarded seeds but voted against it. They walked back to the doorway leading to the nail cave. The cave was still visible through it. They set up camp.
 
@@ -134,7 +134,7 @@ The party debated dumpster diving for the discarded seeds but voted against it. 
 
 Long rest completed. Party woke to the wall behind them beginning to glow **golden**.
 
-### Richard's Confrontation
+### Richard's Confrontation *(~2:51)*
 
 Richard approached from the main island at the head of a crowd. Two women in chains walked on either side of him. He had received a report: Grungrak had cost him a good employee.
 
@@ -152,13 +152,13 @@ Grungrak grabbed Mira and pushed her toward the glowing portal. Halcyra cast Thu
 
 The party sprinted through the portal. Grungrak Dashed as a bonus action. As the last party members cleared the doorway—
 
-**Mira grabbed the sickle from Grungrak. "Vengeance, do you want to tear a hole through reality?"**
+**Mira grabbed the sickle from Grungrak. "Vengeance, do you want to tear a hole through reality?"** *(~2:58)*
 
 The sickle answered yes. Mira slashed the portal in a wide horizontal arc once the party was fully through.
 
 The doorway **broke in half lengthwise** — top piece and bottom piece separating. Richard's crowd had been running toward the portal. They ran through it. The top halves appeared on top. The bottom halves appeared on bottom. **Multiple cult members were cleaved completely in two.** Their corpses hit the wheat field floor.
 
-### The Fields of Asphodel
+### The Fields of Asphodel *(~3:00)*
 
 The party found themselves in a **massive wheat field** stretching further than the eye could see. Above: a stone sky that curved inward at the horizon. From that stone ceiling, mechanical spotlights swept different patches of the field. It looked like a cave — a cave the size of a sky.
 

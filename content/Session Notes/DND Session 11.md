@@ -5,7 +5,7 @@ date: 2026-03-07
 tags: [dnd, shattered-world, session-notes, session-11]
 ---
 
-# Session 11 — The Palace Assault
+# DND Session 11 — The Palace Assault
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -35,11 +35,11 @@ The session opened with the group playing a card game called **"Blurt Out"** in 
 
 ## Scene-by-Scene Summary
 
-### PART 1 — Town Day, Research, and the Duck Spell
+### PART 1 — Town Day, Research, and the Duck Spell *(~00:00, pt1)*
 
 **Long rest completed in town.** Party reconvened and recapped where things stood: they had previously encountered goop monsters, found a dead merchant's journal, and were sitting on a lot of open questions about the shadow creatures and the Shattering.
 
-**The Merchant's Journal:**
+**The Merchant's Journal:** *(~21:40)*
 The party read aloud from a journal recovered from a dead merchant. This was a major lore delivery mechanism. Key contents:
 - The merchant had been tracking strange goop residue appearing after shadow creature activity
 - The journal described the creatures as **parasitic entities born from psychic/personal fears** — each shadow creature is tied to a specific person's nightmares
@@ -64,7 +64,7 @@ George purchased a war hammer from a dwarf blacksmith for **15 gold**. This beco
 
 ---
 
-### PART 2 — Reverie, the Prophecy, and the Portal
+### PART 2 — Reverie, the Prophecy, and the Portal *(~2:10, pt2 ~55:47)*
 
 **Discovery of Reverie:**
 The party found a **caravan campsite** in a shaded area outside town — smelled of old campfire. Within or near it, they discovered **REVERIE**: a mysterious woman with **inky black eyes**, crouching over the dissected remains of a goop/shadow creature.
@@ -85,14 +85,14 @@ Reverie is not entirely herself. She is a **vessel** — an entity (implied to b
 
 4. **Reverie herself** is described as a "vessel" or "servant" of Yomi. Mira theorized (and the group largely agreed) that the entity speaking through Reverie IS Yomi himself — trapped and communicating through the only body available to him.
 
-**The Prophecy — Read Aloud for the First Time:**
+**The Prophecy — Read Aloud for the First Time:** *(~2:57, pt2 ~1:42:55)*
 The party read the full prophecy aloud. Key elements discussed:
 - **George may have caused the Shattering** — or was its primary victim. The prophecy references a hammer striking a dragon scale, which aligns with George's background
 - **Durf Numgis is deeply involved** — the prophecy names or implies a figure matching his description
 - References to "three Kobolds" — the party currently has one Kobold; two more need to be found. Someone mutters "oh boy howdy" when this is discussed, implying the other two are going to be very hard to get
 - DM (Cooper) strongly encouraged the players to re-read the prophecy before next session, saying "there's relevant shit in there for this arc"
 
-**Portal travel:**
+**Portal travel:** *(~3:22, pt2 ~2:08:09)*
 At midnight, the party went to the portal depot. Key portal details:
 - Portal magic has been **unstable since the Shattering** — previously ran all around the clock, now only 2-3 teleportations per day
 - The portal filled with **blue energy then black ooze** (goop) to form a curtain — this is normal but unsettling
@@ -103,7 +103,7 @@ At midnight, the party went to the portal depot. Key portal details:
 
 *(Note: After the portal crossing, the DM switches from Charlie to Cooper for the palace section.)*
 
-**Arriving at the city gate:**
+**Arriving at the city gate:** *(~3:32, pt2 ~2:18:12)*
 Emerging from the portal inside the city, the party immediately saw:
 - A man **hanging from the portcullis**. A chain sign around his neck read: **"DO NOT REBEL"**
 - Inquizo (flying recon, invisible, 18-minute window): discovered **two portcullises** — one facing the beach, one facing the giant staircase where the party had first appeared. **A body hung from each one**
@@ -120,7 +120,7 @@ The party discussed disguising Mira (who is a wanted criminal in this city). Sol
 
 ---
 
-### PART 3 — Palace Infiltration, The King Pmurt Fight
+### PART 3 — Palace Infiltration, The King Pmurt Fight *(~3:56, pt3 ~00:00)*
 
 *Note: This section ran simultaneously to Part 2 in a split-party scenario. The palace group was Halcyra, Inquizo, Mira, George, and Grungrak.*
 
@@ -134,7 +134,7 @@ The party arrived at the beach outside the island/palace city. Halcyra flew up t
 - Someone: 8
 - George: **3** (critical narrative fail)
 
-**George's crit-fail landing:**
+**George's crit-fail landing:** *(~4:30, pt3 ~34:09)*
 George landed loudly. All 20 guards on that floor saw him. This seemed like disaster.
 
 **Grungrak's illusion save:**
@@ -149,7 +149,7 @@ Grungrak created an **illusion of a second George** and used **deception roll of
 - The door was **slammed and barricaded** using all 20 candelabras stacked against it
 - Final count: **6 guards killed** out of the 20
 
-**Speak With Dead (x2):**
+**Speak With Dead (x2):** *(~5:31, pt3 ~1:35:18)*
 Halcyra cast Speak With Dead on two of the dead guards. Information obtained:
 - **Durf Numgis left on a ship** several days ago (not today — before the party arrived)
 - **King Pmurt is in the castle**, specifically in the **northeast tower bedroom**
@@ -170,14 +170,14 @@ The bedroom was enormous — a California/Texas/Alaskan king sized bed taking up
 
 **Mira casts False Life** (gaining 8 temp HP, bringing her to 40 total).
 
-**The chef incident:**
+**The chef incident:** *(~6:02, pt3 ~2:06:25)*
 While the party was debating what to do, **door 1 opened** and the chef stepped out carrying breakfast. He saw Halcyra (a winged woman — humans in this kingdom view birds/winged beings with extreme hostility). He **screamed**, **dropped a full English breakfast** (baked beans, egg, sausage) and ran back into the kitchen. This ended stealth.
 
 **Grungrak smashes the window** (instead of a door — by accident/exuberance).
 
 A chair was shoved under the kitchen door handle (rolled **14** to secure it). The party immediately moved to door 2.
 
-**INITIATIVE is called — King Pmurt emerges:**
+**INITIATIVE is called — King Pmurt emerges:** *(~6:06, pt3 ~2:10:02)*
 Rolling to enter the fog room, the party triggered combat. **Initiative order established:**
 - Various results: one person got 22, one 18, one 16, one 8, one 5
 - The fog in door 2 was NOT Numgis physically present — Numgis was communicating remotely through a waterfall-and-light-projector setup (the waterfall went sideways when Mira's Warding Wind cleared the fog)
@@ -212,7 +212,7 @@ Reficul/Ian cast **Dissonant Whispers** against Pmurt (attack roll 19, hit). Pmu
 
 **Total damage in first 3 rounds: approximately 150 damage.** King Pmurt started with triple-digit HP. He was in double digits after 3 rounds.
 
-**Phase 2 — King Pmurt calls a Spectator:**
+**Phase 2 — King Pmurt calls a Spectator:** *(~7:43, pt3 ~3:47:31)*
 Pmurt **tapped his shoulder** (this was foreshadowed as something significant he'd been holding back), and a **phantasmal spectator** (one large eye, tentacles, roughly beholder-shaped) appeared in the sky of the throne room.
 
 This was the moment the party had been chasing Pmurt down the stairs into the throne room, where **60 guards** waited — archers, spear guys, and swordsmen in battalion formation.
@@ -251,14 +251,14 @@ Mira dealt 19 damage with a final spell.
 
 **250 total damage dealt to King Pmurt across the fight.**
 
-**Pmurt taps his shoulder and DISAPPEARS (poofs):**
+**Pmurt taps his shoulder and DISAPPEARS (poofs):** *(~8:18, pt3 ~4:22:11)*
 When the party closed in for the kill, Pmurt used whatever contingency he had set up (he had tapped his shoulder meaningfully early in the fight). He **poofed away** — not in purple mist like the spectator, just vanished. He had been **partially castrated by Mira with her sickle** (rolled a 13 on medicine check — "not a clean cut") but escaped before the party could finish him.
 
 He had a **hidden emergency medical salve stored in his throne** — the DM confirmed he healed himself from it when he poofed. He is still alive. He is not dead. He escaped.
 
 ---
 
-## Zone of Truth Interrogation (before Pmurt escaped)
+## Zone of Truth Interrogation (before Pmurt escaped) *(~8:11, pt3 ~4:15:34)*
 
 Before Pmurt fled, the party pinned him momentarily. Halcyra cast **Zone of Truth** — a big moment for her character. They interrogated him while he was still cornered and talking:
 

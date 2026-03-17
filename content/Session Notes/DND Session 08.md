@@ -5,7 +5,7 @@ date: unknown
 tags: [dnd, shattered-world, session-notes, session-8]
 ---
 
-# Session 8 — The Writing on the Wall
+# DND Session 8 — The Writing on the Wall
 
 *Linked to: [[Shattered World]] | [[Halcyra]] | [[Grungrak]] | [[Reficul]] | [[Inquizo]] | [[Mira]]*
 
@@ -127,7 +127,7 @@ George said both he and Grungrak deserve to be treated as people — not extensi
 
 They ended the conversation in a bear hug. Mira started crying.
 
-### Scene 10 — End of Session
+### Scene 10 — End of Session *(~3:15)*
 Inquizo slipped away (Stealth 16) as soon as things got serious. Nobody noticed until later. He's on his own somewhere.
 
 Session ended here — Charlie called it as a narratively satisfying stopping point.
@@ -161,10 +161,10 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 | ~2:00:00 | Reficul tracks figure via Detect Magic + Survival (22); figure disguised as homeless person |
 | ~2:06:00 | Reficul attempts healing approach; figure resists; Words of Terror (narrowly passed); kicked into mud |
 | ~2:20:00 | Vicious Mockery + Psychic Blades: 12 psychic damage; figure clutches head; crowd rises |
-| ~2:25:00 | Halcyra uses Calm Emotions; mysterious figure teleports away completely |
+| ~2:25:00 | Grungrak uses Calm Emotions; mysterious figure teleports away completely |
 | ~2:27:00 | Reficul cast Earth Tremor — 4 homeless people knocked to 0 HP |
 | ~2:29:00 | Reficul's curse activates — transforms into an Oni |
-| ~2:33:00 | Halcyra casts Command ("Approach") on Oni-Reficul |
+| ~2:33:00 | Mira casts Command ("Approach") on Oni-Reficul |
 | ~2:35:00 | Grungrak Spare the Dying + Mira Healing Hands — all 4 revived |
 | ~2:44:00 | Mira gives gold to homeless community; Black dragonborn briefly grabs her arm |
 | ~2:45:00 | Mira confronts Reficul; brutal but fair dressing-down |

@@ -89,7 +89,7 @@ Sisyphus, on the other side of the cliff, weeps. It is raining on his side. "Two
 Party takes a break, levels up. Charlie swaps in as DM.
 
 **Grungrak (Level 5 Bard):** Proficiency +3; mass healing word; new spells prepared
-**Inquizo (Level 5 Warlock):** Blade pact — summons a **scythe** (sickle damage, quarterstaff range); eldritch invocations including melee damage and bigger Devil Sight; Hunger of Hadar as new spell; Cutting Strike (can convert a sneak attack die to poison on a hit); Sneak Attack now 3d6
+**Inquizo (Level 5 Rogue):** *(Note: transcript labeled this as "Warlock" — confirmed error. Inquizo is Rogue 6, Thief subclass. Blade Pact, Devil Sight, Hunger of Hadar, and eldritch invocations do not apply.)* Sneak Attack now 3d6; Cutting Strike (convert a sneak attack die to poison on a hit)
 **Mira (Level 5 Sorcerer/Warlock):** Extra attack; Plant Growth added; two new level 3 spell slots
 **Halcyra (Level 5 Paladin):** Extra attack; Faithful Steed (Find Steed without spell slot once per day — Pegasus with Percy the horse); more HP (rolling well — over 50 HP)
 

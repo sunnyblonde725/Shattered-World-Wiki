@@ -31,7 +31,7 @@ That last detail is the kind of thing that should keep a character up at night.
 
 ## Significance
 
-Everything about this location is a negotiation — and the party walked in already owing. The boat crashed on the black sand beach. Reficul's death (his first) happened here. The sickle was handed over to Persephone as payment, and Eric was recovered from the soul pool in exchange. The pomegranate seeds that Grungrak (and Reficul) ate here are a classic underworld trap: mythologically, eating food in the underworld binds you to it. The DM knows. The characters do not.
+Everything about this location is a negotiation — and the party walked in already owing. The boat crashed on the black sand beach. Reficul's death (his first) happened here. The sickle was handed over to Persephone as payment, and Eric was recovered from the soul pool in exchange. The pomegranate seeds that Grungrak ate here are a classic underworld trap: mythologically, eating food in the underworld binds you to it. The DM knows. The character does not.
 
 Also: the chest of Reficul's clothes was *already there.* Someone knew he was coming.
 
@@ -56,7 +56,7 @@ Also: the chest of Reficul's clothes was *already there.* Someone knew he was co
 
 ## Open Threads
 
-- **Grungrak and Reficul ate pomegranate seeds** — Multiple seeds, in the underworld, mythologically binding. The DM noted it. Neither character is aware of what this might mean long-term.
+- **Grungrak ate pomegranate seeds** — Multiple seeds, in the underworld, mythologically binding. The DM noted it. He is not aware of what this might mean long-term.
 - **The sickle is now Persephone's** — "Vengeance" is a sentient artifact with its own agenda. What does Persephone plan to do with it? Does the sickle want something different?
 - **The chest of Reficul's clothes** — It was already in the shrine before he arrived. Someone placed it there with foreknowledge. Who? Why?
 - **The dryads with protest signs** — Mostly a gag, but: Grungrak cleared their forest. Are there consequences?

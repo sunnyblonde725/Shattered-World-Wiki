@@ -7,6 +7,11 @@ tags: [dnd, shattered-world, characters, halcyra]
 
 ---
 
+> *"I promise I do love you."*
+> — Halcyra
+
+---
+
 ## [[Halcyra]]
 
 **Player:** Lorenne (Sunny)
@@ -53,8 +58,7 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - **Wisdom save vs. Urscylla's aria** (Session 7 — rolled 22, not charmed; full presence of mind during the fight)
 - **Level 5 — Extra Attack** gained
 - **Level 5 — Faithful Steed** gained: can cast Find Steed once without a spell slot; steed is almost certainly a Pegasus (Percy the horse with wings)
-- **Calm Emotions** (Session 8 — 20 ft sphere, DC 15 charisma save; used in slums to partially de-escalate the crowd after Reficul attacked them; ~half the crowd calmed; the mysterious figure was not among those affected)
-- **Command ("Approach")** (Session 8 — cast on Oni-Reficul; he failed the save and had to walk toward her)
+- **Healing Hands** (Session 8 — used on commoners knocked to 0 HP by Reficul's Earth Tremor in the slums; fully healed one back to consciousness)
 - **Divine Sense** (Session 10 — determined the cave creature is NOT a celestial, fiend, or undead; this was the most critical combat intel of the fight)
 - **Light cantrip** (Session 10 — cast on a torch to create 20-foot bright light; creature reacted badly)
 - **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquizo; partially expelled goop from bite wounds; dark shadow marks remained)
@@ -65,12 +69,21 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 ### Current Known Inventory
 - **Longsword** — primary weapon
 - **Goop bite wound (arm)** — dark shadow marks remain at the bite points after Cure Wounds; something is still in there
+- **Pages 35–40 from "Ruins from Ancient Ages"** — checked out from the city library (Session 9); confirms the ruins are purely magical in origin, linked to a deity the author would not name
 - *(Character sheet upload will fill this in further)*
 
 ### Session 11 Update
 Halcyra fought in the King Pmurt throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Pmurt on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Pmurt and the phantasmal spectator summoned in Phase 2. She coordinated with Inquizo on the chandelier tactic. Pmurt escaped via contingency poof before the fight could conclude. After Pmurt fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
 
 ### Prophecy Connections
+
+**Session 13 — Valu names Apollo:**
+When the party spoke with Valu (the wind god, freed from the Kenku statue), Halcyra asked whether Valu was aware of the prophecy she carries. Valu said: *"Not my realm."* When pressed on whose realm it was, Valu said the god responsible is someone they would know — *"He's an asshole"* — and named him: **Apollo**. *(The transcript transcription garbles this, but context strongly supports the name was Apollo.)* Valu also mentioned that there are beings above even Apollo — beings he doesn't know.
+
+This is the first direct in-universe confirmation that **Apollo is the god of prophecy** for the campaign's mythology — and that Apollo is connected to Halcyra's scroll. Given that Halcyra is Apollo's daughter, this is significant: the prophecy Halcyra has been carrying since age 15 was likely written or overseen by her own father. Whether he intended her to find it, or whether it found her another way, is not yet established.
+
+Valu also recognized by one party member — almost certainly Halcyra, as the only character from a world with Olympian mythology — when his face shifted to reveal **Aeolus** (the Greek wind god). The DM's exact words: *"You recognize this face. Only you do."*
+
 Multiple stanzas speak directly to Halcyra:
 - *"A child born at the end of the world"* — she is the child of prophecy
 - *"The sun withdraws, its gaze turns cold / The child forsaken left alone"* — Apollo (the sun) has withdrawn; she is without her divine parent
@@ -78,6 +91,24 @@ Multiple stanzas speak directly to Halcyra:
 - *"One fated to fuse the fractured fields"* — she is the one meant to reunite the three shattered worlds; "the cost of wholeness cast away" means this will require real sacrifice
 - *"The healer's hand to bind the seam / Through golden light to cure the dream"* — her paladin healing is literally the mechanism for the world's repair
 - *"Only through loss will the fractures close / The hero must give what none can spare"* — the ending belongs to her, and it will cost her something irreplaceable
+
+### Relationships
+
+> Halcyra, George, and Reficul were a trio before the party formed. They met [[Inquizo]] and [[Mira]] at the tavern — that's how the group came together.
+
+**[[Grungrak]] (George)**
+Halcyra privately believes George is part of the prophecy and has committed to protecting him. She caught him alone on the airship, quietly learning the Ballad of Mira — he fled red-faced; the moment hasn't been addressed. She used Lay on Hands on him in Session 2. She shared the prophecy with Mira specifically because of her feelings about George.
+
+**[[Reficul]]**
+She confronted him directly after the execution platform incident: *"This is not the first time I have witnessed you kill someone because you were angry."* He didn't defend himself. Moral tension has been building across multiple sessions — she respects him but watches him closely.
+
+**[[Mira]]**
+Halcyra shared the prophecy scroll with Mira one-on-one — an emotionally vulnerable moment. She told Mira she thinks George is a big part of it. Mira said she couldn't help right then. They work in sync during combat and are allies, but the prophecy conversation has never fully resolved.
+
+**[[Inquizo]]**
+Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, their dynamic is mostly proximity — they share a party but their threads are quieter together than with others.
+
+---
 
 ### Open Threads
 - She doesn't know she's the child of prophecy or the daughter of Apollo — when does this change?
@@ -89,7 +120,7 @@ Multiple stanzas speak directly to Halcyra:
 - She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
 - **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
 - **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
-- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached. Calm Emotions failed during this scene.
+- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached.
 - **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
 - **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
 - **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large. How does the party proceed from the island city?
@@ -232,7 +263,14 @@ Multiple stanzas speak directly to Halcyra:
 ---
 
 ### Session 13 Update
-On the airship, Halcyra discovered George alone, quietly practicing the Ballad of Mira — he was caught mid-song, embarrassed, and fled red-faced. She also found the second glass case in the cargo hold by tripping on the tapestry showing sun, rays, wings, and sheep — the party decided to leave it unopened until docked.
+
+**Dream (session opening):** Halcyra had her first real dream since arriving on Gunj's couch. She was on a beached pirate ship, churning dark ocean around her. An injured Alias (the sea goddess) emerged from belowdecks — covered in wounds leaking black ooze, moving despite them. Alias saw Halcyra and charged at her, screaming *"What are you doing here? You're not supposed to be here."* An invisible force slammed Alias aside before she reached Halcyra. Alias rose again and said: *"No one is supposed to be here."* Then threw a dagger at Halcyra to wake her up. Alias knew Halcyra by a version of her name: "Hakira." This was Halcyra's first dream. It felt completely real.
+
+**Valu manifestation:** In Voxus's throne room, when the Kenku god-statue manifested as an ethereal 20-foot figure, Halcyra was the one who recognized its shifting face as **Aeolus** — the Greek wind god from her world's mythology. The DM confirmed: *"You recognize this face. Only you do."* This is consistent with her Planetos origins, where Olympian mythology is real.
+
+**Apollo named:** When Halcyra asked Valu about the prophecy, Valu named **Apollo** as the god whose realm that falls under — *"an asshole"* who Valu has met, and above whom there are still higher powers. Apollo is the god of prophecy. Halcyra has been carrying a scroll tied to Apollo since she was 15. Her divine father wrote (or oversees) her mission.
+
+**Airship:** Discovered George alone, quietly practicing the Ballad of Mira — he was caught mid-song, embarrassed, and fled red-faced. Tripped on a tapestry in the cargo hold showing sun, rays, wings, and sheep — the imagery is Apollo-adjacent. Beneath it: a second glass case with something faintly blue inside, already fading. The party decided not to open it while airborne.
 
 **New inventory items:**
 - **Sending Stone** — given by Valu; allows long-distance communication
@@ -257,6 +295,6 @@ On the airship, Halcyra discovered George alone, quietly practicing the Ballad o
 - **Dex and his nightmares (Session 13)** — Mira connected his dream experience to the shattered world's dream realm rules. Halcyra is aware there is someone on the ship with recurring, real dream-realm contact.
 - **Found George with the Ballad of Mira (Session 13)** — discovered George alone on the airship quietly practicing the song; he was caught and fled embarrassed.
 
-*Last updated: Session 13 — Character sheet stats added*
+*Last updated: Session 13*
 
 ---

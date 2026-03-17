@@ -7,11 +7,16 @@ tags: [dnd, shattered-world, characters, mira]
 
 ---
 
+> *"This world is large. Perfect and yellow. And I am a speck of dust amongst it."*
+> — Mira
+
+---
+
 ## [[Mira]]
 
 **Player:** Ele
 **Race:** Human *(confirmed)*
-**Class:** Sorcerer (Warlock)
+**Class:** Sorcerer (Warlock) *(Mira believes she is a Sorcerer — she is actually a Warlock with a Fiend patron. The formatting reflects her self-perception vs. reality.)*
 **Role:** Player only (not a DM)
 
 ### Who She Is
@@ -51,7 +56,7 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Level 5 — Two new level 3 spell slots** gained
 - **Investigation (14)** (Session 8 — examined the mystery bedroom; found no signs of breaking and entering; discovered fine kanji-like magical sigils on the outer window frame, written in the same substance as the wall text but far smaller and in a completely different hand)
 - **Arcana (18)** (Session 8 — confirmed the window sigils are magical; the wall writing itself has no arcane energy imbued in it; the sigils appear to be a separate layer used to access the room)
-- **Spare the Dying** (Session 8 — used on commoners knocked to 0 HP by Reficul's Earth Tremor; combined with Grungrak's Healing Hands, all four survived)
+- **Command ("Approach")** (Session 8 — cast on Oni-Reficul after his curse triggered; he failed the save and had to walk toward her)
 - **Comprehend Languages** (Session 8 — planned for use on the sigil script; not yet cast)
 - **Arcane energy detection (Arcana — roll 12)** (Session 9 — confirmed magical energy present when the YOMI letters glowed during Halcyra's prayer at the Apollo temple)
 - **False Life** (Session 11 — used during the King Pmurt fight to give herself a buffer of temporary HP before or during combat)
@@ -66,7 +71,7 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Staff** — her primary weapon (used to cast Toll the Dead, Session 4); also used to physically smack Reficul on the head in Session 8
 - ~~**Broken wrist**~~ — healed; after the Session 9 long rest it fully set
 - ~~**Ink sample**~~ — **ANALYZED (Session 9).** Substance fully tested at Alchemy Guild; findings documented. No longer a loose sample.
-- **Pages 35–40 from "Ruins from Ancient Ages"** — checked out from the city library (Session 9); confirms the ruins are purely magical in origin, linked to a deity the author would not name
+- *(Note: Pages 35–40 from "Ruins from Ancient Ages" were checked out by Halcyra, not Mira — Mira found and read the pages at the library, but Halcyra has physical possession of them)*
 - **18 copied plant entries** — hand-copied from a foraging guide at the library (Session 9)
 - **Alchemy Guild research notes** — full write-up of the substance analysis from Session 9 (beads when heated; gaseous with Agopyl; solidifies with salt; not from SKRP)
 - **Goop sample** (from cave creature, Session 10) — same substance as wall writing and caravan goop; confirmed via salt coagulation test
@@ -182,7 +187,6 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Grungrak's spellbook** (also noted: Grungrak's hammer — broken)
 - **Stormwake Sigil** (lightning bolt necklace — father's soul gift, Session 12): +2d6 lightning damage added to any attack (physical or magical), up to proficiency bonus times per day
 - **Sending Stone** (from Valu — Session 13)
-- Pages 35–40 from *Ruins from Ancient Ages*
 - 18 copied plant entries
 - Alchemy Guild research notes
 - Goop sample (cave creature, Session 10)
@@ -228,16 +232,32 @@ Mira is the most competent person in the party and has been dead the entire time
 - *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — Mira, precisely. The stanza fits her condition exactly.
 - *"Where Hades' veil and sunlight meet / The child shall walk in realms replete"* — possibly Mira or Halcyra; both exist at a boundary between living and dead, divine and mortal
 
+### Relationships
+
+**[[Halcyra]]**
+Halcyra shared the prophecy with Mira one-on-one — a rare vulnerable moment for her. Mira said she couldn't help right then. They work in sync during combat. Mira has not revisited the prophecy conversation, and neither has Halcyra pushed it. Something sits unfinished between them there.
+
+**[[Grungrak]] (George)**
+They have history from a previous campaign that only Mira remembers. She pushed too hard for him to remember at first; she apologized for that in Session 8 and reached out first. He told her about meeting Grungrak in the Lethe. She was inside the shadow dragon where Grungrak appeared. She severed the cord and he emerged — physical, real for a moment — and said *"Thank you for letting me be me."* George woke up smiling through tears. She has been learning the Ballad of Grungrak. He has been secretly learning the Ballad of Mira. Neither has performed it for the other yet.
+
+**[[Reficul]]**
+She confronted him directly about his choices more than once. She smacked him with her staff. She also immediately saw through him pretending to be asleep after his shadow therapy and said nothing, just checked on him. She holds him accountable and then checks that he's okay. Both parts matter.
+
+**[[Inquizo]]**
+After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat. She picked him up like a cat and held him until the panic passed. No speech. No explanation. Just presence.
+
+---
+
 ### Open Threads
 - She is dead and doesn't know it — when does she find out? What happens when she does?
 - What reinvigorated her, and why?
 - The pit area — what are the glowing white strings? Why is her movement so affected?
-- Her shared history with Grungrak — will she ever tell him? Will he remember?
-- She cannot heal or pray. This is a major limitation for a warlock/sorcerer.
+- Her shared history with Grungrak — will she ever tell him? Will he remember? During the Session 10 card game, she described the original Grungrak unprompted: *"He was my best friend. He found me when I first came to the guild. Decided we were gonna be best friends, just by my attempts not to be. And now it's in our river."*
+- She cannot heal others. She CAN pray and CAN heal herself — she just cannot heal other people.
 - **Her patron** — a masculine entity that speaks through her during death magic and forcibly takes over her body. Who is this? What does it want?
 - **"You're already mine"** — the blood angel claimed her and assigned itself a number (8). The angel is dead, but the claim may not be.
 - **Her stolen memory** — pre-sickness childhood memories taken by the blood angel. DM left a door open. Who holds them now? Is it retrievable?
-- **Her broken wrist** — partially healed by Grungrak; needs a day to fully set.
+- ~~**Her broken wrist**~~ — **RESOLVED (Session 9).** Healed by Grungrak in Session 5; fully resolved by Session 9.
 - ~~**Tension with Grungrak around honesty**~~ — **RESOLVED (Session 8).** Mira initiated the reconciliation with George — she reached out first, acknowledged she had been too forceful in pushing him to remember. George told her he had met Grungrak in the Lethe and found him kind. They embraced. The honesty thread is closed.
 - **The Lethe** — she jumped in while charmed and saw duplicates of herself. Did this change anything about her condition? She is already technically dead — what does the river of forgetting do to someone who shouldn't exist?
 - **The writing mystery (Session 10 update)** — the cave creature's goop is chemically identical to the wall writing and the caravan goop (same salt coagulation reaction). Wagon runes found on the bottom of the Velodorn caravan wagons are from the same alphabet family as the ruins runes. Rough translation: sleep, return, catalyst, invite (plus noise: "dinosaur cheesecake"). Two rune sets exist: on building doors/windows and on wagon bottoms. Someone or something is making goop constructs in the woods. Comprehend Languages on the script still planned but not yet cast.
@@ -258,6 +278,6 @@ Mira is the most competent person in the party and has been dead the entire time
 - **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunj plan.
 - **Sending Stone** — received from Valu; in her inventory.
 
-*Last updated: Session 13 — Character sheet stats added*
+*Last updated: Session 13*
 
 ---
