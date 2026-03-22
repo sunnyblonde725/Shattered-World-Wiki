@@ -66,6 +66,13 @@ Mira is the most competent person in the party and has been dead the entire time
 *(Note: Zone of Truth in Session 11 was cast by Halcyra, not Mira — Mira has Zone of Truth on her spell list but Halcyra was the one who used it on Pmurt.)*
 - **Partial castration attempt** (Session 11 — after Zone of Truth, Mira attempted to castrate King Pmurt with her pact sickle; she partially succeeded before he escaped; Pmurt is now alive, wounded, and missing something important; this is now a defining Mira moment)
 - **Invisibility** (Session 13 — cast on herself to enter the island city square unseen; used a floating rope to communicate with Dex while invisible; remained invisible for the full Dex rescue and interview)
+- **Medicine 18** (Session 14 — removed broken glass shards from George's hands with tweezers after the valve pressure jump; careful and precise)
+- **Breath lock** (Session 14 — discovered the "PSI 16" needle lock on the ship required a breath; rolled 18 vs DC 17; succeeded; obtained the **moon medallion** from the mechanism)
+- **Set destination to Bermuda Foundation** (Session 14 — used the navigation circle after placing the moon medallion; set course for the Doctor's base)
+- **First to see the burning city** (Session 14 — spotted Bermuda Foundation through the kitchen window; blood-red sky, every building on fire; said nothing for a moment, just looked)
+- **Hold Person — failed** (Session 14 — cast on Galveston during combat; Galveston saved with an 18; spell failed)
+- **Mind Spike — succeeded** (Session 14 — landed Mind Spike on Galveston; the insect that was fused to his eye fell off; significant combat hit)
+- **Toll the Dead** (Session 14 — used to kill one of the four hellhounds during combat)
 
 ### Current Known Inventory
 - **Staff** — her primary weapon (used to cast Toll the Dead, Session 4); also used to physically smack Reficul on the head in Session 8
@@ -277,7 +284,12 @@ After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat
 - **Decompressing via prophecy (Session 13)** — on the ship, she was in the cargo area reading the prophecy scroll. She used the sending stone to contact Gunj, asking him to come to the island city to help Reficul and keep an eye on the Thorin statue. She visited the prison on the way out of the island city to update the remaining prisoners that executions were likely over. She also found the map's slot, triggered the ship reboot, followed the ticking into the cargo hold, and discovered Starglass in the glass case behind the wallpaper. She confirmed the "Heal the Statues Made of Stone" stanza applies to the statue situation. She then spent a very long time in the server room failing to understand steampunk machinery. She accepted this failure immediately.
 - **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunj plan.
 - **Sending Stone** — received from Valu; in her inventory.
+- **Session 14 — Breath lock and the moon medallion** — Mira was the one who figured out the PSI 16 needle lock required a literal breath. Rolled 18 vs DC 17 to activate it. Received the moon medallion. Set destination to Bermuda Foundation via the navigation circle.
+- **Session 14 — Saw the burning city first** — she spotted Bermuda Foundation through the kitchen window before anyone else. Blood-red sky, entire city on fire. She was quiet about it for a moment before telling the party. Classic Mira: absorb the worst thing first, then tell everyone.
+- **Session 14 — Galveston combat** — Hold Person failed (he saved with an 18). Mind Spike succeeded and dislodged the insect from his eye. Toll the Dead finished one of the hellhounds. She contributed meaningfully even with a failed save.
+- **Bermuda Foundation is burning (Session 14)** — the Doctor's base was on fire when they arrived. What does Mira think about this? What does it mean for the Doctor's operations?
+- **Glass case creature (Session 14)** — a burned, wire-connected humanoid with many eyes was inside the second glass case. Mira interacted with it [NEEDS CONFIRMATION — who was present in the room]; the creature had the sun medallion.
 
-*Last updated: Session 13*
+*Last updated: Session 14*
 
 ---

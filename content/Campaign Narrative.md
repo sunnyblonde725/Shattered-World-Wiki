@@ -1061,5 +1061,101 @@ The north is waiting.
 
 ---
 
-*Last updated: after Session 13*
+*Last updated: after Session 14*
 *[[Shattered World]] | [[World State]] | [[Character Profiles]]*
+
+---
+
+### Session 14 — The Red Sky
+
+The ship had a dog in it.
+
+This is the detail that set the tone for the first half of the session: a wizard pug in a star-and-moon robe and an enormous hat, with wanted posters for himself, sitting in the crew quarters of a stolen airship as if he had always lived there. Telepathic. Calm. He stole George's manual immediately and regarded the party with the air of someone who has seen considerably worse.
+
+His name is Gabaton. He has a restaurant across the storm — the spiral storm the ship briefly tried to fly into after its reboot, the one with a screaming face in the cloud formation if you looked at it long enough. How long he has been aboard, and why, are not questions he chose to answer clearly.
+
+George had found the manual before Gabaton took it: a ring-bound volume with sections on engineering, the server room, weapons, and a floor plan. He also located a typewriter near the navigation helm and used it to re-register the party as the ship's crew, replacing "King Mert" in the AI's recognition. While doing this, he was the only one to hear the full reboot announcement — nat 20 Wisdom, present for every word.
+
+*"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the watering daughter. Course corrected for home."*
+
+The ship has a home. It knows where it is from.
+
+---
+
+The navigation circle required four medallions to set course: sun, moon, star, and gear. Getting each one was its own small story.
+
+The moon came from a needle lock labeled "PSI 16" — Gabaton barked at it once to activate the sequence, but the actual mechanism needed a human breath. Mira blew into it (roll 18 vs DC 17, cleared by one), and the moon pendant dropped free. She went to the navigation circle and set destination: **Bermuda Foundation**. The Doctor's base. She did not ask the party's opinion about this.
+
+The star was in the sail rigging. Inquizo pulled the sail pins to see what would happen, the mechanism swung, and the star medallion hit George directly in the face before falling to the deck. He recovered. He kept the bruise to himself.
+
+The sun required talking to whatever was inside the second glass case.
+
+Halcyra had found that case in Session 13, tripping on a tapestry that showed a sun, rays, wings, and sheep. She hadn't opened it. Nobody had. Now, with the navigation puzzle requiring a sun medallion and the case sitting right there, someone had to.
+
+She rolled a nat 20.
+
+What was inside: a burned humanoid figure with many eyes, connected to the ship by wires. It could talk. It had opinions. It was, in the phrasing of someone who has assessed many difficult situations, extremely sassy. Halcyra spoke to it with patience and respect, and after a genuine conversation, the creature handed over the sun pendant — its own medallion — and let it go into the circle.
+
+Three medallions placed. The gear medallion has not been found.
+
+---
+
+Before they arrived at the Doctor's base, they slept.
+
+Gabaton cooked. Not scraps — a full feast, the kind that gives your whole body 10 temporary hitpoints and your soul a moment to breathe. Dex was apparently awake for all of it. Not by choice. By the end of the night he had dark circles under his eyes and the expression of a man who had been outpaced by a dog for eight hours.
+
+The party rested. The grandfather clock below deck ticked. Starglass breathed in her case. The ship moved north.
+
+---
+
+Mira saw Bermuda Foundation first.
+
+She was in the kitchen when the city came into view through the window. Blood-red sky. Every building on fire. Desolate streets, no movement. She didn't shout. She looked at it for a moment — took it in the way she takes in terrible things, quietly and completely — and then told the others.
+
+They had arrived at the Doctor's base. The Doctor's base was burning.
+
+Before anyone could process what to do about a burning city, a figure appeared on the ground below: **Lieutenant Galveston**. Six and a half feet tall, red braid, smoke gauntlets on both hands. He had brought a red carpet. He had also brought four dobermans on leashes. He was smiling.
+
+*"You work for the Doctor, correct?"*
+
+George said yes. George said this with complete conviction and absolutely no plan. The crowd of onlookers who had gathered (there was a crowd despite the burning buildings) cheered. Galveston welcomed the party warmly and said the Doctor would return shortly — he'd just stepped out. The ship was invited to fly up to the Doctor's office to wait.
+
+They flew up. And then Galveston transformed.
+
+---
+
+The transformation was not clean. Whatever Galveston had been was replaced by something insectoid — his body reshaping, the dobermans becoming hellhounds in the same moment. The combat was immediate.
+
+Inquizo hid first. Stealth 24. He found a position and held it until the right moment, then deployed his Chains of Eternity — launching them at Galveston and restoring the old Marley logic: restrained, but so is he. He took 14 damage in that exchange without flinching about it.
+
+George used Plant Growth to turn the deck into a slow-motion nightmare for the hellhounds moving through it. Dense, tangled, uncooperative greenery in every gap they tried to cross.
+
+Mira cast Hold Person. Galveston saved with an 18. She didn't hesitate — she shifted to Mind Spike and landed it, and something fell from Galveston's eye when it hit. An insect. Small, dark, dislodged by the psychic strike. Whatever Galveston had been possessed by lost its grip in that eye-socket for a moment, and the insect tumbled free.
+
+*"A different man underneath his skin,"* Starglass had said about the Doctor.
+
+Halcyra ended it. Bow of Dusk, Snare Strike — the Doctor's lieutenant went down with his arm blown off. He died.
+
+The hellhounds fell. The deck was quiet except for George's Plant Growth settling into the floor planks.
+
+---
+
+Then George went below.
+
+He had heard something during the fight — or felt it. Something wrong in the ship's bones. He left the deck and went down to the clock room.
+
+The grandfather clock was spinning wildly. Not ticking. Spinning. The room around it was **rusting** in real time — metal surfaces oxidizing, flaking, the room aging visibly. And Starglass, in her glass case, was breathing hard. Short, labored. Her pipes straining. The room around her decaying as if time were moving too fast.
+
+He came back up to tell the party.
+
+Inquizo went below.
+
+He looked at the clock. He looked at the spinning hands. He reached out and grabbed them.
+
+The session ended there.
+
+---
+
+Whatever the clock is — whatever it is connected to, whatever stopping it does or doesn't do — the answer will come next session. For now: the Doctor's lieutenant is dead on a red carpet in front of a burning building. The Doctor was supposedly returning shortly. Inquizo is holding time still with his hands.
+
+The red sky is still red.

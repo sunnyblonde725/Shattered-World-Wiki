@@ -53,15 +53,21 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - **English breakfast improvised attack** (Session 11 — during the King Pmurt throne room fight, grabbed an English breakfast from the table and used it as an improvised weapon/distraction against Pmurt; the DM ruled Pmurt was blinded by the attack briefly)
 - **Chandelier lever** (Session 11 — pulled the lever to drop the throne room chandelier during combat with Pmurt; coordinated with Halcyra's positioning to create a tactical opportunity)
 - **Stealth during infiltration** (Session 11 — rolled 28 during the palace infiltration; highest stealth roll of the session; essential for getting the group past the first layer of guards)
+- **Sail pin pull** (Session 14 — yanked the sail pins to release the sail rigging; the star medallion was inside the mechanism; the pulleys swung and hit George in the face on the way out)
+- **Cunning Action Stealth 24** (Session 14 — hid during the Galveston combat; Stealth roll 24)
+- **Chains of Eternity — Galveston** (Session 14 — launched chains at Lieutenant Galveston; both Inquizo and Galveston were restrained at the same time per the chains' mechanic; took 14 damage during this restrained period)
+- **Grabbed the clock hands** (Session 14 — at session's end, went below deck and grabbed the wildly spinning grandfather clock hands to physically stop them; cliffhanger; unknown what this does to him or the ship)
 
 ### Current Inventory (notable items)
-- **Stacked hats**: bard hat, tiny mystery hat (nested underneath)
+- **Stacked hats**: bard hat, tiny mystery hat (nested underneath), Pmurt's crown, two tree-symbol hats
 - **The black orb** (entity inside — identity unconfirmed; not Caelus per Ian's clarification) — wrapped in spare clothes, in his backpack
 - ~~**The jade/emerald necklace**~~ — **GIVEN TO Urscylla (Session 7) WHILE CHARMED.** Design depicted a snake eating itself (or a bird). Urscylla smiled when she took it. Gone.
 - **Lorya's serpent-circle jewel** — purpose unknown
 - **Arcus's nail image** — showed a person cutting their own stomach open
 - **The spike from the blood cocoon** — dagger image frozen inside crystal
 - **Chains of Eternity** (Session 12) — shackle bracelets on both wrists; up to proficiency bonus times, he can launch the chains to restrain a target — but he is also restrained at the same time; they share the same chains (Marley-style)
+- **Skull mask** — metal, skull-face shaped, labeled "dr.l" inside; belongs to the Doctor; Inquizo won't read the label
+- **Kiddland soda can** (Session 14) — from Gabaton's leather briefcase
 
 ## Character Sheet Stats
 
@@ -196,10 +202,17 @@ Inquizo was the palace advance scout — his invisible recon of the island city 
 ### Session 13 Update
 Inquizo spent the island city stop going invisible and sneaking around the alleys listening to what the townspeople were saying behind closed doors (Perception 3, rerolled to 6 — found the bartender just wanting everyone to be nice). He was deliberately avoiding the chaos of the platform/execution scene. He later ran out of the throne room on seeing George running, just to keep him company — he sat contemplatively on a throne until invisible spell wore off. On the airship he wandered into the cargo hold with his oversized crown on his head, bumped into the push-to-start button (wearing Pmurt's crown, being greeted as "King Pmurt"), and used his voice mimic ability to imitate Pmurt's voice (class or racial feature — exact source uncertain) and direct the ship to "Sypium" — which launched the northward journey. He later pressed the button to release Starglass from the glass case despite protests. He found: Pmurt's crown (kept), a **skull-face metal mask** (kept — labeled "dr.l," which he won't read), two very tall hats with golden tree symbols (kept), and was generally the most hat-focused person in the room while the ship flew into danger.
 
-**New inventory:**
+**New inventory (Session 13):**
 - **Pmurt's crown** ("My special crown") — tall red velvet; tricks the ship AI into thinking he's Pmurt
 - **Skull mask** — metal, skull-face shaped, labeled "dr.l" inside; found in a hat (belongs to the Doctor)
 - **Two more tall hats** — golden tree symbols on each side, branches reaching together; Inquizo declines to read the label
+
+### Session 14 Update
+
+Inquizo found the **Kiddland soda can** in Gabaton's leather briefcase (opened with the code phrase "talk shit"). He yanked the sail pins in the rigging area to release the sails — the mechanism swung and the star medallion hit George in the face, which is probably not what he intended but worked out. In combat, he used **Cunning Action** to hide (Stealth 24) and deployed his **Chains of Eternity** on Lieutenant Galveston — restraining both himself and Galveston simultaneously. He took 14 damage during the restrained period. After Halcyra killed Galveston and the hellhounds were dealt with, Inquizo went below deck and grabbed the **spinning grandfather clock hands** to physically stop them. The session ended there. No one knows what happens next.
+
+**New inventory (Session 14):**
+- **Kiddland soda can** — from Gabaton's leather briefcase
 
 ### Session 12 Update
 Inquizo's shadow — the Warden Brother — confronted him about his sister and his brother. The shadow showed him his sister's silhouette in the path of his running and he plowed through it without stopping. The shadow's message: *You fail her again.* When he hid, his shadow helped him hide better than he could himself. Chains wrapped his arms, then his neck. When the figure of his brother appeared and the shadow said *we need to protect him*, Inquizo curled into a ball and began hyperventilating. He screamed *What do you want?* — and the shadow answered *I want what you want. I want to protect him.* He gave up. The shadow dissipated into his wrist shackles. He woke up muttering "I'm sorry" over and over, then "there's nothing I could have done." Mira picked him up like a cat and held him. The shadow told him on its way out: *You can't let this hold you down forever. You can't let me be gone forever.* His shadow is suppressed, not resolved.
@@ -236,9 +249,12 @@ After his shadow breakdown, Mira picked him up like a cat and held him while he 
 - **His sister (Session 12)** — he ran through her silhouette without stopping. The shadow called this failing her. Is she alive? Is she someone the party can find? Is she already part of the story without anyone knowing?
 - **The skull mask labeled "dr.l" (Session 13)** — he has it; he could read it but won't; it belonged to the Doctor who modified Starglass and is connected to Numgis. He doesn't know any of this.
 - **Pressed the button on Starglass (Session 13)** — he released Starglass from the glass case, which turned out to be important. Classic Inquizo: presses the button, accidentally advances the plot.
-- **Second glass case on the airship (Session 13)** — below deck, under a tapestry. He was not present for its discovery. It has not been opened.
+- ~~**Second glass case on the airship**~~ — **RESOLVED (Session 14).** He was probably not there for the actual opening, but it happened. Contains a burned humanoid with many eyes.
 - **The hat collection grows** — he is now carrying: bard hat, tiny mystery hat, Pmurt's crown, two tree-symbol hats. The DO NOT TOUCH pirate hat is still out there — he never took it. Something about hat accumulation feels narratively intentional.
+- **Grabbed the clock hands (Session 14 — CLIFFHANGER)** — the grandfather clock below deck was spinning wildly, the room rusting, Starglass's breathing strained. Inquizo grabbed the hands to stop it. Unknown what this does to him, to the ship, or to Starglass.
+- **Chains of Eternity — used once this session (Session 14)** — used on Galveston; both were restrained; he took 14 damage. How many uses remain?
+- **Kiddland soda can** — found in Gabaton's briefcase. He has it. What is it for?
 
-*Last updated: Session 13*
+*Last updated: Session 14*
 
 ---

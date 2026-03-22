@@ -9,6 +9,22 @@ tags: [dnd, shattered-world, changelog]
 
 ---
 
+## 2026-03-21
+
+### New Session
+- Added Session 14 notes: "The Red Sky"
+- Updated character profiles: Halcyra, Grungrak, Inquizo, Mira (Reficul did not appear this session)
+- Updated NPC Registry: added Gabaton, Glass Case Creature, Lieutenant Galveston (dead); updated Dex (dark circles), The Doctor (full name, base burning, Galveston dead)
+- Updated Location Index: updated Pmurt's Airship entry (3 medallions placed, second case opened, Gabaton aboard); added Bermuda Foundation
+- Updated World Lore: Doctor's full name, "head luminary" title, grandfather clock / Starglass connection, navigation puzzle mechanic, Gabaton lore, insectoid possession mechanism, Bermuda Foundation burning
+- Updated Unresolved Threads: resolved second glass case thread; added 7 new Session 14 threads (clock crisis, burning base, Doctor's return, gear medallion, Gabaton's wanted posters, insectoid possession, Galveston's death)
+- Appended to Campaign Narrative.md (full archive)
+- Updated Campaign Narrative - Working.md: added Session 14 narrative; replaced Connecting the Threads and Where This Is Going with Session 14 versions; updated footer
+- Updated Current State.md: new snapshot reflecting burning city, clock crisis cliffhanger, Galveston dead, 3 medallions placed
+- Updated World State.md: footer updated to Session 14
+
+---
+
 ## 2026-03-17 (Pass 3)
 
 ### Corrections

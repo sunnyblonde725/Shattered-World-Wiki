@@ -5,7 +5,7 @@ tags: [dnd, shattered-world, world-state, reference]
 
 # A Shattered World — World State
 
-*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 13.*
+*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 14.*
 
 **Note:** The canonical NPC Registry, Location Index, and World Lore are maintained in `Claude References/` as split files. This document duplicates some of that content and may be less current for Sessions 12–13. Refer to the Claude References files for the most up-to-date information.
 
