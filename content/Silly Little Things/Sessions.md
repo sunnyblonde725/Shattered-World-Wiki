@@ -5,7 +5,7 @@ tags: [dnd, shattered-world, sessions]
 
 # Sessions
 
-*13 sessions. A shattered world. Everything went wrong in the best possible way.*
+*14 sessions. A shattered world. Everything went wrong in the best possible way.*
 
 ---
 
@@ -123,5 +123,14 @@ tags: [dnd, shattered-world, sessions]
 **Where it left them:** Airborne on Pmurt's commandeered ship, flying north toward a mechanized city called Sypium, with a new passenger in the cargo hold, a second glass case they haven't opened yet, and Reficul standing in a city below, choosing to stay.
 
 [[Session Notes/DND Session 13|Read the full notes →]]
+
+---
+
+## Session 14 — The Red Sky
+**Tagline:** The party finds a wizard dog living on the airship, solves a four-medallion navigation puzzle using sunlight, breath, and a pulley that hits George in the face, then arrives at their destination to find it actively on fire.
+**Best moment:** Inquizo reaches the bottom of the ship, finds the grandfather clock spinning wildly out of control, grabs the hands to stop it — and the session ends. Nobody knows what that does.
+**Where it left them:** On the burning grounds of Bermuda Foundation, Galveston dead, the Doctor presumably on his way back, and Inquizo holding a clock that was not supposed to be held.
+
+[[Session Notes/DND Session 14|Read the full notes →]]
 
 ---

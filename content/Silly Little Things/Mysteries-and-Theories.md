@@ -80,12 +80,14 @@ tags: [dnd, shattered-world, theories, lore]
 
 **What we know:** The Doctor is an unknown figure who arrived at Malafera's home, caused violence, took her daughter Starglass, modified her and installed her as the airship's living breathing apparatus, and traded the ship to King Pmurt in exchange for his crown. He was in communication with Numgis. His dossier papers on the airship are written in two handwritings: one colonial and journalistic, one in Malafera's rune alphabet — and the second voice becomes violently hostile toward the cave civilization near Sypium. He was described by Starglass as *"a different man underneath his skin."* His hat and mask (labeled "dr.l") were left behind on the ship. They are now in Inquizo's pocket.
 
+**Session 14 update — his name:** His travel log was found aboard the ship. His full name is **Dr. Alastair Morgenstern Larkin**. "dr.l" was his initial all along — L for Larkin. Lieutenant Galveston called him **"the head luminary"** — a title, not just a name. He was expected at Bermuda Foundation. He was not there. Every building in the city was on fire when the party arrived.
+
 **Leading theories:**
 1. He is literally a different person underneath his skin — a shapeshifter, a possessed vessel, or two entities sharing one body. The two handwritings in the dossier are not a stylistic choice; they are two different minds. One of them is Malafera's, or something that learned her language by force.
 2. He is connected to the same unnamed deity referenced in the ruins pages — the one Malafera may be connected to. Whatever is behind the goop constructs and the rune alphabet has a face, and it is the Doctor's.
-3. "dr.l" is an initial, not a nickname. He has a full name. Someone at this table already knows it or has seen it in a document and not connected it. His mask is now in Inquizo's possession, which means eventually someone will read the label and the game will change.
+3. "The head luminary" is a rank, not just an honorific. It implies a hierarchy — which means there are other luminaries. Galveston transformed into an insectoid horror the moment the party appeared. Whatever the Doctor's people become, it is not something they chose. He may have done to Bermuda Foundation what he did to Starglass.
 
-**Why it matters:** He is ahead of the party. He has already reached Sypium. He wants the cave civilization destroyed. And whatever he is underneath his skin, the party has his hat.
+**Why it matters:** He is ahead of the party. He has already reached Sypium. He wants the cave civilization destroyed. And whatever he is underneath his skin, the party has his hat — and now his name.
 
 ---
 
@@ -104,14 +106,11 @@ tags: [dnd, shattered-world, theories, lore]
 
 ## What Is Inside the Second Glass Case?
 
-**What we know:** A second glass case was found in the airship's cargo hold in Session 13, hidden under a tapestry depicting a sun, rays, wings, and sheep. The imagery is Apollo-adjacent. There was a faint blue glow fading when Halcyra found it — she found it by tripping on the tapestry's edge. Nobody opened it. The first glass case held Starglass. The ship is rebooting.
+**RESOLVED (Session 14):** The case was opened by Halcyra (nat 20). Inside: a burned humanoid creature with exposed muscle, white irises, and many eyes — an unsettling presence that emerged from a larger multi-eyed floor organism in a room that shifted from foggy blue glow to warm sunshine. It communicates by bending wires to spell out words. It was holding the sun navigation medallion. When asked to give it up, it rolled its eyes and spelled *"obviously."* Very sassy. Very reluctant. Did not seem pleased to have visitors.
 
-**Leading theories:**
-1. There is a person inside — another of Malafera's children, or another construct the Doctor collected, modified, and stored. The blue glow and the foggy interior match the Starglass case exactly. Whatever is inside is alive, or was.
-2. The Apollo imagery on the tapestry is not decorative. The case was put there deliberately, under that specific tapestry, by someone who knew what the imagery meant. Whatever is inside has something to do with Apollo, or with Halcyra, or with the prophecy. The glow was fading — meaning it is running out of time.
-3. It is a weapon, not a person — a contained divine artifact, or something the Doctor was transporting north for the Sypium operation that the party accidentally inherited when they took the ship.
+**What's still unknown:** Where this creature came from, what it is, and why the Doctor had it in a glass case under an Apollo tapestry. The sun pendant it was holding was a navigation medallion — but whether that's its whole purpose or just what the Doctor used it for is unclear. It lives on the ship now. Nobody has asked it its name.
 
-**Why it matters:** The first glass case they found held Starglass. The rule has been established: press the button, and something that has been waiting gets to breathe.
+**The Apollo tapestry question remains open.** Sun, rays, wings, sheep — the case was hidden under specifically that imagery. The creature may have no connection to Apollo whatsoever, or it may be the entire point. The tapestry was a cover, not a coincidence. Someone put it there deliberately.
 
 ---
 
@@ -141,5 +140,5 @@ tags: [dnd, shattered-world, theories, lore]
 
 ---
 
-*Page last updated: Session 13*
+*Page last updated: Session 14*
 *[[World State]] | [[Unresolved Threads]] | [[Character Profiles]] | [[Shattered World]]*

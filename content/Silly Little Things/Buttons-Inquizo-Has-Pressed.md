@@ -9,7 +9,7 @@ tags: [dnd, shattered-world, inquizo, fun]
 
 ---
 
-**Total buttons pressed: 7** *(confirmed; miscellaneous panel buttons counted as one entry)*
+**Total buttons pressed / controls activated: 10** *(confirmed; miscellaneous panel buttons counted as one entry)*
 
 ---
 
@@ -22,6 +22,8 @@ tags: [dnd, shattered-world, inquizo, fun]
 | 6 | Button 61 | Session 2 | Pressed during the general chaos. Specific and deliberate enough to have a number. | Unlocked the back door into the crew quarters and gear storage. This revealed flight suits, scuba equipment, ornate pirate costumes, and the DO NOT TOUCH hat. Consequence: net positive. Grungrak got a pirate hat. His smile was described as "the most pure smile." |
 | 7 | Push-to-start navigation button on Pmurt's airship | Session 13 | Did not press it on purpose — bumped it while wandering around the cargo bay wearing Pmurt's oversized crown | Activated the ship's hologram navigation AI, which greeted him as "King Pmurt" and complimented the crown. Inquizo then mimicked Pmurt's voice and directed the ship to Sypium. The airship began flying north. This is now the direction the entire campaign is heading. He did this by accident while wearing a stolen hat. |
 | 8 | The button to open Starglass's glass case | Session 13 | Pressed it despite protests | Released Starglass — a fleshy-robotic construct connected to the ship by breathing tubes — from her containment case. George cast Healing Word on her. Her bioluminescent bug-eyes opened. She turned out to be (a) extremely important lore, (b) the ship's biological heart, and (c) crucial to getting the party to Sypium. Classic Inquizo: presses the button, accidentally advances the plot. |
+| 9 | Sail mechanism pin — the sail rigging control | Session 14 | Found the pin holding the sail pulley system in place and pulled it during the navigation puzzle | The pulley swung free and hit George directly in the face. The star medallion — which had been embedded in the sail rigging — came loose and dropped. Inquiry complete. George was hit in the face. Navigation progressed. The star medallion was recovered. Three of four medallions now placed. |
+| 10 | The grandfather clock hands | Session 14 | Went below decks alone, found the grandfather clock spinning wildly out of control, and grabbed the hands to stop it | Session ended. Nobody knows what this does. The clock is connected to Starglass and possibly to the stability of the ship or the world. Inquizo grabbed it the way he grabs everything — without asking what it was first. |
 
 ---
 

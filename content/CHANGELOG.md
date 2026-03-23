@@ -9,6 +9,18 @@ tags: [dnd, shattered-world, changelog]
 
 ---
 
+## 2026-03-22
+
+### Silly Little Things — Session 14 Update
+- Updated `Sessions.md`: added Session 14 entry (tagline, best moment, where it left them); updated header from 13 to 14
+- Updated `Quote Wall.md`: added Session 14 section (4 quotes); updated header from 13 to 14
+- Updated `Dumb-Decisions-That-Worked.md`: added 3 new entries — George's "He's Back Guys!" bluff to Galveston; velocity lever; grabbing the clock hands
+- Updated `Buttons-Inquizo-Has-Pressed.md`: added entry #9 (sail mechanism pin) and entry #10 (grandfather clock hands); updated total count
+- Updated `Artifacts-and-Items.md`: updated Second Glass Case entry (opened in Session 14, creature gave sun medallion); added Navigation Medallions entry (sun/moon/star placed, gear missing); added Kiddland Soda Can entry; updated Skull Mask entry with Doctor's full name
+- Updated `dnd-session-processing` skill: added Silly Little Things as a required step (Step 5) so it won't be missed in future sessions
+
+---
+
 ## 2026-03-21
 
 ### New Session

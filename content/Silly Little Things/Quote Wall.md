@@ -5,7 +5,7 @@ tags: [dnd, shattered-world, quotes]
 
 # Quote Wall
 
-*The best lines from across all 13 sessions of A Shattered World.*
+*The best lines from across all 14 sessions of A Shattered World.*
 
 ---
 
@@ -352,3 +352,19 @@ tags: [dnd, shattered-world, quotes]
 
 > "He will hurt you. Don't."
 > — Starglass, warning the party about the Doctor
+
+---
+
+## Session 14 — The Red Sky
+
+> *"He's back, guys!"*
+> — George, announcing the Doctor's return to the assembled soldiers while Galveston stood right there
+
+> *"Obviously."*
+> — The glass case creature, via wire-spelling, after being asked if giving Halcyra the sun pendant was all it needed in exchange
+
+> *"I can make a pretty lean pancake."*
+> — George, in response to Gabaton asking if he could cook
+
+> *"Next time on Dragon Ball Z."*
+> — DM, ending the session on the clock hands cliffhanger

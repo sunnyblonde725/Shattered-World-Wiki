@@ -9,7 +9,7 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 
 ---
 
-**Inductees: 9**
+**Inductees: 12**
 
 ---
 
@@ -104,6 +104,36 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 **Why It Was Dumb:** In Greek tradition, eating pomegranate seeds in the underworld binds you there. Persephone ate six seeds and is contractually required to return every year. George ate more than six. He is not from this world's mythology and did not know this. He found out later and has not fully processed it.
 **What Actually Happened:** Nothing visible yet. The DM knows the count. The campaign knows the count. This is the kind of decision whose consequences arrive slowly and then all at once.
 **Verdict: Pending.** Ask again in several sessions. The seeds are doing something. We just don't know what.
+
+---
+
+### 10. "He's Back, Guys!" — Announcing the Doctor to His Own Soldiers
+**Who:** George (Grungrak)
+**Session:** Session 14
+**The Decision:** When Lieutenant Galveston arrived at Bermuda Foundation with soldiers — clearly working for the Doctor, clearly threatening — George broke the tension by announcing "He's back, guys!" as if they were all on the same team and he was just delivering good news.
+**Why It Was Dumb:** Galveston had smoke gauntlets and was flanked by hellhounds. The party did not work for the Doctor. George was, at this exact moment, trespassing on the Doctor's burning property having arrived on the Doctor's stolen airship.
+**What Actually Happened:** It bought the party precious seconds before combat started. The bluff didn't hold — Galveston was not fooled — but the momentary confusion (combined with George's total sincerity) gave the party time to position. The line is now one of the most quoted things George has ever said.
+**Verdict: Worked** (briefly, chaotically, at maximum confidence).
+
+---
+
+### 11. "And Now" — The Velocity Lever
+**Who:** Inquizo (directed by Halcyra)
+**Session:** Session 14
+**The Decision:** While trying to figure out the ship's velocity controls, Halcyra told Inquizo exactly when to release a lever. The plan was essentially: "Inquizo. Now." Neither of them fully knew what they were doing.
+**Why It Was Dumb:** There was no instruction for this. The manual did not say "release this specific lever at this specific moment." The entire strategy was one person pointing at another person and saying go.
+**What Actually Happened:** Because of the timing, Inquizo's luck, and George's morale, a hidden wall panel flipped open. It said "Activate velocity." That was the thing they needed. The DM described it as "sheer dumb fucking luck in Quizio."
+**Verdict: Worked.** The panel opened. The ship got faster. Nobody questioned it.
+
+---
+
+### 12. Grabbing the Clock Hands
+**Who:** Inquizo
+**Session:** Session 14
+**The Decision:** The grandfather clock was spinning wildly, the room was actively rusting, and Starglass was hyperventilating. Inquizo decided to grab the spinning clock hands and hold them still. His reasoning, stated out loud: *"because it was stupid."*
+**Why It Was Dumb:** He grabbed a spinning clock. That's it. That was the plan.
+**What Actually Happened:** The hands stopped. The rusting slowed. Starglass's breathing steadied. Gabaton deployed dozens of mage hands to help hold them in place. The session ended with Inquizo and a pug holding a clock together in a rusting cargo hold as the session ended.
+**Verdict: Worked.** Sometimes "this is stupid" is all the justification you need.
 
 ---
 

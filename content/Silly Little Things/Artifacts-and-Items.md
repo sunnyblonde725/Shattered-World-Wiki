@@ -156,9 +156,9 @@ These three items came off (or out of) the blood angel the party fought in Hell.
 
 **Who has it:** Inquizo (found in Session 13; he won't read the label)
 **First appeared:** Session 13 (found in the airship cargo among hats)
-**What it is:** A metal skull-face mask labeled "dr.l" on the inside. It belongs to the Doctor — the figure who modified Starglass, traded the airship to Pmurt, and is connected to Numgis and violent plans for Sypium.
-**What we know:** Inquizo found it and kept it. He has declined to read the label. The Doctor is described as "a different man underneath his skin" — a shapeshifter, or possessed, or something stranger. His mask being on the ship suggests he left in a hurry, or left it deliberately, or it was taken from him.
-**What we don't know:** What the Doctor's face looks like without it. Whether the mask has any function beyond identity. Whether Inquizo knowing who "dr.l" is would change anything.
+**What it is:** A metal skull-face mask labeled "dr.l" on the inside. It belongs to the Doctor — now confirmed as **Dr. Alastair Morgenstern Larkin** (Session 14; found in his travel log aboard the ship). "dr.l" is his initial: L for Larkin.
+**What we know:** Inquizo found it and kept it. He has declined to read the label — meaning he does not yet know the name that everyone else now has. The Doctor is described as "a different man underneath his skin" — a shapeshifter, or possessed, or something stranger. His mask being on the ship suggests he left in a hurry, or left it deliberately, or it was taken from him. Galveston called him "the head luminary."
+**What we don't know:** What the Doctor's face looks like without it. Whether the mask has any function beyond identity. Whether Inquizo reading the label would change anything — and at this point, whether it matters that he still hasn't.
 **Status:** Inquizo's possession
 
 ---
@@ -196,14 +196,14 @@ These three items came off (or out of) the blood angel the party fought in Hell.
 
 ---
 
-## The Second Glass Case
+## The Second Glass Case — Opened
 
-**Who has it:** On the airship (not opened)
-**First appeared:** Session 13
-**What it is:** A second glass case found in the airship's cargo hold, under a tapestry depicting a sun, rays, wings, and sheep — imagery that is Apollo-adjacent. A faint blue glow was fading when they found it.
-**What we know:** Halcyra found it by tripping on the tapestry's edge. The imagery above it mirrors Apollo's domain. The glow was present and fading. Nobody pressed the button. The ship is rebooting.
-**What we don't know:** What or who is inside. Whether it is connected to Starglass. Why the imagery on the tapestry is so specifically sun-and-wings.
-**Status:** Unopened — on the airship
+**Who has it:** The creature was released; the case remains on the airship
+**First appeared:** Session 13 (found); Session 14 (opened)
+**What it is:** A glass case from the airship's cargo hold, under a tapestry depicting a sun, rays, wings, and sheep. It contained a burned humanoid entity — many eyes, wires growing from it, capable of communicating by spelling words with its wires.
+**What we know:** Halcyra negotiated with the creature: she offered it sunlight (walked it to a window and let it bask) in exchange for the sun medallion needed for the navigation puzzle. The creature spelled out "Obviously" with its wires when asked if that was all it needed. It gave the sun pendant. It remains aboard the ship.
+**What we don't know:** What the creature is. Whether it is related to Starglass. Why it was in a case with Apollo-adjacent imagery. What it wants beyond sunlight.
+**Status:** Creature released and present on the airship; sun medallion given to the party
 
 ---
 
@@ -218,5 +218,29 @@ These three items came off (or out of) the blood angel the party fought in Hell.
 
 ---
 
-*Page last updated: Session 13*
+---
+
+## The Navigation Medallions — Sun, Moon, Star
+
+**Who has them:** Placed into the navigation console on Pmurt's airship (three of four)
+**First appeared:** Session 14
+**What they are:** Four medallions corresponding to celestial symbols — sun, moon, star, and gear — that fit into the ship's navigation console. The navigation puzzle was discovered in Session 14 aboard Pmurt's airship.
+**What we know:** The sun medallion came from the second glass case creature (Session 14). The moon medallion was obtained from the breath-lock mechanism (Mira breathed through it and rolled 18 vs DC 17). The star medallion was embedded in the sail rigging — Inquizo pulled the pin, the pulley swung, it hit George in the face, and the medallion fell loose. Three of four placed.
+**What we don't know:** Where the gear medallion is. Whether placing all four activates something beyond navigation. Whether the Doctor knows the party has been using them.
+**Status:** Sun, moon, star — placed in console. Gear medallion — missing.
+
+---
+
+## The Kiddland Soda Can
+
+**Who has it:** Inquizo
+**First appeared:** Session 14 — found aboard Pmurt's airship in the cargo hold during the long rest
+**What it is:** A soda can from Kiddland — a place name with no context yet. Gabaton produced it (or it was found near Gabaton's area of the ship).
+**What we know:** Inquizo has it. He does not know what Kiddland is. It is a soda can.
+**What we don't know:** What Kiddland is or whether it matters. Whether the can has any significance beyond being deeply out of place on a sky pirate ship.
+**Status:** In Inquizo's possession
+
+---
+
+*Page last updated: Session 14*
 *[[World State]] | [[Character Profiles]] | [[Shattered World]]*
