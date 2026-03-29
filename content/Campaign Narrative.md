@@ -1072,11 +1072,11 @@ The ship had a dog in it.
 
 This is the detail that set the tone for the first half of the session: a wizard pug in a star-and-moon robe and an enormous hat, with wanted posters for himself, sitting in the crew quarters of a stolen airship as if he had always lived there. Telepathic. Calm. He stole George's manual immediately and regarded the party with the air of someone who has seen considerably worse.
 
-His name is Gabaton. He has a restaurant across the storm — the spiral storm the ship briefly tried to fly into after its reboot, the one with a screaming face in the cloud formation if you looked at it long enough. How long he has been aboard, and why, are not questions he chose to answer clearly.
+His name is Gbot'n. He has a restaurant across the storm — the spiral storm the ship briefly tried to fly into after its reboot, the one with a screaming face in the cloud formation if you looked at it long enough. How long he has been aboard, and why, are not questions he chose to answer clearly.
 
-George had found the manual before Gabaton took it: a ring-bound volume with sections on engineering, the server room, weapons, and a floor plan. He also located a typewriter near the navigation helm and used it to re-register the party as the ship's crew, replacing "King Mert" in the AI's recognition. While doing this, he was the only one to hear the full reboot announcement — nat 20 Wisdom, present for every word.
+George had found the manual before Gbot'n took it: a ring-bound volume with sections on engineering, the server room, weapons, and a floor plan. He also located a typewriter near the navigation helm and used it to re-register the party as the ship's crew, replacing "King Mert" in the AI's recognition. While doing this, he was the only one to hear the full reboot announcement — nat 20 Wisdom, present for every word.
 
-*"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the watering daughter. Course corrected for home."*
+*"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the wandering daughter. Course corrected for home."*
 
 The ship has a home. It knows where it is from.
 
@@ -1084,9 +1084,9 @@ The ship has a home. It knows where it is from.
 
 The navigation circle required four medallions to set course: sun, moon, star, and gear. Getting each one was its own small story.
 
-The moon came from a needle lock labeled "PSI 16" — Gabaton barked at it once to activate the sequence, but the actual mechanism needed a human breath. Mira blew into it (roll 18 vs DC 17, cleared by one), and the moon pendant dropped free. She went to the navigation circle and set destination: **Bermuda Foundation**. The Doctor's base. She did not ask the party's opinion about this.
+The moon came from a needle lock labeled "PSI 16" — Gbot'n barked at it once to activate the sequence, but the actual mechanism needed a human breath. Mira blew into it (roll 18 vs DC 17, cleared by one), and the moon pendant dropped free. She went to the navigation circle and set destination: **Bermuda Foundation**. The Doctor's base. She did not ask the party's opinion about this.
 
-The star was in the sail rigging. Inquizo pulled the sail pins to see what would happen, the mechanism swung, and the star medallion hit George directly in the face before falling to the deck. He recovered. He kept the bruise to himself.
+The star was in the sail rigging. Inquizo pulled the sail pins to see what would happen, the mechanism swung, and the star medallion hit Inquizo directly in the face before falling to the deck. He recovered. He kept the bruise to himself.
 
 The sun required talking to whatever was inside the second glass case.
 
@@ -1102,7 +1102,7 @@ Three medallions placed. The gear medallion has not been found.
 
 Before they arrived at the Doctor's base, they slept.
 
-Gabaton cooked. Not scraps — a full feast, the kind that gives your whole body 10 temporary hitpoints and your soul a moment to breathe. Dex was apparently awake for all of it. Not by choice. By the end of the night he had dark circles under his eyes and the expression of a man who had been outpaced by a dog for eight hours.
+Gbot'n cooked. Not scraps — a full feast, the kind that gives your whole body 10 temporary hitpoints and your soul a moment to breathe. Dex was apparently awake for all of it. Not by choice. By the end of the night he had dark circles under his eyes and the expression of a man who had been outpaced by a dog for eight hours.
 
 The party rested. The grandfather clock below deck ticked. Starglass breathed in her case. The ship moved north.
 
@@ -1134,7 +1134,7 @@ Mira cast Hold Person. Galveston saved with an 18. She didn't hesitate — she s
 
 *"A different man underneath his skin,"* Starglass had said about the Doctor.
 
-Halcyra ended it. Bow of Dusk, Snare Strike — the Doctor's lieutenant went down with his arm blown off. He died.
+Halcyra ended it. Bow of Dusk, Snare Strike — the Doctor's lieutenant went down with his arm blown off. When the red sky cleared, Galveston and his four Dobermans walked off the ship as if nothing had happened. Not confirmed dead.
 
 The hellhounds fell. The deck was quiet except for George's Plant Growth settling into the floor planks.
 
@@ -1150,12 +1150,12 @@ He came back up to tell the party.
 
 Inquizo went below.
 
-He looked at the clock. He looked at the spinning hands. He reached out and grabbed them.
+He looked at the clock. He looked at the spinning hands. He reached out, grabbed them, and turned them counter-clockwise.
 
-The session ended there.
+Time reversed. The scene returned to before the combat — before the red sky, before Galveston's transformation, before the hellhounds. From Galveston's perspective and the Dobermans', nothing had happened. They walked off the ship. The party kept their memories: the insect in Galveston's eye, the arm blown off, the hellhounds, all of it. Physical traces of the encounter may still have been present — but the Doctor's lieutenant walked off a ship where, officially, nothing had occurred.
 
 ---
 
-Whatever the clock is — whatever it is connected to, whatever stopping it does or doesn't do — the answer will come next session. For now: the Doctor's lieutenant is dead on a red carpet in front of a burning building. The Doctor was supposedly returning shortly. Inquizo is holding time still with his hands.
+The clock can reverse time. What it costs, how far it can go, and what Inquizo now is to a ship that uses its living core to breathe — these are the questions that will follow him into the next session.
 
-The red sky is still red.
+The Doctor was returning shortly. His base is burning. His lieutenant doesn't know why.

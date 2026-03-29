@@ -10,7 +10,7 @@ created: 2026-03-21
 
 ## TL;DR
 
-The party spent the first half of Session 14 learning their stolen airship's secrets — finding a wizard pug named Gabaton in the crew quarters, solving a four-medallion navigation puzzle (including a tense conversation with the sassy, burned creature from the second glass case), surviving a jump caused by a faulty pressure valve, and eating the most elaborate meal ever served by a dog. Then they landed at the Doctor's base: Bermuda Foundation. The city was on fire. Every building. Mira saw it through the kitchen window — blood-red sky, desolate streets — and said nothing for a moment, just looked. Lieutenant Galveston was waiting at the door with a red carpet, four dobermans, and the question: "You work for the Doctor, correct?" George bluffed. The crowd cheered. The ship lifted to fly to the Doctor's office. And then Galveston transformed, and the session ended in combat — four hellhounds dead, Galveston's arm blown off by Halcyra, and George heading downstairs during the fight to find the grandfather clock spinning wildly as the room rusted around Starglass.
+The party spent the first half of Session 14 learning their stolen airship's secrets — finding a wizard pug named Gbot'n in the crew quarters, solving a four-medallion navigation puzzle (including a tense conversation with the sassy, burned creature from the second glass case), surviving a jump caused by a faulty pressure valve, and eating the most elaborate meal ever served by a dog. Then they landed at the Doctor's base: Bermuda Foundation. The city was on fire. Every building. Mira saw it through the kitchen window — blood-red sky, desolate streets — and said nothing for a moment, just looked. Lieutenant Galveston was waiting at the door with a red carpet, four dobermans, and the question: "You work for the Doctor, correct?" George bluffed. The crowd cheered. The ship lifted to fly to the Doctor's office. And then Galveston transformed, and the session ended in combat — four hellhounds dead, Galveston's arm blown off by Halcyra, and George heading downstairs during the fight to find the grandfather clock spinning wildly as the room rusted around Starglass.
 
 ---
 
@@ -22,17 +22,17 @@ The party explored the ship more thoroughly. George found a **ring-bound manual*
 
 The second glass case — the one found in Session 13 under the tapestry (sun/rays/wings/sheep imagery) — was still unopened.
 
-Also discovered: **Dr. Alastair Morgenstern Larkin's travel log**, containing detailed notes about a translucent underground creature used for electrical wiring ("organic initiative"). This is the first time the Doctor's full name has appeared in text.
+Also discovered: **Dr. Alistair Morgenstern Larkin's travel log**, containing detailed notes about a translucent underground creature used for electrical wiring ("organic initiative"). This is the first time the Doctor's full name has appeared in text.
 
 ---
 
-### Scene 2 — Gabaton
+### Scene 2 — Gbot'n
 
-In the crew quarters, the party found: **Gabaton** — a wizard pug wearing a star-and-moon robe and an enormous hat, and bearing wanted posters for himself. He is telepathic. He was on this ship before the party was. He immediately stole George's manual.
+In the crew quarters, the party found: **Gbot'n** — a wizard pug wearing a star-and-moon robe and an enormous hat, and bearing wanted posters for himself. He is telepathic. He was on this ship before the party was. He immediately stole George's manual.
 
 The ship completed its reboot and played an announcement. George rolled a **nat 20 Wisdom** to listen fully:
 
-> *"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the watering daughter. Course corrected for home."*
+> *"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the wandering daughter. Course corrected for home."*
 
 The ship turned. The front window opened — small island ahead, surrounded by storm. Inquizo looked into the spiral cloud formation and saw a screaming face shaped by the storm's rotation. The ship's navigation circle was displayed: a spinning circle with four empty emblem slots — **sun, moon, star, and gear** — each needing a medallion to set course.
 
@@ -40,9 +40,9 @@ The ship turned. The front window opened — small island ahead, surrounded by s
 
 ### Scene 3 — The PSI Lock and the Valve Jump
 
-Gabaton barked into a **needle lock labeled "PSI 16."** The navigation circle slots dropped into position. A blue tube charged to full and triggered a second reboot sequence. Then: someone adjusted a release valve. The ship **jumped five feet**. Constitution saves all around. Alchemy and glass equipment crashed to the floor. Halcyra covered Inquizo with her wings. George lunged and caught most of the falling equipment — but his hands were cut by shards of broken glass.
+Gbot'n barked into a **needle lock labeled "PSI 16."** The navigation circle slots dropped into position. A blue tube charged to full and triggered a second reboot sequence. Then: someone adjusted a release valve. The ship **jumped five feet**. Constitution saves all around. Alchemy and glass equipment crashed to the floor. Halcyra covered Inquizo with her wings. George lunged and caught most of the falling equipment — but his hands were cut by shards of broken glass.
 
-In the crew quarters: two padlocked briefcases. Gabaton barked the command **"talk shit"** (the code phrase he'd apparently installed) and both opened. Brass briefcase: tools. Leather briefcase: tweezers, gauze, mystery bottles, and — one **Kiddland soda can** (Inquizo's now).
+In the crew quarters: two padlocked briefcases. Mira said **"talk shit"** — Gbot'n merely barked — and both opened. These locks don't respond to code words; they respond to air pressure. Brass briefcase: tools. Leather briefcase: tweezers, gauze, mystery bottles, and — one **Kinlind soda can** (Mira's now).
 
 Mira used the tweezers and a Medicine roll of **18** to remove the glass from George's hands carefully.
 
@@ -60,9 +60,9 @@ The manual's third section described where the four medallions could be found:
 
 ### Scene 5 — The Second Glass Case Creature
 
-Halcyra entered the second glass case room through the broken glass access hole. First attempt: **15**. Didn't work. She tried again: **nat 20**. Inside: a squishy floor, foggy blue glow shifting to warm sunshine. Then the creature.
+Halcyra broke through the glass floor of the second glass case room. First attempt: **15** — the floor held. She tried again: **nat 20** — broke through. Inside: a squishy floor, foggy blue glow shifting to warm sunshine. Then the creature.
 
-A burned humanoid with exposed muscle, white irises, and **many eyes** — an unsettling "Legolas silhouette" emerging from a larger, multi-eyed floor creature. It communicates by bending wires to spell words. It was dormant; it woke up; it moved toward Halcyra.
+A burned humanoid with exposed muscle, white irises, and **many eyes** — an unsettling "Legless silhouette" emerging from a larger, multi-eyed floor creature. It communicates by bending wires to spell words. It was dormant; it woke up; it moved toward Halcyra.
 
 The creature asked: *"Who are you to command me?"*
 
@@ -78,9 +78,9 @@ The sun pendant was the medallion. Halcyra brought it out.
 
 **Moon:** Locked box near navigation. Needle/breath lock — a small needle and the instruction to blow correctly. Mira covered the needle with her palm and blew a careful steady breath (**roll 18 vs DC 17**). The lock clicked. The moon emblem was inside. Placed in the circle: the navigation slots moved on their own.
 
-**Star:** In the rope/pulley/sail system. The sail ropes (black, blue, red) controlled by pins. Inquizo removed the pins. The rope moved fast. The ship tilted. George grabbed the counterrope to stabilize — and the star medallion flew clean through the pulley system and **smacked him directly in the face**.
+**Star:** In the rope/pulley/sail system. The sail ropes (black, blue, red) controlled by pins. Inquizo removed the pins. The rope moved fast. The ship tilted. George grabbed the counterrope to stabilize — and the star medallion flew clean through the pulley system and **smacked Inquizo directly in the face**.
 
-George rolled a **19 Constitution save** and took **1 blunt damage to his eyeball**. He was fine. The star medallion clattered to the floor and was placed in the circle.
+Inquizo rolled a **19 Constitution save** and took **1 blunt damage to his eyeball**. He was fine. The star medallion clattered to the floor and was placed in the circle.
 
 The **gear medallion** was never found. Its location was not listed in the manual.
 
@@ -88,21 +88,21 @@ The **gear medallion** was never found. Its location was not listed in the manua
 
 ### Scene 7 — Velocity, Fake IDs, and the Storm
 
-An Intelligence check (Inquizo [NEEDS CONFIRMATION]) let the party follow the manual to a velocity control wall panel. Gabaton, meanwhile, had produced fake identification and residency papers for each party member — complete with flash portraits (inky, impressionistic, fast). The papers listed false residency information. He appeared to do this entirely by himself, with no instructions.
+An Intelligence check (Inquizo [NEEDS CONFIRMATION]) let the party follow the manual to a velocity control wall panel. Gbot'n, meanwhile, had produced fake identification and residency papers for each party member — complete with flash portraits (inky, impressionistic, fast). The papers listed false residency information. He appeared to do this entirely by himself, with no instructions.
 
-The ship's map showed the **Eustis mountain range** and a destination: **Bermuda Foundation**. Mira set the course. The ship announced: *"Destination override."* It turned away from the storm. George pushed velocity. They flew safely past the cloud spiral and the screaming face.
+The ship's map showed the **Eustice mountain range** and a destination: **Bermuda Foundation**. Mira set the course. The ship announced: *"Destination override."* It turned away from the storm. George pushed velocity. They flew safely past the cloud spiral and the screaming face.
 
 ---
 
-### Scene 8 — Long Rest / Gabaton's Feast
+### Scene 8 — Long Rest / Gbot'n's Feast
 
-During the long rest, Gabaton cooked an enormous banquet for George. **Dozens of mage hands** simultaneously managing pots, plates, seasonings, serving dishes. Every delicacy he could assemble. Very heavy on fish. George received **10 temporary HP** from the meal.
+During the long rest, Gbot'n cooked an enormous banquet for George. **Dozens of mage hands** simultaneously managing pots, plates, seasonings, serving dishes. Every delicacy he could assemble. Very heavy on fish. George received **10 temporary HP** from the meal.
 
-At sunset, Gabaton (telepathically) asked George if he could cook. George: *"I can make a pretty lean pancake."*
+At sunset, Gbot'n (telepathically) asked George if he could cook. George: *"I can make a pretty lean pancake."*
 
-Gabaton went quiet for a moment, then: *"Pancake house."* His restaurant — his actual restaurant, the one he apparently had before all of this — is across the storm. The storm the party just flew around. He can't get there.
+Gbot'n went quiet for a moment, then: *"Pancake house."* His restaurant — his actual restaurant, the one he apparently had before all of this — is across the storm. The storm the party just flew around. He can't get there.
 
-Dex was kept awake all night by Gabaton's cooking instructions and arrived the next morning with dark circles under his eyes.
+Dex was kept awake all night by Gbot'n's cooking instructions and arrived the next morning with dark circles under his eyes.
 
 ---
 
@@ -110,7 +110,7 @@ Dex was kept awake all night by Gabaton's cooking instructions and arrived the n
 
 Morning. The ship stopped, facing a massive rock wall. Windows opened. Outside: **red carpet extending from the ship's door**, flanked by flags and kites. A parade of soldiers in gambesons lined both sides. Robed figures with flutes. The welcome of someone important.
 
-Gabaton distributed the fake IDs. Halcyra opened the main door.
+Gbot'n distributed the fake IDs. Halcyra opened the main door.
 
 ---
 
@@ -147,7 +147,7 @@ An **insectoid growth covered his left eye**. The four dobermans began tearing a
 - **Inquizo** — jumped onto Galveston's back
 - **Chains of Eternity** — wrapped Galveston; he was restrained; Inquizo was restrained alongside him (same chain)
 - **Galveston** attacked himself/Inquizo with disadvantage — rolled **two nat 20s**; dealt **13 slashing + 10 acid**; Inquizo took **14 damage total**
-- **Halcyra** — **Bow of Dusk + Snare Strike** — radiant burst, arm blown clean off Galveston → **Galveston dead**
+- **Halcyra** — **Bow of Dusk + Snare Strike** — radiant burst, arm blown clean off Galveston → **Galveston not confirmed dead** (when the red sky cleared, he walked off the ship with his four Dobermans)
 
 **The hellhounds:**
 - One ate a pomegranate (from Grungrak's Plant Growth) and was preoccupied
@@ -165,9 +165,9 @@ The room was **rusting**. Actively. Metal corroding in real time. Starglass was 
 
 The **grandfather clock** — the ticking clock they'd heard since Session 13 but never investigated — was **spinning wildly**, its face glowing.
 
-Inquizo (at some point during or after combat) **grabbed the clock hands** and held them.
+Inquizo (at some point during or after combat) **grabbed the clock hands and turned them counter-clockwise**.
 
-The spinning stopped. The rusting slowed. Starglass's breathing steadied. Gabaton summoned dozens of mage hands to help hold the clock hands in place.
+Time **reversed**. The scene returned to before the combat — before the red sky, before Galveston's transformation. From Galveston's and the Dobermans' perspective, nothing had happened; they simply walked off the ship. The party, however, **retained their memories** of everything that had occurred. Physical traces of the encounter may still have been present.
 
 Session ended: *"Next time on Dragon Ball Z."*
 
@@ -179,20 +179,20 @@ Session ended: *"Next time on Dragon Ball Z."*
 |------|-------|
 | 0:00 | Session start, picking up on the ship |
 | ~0:10 | George finds the ring-bound manual; typewriter; ship renamed |
-| ~0:20 | Travel log found (Dr. Alastair Morgenstern Larkin); second glass case still present |
-| ~0:30 | Gabaton found in crew quarters; steals manual; ship reboot announcement (George nat 20 WIS) |
+| ~0:20 | Travel log found (Dr. Alistair Morgenstern Larkin); second glass case still present |
+| ~0:30 | Gbot'n found in crew quarters; steals manual; ship reboot announcement (George nat 20 WIS) |
 | ~0:45 | Navigation circle revealed; screaming face in storm cloud |
 | ~0:55 | PSI lock barked open; blue tube charges; valve adjustment → ship jumps; glass falls; George's hands cut |
-| ~1:05 | Briefcases opened ("talk shit"); Kiddland soda can; Mira removes glass from George's hands (Medicine 18) |
+| ~1:05 | Briefcases opened ("talk shit"); Kinlind soda can; Mira removes glass from George's hands (Medicine 18) |
 | ~1:15 | Manual section 3 reveals medallion locations |
 | ~1:25 | Halcyra enters glass case room (nat 20); second case creature encountered |
 | ~1:40 | Creature conversation; sun pendant retrieved (creature very sassy) |
 | ~1:50 | Moon piece: Mira covers needle and blows (18 vs DC 17) |
-| ~1:58 | Star piece: Inquizo pulls sail pins; star medallion flies and hits George in the face (CON 19; 1 damage) |
-| ~2:05 | Velocity panel found; Gabaton creates fake IDs |
+| ~1:58 | Star piece: Inquizo pulls sail pins; star medallion flies and hits Inquizo in the face (CON 19; 1 damage) |
+| ~2:05 | Velocity panel found; Gbot'n creates fake IDs |
 | ~2:10 | Mira sets destination: Bermuda Foundation; "Destination override"; storm avoided |
-| ~2:20 | Long rest; Gabaton's feast (dozens of mage hands); George gets 10 temp HP |
-| ~2:35 | Gabaton's "pancake house" moment |
+| ~2:20 | Long rest; Gbot'n's feast (dozens of mage hands); George gets 10 temp HP |
+| ~2:35 | Gbot'n's "pancake house" moment |
 | ~2:45 | Morning; arrival at rock face; welcome parade outside; Halcyra opens door |
 | ~2:50 | Lieutenant Galveston: kneels, introduces himself, asks to confirm Doctor affiliation |
 | ~2:58 | George bluffs ("He's back guys!"); crowd cheers; ship lifts |
@@ -202,20 +202,20 @@ Session ended: *"Next time on Dragon Ball Z."*
 | ~3:15 | Mira Hold Person (Galveston saves); Mira Mind Spike (succeeds; insect falls off) |
 | ~3:20 | Inquizo on Galveston's back; Chains of Eternity → both restrained |
 | ~3:25 | Galveston: 2 nat 20s with disadvantage → 14 damage to Inquizo |
-| ~3:30 | Halcyra: Bow of Dusk + Snare Strike → Galveston's arm blown off; Galveston dead |
+| ~3:30 | Halcyra: Bow of Dusk + Snare Strike → Galveston's arm blown off; Galveston not confirmed dead |
 | ~3:33 | Hellhound combat; pomegranate distraction; two fuse ("Cuddlin"); Mira Toll the Dead |
 | ~3:38 | All hellhounds dead; George downstairs — room rusting, clock spinning, Starglass hyperventilating |
-| ~3:43 | Inquizo grabs clock hands; spinning stops; room steadies; Gabaton holds clock with mage hands; session end |
+| ~3:43 | Inquizo turns clock hands counter-clockwise; time reverses to before combat scene; red sky clears; Galveston and Dobermans walk off (no memory of combat); party retains memories; session end |
 
 ---
 
 ## Character Moments
 
-**George** — Rolled a nat 20 Wisdom to understand the ship's full reboot announcement — the only character who caught every word. Then got smacked in the eye by the star medallion (1 damage, CON 19) and still caught most of the falling alchemy equipment with cut hands. Then ate the best meal of his life (Gabaton's feast; 10 temp HP). Then told Gabaton he could make "a pretty lean pancake." Then bluffed a terrifying lieutenant ("He's back guys!") well enough to get a crowd of soldiers to cheer. Then went downstairs alone during combat to find the clock and the rusting room and Starglass hyperventilating.
+**George** — Rolled a nat 20 Wisdom to understand the ship's full reboot announcement — the only character who caught every word. Lunged to catch most of the falling alchemy equipment when the valve jump hit, hands cut by broken glass in the process. Then ate the best meal of his life (Gbot'n's feast; 10 temp HP). Then told Gbot'n he could make "a pretty lean pancake." Then bluffed a terrifying lieutenant ("He's back guys!") well enough to get a crowd of soldiers to cheer. Then went downstairs alone during combat to find the clock and the rusting room and Starglass hyperventilating.
 
-**Halcyra** — Entered the second glass case room alone (nat 20 stealth) and negotiated the sun pendant out of a deeply unimpressed sassy creature without offering anything except honesty. Covered Inquizo with her wings when the glass fell. Cast Aid on three allies before the fight began, which is the quietest thing she could have done and probably the most important. Ended the fight by blowing off Galveston's arm with radiant light.
+**Halcyra** — Broke through the glass floor to enter the second glass case room alone (nat 20) and negotiated the sun pendant out of a deeply unimpressed sassy creature without offering anything except honesty. Covered Inquizo with her wings when the glass fell. Cast Aid on three allies before the fight began, which is the quietest thing she could have done and probably the most important. Ended the fight by blowing off Galveston's arm with radiant light.
 
-**Inquizo** — Named a briefcase's locking code "talk shit" [NEEDS CONFIRMATION — or was this already Gabaton's password?]. Got star medallion in the face was George's misfortune; Inquizo pulled the pins. Hid with a 24 during the scariest moment of the fight. Jumped on a transforming lieutenant's back. Was chained to him via Chains of Eternity and took 14 damage from Galveston's self-attack. Grabbed a spinning clock and stopped it.
+**Inquizo** — Got smacked directly in the face by the star medallion (CON 19, 1 damage) after yanking the sail pins. The briefcases opened when Mira said "talk shit" — these locks respond to air pressure, not code words. Hid with a 24 during the scariest moment of the fight. Jumped on a transforming lieutenant's back. Was chained to him via Chains of Eternity and took 14 damage from Galveston's self-attack. Grabbed a spinning clock and stopped it.
 
 **Mira** — Removed glass from George's hands carefully (Medicine 18). Opened the moon piece lock with breath and palm pressure. Set the destination to Bermuda Foundation. Looked out the kitchen window and saw the burning city first. Said nothing. Held Person failed, Mind Spike succeeded; insect fell off Galveston's eye.
 
@@ -223,32 +223,32 @@ Session ended: *"Next time on Dragon Ball Z."*
 
 ## Lore & Worldbuilding Discoveries
 
-- **The Doctor's full name is Dr. Alastair Morgenstern Larkin** — found in his travel log aboard the ship
+- **The Doctor's full name is Dr. Alistair Morgenstern Larkin** — found in his travel log aboard the ship
 - **"The head luminary"** — Galveston's title for the Doctor; implies a title or role, not just a name
-- **Bermuda Foundation** — the Doctor's base, located near the Eustis mountain range near Sypium; was entirely on fire when the party arrived; not under attack — just destroyed
+- **Bermuda Foundation** — the Doctor's base, located near the Eustice mountain range near Sypium; was entirely on fire when the party arrived; not under attack — just destroyed
 - **The grandfather clock is connected to the ship's stability** — when it spins, the room rusts; Starglass's breathing becomes erratic; the ship's systems destabilize. Stopping the clock stabilizes Starglass.
 - **The navigation puzzle requires 4 medallions** — sun, moon, star, gear; the gear medallion was not located this session; the ship navigated anyway using the three found
-- **Gabaton was on this ship before the party** — he knows its systems; the PSI lock opens to his bark; "talk shit" opens the briefcases; he has a restaurant across the storm
-- **Gabaton's restaurant** — somewhere on the other side of the storm; he cannot get there; the party flew around the storm rather than through it; this may be something they can help with later
+- **Gbot'n was on this ship before the party** — he knows its systems; the PSI lock opens to his bark (air pressure); the briefcases opened when Mira said "talk shit" — these locks respond to air pressure, not code words; he has a restaurant across the storm
+- **Gbot'n's restaurant** — somewhere on the other side of the storm; he cannot get there; the party flew around the storm rather than through it; this may be something they can help with later
 - **The glass case creature** — a burned humanoid with many eyes, communicates via wire spelling; lives in a warm-sunshine room inside the second glass case; wears the sun pendant as a navigation medallion; confirmed very sassy and grudging about helping
 
 ---
 
 ## Notable NPCs
 
-**Gabaton** — Wizard pug. Telepathic. Enormous hat. Star-and-moon robe. Wanted posters. Pre-existing relationship with this ship (he was here before). Knows the ship systems. Commands mage hands by the dozen. Cooked the best meal George has ever eaten. Has a restaurant across the storm he can't reach. Asked quietly about pancakes.
+**Gbot'n** — Wizard pug. Telepathic. Enormous hat. Star-and-moon robe. Wanted posters. Pre-existing relationship with this ship (he was here before). Knows the ship systems. Commands mage hands by the dozen. Cooked the best meal George has ever eaten. Has a restaurant across the storm he can't reach. Asked quietly about pancakes.
 
 **The glass case creature** — Unnamed. Burned humanoid. Exposed muscle. White irises. Many eyes. Communicates via wire spelling. Very sassy. Produces warm sunshine light. Held the sun medallion. Would not dignify "is that all?" with more than an eye-roll and a held-out pendant.
 
-**Lieutenant Galveston** *(deceased)* — 6.5 ft. Long red braid. All-black armor. Smoke-breathing gauntlets. Four dobermans. Called the Doctor "the head luminary." Was loyal right up until he wasn't. Transformed into an insectoid abomination mid-conversation. Had two nat 20s with disadvantage while restrained. Killed by Halcyra's radiant light, arm-first. He is dead.
+**Lieutenant Galveston** *(status unknown)* — 6.5 ft. Long red braid. All-black armor. Smoke-breathing gauntlets. Four dobermans. Called the Doctor "the head luminary." Was loyal right up until he wasn't. Transformed into an insectoid abomination mid-conversation. Had two nat 20s with disadvantage while restrained. Halcyra blew off his arm with the Bow of Dusk. When the red sky cleared at the office docks, Galveston and his four Dobermans walked off the ship as if nothing had happened. Not confirmed dead.
 
 ---
 
 ## Notable Locations
 
-**Bermuda Foundation** — The Doctor's base. Located near the Eustis mountain range, in the general area north of the party's previous route. The party arrived to find the city entirely on fire — every building, visible from the kitchen window. No apparent ongoing battle. The destruction appears to precede their arrival. Whatever happened here happened before they got there.
+**Bermuda Foundation** — The Doctor's base. Located near the Eustice mountain range, in the general area north of the party's previous route. The party arrived to find the city entirely on fire — every building, visible from the kitchen window. No apparent ongoing battle. The destruction appears to precede their arrival. Whatever happened here happened before they got there.
 
-**The Airship (updated)** — Second glass case opened; creature confirmed inside. Grandfather clock confirmed as destabilizing force. Gabaton's briefcases and provisions in crew quarters. Navigation circle now has sun/moon/star medallions placed; gear slot empty.
+**The Airship (updated)** — Second glass case opened; creature confirmed inside. Grandfather clock confirmed as destabilizing force. Gbot'n's briefcases and provisions in crew quarters. Navigation circle now has sun/moon/star medallions placed; gear slot empty.
 
 ---
 
@@ -257,10 +257,10 @@ Session ended: *"Next time on Dragon Ball Z."*
 | Roll | Who | Result | Context |
 |------|-----|--------|---------|
 | Nat 20 WIS | George | Success | Full understanding of ship reboot announcement |
-| Stealth | Halcyra | 15 → nat 20 | Entering glass case creature's room |
+| Breaking in | Halcyra | 15 → nat 20 | Breaking through glass floor into glass case creature's room |
 | Medicine | Mira | 18 | Removing glass from George's hands |
 | Needle lock | Mira | 18 vs DC 17 | Opening moon piece case |
-| CON save | George | 19 | Star medallion smacking him in the face (1 damage) |
+| CON save | Inquizo | 19 | Star medallion smacking him in the face (1 damage) |
 | CON save | Party | Various | Valve jump |
 | Stealth | Inquizo | 24 (Cunning Action) | Hiding during Galveston combat |
 | Hold Person | Mira | Galveston saved 18 (failed) [NEEDS CONFIRMATION] | Attempt to restrain Galveston |
@@ -273,7 +273,7 @@ Session ended: *"Next time on Dragon Ball Z."*
 
 ## Cliffhangers & Unresolved Threads
 
-- **The clock** — currently being held by Inquizo and Gabaton's mage hands; if they let go, what happens?
+- **The clock** — currently being held by Inquizo and Gbot'n's mage hands; if they let go, what happens?
 - **Starglass's state** — she was hyperventilating; the clock stopped her deterioration, but did not fix the underlying cause
 - **The burning city of Bermuda Foundation** — every building is on fire; the Doctor is not here; what happened to this city and everyone in it?
 - **The gear medallion** — the fourth navigation piece; location unknown; the manual didn't list it
@@ -285,8 +285,8 @@ Session ended: *"Next time on Dragon Ball Z."*
 ## Funny Moments
 
 - George telling Galveston "He's back guys!" and the entire assembled military crowd outside cheering
-- Inquizo pulling sail pins → star medallion flying through the pulley and hitting George in the face at terminal velocity
-- Gabaton creating fake IDs with impressionistic inky portraits of everyone (implied they look nothing like them)
+- Inquizo pulling sail pins → star medallion flying through the pulley and hitting Inquizo in the face at terminal velocity
+- Gbot'n creating fake IDs with impressionistic inky portraits of everyone (implied they look nothing like them)
 - "Cuddlin" — the moment two hellhounds fused into a single creature and someone at the table immediately named them
 - The second glass case creature rolling its eyes and spelling out "obviously" with wires after giving up the sun pendant
 - "I can make a pretty lean pancake" — George's entire response to the world's most accomplished canine chef
@@ -299,7 +299,7 @@ Session ended: *"Next time on Dragon Ball Z."*
 
 > *"Obviously."* — The glass case creature, via wire-spelling, after being asked if giving Halcyra the sun pendant was all they needed
 
-> *"I can make a pretty lean pancake."* — George, in response to Gabaton asking if he could cook
+> *"I can make a pretty lean pancake."* — George, in response to Gbot'n asking if he could cook
 
 > *"Next time on Dragon Ball Z."* — DM, ending the session
 

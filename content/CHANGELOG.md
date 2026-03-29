@@ -9,6 +9,30 @@ tags: [dnd, shattered-world, changelog]
 
 ---
 
+## 2026-03-28
+
+### New Lore Added
+- **Clock time-reversal confirmed** — Updated Session 14 Scene 12, World Lore, Unresolved Threads, Inquizo profile (×2 entries), Buttons-Inquizo-Has-Pressed, Current State, Campaign Narrative, Campaign Narrative - Working: Inquizo turned clock hands counter-clockwise → time reversed to before combat; party kept memories; Galveston/Dobermans have no memory of the fight
+
+---
+
+## 2026-03-22 (Corrections Pass)
+
+### Corrections from player-verified Google Drive doc
+- **Gabaton → Gbot'n** — renamed throughout all campaign files (Session 14, NPC Registry, World Lore, Location Index, Current State, Narratives, Silly Little Things, character profiles)
+- **Alastair → Alistair** — corrected Doctor's first name in all files
+- **"watering daughter" → "wandering daughter"** — fixed in Session 14, Campaign Narrative, Working Narrative, Grungrak profile
+- **"Legolas silhouette" → "Legless silhouette"** — fixed in Session 14
+- **"Eustis" → "Eustice"** — fixed mountain range name in Session 14 and Location Index
+- **Kinlind soda can owner: Inquizo → Mira** — fixed across all files; also renamed from "Kiddland" to "Kinlind"
+- **"talk shit" / air pressure** — corrected: Mira said it, Gbot'n merely barked; these locks respond to air pressure, not code words
+- **Star medallion hit Inquizo (not George)** — attribution corrected in Session 14, character profiles, narratives, Silly Little Things, Current State
+- **Halcyra broke glass floor** — corrected from "snuck in" to "broke through glass floor"; updated Session 14 and Halcyra profile
+- **Galveston not confirmed dead** — corrected throughout; when the red sky cleared, he walked off the ship with his four Dobermans; updated NPC Registry, Current State, Unresolved Threads, narratives, character profiles
+- **Reverie is in X-salent** (not the island city) — corrected in NPCs/Reverie.md
+
+---
+
 ## 2026-03-22
 
 ### Silly Little Things — Session 14 Update
@@ -16,7 +40,7 @@ tags: [dnd, shattered-world, changelog]
 - Updated `Quote Wall.md`: added Session 14 section (4 quotes); updated header from 13 to 14
 - Updated `Dumb-Decisions-That-Worked.md`: added 3 new entries — George's "He's Back Guys!" bluff to Galveston; velocity lever; grabbing the clock hands
 - Updated `Buttons-Inquizo-Has-Pressed.md`: added entry #9 (sail mechanism pin) and entry #10 (grandfather clock hands); updated total count
-- Updated `Artifacts-and-Items.md`: updated Second Glass Case entry (opened in Session 14, creature gave sun medallion); added Navigation Medallions entry (sun/moon/star placed, gear missing); added Kiddland Soda Can entry; updated Skull Mask entry with Doctor's full name
+- Updated `Artifacts-and-Items.md`: updated Second Glass Case entry (opened in Session 14, creature gave sun medallion); added Navigation Medallions entry (sun/moon/star placed, gear missing); added Kinlind Soda Can entry; updated Skull Mask entry with Doctor's full name
 - Updated `dnd-session-processing` skill: added Silly Little Things as a required step (Step 5) so it won't be missed in future sessions
 
 ---
@@ -26,10 +50,10 @@ tags: [dnd, shattered-world, changelog]
 ### New Session
 - Added Session 14 notes: "The Red Sky"
 - Updated character profiles: Halcyra, Grungrak, Inquizo, Mira (Reficul did not appear this session)
-- Updated NPC Registry: added Gabaton, Glass Case Creature, Lieutenant Galveston (dead); updated Dex (dark circles), The Doctor (full name, base burning, Galveston dead)
-- Updated Location Index: updated Pmurt's Airship entry (3 medallions placed, second case opened, Gabaton aboard); added Bermuda Foundation
-- Updated World Lore: Doctor's full name, "head luminary" title, grandfather clock / Starglass connection, navigation puzzle mechanic, Gabaton lore, insectoid possession mechanism, Bermuda Foundation burning
-- Updated Unresolved Threads: resolved second glass case thread; added 7 new Session 14 threads (clock crisis, burning base, Doctor's return, gear medallion, Gabaton's wanted posters, insectoid possession, Galveston's death)
+- Updated NPC Registry: added Gbot'n, Glass Case Creature, Lieutenant Galveston (dead); updated Dex (dark circles), The Doctor (full name, base burning, Galveston dead)
+- Updated Location Index: updated Pmurt's Airship entry (3 medallions placed, second case opened, Gbot'n aboard); added Bermuda Foundation
+- Updated World Lore: Doctor's full name, "head luminary" title, grandfather clock / Starglass connection, navigation puzzle mechanic, Gbot'n lore, insectoid possession mechanism, Bermuda Foundation burning
+- Updated Unresolved Threads: resolved second glass case thread; added 7 new Session 14 threads (clock crisis, burning base, Doctor's return, gear medallion, Gbot'n's wanted posters, insectoid possession, Galveston's death)
 - Appended to Campaign Narrative.md (full archive)
 - Updated Campaign Narrative - Working.md: added Session 14 narrative; replaced Connecting the Threads and Where This Is Going with Session 14 versions; updated footer
 - Updated Current State.md: new snapshot reflecting burning city, clock crisis cliffhanger, Galveston dead, 3 medallions placed

@@ -48,7 +48,7 @@ The party woke from the aftermath of the shadow therapy sequence, still raw from
 
 Before the party fully woke, each character had a dream. These were not ordinary dreams — they were the first real dreams since the shadow therapy, and they were vivid and felt real.
 
-**Halcyra's dream** *(~14:44)* (narrated by Charlie): Halcyra found herself on a pirate ship beached on jagged rocks. The ocean was churning, almost boiling, with strange texture. Emerging from belowdecks was a tall figure — wounded, covered in injuries leaking black ooze, moving with "almost Olympian" bearing. The figure was Alias (the sea goddess, recognizable from her statue). Alias looked at Halcyra with sudden fear, a dawning realization — and then charged at her, screaming *"What are you doing here? You're not supposed to be here."* Before she reached Halcyra, Alias was slammed aside by an invisible force. She rose, battered, and said it again: *"No one is supposed to be here."* The black ooze from her wounds thickened. She looked at Halcyra and threw a dagger at her — and Halcyra woke up. This was Halcyra's first real dream. It felt completely real, not like dreaming.
+**Halcyra's dream** *(~14:44)* (narrated by Charlie): Halcyra found herself on a pirate ship beached on jagged rocks. The ocean was churning, almost boiling, with strange texture. Emerging from belowdecks was a tall figure — wounded, covered in injuries leaking black ooze, moving with "almost Olympian" bearing. The figure was Alias (the sea god, recognizable from her statue). Alias looked at Halcyra with sudden fear, a dawning realization — and then charged at her, screaming *"What are you doing here? You're not supposed to be here."* Before she reached Halcyra, Alias was slammed aside by an invisible force. She rose, battered, and said it again: *"No one is supposed to be here."* The black ooze from her wounds thickened. She looked at Halcyra and threw a dagger at her — and Halcyra woke up. This was Halcyra's first real dream. It felt completely real, not like dreaming.
 
 *(Note: This is also Scene 4 — Alias Beached. The dream confirmed Alias is actively fighting something that is battering her on a beached ship. The invisible attacker is unknown.)*
 
@@ -277,7 +277,7 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 ## Character Moments
 
 **Halcyra**
-- Experienced her first real dream — found herself on a beached pirate ship; Alias (the sea goddess, wounded, leaking black ooze) charged at her screaming "What are you doing here? You're not supposed to be here," was slammed aside by something invisible, then threw a dagger at Halcyra to wake her up
+- Experienced her first real dream — found herself on a beached pirate ship; Alias (the sea god, wounded, leaking black ooze) charged at her screaming "What are you doing here? You're not supposed to be here," was slammed aside by something invisible, then threw a dagger at Halcyra to wake her up
 - Caught Naamon after Reficul punched him off the platform — Naamon died anyway from the punch
 - Delivered one of the session's sharpest moral confrontations: "This is not the first time I have witnessed you kill someone because you were angry"
 - Discovered George practicing the Ballad of Mira alone on the airship — witnessed a private, tender moment
@@ -357,32 +357,14 @@ The session ended mid-flight. Cooper (OOC) teased that "Cogwork" music was ready
 
 ## YouTube Edit Notes
 
-**Cold open — "What are you doing here?"** *(14:44)*
-Open mid-dream. No context. Alias comes up from below deck wounded and trailing black ooze, and the second she sees Halcyra her expression breaks — fear, recognition, dawning horror — before something invisible slams her sideways into the hull. She gets up. *"You're not supposed to be here. No one is supposed to be here."* She throws a dagger. Cut to black. Don't explain any of it. Let it breathe and land wrong before the title card. The audience can catch up.
-
-**God sequence — "You recognize this face. Only you do."** *(1:01:00–1:05:53)*
-The Valu manifestation plays as spectacle — 20-foot ethereal blue figure, Kenku scraping glowing pebbles off the statue — but the real moment is quieter. At 1:05:49, the god's face shifts mid-conversation, and Cooper says directly to Halcyra's player: *"You recognize this face. Only you do."* This is Aeolus. Score it like a private reveal in a public room. Everyone else sees a wind god. One person sees someone from home. Hold on her reaction. The god doesn't stop talking — that's what makes it hit.
-
-**Execution platform — one sequence, three escalations** *(2:00:38–2:13:44)*
-Edit this as a continuous build. It has three acts and they run into each other without pause:
-1. The crowd chants "Reficul" and the crude party banners drop — comedy first, let the audience enjoy it.
-2. Reficul takes the axe and delivers his speech on death and punishment. The music is already working here — the table noticed it at 2:05:23. Don't cut away from him. The speech earns what comes next.
-3. At 2:12:13 someone shouts *"Get his wife and kids!"* — and at 2:12:32 the axe goes into them. Crowd scatters. Then at 2:13:00, Naamon goes off the platform. At 2:13:44, Halcyra catches a dead man. No fanfare. Just: *"You just saw a dead man fall into her arms."* Hold. Then cut to the confrontation. Do not soften the transition.
-
-**Best line of the session — the confrontation** *(2:14:56–2:15:16)*
-She's holding a dead man. She says: *"This is not the first time I have witnessed you kill someone because you were angry."* Reficul: *"I know where they're going. It'll be fine."* Mira, quietly: *"Just because you know where they're going does not make it fine."* Score this like a drama. It is one. Don't cut away from anyone's face. This is the moral weight of the entire island sequence landing in thirty seconds.
-
-**Quiet character beat — George alone with the song** *(2:38:31–2:39:27)*
-Halcyra boards the airship and finds George singing to himself, reading from a folded piece of paper. The word you can hear over and over is *Mira*. He has been learning the Ballad of Mira in secret. She knocks. He folds the paper mid-note and shoves it deep in his pocket. *"I'm passing the time."* He ran away red-faced and paced in the throne room for an hour to recover. Cut on the pocket shove. The silence after that is the joke and the heart of it at the same time. Do not undercut it with commentary.
-
-**The goodbye** *(2:44:22–2:44:50)*
-Reficul and George, right before the party leaves. George asks where he's going. Reficul says long-term. Then: *"Don't be scared of the stick."* Beat. *"If you have to cry yourself to sleep, that's okay."* That's it. That's the whole scene. A party member is leaving, possibly permanently, and that's what he chose to say. Score it slow. Hold on George after Reficul walks. This is the first voluntary party split in the campaign's history — let it feel like one.
-
-**Comedy set piece — the world's worst monarch commandeers an airship** *(2:59:25–3:01:39)*
-Inquizo finds Pmurt's crown. It is labelled *"my special crown."* It is approximately as tall as he is. He puts it on, immediately bumps into the ship's push-to-start button while wearing it, and the AI greets him as King Pmurt and compliments the crown. Inquizo does a Pmurt voice impression to set the destination. The ship starts flying north. This is a two-foot gremlin in a comically oversized hat accidentally conquering a vessel through pure chaos. Cut between the impressions and the AI's cheerful compliance. Score it like a heist that worked by accident.
-
-**The reveal — bug-eyes** *(3:15:29–3:18:36)*
-Play the Starglass discovery straight. There's a glass case behind the wallpaper. There's a person inside it, fleshy and robotic, connected to the ship by breathing tubes. George casts Healing Word. Her body starts shifting — more metallic, warming near the ears — and then her eyes open and there are bugs inside them, bioluminescent, lighting up as she wakes. Mira reacts audibly. Hold on the eyes. Then let Ian describe what she is. This moment earns the lore drop that follows: she is her mother's heart, her mother's language is the rune alphabet, and the rune alphabet is the same one the party has been finding carved into ruins since Session 8. The editor should not rush past any of that. It's all payoff.
+**Suggested cuts:**
+- **[00:00:00 - 00:08:25]** — Pre-game chatter: seating arrangements, video game talk (Hookopia, Tomodachi), camp chairs, pug stickers, dice jokes. Game has not started yet.
+- **[00:38:00 - 00:40:50]** — Off-topic tangent: Inquisio's bad-lip-reading-style shadow therapy recap devolves into steak jokes, hair compliments, and unrelated crosstalk. Funny in the room but goes nowhere for 2+ minutes. Editor's call — there are a few laughs but the thread is completely lost by the end.
+- **[00:49:28 - 00:50:33]** — Near-dead-air gap: fragmented speech, potato/stew joke, shuffling. The scene has stalled after the party finishes discussing the dreams; this is the pause before Gunj resumes. Cut to Gunj re-engaging.
+- **[01:09:10 - 01:11:02]** — Gap/low-content stretch: Valu has wrapped up his divine demi-planes tangent and the transcript goes nearly silent with fragments. About 2 minutes of almost nothing before the prophecy conversation picks back up.
+- **[01:25:47 - 01:25:54]** — Technical pause: Ian audibly stretching, flagged in-session as "I think that was Ian's stretching." Brief but dead air.
+- **[01:45:12 - 01:46:14]** — Off-topic tangent: Family Guy penis sensor joke spins out for about a minute after the airship voice-activation bit. The setup (Inquizo's Pmurt impression) is gold and should stay; the Family Guy riff that follows it can go.
+- **[03:49:38 - 03:52:34]** — Post-session wind-down: players zoning out, praising the music, teasing "cogwork" music for next session, crosstalk about upcoming characters, Inquisio player noting his character "can't be here for this." Game is functionally over. Cut after the second glass case is established and the ship is confirmed flying north.
 
 ---
 

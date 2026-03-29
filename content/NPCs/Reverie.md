@@ -6,7 +6,7 @@ tags: [dnd, shattered-world, npc]
 # Reverie
 
 > [!info] Status
-> **ALIVE** — In the island city. Part of the underground resistance. With Pmurt gone (for now) and the city in flux, Reverie and the other resistance members are in the middle of a power vacuum.
+> **ALIVE** — In X-salent. Part of the underground resistance against Pmurt. With Pmurt gone (for now) and the island city in flux, Reverie's role in what comes next is uncertain.
 
 ---
 

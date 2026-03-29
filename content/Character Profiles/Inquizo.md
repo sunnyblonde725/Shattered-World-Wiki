@@ -53,10 +53,10 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - **English breakfast improvised attack** (Session 11 — during the King Pmurt throne room fight, grabbed an English breakfast from the table and used it as an improvised weapon/distraction against Pmurt; the DM ruled Pmurt was blinded by the attack briefly)
 - **Chandelier lever** (Session 11 — pulled the lever to drop the throne room chandelier during combat with Pmurt; coordinated with Halcyra's positioning to create a tactical opportunity)
 - **Stealth during infiltration** (Session 11 — rolled 28 during the palace infiltration; highest stealth roll of the session; essential for getting the group past the first layer of guards)
-- **Sail pin pull** (Session 14 — yanked the sail pins to release the sail rigging; the star medallion was inside the mechanism; the pulleys swung and hit George in the face on the way out)
+- **Sail pin pull** (Session 14 — yanked the sail pins to release the sail rigging; the star medallion was inside the mechanism; the pulleys swung and hit Inquizo in the face on the way out)
 - **Cunning Action Stealth 24** (Session 14 — hid during the Galveston combat; Stealth roll 24)
 - **Chains of Eternity — Galveston** (Session 14 — launched chains at Lieutenant Galveston; both Inquizo and Galveston were restrained at the same time per the chains' mechanic; took 14 damage during this restrained period)
-- **Grabbed the clock hands** (Session 14 — at session's end, went below deck and grabbed the wildly spinning grandfather clock hands to physically stop them; cliffhanger; unknown what this does to him or the ship)
+- **Turned the clock hands counter-clockwise** (Session 14 — went below deck and turned the wildly spinning grandfather clock hands counter-clockwise; time reversed to before the combat scene; the red sky cleared; Galveston and the Dobermans walked off the ship with no memory of the combat; the party retained their memories; physical traces of the encounter may still have been present)
 
 ### Current Inventory (notable items)
 - **Stacked hats**: bard hat, tiny mystery hat (nested underneath), Pmurt's crown, two tree-symbol hats
@@ -67,7 +67,7 @@ Inquizo is chaos incarnate. He presses every button, claims every hat, releases 
 - **The spike from the blood cocoon** — dagger image frozen inside crystal
 - **Chains of Eternity** (Session 12) — shackle bracelets on both wrists; up to proficiency bonus times, he can launch the chains to restrain a target — but he is also restrained at the same time; they share the same chains (Marley-style)
 - **Skull mask** — metal, skull-face shaped, labeled "dr.l" inside; belongs to the Doctor; Inquizo won't read the label
-- **Kiddland soda can** (Session 14) — from Gabaton's leather briefcase
+*(Kinlind soda can passed to Mira — it was from Gbot'n's leather briefcase)*
 
 ## Character Sheet Stats
 
@@ -209,10 +209,10 @@ Inquizo spent the island city stop going invisible and sneaking around the alley
 
 ### Session 14 Update
 
-Inquizo found the **Kiddland soda can** in Gabaton's leather briefcase (opened with the code phrase "talk shit"). He yanked the sail pins in the rigging area to release the sails — the mechanism swung and the star medallion hit George in the face, which is probably not what he intended but worked out. In combat, he used **Cunning Action** to hide (Stealth 24) and deployed his **Chains of Eternity** on Lieutenant Galveston — restraining both himself and Galveston simultaneously. He took 14 damage during the restrained period. After Halcyra killed Galveston and the hellhounds were dealt with, Inquizo went below deck and grabbed the **spinning grandfather clock hands** to physically stop them. The session ended there. No one knows what happens next.
+Inquizo yanked the sail pins in the rigging area to release the sails — the mechanism swung and the star medallion hit him directly in the face (CON 19, 1 damage). The briefcases opened when Mira said "talk shit" — Gbot'n merely barked; these locks respond to air pressure, not code words. In combat, he used **Cunning Action** to hide (Stealth 24) and deployed his **Chains of Eternity** on Lieutenant Galveston — restraining both himself and Galveston simultaneously. He took 14 damage during the restrained period. After Halcyra blew off Galveston's arm (Galveston walked off the ship when the red sky cleared — not confirmed dead), Inquizo went below deck and grabbed the **spinning grandfather clock hands** to physically stop them. The session ended there. No one knows what happens next.
 
 **New inventory (Session 14):**
-- **Kiddland soda can** — from Gabaton's leather briefcase
+*(no new items)*
 
 ### Session 12 Update
 Inquizo's shadow — the Warden Brother — confronted him about his sister and his brother. The shadow showed him his sister's silhouette in the path of his running and he plowed through it without stopping. The shadow's message: *You fail her again.* When he hid, his shadow helped him hide better than he could himself. Chains wrapped his arms, then his neck. When the figure of his brother appeared and the shadow said *we need to protect him*, Inquizo curled into a ball and began hyperventilating. He screamed *What do you want?* — and the shadow answered *I want what you want. I want to protect him.* He gave up. The shadow dissipated into his wrist shackles. He woke up muttering "I'm sorry" over and over, then "there's nothing I could have done." Mira picked him up like a cat and held him. The shadow told him on its way out: *You can't let this hold you down forever. You can't let me be gone forever.* His shadow is suppressed, not resolved.
@@ -251,9 +251,9 @@ After his shadow breakdown, Mira picked him up like a cat and held him while he 
 - **Pressed the button on Starglass (Session 13)** — he released Starglass from the glass case, which turned out to be important. Classic Inquizo: presses the button, accidentally advances the plot.
 - ~~**Second glass case on the airship**~~ — **RESOLVED (Session 14).** He was probably not there for the actual opening, but it happened. Contains a burned humanoid with many eyes.
 - **The hat collection grows** — he is now carrying: bard hat, tiny mystery hat, Pmurt's crown, two tree-symbol hats. The DO NOT TOUCH pirate hat is still out there — he never took it. Something about hat accumulation feels narratively intentional.
-- **Grabbed the clock hands (Session 14 — CLIFFHANGER)** — the grandfather clock below deck was spinning wildly, the room rusting, Starglass's breathing strained. Inquizo grabbed the hands to stop it. Unknown what this does to him, to the ship, or to Starglass.
+- ~~**Grabbed the clock hands (Session 14 — CLIFFHANGER)**~~ — **RESOLVED.** He turned them counter-clockwise. Time reversed to before the combat — the red sky cleared, Galveston and the Dobermans walked off with no memory of the fight. The party kept their memories. Classic Inquizo: grabbed the clock the way he grabs everything, without asking what it was — and accidentally turned back time.
 - **Chains of Eternity — used once this session (Session 14)** — used on Galveston; both were restrained; he took 14 damage. How many uses remain?
-- **Kiddland soda can** — found in Gabaton's briefcase. He has it. What is it for?
+- ~~**Kinlind soda can**~~ — found in Gbot'n's briefcase. Mira has it.
 
 *Last updated: Session 14*
 

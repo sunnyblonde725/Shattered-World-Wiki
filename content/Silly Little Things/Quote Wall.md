@@ -364,7 +364,7 @@ tags: [dnd, shattered-world, quotes]
 > — The glass case creature, via wire-spelling, after being asked if giving Halcyra the sun pendant was all it needed in exchange
 
 > *"I can make a pretty lean pancake."*
-> — George, in response to Gabaton asking if he could cook
+> — George, in response to Gbot'n asking if he could cook
 
 > *"Next time on Dragon Ball Z."*
 > — DM, ending the session on the clock hands cliffhanger

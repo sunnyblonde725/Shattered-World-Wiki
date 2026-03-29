@@ -66,9 +66,9 @@ Halcyra is the quiet center of the group — a winged Aasimar paladin who is als
 - **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquizo who pulled the lever to drop it)
 - **Zone of Truth** (Session 11 — cast before Pmurt escaped to interrogate him; a significant character moment given that Zone of Truth is a paladin spell and she used it to extract genuine information from the man who had been running from them)
 - **Wings as shield** (Session 14 — reflexively covered Inquizo with her wings when the ship jumped from the pressure valve release; Constitution save situation, alchemy equipment crashing; she moved to cover the smallest party member)
-- **Nat 20 — glass case room entry** (Session 14 — rolled nat 20 investigating the second glass case; discovered the burned humanoid creature inside)
+- **Broke into glass case room** (Session 14 — broke through the glass floor to enter; first attempt 15 failed, nat 20 succeeded; discovered the burned humanoid creature inside)
 - **Negotiation** (Session 14 — successfully negotiated the sun medallion from the glass case creature by speaking with it respectfully; creature gave the sun pendant willingly)
-- **Bow of Dusk — killing blow on Galveston** (Session 14 — used Bow of Dusk with Snare Strike to land the killing blow on Lieutenant Galveston; arm blown off; the Doctor's lieutenant is dead)
+- **Bow of Dusk — Galveston** (Session 14 — used Bow of Dusk with Snare Strike; Galveston's arm blown off; when the red sky cleared, he walked off the ship with his four Dobermans — not confirmed dead)
 
 ### Current Known Inventory
 - **Longsword** — primary weapon
@@ -268,11 +268,11 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 
 ### Session 14 Update
 
-Halcyra covered Inquizo with her wings when the ship's pressure valve caused a five-foot jump, alchemy equipment crashing to the floor. In the second glass case room, she rolled a nat 20 and was the one to negotiate with the creature inside — a burned, many-eyed humanoid connected by wires. The creature was sassy but cooperative; after a genuine conversation, it handed over the **sun medallion** (shaped like a pendant), which went into the navigation circle. She prepared for combat by casting **Aid** [NEEDS CONFIRMATION], giving the party temporary HP before Galveston arrived. In the fight, she landed the killing blow on Lieutenant Galveston using her **Bow of Dusk** combined with **Snare Strike** — his arm was blown off. The Doctor's lieutenant is dead.
+Halcyra covered Inquizo with her wings when the ship's pressure valve caused a five-foot jump, alchemy equipment crashing to the floor. She broke through the glass floor (nat 20) to enter the second glass case room and negotiate with the creature inside — a burned, many-eyed humanoid connected by wires. The creature was sassy but cooperative; after a genuine conversation, it handed over the **sun medallion** (shaped like a pendant), which went into the navigation circle. She prepared for combat by casting **Aid** [NEEDS CONFIRMATION], giving the party temporary HP before Galveston arrived. In the fight, she used her **Bow of Dusk** combined with **Snare Strike** — his arm was blown off. When the red sky cleared, Galveston walked off the ship with his four Dobermans. Not confirmed dead.
 
 ### Session 13 Update
 
-**Dream (session opening):** Halcyra had her first real dream since arriving on Gunj's couch. She was on a beached pirate ship, churning dark ocean around her. An injured Alias (the sea goddess) emerged from belowdecks — covered in wounds leaking black ooze, moving despite them. Alias saw Halcyra and charged at her, screaming *"What are you doing here? You're not supposed to be here."* An invisible force slammed Alias aside before she reached Halcyra. Alias rose again and said: *"No one is supposed to be here."* Then threw a dagger at Halcyra to wake her up. Alias knew Halcyra by a version of her name: "Hakira." This was Halcyra's first dream. It felt completely real.
+**Dream (session opening):** Halcyra had her first real dream since arriving on Gunj's couch. She was on a beached pirate ship, churning dark ocean around her. An injured Alias (the sea god) emerged from belowdecks — covered in wounds leaking black ooze, moving despite them. Alias saw Halcyra and charged at her, screaming *"What are you doing here? You're not supposed to be here."* An invisible force slammed Alias aside before she reached Halcyra. Alias rose again and said: *"No one is supposed to be here."* Then threw a dagger at Halcyra to wake her up. Alias knew Halcyra by a version of her name: "Hakira." This was Halcyra's first dream. It felt completely real.
 
 **Valu manifestation:** In Voxus's throne room, when the Kenku god-statue manifested as an ethereal 20-foot figure, Halcyra was the one who recognized its shifting face as **Aeolus** — the Greek wind god from her world's mythology. The DM confirmed: *"You recognize this face. Only you do."* This is consistent with her Planetos origins, where Olympian mythology is real.
 

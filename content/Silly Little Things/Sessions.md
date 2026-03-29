@@ -127,9 +127,9 @@ tags: [dnd, shattered-world, sessions]
 ---
 
 ## Session 14 — The Red Sky
-**Tagline:** The party finds a wizard dog living on the airship, solves a four-medallion navigation puzzle using sunlight, breath, and a pulley that hits George in the face, then arrives at their destination to find it actively on fire.
+**Tagline:** The party finds a wizard dog living on the airship, solves a four-medallion navigation puzzle using sunlight, breath, and a pulley that hits Inquizo in the face, then arrives at their destination to find it actively on fire.
 **Best moment:** Inquizo reaches the bottom of the ship, finds the grandfather clock spinning wildly out of control, grabs the hands to stop it — and the session ends. Nobody knows what that does.
-**Where it left them:** On the burning grounds of Bermuda Foundation, Galveston dead, the Doctor presumably on his way back, and Inquizo holding a clock that was not supposed to be held.
+**Where it left them:** On the burning grounds of Bermuda Foundation, Galveston's arm blown off but not confirmed dead (he walked off the ship when the red sky cleared), the Doctor presumably on his way back, and Inquizo holding a clock that was not supposed to be held.
 
 [[Session Notes/DND Session 14|Read the full notes →]]
 

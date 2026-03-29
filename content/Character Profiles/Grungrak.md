@@ -61,9 +61,9 @@ Grungrak is the heart of the group — chaotic, warm, and deeply confused about 
 - **Earth Tremor** (Session 11 — used during King Pmurt fight; contributed to the overall assault)
 - **Thunder Wave x2** (Session 11 — George used Thunder Wave twice in the palace; the second cast killed approximately 20 of the palace guards who had been summoned during combat; massive AOE guard wipe)
 - **Mass Healing Word** (Session 11 — used to keep the party standing during the King Pmurt fight)
-- **Nat 20 Wisdom — full reboot announcement** (Session 14 — only party member to fully hear and retain the ship's reboot message: *"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the watering daughter. Course corrected for home."*)
+- **Nat 20 Wisdom — full reboot announcement** (Session 14 — only party member to fully hear and retain the ship's reboot message: *"Reboot completed. Memory erased, wind collection restored, heart beating, destination status unknown, origin remembered. When the child breathes the vessel remembers the womb. Return the heart, return the breath, return the wandering daughter. Course corrected for home."*)
 - **Catch reflex** (Session 14 — lunged to catch falling alchemy and glass equipment when the valve pressure jump launched the ship; caught most of it; hands cut by broken glass shards in the process)
-- **Star medallion from the sails** (Session 14 — star medallion was found inside the sail rigging; the pulleys swung and hit George directly in the face when Inquizo pulled the sail pins; he still got it)
+- **Navigation puzzle — star medallion** (Session 14 — star medallion was found inside the sail rigging; Inquizo pulled the sail pins, the pulleys swung, and hit Inquizo in the face on the way out; the medallion was placed in the navigation circle)
 - **Plant Growth** (Session 14 — used in combat against Galveston and the hellhounds; dense growth to slow movement through the area)
 - **Went downstairs mid-combat** (Session 14 — left the deck fight to investigate below; found the grandfather clock spinning wildly, the room rusting around Starglass, her breathing growing strained)
 
@@ -244,7 +244,7 @@ Inquizo stole the core of George's broken hammer and still has it. When George p
 - **Heard the wind voice (Session 13)** — rolled Perception 18; one of two people who heard the subtle wind on the airship that sounded almost like a voice. He noted it aloud but moved on.
 - **The Ballad of Mira** — confirmed to be a pre-existing piece he's been trying to learn for her. What it says, and whether he'll ever perform it, remains open.
 - **Session 14 — The clock below** — During the Galveston fight he left the deck to check on the ship; found the clock spinning and the room rusting around Starglass. He came back to tell the party. What does the clock's behavior mean? Is Starglass in danger? How does the party stop it?
-- **Star medallion in the face (Session 14)** — Inquizo yanked the sail pins; the sail rigging swung and the star medallion hit George in the face before falling. Classic George.
+- **Session 14 navigation assist** — Inquizo yanked the sail pins; the rigging swung and the star medallion came loose — it hit Inquizo in the face on the way out, then fell to the deck. Placed in the navigation circle.
 - **Navigation puzzle progress (Session 14)** — three medallions now in the circle (sun, moon, star); the gear medallion is still missing. The party can't set a destination until all four are slotted.
 
 *Last updated: Session 14*

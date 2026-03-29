@@ -287,6 +287,7 @@ After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat
 - **Session 14 — Breath lock and the moon medallion** — Mira was the one who figured out the PSI 16 needle lock required a literal breath. Rolled 18 vs DC 17 to activate it. Received the moon medallion. Set destination to Bermuda Foundation via the navigation circle.
 - **Session 14 — Saw the burning city first** — she spotted Bermuda Foundation through the kitchen window before anyone else. Blood-red sky, entire city on fire. She was quiet about it for a moment before telling the party. Classic Mira: absorb the worst thing first, then tell everyone.
 - **Session 14 — Galveston combat** — Hold Person failed (he saved with an 18). Mind Spike succeeded and dislodged the insect from his eye. Toll the Dead finished one of the hellhounds. She contributed meaningfully even with a failed save.
+- **Session 14 — Kinlind soda can** — said "talk shit" and Gbot'n merely barked; the briefcases opened (these locks respond to air pressure, not code words). The Kinlind soda can was in the leather briefcase. Mira has it now.
 - **Bermuda Foundation is burning (Session 14)** — the Doctor's base was on fire when they arrived. What does Mira think about this? What does it mean for the Doctor's operations?
 - **Glass case creature (Session 14)** — a burned, wire-connected humanoid with many eyes was inside the second glass case. Mira interacted with it [NEEDS CONFIRMATION — who was present in the room]; the creature had the sun medallion.
 

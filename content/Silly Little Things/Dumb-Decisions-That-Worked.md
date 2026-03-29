@@ -132,7 +132,7 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 **Session:** Session 14
 **The Decision:** The grandfather clock was spinning wildly, the room was actively rusting, and Starglass was hyperventilating. Inquizo decided to grab the spinning clock hands and hold them still. His reasoning, stated out loud: *"because it was stupid."*
 **Why It Was Dumb:** He grabbed a spinning clock. That's it. That was the plan.
-**What Actually Happened:** The hands stopped. The rusting slowed. Starglass's breathing steadied. Gabaton deployed dozens of mage hands to help hold them in place. The session ended with Inquizo and a pug holding a clock together in a rusting cargo hold as the session ended.
+**What Actually Happened:** The hands stopped. The rusting slowed. Starglass's breathing steadied. Gbot'n deployed dozens of mage hands to help hold them in place. The session ended with Inquizo and a pug holding a clock together in a rusting cargo hold as the session ended.
 **Verdict: Worked.** Sometimes "this is stupid" is all the justification you need.
 
 ---
