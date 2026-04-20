@@ -3,8 +3,6 @@ title: Physical DM Handouts
 tags: [dnd, shattered-world, handouts, props]
 ---
 
-# Physical DM Handouts
-
 *Real-world physical items the DM has given the players — printed documents, props, handwritten notes, newspaper clippings. Scans are in `Papers from sessions/` on the Desktop. Transcribed versions live here.*
 
 ---
