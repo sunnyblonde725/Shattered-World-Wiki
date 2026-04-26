@@ -3,6 +3,37 @@
 // put your custom CSS here!
 
 // ============================================
+// TAGS
+// ============================================
+
+a.internal.tag-link {
+  border-radius: 999px !important;
+  background-color: transparent !important;
+  border: 1px solid var(--gray) !important;
+  color: var(--darkgray) !important;
+  padding: 0.15rem 0.65rem !important;
+  font-size: 0.72rem !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.03em !important;
+  text-transform: lowercase !important;
+  transition: background-color 0.15s ease, color 0.15s ease !important;
+
+  &:hover {
+    background-color: var(--highlight) !important;
+    border-color: var(--secondary) !important;
+    color: var(--secondary) !important;
+  }
+}
+
+// ============================================
+// HIDE FOLDER PAGE LISTING (item count + auto page list under folder index pages)
+// ============================================
+
+.page-listing {
+  display: none !important;
+}
+
+// ============================================
 // PROPHECY SCROLL
 // ============================================
 
@@ -61,26 +92,26 @@
 
 // Shared parchment font/color mixin
 @mixin parchment-ink {
-  color: #1e0e00 !important;
+  color: #5c3a14 !important;
   font-family: "IM Fell English", "Palatino Linotype", Palatino, Georgia, serif !important;
   background: transparent !important;
   [data-theme="dark"] & {
-    color: #1e0e00 !important;
+    color: #5c3a14 !important;
   }
 }
 
 // ---- LETTERS (personal correspondence) ----
 article.letter-page {
-  background-color: #f5ead0 !important;
+  background-color: #fdf6e3 !important;
   background-image:
-    radial-gradient(ellipse 90% 20% at 50% 0%, rgba(130, 85, 20, 0.12) 0%, transparent 100%),
-    radial-gradient(ellipse 90% 20% at 50% 100%, rgba(130, 85, 20, 0.12) 0%, transparent 100%),
-    radial-gradient(ellipse 20% 40% at 6% 45%, rgba(90, 50, 10, 0.07) 0%, transparent 100%),
-    radial-gradient(ellipse 15% 35% at 94% 55%, rgba(90, 50, 10, 0.06) 0%, transparent 100%) !important;
-  border: 1px solid #c9a770 !important;
+    radial-gradient(ellipse 90% 20% at 50% 0%, rgba(130, 85, 20, 0.06) 0%, transparent 100%),
+    radial-gradient(ellipse 90% 20% at 50% 100%, rgba(130, 85, 20, 0.06) 0%, transparent 100%),
+    radial-gradient(ellipse 20% 40% at 6% 45%, rgba(90, 50, 10, 0.03) 0%, transparent 100%),
+    radial-gradient(ellipse 15% 35% at 94% 55%, rgba(90, 50, 10, 0.03) 0%, transparent 100%) !important;
+  border: 1px solid #d4b483 !important;
   box-shadow:
-    0 6px 30px rgba(0, 0, 0, 0.45),
-    inset 0 0 80px rgba(160, 110, 30, 0.06) !important;
+    0 4px 20px rgba(0, 0, 0, 0.25),
+    inset 0 0 60px rgba(160, 110, 30, 0.03) !important;
   padding: 3rem 3.5rem !important;
   @include parchment-ink;
   font-size: 1.05rem !important;
@@ -111,20 +142,20 @@ article.letter-page {
 
 // ---- NOTEBOOK PAGES (Larkin's private journal) ----
 article.notebook-page {
-  background-color: #e8d5a3 !important;
+  background-color: #f5eacc !important;
   background-image:
-    radial-gradient(ellipse 80% 30% at 50% 0%, rgba(100, 60, 10, 0.18) 0%, transparent 100%),
-    radial-gradient(ellipse 80% 30% at 50% 100%, rgba(100, 60, 10, 0.18) 0%, transparent 100%),
-    radial-gradient(ellipse 30% 50% at 5% 50%, rgba(80, 45, 8, 0.10) 0%, transparent 100%),
-    radial-gradient(ellipse 25% 45% at 95% 50%, rgba(80, 45, 8, 0.10) 0%, transparent 100%) !important;
+    radial-gradient(ellipse 80% 30% at 50% 0%, rgba(100, 60, 10, 0.08) 0%, transparent 100%),
+    radial-gradient(ellipse 80% 30% at 50% 100%, rgba(100, 60, 10, 0.08) 0%, transparent 100%),
+    radial-gradient(ellipse 30% 50% at 5% 50%, rgba(80, 45, 8, 0.05) 0%, transparent 100%),
+    radial-gradient(ellipse 25% 45% at 95% 50%, rgba(80, 45, 8, 0.05) 0%, transparent 100%) !important;
   // Ornate double-border effect (simulating the scan's decorative border)
-  border: 2px solid #9a7230 !important;
+  border: 2px solid #b08c40 !important;
   box-shadow:
-    0 0 0 5px #f0dea0,
-    0 0 0 8px #9a7230,
-    0 0 0 11px #c4a858,
-    0 10px 45px rgba(0, 0, 0, 0.55),
-    inset 0 0 100px rgba(140, 90, 15, 0.10) !important;
+    0 0 0 5px #faf2dc,
+    0 0 0 8px #b08c40,
+    0 0 0 11px #d4b060,
+    0 8px 30px rgba(0, 0, 0, 0.35),
+    inset 0 0 80px rgba(140, 90, 15, 0.05) !important;
   padding: 3.5rem 4rem !important;
   @include parchment-ink;
   font-size: 1.1rem !important;
@@ -157,15 +188,15 @@ article.notebook-page {
 
 // ---- OFFICIAL REPORTS (Larkin's dossiers) ----
 article.official-report {
-  background-color: #f0e6c8 !important;
+  background-color: #faf5e8 !important;
   background-image:
-    radial-gradient(ellipse 100% 15% at 50% 0%, rgba(110, 75, 15, 0.10) 0%, transparent 100%),
-    radial-gradient(ellipse 100% 15% at 50% 100%, rgba(110, 75, 15, 0.10) 0%, transparent 100%) !important;
-  border: 1px solid #b09050 !important;
-  border-top: 4px solid #7a6030 !important;
+    radial-gradient(ellipse 100% 15% at 50% 0%, rgba(110, 75, 15, 0.05) 0%, transparent 100%),
+    radial-gradient(ellipse 100% 15% at 50% 100%, rgba(110, 75, 15, 0.05) 0%, transparent 100%) !important;
+  border: 1px solid #c8aa68 !important;
+  border-top: 4px solid #9a7840 !important;
   box-shadow:
-    0 4px 25px rgba(0, 0, 0, 0.4),
-    inset 0 0 60px rgba(140, 100, 25, 0.06) !important;
+    0 3px 18px rgba(0, 0, 0, 0.2),
+    inset 0 0 40px rgba(140, 100, 25, 0.03) !important;
   padding: 3rem 3.5rem !important;
   @include parchment-ink;
   font-size: 1rem !important;
@@ -209,32 +240,32 @@ article.official-report {
 
 // ---- NEWSPAPER ----
 article.newspaper-page {
-  background-color: #efe5be !important;
+  background-color: #fdf8e8 !important;
   background-image:
-    radial-gradient(ellipse 100% 20% at 50% 0%, rgba(120, 90, 20, 0.12) 0%, transparent 100%) !important;
-  border: 1px solid #c4a860 !important;
-  border-top: 4px double #8a6830 !important;
-  border-bottom: 4px double #8a6830 !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+    radial-gradient(ellipse 100% 20% at 50% 0%, rgba(120, 90, 20, 0.06) 0%, transparent 100%) !important;
+  border: 1px solid #d0b870 !important;
+  border-top: 4px double #9a7840 !important;
+  border-bottom: 4px double #9a7840 !important;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2) !important;
   padding: 2.5rem 3rem !important;
-  color: #1a0e00 !important;
+  color: #5c3a14 !important;
   font-family: "IM Fell English", "Palatino Linotype", Palatino, Georgia, serif !important;
   font-size: 0.95rem !important;
   line-height: 1.7 !important;
 
   [data-theme="dark"] & {
     background-color: #efe5be !important;
-    color: #1a0e00 !important;
+    color: #5c3a14 !important;
   }
 
   p, li, em, span, div {
-    color: #1a0e00 !important;
+    color: #5c3a14 !important;
     font-family: "IM Fell English", "Palatino Linotype", Palatino, Georgia, serif !important;
     background: transparent !important;
   }
 
   h1 {
-    color: #1a0e00 !important;
+    color: #5c3a14 !important;
     font-family: "IM Fell English", serif !important;
     text-align: center !important;
     font-size: 1.6rem !important;
@@ -245,7 +276,7 @@ article.newspaper-page {
   }
 
   h2 {
-    color: #1a0e00 !important;
+    color: #5c3a14 !important;
     font-family: "IM Fell English", serif !important;
     text-align: center !important;
     font-size: 0.9rem !important;
@@ -258,7 +289,7 @@ article.newspaper-page {
   }
 
   h3 {
-    color: #1a0e00 !important;
+    color: #5c3a14 !important;
     font-family: "IM Fell English", serif !important;
     font-size: 1rem !important;
     border-bottom: 1px solid rgba(120, 90, 20, 0.3) !important;
@@ -268,6 +299,20 @@ article.newspaper-page {
   hr {
     border: none !important;
     border-top: 1px solid rgba(120, 90, 20, 0.4) !important;
+  }
+}
+
+// ---- SHARED: Link override for all document pages ----
+article.letter-page,
+article.notebook-page,
+article.official-report,
+article.newspaper-page {
+  a {
+    color: #7a5020 !important;
+    text-decoration: underline !important;
+    [data-theme="dark"] & {
+      color: #7a5020 !important;
+    }
   }
 }
 
