@@ -1,7 +1,7 @@
 ---
 title: "Session 09 — The House That Screamed"
 session: 9
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-9]
 ---
 
@@ -237,11 +237,16 @@ The DM pauses the recording at approximately 3:24 real-time to get food and take
 
 ## YouTube Edit Notes
 
-- **Cold open candidate**: Reficul walking into the Victorian manor solo while Mira is peacefully at a library
-- **Best dramatic beat**: The dragonborn's weapon shifting from rapier to warhammer + red glowing eyes — house possession reveal
-- **Best emotional beat**: Grungrak's speech to Reficul using his own words back at him
-- **Best WTF moment**: The house screaming as the party runs
-- **Comedy highlight**: The spaghetti arc — discovery → ritual → improvised weapon, all in one location
-- **Mystery highlight**: YOMI letters glowing in the temple — slow zoom on Halcyra's face recommended
-- **Transition note**: The split-screen potential of Mira calmly cataloguing plants while the others fight a haunted house is strong for editing contrast
-- **Cliffhanger**: End on the YOMI glow or on Grungrak's speech — both are strong session closers
+**Suggested cuts:**
+- **[00:00 - 00:37]** — Pre-session chatter: unplanned plot talk, dice tray sorting, character sheets setup
+- **[01:48 - 02:55]** — Dice tray redistribution and table setup noise before session properly begins
+- **[12:12 - 12:29]** — Snack break mid-narration (cake/tiramisu being grabbed while DM is describing brain fog)
+- **[26:28 - 27:25]** — DM pauses narration to write down NPC names; players chat about forgetting them
+- **[01:03:30 - 01:04:54]** — Dead-air break mid-combat: DM leaves to find a marker; players idle
+- **[01:06:25 - 01:09:40]** — AFK/snack break (water refill, mummy dogs debate, hookah mention, off-topic chat — game fully paused)
+- **[01:15:50 - 01:16:45]** — Battle map drawing downtime with side chatter about the library name
+- **[01:29:50 - 01:31:15]** — Spell lookup pause; player cannot find booming blade, sets a 3-minute timer, game halted
+- **[01:36:15 - 01:40:34]** — Extended snack/distraction break (Costco food, more spell lookups, sending PDF files — game completely stopped)
+- **[01:44:53 - 01:45:24]** — Off-topic tangent about driving with earrings and straws (pulls fully out of the scene)
+- **[03:11:15 - 03:11:37]** — DM pauses to "get story straight" mid-prayer scene; players joke about bathroom breaks
+- **[03:23:33 - 03:26:52]** — Session wrap: food planning, party photo trip, post-game meta discussion, DM pausing recording

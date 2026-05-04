@@ -1,5 +1,6 @@
 ---
 title: Larkin's Notebook — Final Entry (Year 1719)
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, larkin, notebook, deep, starglass]
 source: Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [notebook-page]

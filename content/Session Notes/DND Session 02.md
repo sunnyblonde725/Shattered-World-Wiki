@@ -1,7 +1,7 @@
 ---
 title: "Session 02 — The City Below"
 session: 2
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-2]
 ---
 
@@ -265,22 +265,6 @@ Mira was the session's unsung hero. She found the user manual, labeled every but
 - **[03:31:57 - 03:34:55]** — Post-session scheduling discussion. Pure logistics, no game content.
 - **[55:00 - 57:40]** — The Little Mermaid penis tower discussion runs long. Trim significantly.
 - **[29:00 - 35:00]** — Extended button-pressing sequence. Funny but repetitive — could cut to highlights only.
-
-**Highlight moments:**
-- **[00:17]** — Inquizo drowning in sand / Grungrak launching him
-- **[41:44]** — Reficul turning into a bull shark to save Grungrak
-- **[01:04:00]** — Inquizo poking through the pirate crew's gear room
-- **[01:12:00]** — Kobold in a trench coat / crab mode
-- **[01:13:00]** — Grungrak receives pirate hat. Purest smile.
-- **[01:44:00]** — Reficul's conversation with Sisyphus begins
-- **[01:54:04]** — "I will be your lawyer" quote moment
-- **[03:24:14]** — The queen appears
-
-**Suggested natural breaks:**
-- **[10:30]** — Party boards the submarine (beach scene ends)
-- **[55:15]** — Submarine docks at the underwater city
-- **[01:39:00]** — Party separates: Reficul imprisoned, others navigate the city
-- **[03:22:24]** — Climbing the spiral staircase to the throne room
 
 ---
 

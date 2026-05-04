@@ -1,5 +1,6 @@
 ---
 title: Reficul — Character Profile
+date: 2026-05-03
 tags: [dnd, shattered-world, characters, reficul]
 ---
 

@@ -2,7 +2,7 @@
 title: "Session 04 — The Blood Angel"
 alt_title: "What Vengeance Wants"
 session: 4
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-4]
 ---
 
@@ -276,14 +276,15 @@ Rising from the blood was "a silhouette of half of an angel" — an entity that 
 
 ## YouTube Edit Notes
 
-- Grungrak charging with the sickle dragging through blood — excellent visuals
-- The cut through reality (fractured glass, no blue light) — worth highlighting with sound design
-- Inquizo's invisible arm crit fail moment — perfect comedic beat
-- The masculine voice emerging from Mira during Toll the Dead — chilling
-- The angel's self-destruction (nailing itself in the chest, neck snapping back) — strong dramatic close
-- Arcus transforming into the large fluffy beast with the green sheep inside — visual peak of the session
-- The reveal of Arcus and Lorya's real names via the sickle — emotional backstory anchor
-- Mira's memory being stolen — cut to black, "Phase Two Combat — next session"
+**Suggested cuts:**
+- **[00:00 - 02:00]** — Off-topic tangent: South Park / Trump apology conversation before the session starts. Runs ~2 minutes before DM recap begins.
+- **[03:57 - 04:12]** — Players discovering extra dice in the tackle box ("46s in here too", "straight guy's set"). Brief off-topic sidebar.
+- **[26:01 - 26:54]** — Dead-air tangent: players joking about switching to Warhammer and discussing weapons/blacksmith with no game content happening.
+- **[46:41 - 49:41]** — Extended tangent: ~3 minutes of players talking about Percy the dog sitting like a person, followed by meandering chatter before Grungrak's Fox's Cunning spell. Partially connects back to gameplay but the dog conversation is fully off-topic.
+- **[01:14:03 - 01:14:10]** — Players joking about the statue's anatomy ("big tigs"). Very brief; editor's call — funny but may not fit the tone of the surrounding scene.
+- **[02:20:10 - 02:22:44]** — Long off-topic tangent: players explain Brandon Sanderson's Nightblood sword (Cosmere) and debate Critical Role podcast vs. TV show watching order. Runs ~2.5 minutes during active gameplay. Funny in context but completely unrelated to game.
+- **[02:33:08 - 02:37:14]** — Combat setup logistics: finding pens, sticky notes, and tabs to write the initiative tracker. Pure table housekeeping with no game content.
+- **[03:00:05 - 03:00:24]** — Snack/food interruption mid-combat: players notice donuts have appeared and comment on them. Brief but a clean cut point.
 
 ---
 

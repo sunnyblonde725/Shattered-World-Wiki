@@ -1,7 +1,7 @@
 ---
 title: "Session 07 — The Gate of Ivory"
 session: 7
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-7]
 ---
 
@@ -336,14 +336,11 @@ Halcyra shares for the first time:
 
 ## YouTube Edit Notes
 
-- **Hard cut to open:** The boat, the eels, six tentacles. Recap the map from Session 6, then straight into combat.
-- **Halcyra's nat 20 divine smite:** Highlight reel material. The buildup (Urscylla's voice in her head) + the cleave + the tentacle falling into the water. 37 damage.
-- **The charming sequence:** Great comedy — "I'm so used to playing roles that can't get charmed," then both Inquizo and Mira go down. Inquizo cycling through his rocks is gold.
-- **Eric and Ariel reunion:** Bittersweet and cinematic. Good emotional beat. Eric crying out, Ariel forgetting, the Lethe taking him.
-- **Grungrak holds his own hand (nat 20):** Genuine emotional moment for the character. "Self-acceptance."
-- **Boulder throw (nat 20):** Comedic triumph. Sisyphus is weeping.
-- **Reficul's "Crush the—":** Perfect comedic timing. His first words after coming back, then immediately squished.
-- **Justin:** Let it breathe. He's funny by just existing.
-- **Chapter 2 reveal:** Charlie stepping in, the guild town, the "Incredible Mistakes" naming — good reintroduction energy.
-- **Tavern character moments:** The Reficul conversation with George; Halcyra's backstory reveal. These are deep-cut story beats worth highlighting.
-- **End the episode** on the cliffhanger of the prophecy paper being pulled out — "as much as I'm a fan of legal procedure, we're going to need an extra pair of eyes."
+**Suggested cuts:**
+- **[00:00 - 00:44]** — Pre-game setup noise before the recap starts: mic auto-connect talk, table arrangement, general crosstalk. Nothing game-related.
+- **[03:50 - 05:55]** — Off-topic tangent about putting a TV on the table, finding fonts for the map, discovering the dice tower ("Box of Doom"). Runs about two minutes before combat begins; drags out setup that could be a clean cut straight into initiative.
+- **[23:19 - 23:37]** — Mid-combat meta-break: someone discovers the map marker is a wet-erase marker, brief crosstalk about it. Short but clean dead air in the middle of a fight.
+- **[24:27 - 24:49]** — Napkin run: player leaves the table mid-turn to find napkins. "I'll be back. Okay." Game pauses.
+- **[01:38:01 - 01:39:01]** — Extended dead air between action beats after Grungrak takes the water-jet hit. Roughly 60 seconds of nothing before the next meaningful exchange.
+- **[01:51:37 - 02:13:15]** — Level-up break and DM swap. Coffee runs, seating adjustments, rules lookups (wrong handbook grabbed, warlock invocation confusion, HP tallying), Charlie setting up to DM. Necessary pause but a very long one — editor's call on how much to cut vs. time-lapse.
+- **[02:09:40 - 02:13:15]** — Within the level-up break: a full real-life moving logistics conversation ("it's the 27th, we can start moving, kidnap his dad's truck, mattresses, Hawaii Student Housing"). Completely off-topic and runs over two minutes.

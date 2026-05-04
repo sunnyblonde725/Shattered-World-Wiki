@@ -1,12 +1,13 @@
 ---
 title: The Horse
+date: 2026-05-03
 tags: [dnd, shattered-world, npc]
 ---
 
 # The Horse
 
 > [!info] Status
-> **ALIVE** — At X-salent with the party. [[Character Profiles/Halcyra|Halcyra]] rode it through the Gate of Ivory and never got off. It grants her advantage on Athletics checks. It does not need to breathe.
+> **ALIVE (presumed)** — Last confirmed at X-salent with the party (Session 7–10). Party left X-salent in Session 11; horse's location since then is undocumented. [[Character Profiles/Halcyra|Halcyra]] is its rider. It grants her advantage on Athletics checks. It does not need to breathe.
 
 ---
 
@@ -18,7 +19,7 @@ tags: [dnd, shattered-world, npc]
 | **Role** | Former boat anchor; current party mount |
 | **Faction** | Poseidon (by bloodline, presumably) |
 | **First Appeared** | [[Session Notes/DND Session 6\|Session 6]] |
-| **Last Seen** | [[Session Notes/DND Session 7\|Session 7]] — arrived at X-salent with the party; [[NPCs/Penopolis|Penopolis]] offered it snacks |
+| **Last Seen** | Sessions 7–10 at X-salent (confirmed via Halcyra's profile as her mount); party left X-salent in Session 11; undocumented since |
 
 ---
 
@@ -50,6 +51,8 @@ Halcyra's mount. It attacked the party first, then became theirs. [[NPCs/Penopol
 |---|---|
 | [[Session Notes/DND Session 6\|Session 6]] | Discovered as the anchor on the boat; fought the party; subdued with fire and earth magic; fell asleep on the hole it made; traveled through the underworld elevator |
 | [[Session Notes/DND Session 7\|Session 7]] | Halcyra used it for Athletics advantage during the boat crash (rolled 16); came through the Gate of Ivory; arrived at X-salent |
+| Sessions 8–10 | Active as Halcyra's mount at X-salent (referenced in Halcyra's profile) |
+| Session 11+ | Party left X-salent; horse's location and status not documented in session notes |
 
 ---
 

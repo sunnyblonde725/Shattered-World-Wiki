@@ -1,5 +1,6 @@
 ---
 title: Reficul's Death Counter
+date: 2026-05-03
 tags: [dnd, shattered-world, reficul, fun]
 ---
 
@@ -88,7 +89,6 @@ tags: [dnd, shattered-world, reficul, fun]
 
 ## Open Questions
 
-- What actually killed him in Session 3? The stab didn't. He didn't drown. A medicine check of 21 found nothing. [NEEDS CONFIRMATION — flagged as open thread by DM]
 - Does each death advance the devil's deal? He said he is 1/100th done "after this adventure" (Session 7) — does each individual death count separately, or does an adventure count as a single unit?
 - His clothes keep being waiting for him. Someone knows he's coming. Who?
 

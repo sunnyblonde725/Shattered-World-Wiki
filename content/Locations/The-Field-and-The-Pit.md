@@ -1,5 +1,6 @@
 ---
 title: The Field and The Pit
+date: 2026-03-17
 tags: [dnd, shattered-world, location]
 ---
 

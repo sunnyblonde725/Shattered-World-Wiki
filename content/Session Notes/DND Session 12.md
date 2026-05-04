@@ -2,7 +2,7 @@
 title: "Session 12 — The Shadow Selves"
 session: 12
 dm: Cooper
-date: 2026-03
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-12]
 ---
 
@@ -505,16 +505,21 @@ Gunj offered a tissue box (giant owl-sized, then person-sized). He had one more 
 
 ## YouTube Edit Notes
 
-- **Opening:** Throne room aftermath is short but has the neon sign gag — good for comedy beat before the session turns dark
-- **The prisoner Bant** — his Shattering description is genuinely evocative; good for character-building or lore content
-- **The Liberators** — Elton's spokesperson energy and the "I was standing atop a guillotine platform after giving birth" moment is a highlight
-- **George in the tube / cannonball sinking** — physical comedy, solid edit material
-- **The full shadow therapy sequence** should probably be its own video; run them in character order with the music the players were using
-- **Mira walking into the dragon** — this is the image of the session; the DM's visible surprise is part of what makes it work
-- **Grungrak becoming physical and fading** — this will destroy people; needs its own quiet moment with no cutaways
-- **Mira and the contract** — the reveal that her father sold his soul is the lore hit of the session
-- **Halcyra's exit from the farmhouse** — the whispered "I promise I do love you" with the booming voice overhead works as a standalone scene
-- **Post-session: Cooper's creative process** — the Jung psychology to DND pipeline, the Jeff-the-therapist consultation to make sure he didn't traumatize his friends, the "I just had fun with the chains" admission — this is excellent behind-the-scenes content
+**Suggested cuts:**
+- **[00:00:00 - 00:00:10]** — Pre-session chatter about someone going to a bedroom before the game starts; dead air before the recap begins
+- **[00:05:02 - 00:05:10]** — Off-topic admin: player mentions a Google Drive task from "a month ago," game hasn't started yet
+- **[00:19:38 - 00:20:30]** — Out-of-game rules tangent: player asks if Mira can relearn Silence; turns into a Grungrak mechanics side-conversation; ~1 minute, game stalled
+- **[00:29:02 - 00:29:35]** — Off-topic tangent: players riff on Elton's real-world height and compare it to someone's dad; no game content
+- **[00:31:42 - 00:32:10]** — Players fixate on the word "boink," then briefly debate the Bible; funny but purely off-topic — editor's call
+- **[00:45:01 - 00:46:09]** — Extended tangent: whether the Liberators should dress as drag queens to approach the pirates; game paused; long enough to cut — editor's call
+- **[00:46:09 - 00:46:38]** — ~30-second gap with almost no audio; likely dead air or crosstalk
+- **[01:20:14 - 01:22:00]** — Bathroom break: one player leaves ("it's the only door on the left"), others fill time discussing the bird caste system; game stalled
+- **[01:46:22 - 01:47:28]** — Root beer spill; game pauses while someone cleans up
+- **[01:55:35 - 01:56:56]** — Off-topic tangent: one player talks about fly rail cue changes in their theater show; personal story entirely unrelated to the game
+- **[02:02:17 - 02:02:44]** — Someone leaves to move their car; brief but dead game time ("they need the Avalon")
+- **[02:21:39 - 02:22:01]** — Scheduling check: player mentions an alarm set for 5, wants to confirm there's enough time before starting the shadow sequence
+- **[02:23:01 - 02:26:56]** — Cooper explains Jungian shadow psychology out-of-character before beginning the sequence; ~4 minutes of meta-explanation with no roleplay; could be trimmed to a short intro or saved as a bonus segment — editor's call
+- **[03:51:36 - 03:52:07]** — Session wind-down: players decide to "just chit chat" with ~29 minutes left rather than continue; scheduling/wrap-up talk; nothing game-relevant
 
 ---
 

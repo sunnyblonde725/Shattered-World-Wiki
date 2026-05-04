@@ -255,6 +255,34 @@ After his shadow breakdown, Mira picked him up like a cat and held him while he 
 - **Chains of Eternity — used once this session (Session 14)** — used on Galveston; both were restrained; he took 14 damage. How many uses remain?
 - ~~**Kinlind soda can**~~ — found in Gbot'n's briefcase. Mira has it.
 
-*Last updated: Session 14*
+### Session 15 Update
+
+At Canary Park, Inquizo ordered a kid's meal. He received a **plastic canary toy** (press the beak, the wings flap) instead of food and was delighted. He stole half of someone's turkey leg [inferred].
+
+On the mine ride, he cut the rope tying himself to George so he could fly toward the glowing blue clock. He grabbed the **hour hand** and held on — was spun in repeated circles by the clock's momentum (STR check 12 → insufficient to stop it alone). He functioned as a brake and, combined with Mira's Mage Hand and two docile skeletons, the clock was stopped.
+
+He was deeply suspicious of the food at the tavern and did not eat there. He noted the spoon-carrying person in the crowd and associated them with cult activity.
+
+**New items:**
+- **Plastic canary toy** — kid's meal prize; presses beak, wings flap
+
+### Session 16 Update
+
+Inquizo was the only party member who passed the Wisdom save (natural 20) against the sleeping gas. While everyone else fell asleep, he flew upward to escape. He went invisible, followed the caravan of kidnappers, and kept watch as the party was loaded into the limousine wagon. He stole a gas mask from the back of the caravan and accidentally also stole a hamster.
+
+On the train, he threw the **blue clock** off the bridge into the ocean. It shattered on stone and opened a crack in reality — turning the sky blood-red, causing the capital city ahead to begin melting, and summoning hell creatures to the railway. He took 9 damage from the stained glass dragon's shard attack.
+
+At the market in Alastair, he bought: 10 fire ant jars (including 1 rainbow jar), and a **weird mirror** by trading a glass shard still embedded in his own body. *"It's still in me because I don't remember it."*
+
+**New inventory:**
+- Gas mask (stolen from caravan)
+- Hamster (accidentally stolen alongside the gas mask)
+- 10 fire ant jars (including 1 rainbow jar)
+- Weird mirror (traded body glass shard for it)
+
+**Open thread added:**
+- He threw the clock. The clock tower in Alastair is glowing blue and pulling the city apart. He caused this. OOC: do not break more clocks.
+
+*Last updated: Session 16*
 
 ---

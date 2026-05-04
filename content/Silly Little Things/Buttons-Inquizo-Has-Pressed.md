@@ -1,5 +1,6 @@
 ---
 title: Buttons Inquizo Has Pressed
+date: 2026-05-03
 tags: [dnd, shattered-world, inquizo, fun]
 ---
 
@@ -9,7 +10,7 @@ tags: [dnd, shattered-world, inquizo, fun]
 
 ---
 
-**Total buttons pressed / controls activated: 10** *(confirmed; miscellaneous panel buttons counted as one entry)*
+**Total buttons pressed / controls activated: 11** *(confirmed; miscellaneous panel buttons counted as one entry)*
 
 ---
 
@@ -24,6 +25,7 @@ tags: [dnd, shattered-world, inquizo, fun]
 | 8 | The button to open Starglass's glass case | Session 13 | Pressed it despite protests | Released Starglass — a fleshy-robotic construct connected to the ship by breathing tubes — from her containment case. George cast Healing Word on her. Her bioluminescent bug-eyes opened. She turned out to be (a) extremely important lore, (b) the ship's biological heart, and (c) crucial to getting the party to Sypium. Classic Inquizo: presses the button, accidentally advances the plot. |
 | 9 | Sail mechanism pin — the sail rigging control | Session 14 | Found the pin holding the sail pulley system in place and pulled it during the navigation puzzle | The pulley swung free and hit Inquizo directly in the face. The star medallion — which had been embedded in the sail rigging — came loose and dropped. Inquiry complete. Inquizo was hit in the face. Navigation progressed. The star medallion was recovered. Three of four medallions now placed. |
 | 10 | The grandfather clock hands | Session 14 | Went below decks alone, found the grandfather clock spinning wildly out of control, grabbed the hands, and turned them counter-clockwise | Time reversed to before the combat scene. The red sky cleared. Galveston and the Dobermans walked off the ship with no memory of the fight. The party kept their memories. Inquizo grabbed it the way he grabs everything — without asking what it was first — and accidentally turned back time. |
+| 11 | The mine clock's hour hand | Session 15 | Cut his rope, flew to the glowing blue clock at the end of Canary Park's mine track, grabbed the spinning hour hand | Was spun in repeated circles. Did not let go. Functioned as a brake. Combined with Mira's Mage Hand and two cooperative skeletons, the clock was stopped. The sheep-dragon lost its power source. This is the second grandfather clock Inquizo has grabbed without asking what it does first. |
 
 ---
 

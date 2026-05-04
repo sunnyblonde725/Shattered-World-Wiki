@@ -1,5 +1,6 @@
 ---
 title: Letter — Liz to Iskander (April 16th)
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, letter, liz, iskander, larkin]
 source: Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [letter-page]

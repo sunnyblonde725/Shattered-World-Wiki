@@ -2,7 +2,7 @@
 title: "Session 01 — The Carnival Trick"
 alt_title: "The Waking Strangers"
 session: 1
-date: unknown
+date: 2026-03-17
 tags: [dnd, shattered-world, session-notes, session-1]
 ---
 

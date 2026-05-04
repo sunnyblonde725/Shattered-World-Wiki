@@ -1,5 +1,6 @@
 ---
 title: "Session 14 — The Red Sky"
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-14]
 created: 2026-03-21
 ---
@@ -142,7 +143,7 @@ An **insectoid growth covered his left eye**. The four dobermans began tearing a
 - **George** — Rod of Persephone + Plant Growth → three nymphs emerged and became trees, forming a wall across the doorway
 - **Inquizo** — Cunning Action, stealth roll **24**, hid successfully
 - **Halcyra** — **Aid spell** (+5 HP each to three allies = +15 total)
-- **Mira** — **Hold Person** (Galveston saved with an 18 — failed [NEEDS CONFIRMATION])
+- **Mira** — **Hold Person** (Galveston saved with an 18 — failed)
 - **Mira** — **Mind Spike** (succeeded — the insect fell off Galveston's eye; mind leaked from his ears and eyes; Galveston was restrained)
 - **Inquizo** — jumped onto Galveston's back
 - **Chains of Eternity** — wrapped Galveston; he was restrained; Inquizo was restrained alongside him (same chain)
@@ -263,7 +264,7 @@ Session ended: *"Next time on Dragon Ball Z."*
 | CON save | Inquizo | 19 | Star medallion smacking him in the face (1 damage) |
 | CON save | Party | Various | Valve jump |
 | Stealth | Inquizo | 24 (Cunning Action) | Hiding during Galveston combat |
-| Hold Person | Mira | Galveston saved 18 (failed) [NEEDS CONFIRMATION] | Attempt to restrain Galveston |
+| Hold Person | Mira | Galveston saved 18 (failed) | Attempt to restrain Galveston |
 | Mind Spike | Mira | Succeeded | Insect fell off Galveston's eye; mind leaked from ears/eyes |
 | Nat 20 × 2 w/ disadv | Galveston | 13 slashing + 10 acid | Self-attack while chained to Inquizo |
 | Chains of Eternity + Snare Strike | Inquizo + Halcyra | — | Restrain → Bow of Dusk radiant burst → arm off |

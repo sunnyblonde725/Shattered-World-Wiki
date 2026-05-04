@@ -1,5 +1,6 @@
 ---
 title: Reverie
+date: 2026-03-28
 tags: [dnd, shattered-world, npc]
 ---
 

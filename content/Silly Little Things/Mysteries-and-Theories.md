@@ -1,5 +1,6 @@
 ---
 title: Mysteries & Theories
+date: 2026-05-03
 tags: [dnd, shattered-world, theories, lore]
 ---
 
@@ -68,7 +69,7 @@ tags: [dnd, shattered-world, theories, lore]
 **What we know:** In Persephone's forest, in the underworld, Grungrak ate multiple pomegranate seeds. In Greek mythology — which this campaign runs on — eating pomegranate in the underworld binds you there. Persephone herself ate six seeds and must spend six months of each year in the underworld as a result. Grungrak has eaten multiple seeds and is now out of the underworld. The DM knows what this means. No one at the table has said it aloud. Nothing has happened yet.
 
 **Leading theories:**
-1. The seeds are a slow fuse. The underworld has a claim on Grungrak now, and at some future moment — perhaps at the worst possible time — that claim will assert itself. He will be pulled back. He will be called. And unlike Persephone's six months, nobody knows the terms of Grungrak's deal because Grungrak didn't know he was making one.
+1. The seeds are a slow fuse. The underworld has a claim on Grungrak now, and at some future moment — perhaps at the worst possible time — that claim will assert itself. He will be pulled back. He will be called. And unlike Persephone's six months, nobody knows the hold the underworld has on Grungrak because Grungrak didn't know he was making one.
 2. The seeds are the prophecy's hammer. His prophecy stanza says *When hammer breaks on the dragon's scale.* He's been carrying the shards of his hammer. Maybe the pomegranate seeds are the mechanism — the thing that breaks the hammer, or breaks him, or forces a confrontation with whatever fate was set for him underground.
 3. The seeds are something Persephone allowed because she needed him to carry them back out. She's a goddess. She knew what he was eating. If she didn't stop him, she either didn't care, or she wanted this outcome.
 

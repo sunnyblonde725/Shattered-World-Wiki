@@ -291,6 +291,30 @@ After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat
 - **Bermuda Foundation is burning (Session 14)** — the Doctor's base was on fire when they arrived. What does Mira think about this? What does it mean for the Doctor's operations?
 - **Glass case creature (Session 14)** — a burned, wire-connected humanoid with many eyes was inside the second glass case. Mira interacted with it [NEEDS CONFIRMATION — who was present in the room]; the creature had the sun medallion.
 
-*Last updated: Session 14*
+### Session 15 Update
+
+Mira was the first to correctly identify that the party had experienced time distortion in the mine ride — they were inside for approximately ten minutes, but Liz had been waiting for two hours. She laid out the pattern to the party: first time reversal (Session 14 clock), then time moving forward (Liz said she searched the whole manor), now this. Something is actively happening with time.
+
+She used **Mage Hand** to stop the second hand of the glowing blue clock at the end of the mine track. This contributed to stopping the clock and ending the skeleton/Stuart threat (George cast Plant Growth simultaneously; Inquizo grabbed the hour hand).
+
+Liz gave Mira **cotton candy** at the fair — she accepted it. This was a small warm moment.
+
+At the tavern, Mira was the one who first tried to engage with Gbot'n's scheme when he arrived — she started explaining that Constance's manor had kids who didn't know how to cook and Dex was on the ship, but Gbot'n floated away before she could finish.
+
+**New items:** None this session.
+
+### Session 16 Update
+
+Mira failed her Wisdom save (rolled 5) and became the most affected by the sleeping gas. The fat finch Cuckoo landed on her head. She attempted to remove it with an acrobatics check — rolled a **natural 1** — and knocked herself unconscious. Cuckoo stayed. She woke when Halcyra shot her captor (captor dropped her). She then successfully pretended to be asleep (strong Deception roll) while being loaded into the limousine wagon.
+
+Inside the wagon, she cast **Hold Person** on the guard about to cuff her — the guard failed the save (rolled 2) and went paralyzed.
+
+At the market in Alastair, she bought:
+- **Alchemist's tool belt** — comes loaded with 2 alchemist fire, 2 acid, 1 antitoxin; replenishes on long rest
+
+**New inventory:**
+- **Alchemist's tool belt** (2 alchemist fire, 2 acid, 1 antitoxin; long rest replenish)
+
+*Last updated: Session 16*
 
 ---

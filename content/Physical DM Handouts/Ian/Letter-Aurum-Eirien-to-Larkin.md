@@ -1,5 +1,6 @@
 ---
 title: Letter — Aurum Eirien to Alistair Larkin
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, larkin, letter, aurum-eirien]
 source: Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [letter-page]

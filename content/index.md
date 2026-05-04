@@ -1,5 +1,6 @@
 ---
 title: A Shattered World
+date: 2026-05-03
 ---
 
 *A campaign wiki for The Betrayers.*
@@ -17,8 +18,8 @@ title: A Shattered World
 
 ---
 
-> [!info] Currently
-> The party is aboard an airship, heading toward Sypium — four members strong, carrying more questions than answers, and a piece of Starglass that may change everything.
+> [!info] Currently — After Session 16
+> The party stands on a platform at the edge of Alastair, facing a cliffhanger: a boy with burnt skin and growing claws blocking their path, a silver-armored knight between them and The Prophetess. Reficul stayed behind in the island city. The party is four.
 >
 > [[Status Board|→ Full Status Board]]
 
@@ -54,6 +55,11 @@ title: A Shattered World
 > - [[NPCs/Starglass|Starglass]]
 > - [[NPCs/Dex|Dex]]
 > - [[NPCs/Penopolis|Penopolis]]
+> - [[NPCs/Valu-Aeolus|Valu]]
+> - [[NPCs/The-Doctor|The Doctor]]
+> - [[NPCs/Alias|Alias]]
+> - [[NPCs/The-Prophetess|The Prophetess]]
+> - [[NPCs/The-Blood-Angel|The Blood Angel]]
 > - [[NPCs/Minor-NPCs|All Minor NPCs →]]
 
 ---
@@ -66,6 +72,10 @@ title: A Shattered World
 > - [[Locations/Voxus|Voxus]]
 > - [[Locations/Sypium|Sypium]]
 > - [[Locations/Pmurts-Airship-Starglass|Pmurt's Airship — Starglass]]
+> - [[Locations/The-Field-and-The-Pit|The Field & The Pit]]
+> - [[Locations/The-Underground-Hell|The Underground]]
+> - [[Locations/The-Shrine-of-Persephone|The Shrine of Persephone]]
+> - [[Locations/The-Gate-of-Ivory|The Gate of Ivory]]
 > - [[Locations/Minor-Locations|All Locations →]]
 
 ---
@@ -91,3 +101,6 @@ title: A Shattered World
 > - [[Session Notes/DND Session 11|Session 11]]
 > - [[Session Notes/DND Session 12|Session 12]]
 > - [[Session Notes/DND Session 13|Session 13]]
+> - [[Session Notes/DND Session 14|Session 14]]
+> - [[Session Notes/DND Session 15|Session 15]]
+> - [[Session Notes/DND Session 16|Session 16]]

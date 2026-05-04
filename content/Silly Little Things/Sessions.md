@@ -1,11 +1,12 @@
 ---
 title: Sessions
+date: 2026-05-03
 tags: [dnd, shattered-world, sessions]
 ---
 
 # Sessions
 
-*14 sessions. A shattered world. Everything went wrong in the best possible way.*
+*16 sessions. A shattered world. Everything went wrong in the best possible way.*
 
 ---
 
@@ -132,5 +133,23 @@ tags: [dnd, shattered-world, sessions]
 **Where it left them:** On the burning grounds of Bermuda Foundation, Galveston's arm blown off but not confirmed dead (he walked off the ship when the red sky cleared), the Doctor presumably on his way back, and Inquizo holding a clock that was not supposed to be held.
 
 [[Session Notes/DND Session 14|Read the full notes →]]
+
+---
+
+## Session 15 — Stuart Returns
+**Tagline:** The party opens a fog-filled locked study, frees a former judge trapped in a time loop, learns that the Doctor's expedition killed Millaphera's family, and then rides a mine train into a fire-breathing sheep dragon named Stuart.
+**Best moment:** George wins three consecutive whiskey-bottle drinking contests (CON 19, 16, 16), wins the wrestling match via Cutting Words, earns 400 gold, and is described as "only slightly beginning to feel it." He then immediately throws up on a roller coaster.
+**Where it left them:** Walking toward a mysterious winged woman's safehouse in the Doctor's district, with a 17-year-old caretaker in tow, a plastic canary toy, a magical set of pan pipes that summon people named Aspen, and the confirmed knowledge that grandfather clocks keep appearing everywhere and time keeps going wrong.
+
+[[Session Notes/DND Session 15|Read the full notes →]]
+
+---
+
+## Session 16 — The World Untrue
+**Tagline:** The entire party falls asleep on the road, wakes up cuffed in a limousine wagon, throws a glowing clock off a bridge, turns the sky red, fights a stained glass dragon, and crashes into a capital city bathhouse where Gbot'n is eating a wet croissant.
+**Best moment:** Inquizo throws the blue clock off the bridge (acrobatics 21). The sky goes red. The sun disappears. A stained glass dragon emerges from the tunnel wall. Two prophecy stanzas come true in real time. The party survives. The sky comes back. Nobody acknowledges how insane that was.
+**Where it left them:** On a platform at the edge of Alastair — the capital of Errolon — staring at the Prophetess they've been looking for, a boy with burnt skin and growing claws who says "you can't take her from me," and a silver-armored knight raising a war hammer.
+
+[[Session Notes/DND Session 16|Read the full notes →]]
 
 ---

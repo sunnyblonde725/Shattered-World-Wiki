@@ -1,7 +1,7 @@
 ---
 title: "Session 13 — The Betrayers"
 session: 13
-date: unknown
+date: 2026-03-28
 tags: [dnd, shattered-world, session-notes, session-13]
 ---
 

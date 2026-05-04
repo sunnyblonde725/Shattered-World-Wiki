@@ -1,5 +1,6 @@
 ---
 title: Dumb Decisions That Worked
+date: 2026-05-03
 tags: [dnd, shattered-world, fun, hall-of-fame]
 ---
 
@@ -9,7 +10,7 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 
 ---
 
-**Inductees: 12**
+**Inductees: 13**
 
 ---
 
@@ -134,6 +135,20 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 **Why It Was Dumb:** He grabbed a spinning clock. That's it. That was the plan.
 **What Actually Happened:** The hands stopped. The rusting slowed. Starglass's breathing steadied. Gbot'n deployed dozens of mage hands to help hold them in place. The session ended with Inquizo and a pug holding a clock together in a rusting cargo hold as the session ended.
 **Verdict: Worked.** Sometimes "this is stupid" is all the justification you need.
+
+---
+
+**Inquizo grabbing the mine clock's hour hand (Session 15)** — The clock was spinning. The hands were dangerous (one of the Aspens grabbed the spinning hands and was flung off a cliff). Inquizo flew over, grabbed the hour hand, and was spun in circles. Repeatedly. What he had going for him was body weight and stubbornness. He didn't stop the clock on his own, but his braking combined with Mira's Mage Hand and two docile skeletons stopped it together. He was spun in circles for the duration. He did not let go. The clock stopped. **Verdict: Worked.** Unheroic persistence is still persistence.
+
+---
+
+### 13. Throwing the Clock Off the Bridge
+**Who:** Inquizo
+**Session:** Session 16
+**The Decision:** There was a glowing blue clock bolted to the underside of a bridge over a very long drop. Inquizo climbed out onto the railing, balanced on it (acrobatics 21), and threw the clock off. He had already been told that breaking these clocks makes things worse. He had already watched what the Starglass clock did. He threw it anyway.
+**Why It Was Dumb:** Every clock the party has encountered has caused reality-warping consequences when tampered with. One reversed time. One created a time loop. One distorted relative time. The pattern was clear. Inquizo climbed out onto a bridge railing over nothing and threw the clock into the void.
+**What Actually Happened:** The sky went red. The sun disappeared. A stained glass dragon burst through the tunnel wall and took 9 damage points off Inquizo. The two prophecy stanzas that had been lingering as "metaphor" — *dragon scale shining in your eye* and *the sky's untrue* — came true simultaneously. The party survived. The sky came back. The train pulled into Alastair. Nobody acknowledged how insane that was.
+**Verdict: Worked.** Technically. Everyone is alive and they're in the capital. Whether "turned the sky red and triggered two prophecy events" counts as "working" depends on your definition.
 
 ---
 

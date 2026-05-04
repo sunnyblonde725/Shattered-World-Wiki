@@ -1,5 +1,6 @@
 ---
 title: Inquizo's Hat Collection
+date: 2026-03-22
 tags: [dnd, shattered-world, inquizo, fun]
 ---
 

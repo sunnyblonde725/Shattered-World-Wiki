@@ -223,6 +223,8 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 - River Styx pearl
 - Sending Stone (from Valu)
 - Bow of Dusk (from the old man at her paladin oath)
+- **Embroidery** — chance to restore divine power via prayer (bought at Alastair market, Session 16)
+- **Metal horse** — Poseidon's grandson; Halcyra's mount since Session 6; grants advantage on Athletics checks; does not need to breathe
 
 ### Armor Training & Proficiencies
 
@@ -306,6 +308,36 @@ Halcyra covered Inquizo with her wings when the ship's pressure valve caused a f
 - **Bermuda Foundation is on fire (Session 14)** — the Doctor's base was burning when they arrived. Did they cause this accidentally? Is it a trap? Is someone else involved?
 - **Aid spell and combat prep (Session 14)** — used the long rest before arriving at Bermuda Foundation; party arrived with full resources [confirm Aid cast attribution]
 
-*Last updated: Session 14*
+### Session 15 Update
+
+At Canary Park, the party met **Alia** — daughter of Arcus (the lighthouse keeper from the island). Alia gave Halcyra a set of **wooden pan pipes** she had made herself. When Halcyra played them, three people who called themselves "Aspen" appeared. The Aspens stayed with the party through the mine ride and were directed by Halcyra to help stop the clock at the end of the track.
+
+In the mine ride, **Stuart** the green sheep (from the Session 5 cult encounter) reappeared — transformed into a fire-breathing dragon by a **glowing scarab** attached to his skull. Halcyra cut the scarab off with her sword (STR check 13 → success), freeing Stuart from whatever was controlling him.
+
+**New inventory items:**
+- **Pan pipes** — wooden, made by Alia; magical; summons three "Aspens" when played; origin and nature of the Aspens unknown
+
+**Open thread added:**
+- **The Aspens** — who or what are they? Their appearance from the pan pipes suggests a divine or magical summons, possibly connected to Apollo or another nature god. They helped stop the mine clock. No in-world explanation yet.
+
+### Session 16 Update
+
+In Eustace, Halcyra failed her Wisdom save against the sleeping gas and became drowsy (half movement). She woke while being carried by a tall buff woman during the kidnapping attempt, used **Enthralling Strike** on the woman — vines tangled up her captor and she fell paralyzed. The woman said *"I'm trying to get you out of here."* Halcyra also shot Mira's captor to free her. Halcyra was loaded into the limousine wagon anyway.
+
+Inside the wagon, she cuffed the wagon guard after Mira cast Hold Person (guard rolled 2, paralyzed), and took 3 extra pairs of handcuffs. No key was found.
+
+At the Alastair market, Halcyra bought **embroidery** — when held during prayer, has a chance to restore her divine power as an action.
+
+On the train, Halcyra removed the Pmurt-face disguises from all five statues. The fifth statue has a different god — a kindly old man with a big beard, holding an open book with a play/pause button insignia. Cooper (George's player) identified this as a god from his own world.
+
+**New inventory items:**
+- **Embroidery** — chance to restore divine power via prayer (Alastair market)
+
+**New open threads:**
+- The fifth statue's god — who is the kindly old man with the open book? (a god from Cooper/George's world)
+- The Prophetess — Halcyra was first to recognize her; now at platform cliffhanger
+- The prophecy is coming true in real time: the stained glass dragon on the train matched *"When hammer breaks on dragon scale"*; the red sky matched *"the sky's untrue"*
+
+*Last updated: Session 16*
 
 ---

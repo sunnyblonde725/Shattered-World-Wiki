@@ -1,11 +1,14 @@
 ---
 title: A Shattered World — World State
+date: 2026-05-03
 tags: [dnd, shattered-world, world-state, reference]
 ---
 
 # A Shattered World — World State
 
-*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 14.*
+*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 16.*
+
+**Session 16 summary:** Party kidnapped by Amasia loyalists (Lila Monger); traveled by caravan + train to the capital Alastair. Inquizo threw a blue clock off a bridge, causing a crack in reality (red sky, city melting, hell creatures). Party crashed into a bathhouse, found Gbot'n NOT in prison, shopped in Alastair's market, and reached a platform at the city's edge where the Prophetess was found — a small white-haired girl being defended from a monster-boy by a False Knight. Session ends on cliffhanger. New lore: 5 statues (not 4); capital = Alastair; COG = Commonwealth Oversight Guild; Gore Harlow's organization; Eskander's identity.
 
 **Note:** The canonical NPC Registry, Location Index, and World Lore are maintained in `Claude References/` as split files. This document duplicates some of that content and may be less current for Sessions 12–13. Refer to the Claude References files for the most up-to-date information.
 
@@ -846,6 +849,6 @@ tags: [dnd, shattered-world, world-state, reference]
 
 ---
 
-*Last updated: Sessions 1, 10–12*
+*Last updated: Sessions 1, 10–14 (opening section only — see Claude References/ for current split files)*
 
 *[[Shattered World]]*

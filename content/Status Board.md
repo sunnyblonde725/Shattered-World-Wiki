@@ -1,5 +1,6 @@
 ---
 title: Status Board
+date: 2026-05-03
 tags: [dnd, shattered-world, status]
 ---
 
@@ -7,7 +8,7 @@ tags: [dnd, shattered-world, status]
 
 *Where things stand right now. Updated after every session.*
 
-*Last updated: after Session 13*
+*Last updated: after Session 16*
 
 ---
 
@@ -15,60 +16,54 @@ tags: [dnd, shattered-world, status]
 
 | Character | Location | Status |
 |---|---|---|
-| [[Character Profiles/Halcyra\|Halcyra]] | Aboard the airship, heading north | With party |
-| [[Character Profiles/Grungrak\|Grungrak / George]] | Aboard the airship, heading north | With party — still writing the Ballad of Mira |
+| [[Character Profiles/Halcyra\|Halcyra]] | Alastair — platform at the city's edge | With party — holding the prophecy scroll as two stanzas just came true |
+| [[Character Profiles/Grungrak\|Grungrak / George]] | Alastair — platform | With party — recognized the 5th statue's god and hasn't said how |
 | [[Character Profiles/Reficul\|Reficul]] | The Island City | **SEPARATED** — staying behind to help the city stabilize |
-| [[Character Profiles/Inquizo\|Inquizo]] | Aboard the airship, heading north | With party — now impersonating King Pmurt to the ship AI |
-| [[Character Profiles/Mira\|Mira]] | Aboard the airship, heading north | With party — reading the prophecy; thinking hard |
+| [[Character Profiles/Inquizo\|Inquizo]] | Alastair — platform | With party — just turned the sky red and summoned a stained glass dragon |
+| [[Character Profiles/Mira\|Mira]] | Alastair — platform | With party — first to recognize the Prophetess |
 
 **Party size:** 4 (Reficul stayed behind)
 **Party level:** 6
-**Current DM:** Cooper (George)
+**Current DM:** Ian
 
 ---
 
-## Where Is the Party Going?
+## Where Did They Just Come From?
 
-> [!warning] Next Destination — [[Locations/Sypium|Sypium]]
-> A city to the north, past several islands, near mountains. Numgis is heading there. The Doctor's ship was heading there. Haki and the glowing prophetess are heading there. The mechanism to unseal the God of Dreams may be there.
+The party arrived by train after being kidnapped in Eustace, escaping from a wagon, and riding through a bridge where Inquizo threw a glowing blue clock into the void. The sky turned red. A stained glass dragon attacked. They survived. Two lines from Halcyra's prophecy scroll came true in real time on the train.
+
+---
+
+## The Cliffhanger
+
+> [!danger] Right Now — Platform Confrontation
+> The Prophetess is standing on the platform. Between her and the party:
+> - A **boy with burnt skin and growing claws** — *"You can't take her from me."*
+> - A **knight in silver armor** with a war-hammer engraved with trees and crystals
 >
-> The party doesn't fully know what they're flying into.
+> Nobody knows who these people are. The session ended here.
 
 ---
 
 ## Active Threats
 
 > [!danger] High Priority
-> - **[[NPCs/Durf-Numgis|Numgis]]** — Already ahead of the party, heading north. Working with the nightmare entity to unseal Yomi, the imprisoned God of Dreams.
-> - **[[NPCs/King-Pmurt|King Pmurt]]** — Escaped the throne room fight. Wounded, furious, and missing part of himself. He has the party's ship and Inquizo has his crown.
-> - **[[NPCs/The-Doctor|The Doctor]]** — Unknown location. Modified Starglass. Connected to Numgis. "A different man underneath his skin."
+> - **[[NPCs/Durf-Numgis|Numgis]]** — Went north to unseal the God of Dreams (Yomi). Already ahead of the party. The clock malfunction in Alastair may be connected.
+> - **The monster-boy on the platform** — Unknown identity. Could be Haki (Starglass's brother who went north to protect the Prophetess).
 
 > [!warning] Medium Priority
-> - **Something is attacking [[NPCs/Alias|Alias]]** — The pirate captain from the very beginning of the campaign is beached and wounded, currently fighting something unknown.
-> - **Island City instability** — Reficul is alone trying to hold things together. Gunj is being sent to help.
-> - **The cave civilization near Sypium** — The Doctor's dossier turned violent toward them. Are they a threat, or victims of one?
-
----
-
-## What's On the Ship?
-
-| Item / Person | Location | Notes |
-|---|---|---|
-| **[[NPCs/Starglass\|Starglass]]** | Glass case, cargo hold | Breathing for the ship via pipes. Daughter of Malafera. |
-| **Second glass case** | Under a tapestry, cargo hold | Foggy blue glow inside. Unopened. Shows sun, rays, wings, sheep. |
-| **Thorin Statue** | Cargo hold | Shed one tear at the island city. Needs to reach its people. |
-| **[[NPCs/Dex\|Dex]]** | Captain's quarters | 19 years old. Traumatized. Asleep. Has critical intel on Numgis. |
-| **Pmurt's dossiers** | Near the helm | Shift handwriting mid-document — colonial text turns to rune alphabet, turns violent |
-| **Grandfather clock** | Below deck | Only the second hand moves. Nobody knows why. |
+> - **[[NPCs/The-Doctor|The Doctor]]** — Unknown location. His base in Bermuda Foundation was on fire when the party arrived. He doesn't know they know about him.
+> - **[[NPCs/King-Pmurt|King Pmurt]]** — Escaped wounded. Still out there.
+> - **Something is attacking [[NPCs/Alias|Alias]]** — Beached, wounded, fighting something unknown.
 
 ---
 
 ## Open Questions (Top 5)
 
-1. **What is in the second glass case?**
-2. **Who or what is attacking Alias — and can the party reach her in time?**
-3. **What is waiting for them in Sypium?**
-4. **Who is the Doctor, really?** *("A different man underneath his skin.")*
-5. **Where is Malafera?**
+1. **Who is the boy with burnt skin on the platform?** *(Haki? Possessed? Something else?)*
+2. **Who is the silver knight?**
+3. **What does the Prophetess know — and what is she carrying?**
+4. **Who is the kindly old man in the 5th statue?** *(George recognized him and said nothing)*
+5. **What does Numgis need to do to finish unsealing Yomi?**
 
 *For the full list of unresolved threads, see [[Claude References/Unresolved Threads|Unresolved Threads]].*

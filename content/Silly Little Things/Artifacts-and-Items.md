@@ -1,5 +1,6 @@
 ---
 title: Artifacts & Items
+date: 2026-05-03
 tags: [dnd, shattered-world, items, lore]
 ---
 
@@ -242,5 +243,119 @@ These three items came off (or out of) the blood angel the party fought in Hell.
 
 ---
 
-*Page last updated: Session 14*
+---
+
+## The Pan Pipes — Alia's Gift
+
+**Who has it:** Halcyra
+**First appeared:** Session 15 (given by Alia at The Eustace)
+**What it is:** Wooden pan pipes made by Alia (daughter of Arcus the lighthouse keeper). When Halcyra plays them, three people appear — all of whom call themselves "Aspen." The Aspens cooperated with the party in the mine ride and helped stop the glowing blue clock.
+**What we know:** Alia made them herself. The DM noted them as magical when Halcyra played. Three Aspens appeared immediately. They stayed through the mine encounter. Their nature — divine, spirit, nature entity — is unknown. The name "pan pipes" invoked Pan (nature god) in the scene, though the DM clarified Pan is not a god in this world.
+**What we don't know:** What the Aspens are. Whether Halcyra can direct them. What happens if she plays the pipes in a dangerous situation. Whether they're connected to Apollo, to Alia's maker-magic, or to something else.
+**Status:** Halcyra's possession
+
+---
+
+## The Scarab — From Stuart's Skull
+
+**Who has it:** Party (not yet assigned to specific character)
+**First appeared:** Session 15 (on Stuart's skull in Canary Park mine)
+**What it is:** A glowing scarab that was attached to the skull of Stuart the sheep by an organic tendon. Caused Stuart to transform into a fire-breathing winged dragon. Removed by Halcyra. When removed, Stuart was freed and the skeletons nearby became immediately neutral.
+**What we know:** Same mechanism as Galveston's eye insect (Session 14) and the Doctor's "different man underneath his skin" (Session 13). Three confirmed instances of insectoid possession. The scarab appears to control the host via a biological connection. It may be related to the Doctor's network.
+**What we don't know:** Whether the scarab is still "active" now that it's removed. Whether it can be used as a tracker, a weapon, or a source of information. Where it fits in the Doctor's larger possession system.
+**Status:** In party's possession — purpose unknown
+
+---
+
+## Inquizo's Plastic Canary Toy
+
+**Who has it:** Inquizo
+**First appeared:** Session 15 (kid's meal prize at Canary Park tavern)
+**What it is:** A plastic toy canary. Press the beak and it flaps its wings.
+**What we know:** It is a canary. It flaps. It is from the Canary Park branded kid's meal.
+**What we don't know:** Nothing. It's a toy. (Unless it isn't.)
+**Status:** Inquizo's possession
+
+---
+
+---
+
+## Mira's Alchemist Tool Belt — Session 16 Acquisition
+
+**Who has it:** Mira
+**First appeared:** Session 16 (bought at Alastair market)
+**What it is:** A tool belt that comes pre-loaded with alchemical supplies — 2 alchemist's fire, 2 acid, 1 antitoxin. Replenishes after a long rest.
+**What we know:** Mira bought it in the Alastair market. It restores its stock on a long rest, making it a reliable supply of utility throwables.
+**What we don't know:** Whether it has any additional properties beyond the stated loadout.
+**Status:** Mira's possession
+
+---
+
+## Mira's Embroidery — Prayer Power
+
+**Who has it:** Halcyra
+**First appeared:** Session 16 (bought at Alastair market)
+**What it is:** A piece of decorative embroidery that, when held during prayer, has a chance to restore Halcyra's divine power as an action.
+**What we know:** Halcyra bought it at the Alastair market. Functions as a divine recharge tool tied to her prayer mechanic.
+**What we don't know:** What the exact probability is. Whether repeated use has diminishing returns.
+**Status:** Mira's possession
+
+---
+
+## Inquizo's Gas Mask — Stolen Property
+
+**Who has it:** Inquizo
+**First appeared:** Session 16 (stolen from a kidnapper's caravan)
+**What it is:** A gas mask, presumably designed to protect against the sleeping-sickness gas used by the albino man's operation.
+**What we know:** Inquizo stole it from the caravan while invisible. It also came with an accidental hamster (see below).
+**What we don't know:** Whether it provides protection against future sleeping-sickness exposure specifically.
+**Status:** Inquizo's possession
+
+---
+
+## Inquizo's Accidental Hamster
+
+**Who has it:** Inquizo
+**First appeared:** Session 16 (accidentally acquired alongside the gas mask)
+**What it is:** A hamster. It was attached to or inside the gas mask somehow. Inquizo did not intend to steal it. He now has it.
+**What we know:** Accidental. It is a hamster.
+**What we don't know:** Why the hamster was there. Whether it has any significance. Whether anyone is going to notice they're missing a hamster.
+**Status:** Inquizo's possession (unwilling)
+
+---
+
+## Inquizo's Fire Ant Jars (x10, 1 Rainbow)
+
+**Who has it:** Inquizo
+**First appeared:** Session 16 (bought at Alastair market)
+**What it is:** Ten jars of fire ants — nine standard, one rainbow. Currency note: ~10 arrow = 1 gold piece.
+**What we know:** Purchased. One is rainbow, which presumably means its contents are different or more potent in some way.
+**What we don't know:** What fire ants do when deployed (weaponized? trap? distraction?). What makes the rainbow jar special.
+**Status:** Inquizo's possession
+
+---
+
+## Inquizo's Weird Mirror
+
+**Who has it:** Inquizo
+**First appeared:** Session 16 (bought at Alastair market, traded glass shard still technically inside his own body)
+**What it is:** A mirror described as "weird." Inquizo paid for it by trading a glass shard that was still embedded in his body. The market vendor accepted this.
+**What we know:** It is weird. Inquizo wanted it. The acquisition involved minor self-surgery as a transaction.
+**What we don't know:** What it does. Whether it has magical properties. Whether the market vendor knew something about it they didn't share.
+**Status:** Inquizo's possession
+
+---
+
+## George's Wrist Crossbow
+
+**Who has it:** George (Grungrak)
+**First appeared:** Session 16 (bought at Alastair market)
+**What it is:** A wrist-mounted crossbow with 100-bolt capacity. George also purchased 34 bolts to go with it.
+**What we know:** Bought in Alastair. 34 bolts acquired at purchase; capacity is 100.
+**What we don't know:** Whether the crossbow has any special properties beyond being strapped to his wrist.
+**Status:** George's possession
+
+---
+
+*Page last updated: Session 16*
 *[[World State]] | [[Character Profiles]] | [[Shattered World]]*

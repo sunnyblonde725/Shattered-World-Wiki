@@ -247,6 +247,34 @@ Inquizo stole the core of George's broken hammer and still has it. When George p
 - **Session 14 navigation assist** — Inquizo yanked the sail pins; the rigging swung and the star medallion came loose — it hit Inquizo in the face on the way out, then fell to the deck. Placed in the navigation circle.
 - **Navigation puzzle progress (Session 14)** — three medallions now in the circle (sun, moon, star); the gear medallion is still missing. The party can't set a destination until all four are slotted.
 
-*Last updated: Session 14*
+### Session 15 Update
+
+George was the undisputed champion of Canary Park's unnamed tavern. He challenged a large man named **Anson** (Gambison armor) to three consecutive whiskey-bottle-drinking contests and won all three (CON saves: 19, 16, 16 — with advantage on the third). He then used **Cutting Words** to subtract 8 from Anson's wrestling roll and won that too by a tie-break. Earned approximately **400 gold/arrows** across all four competitions. He was tipsy but functional.
+
+On the mine ride, he threw up. The vomit arc hit a stranger sitting next to Liz (she dodged). The carts then separated and he found himself facing Stuart — now a sheep-dragon. He cast **Plant Growth** to vine-jam the blue clock at the end of the track — vines grew inside, the clock face fell off, and a cuckoo popped out.
+
+At the end of the session, introduced Liz to the idea of cooking lessons from **Dex** (the ship's chef).
+
+**New items:** None this session.
+
+### Session 16 Update
+
+George failed his Wisdom save against the sleeping gas and became drowsy (half movement). In his drowsy state, he swung his hammer at the albino man's wrist — connected — and smashed the man's wrist and hand into the ground. As his last waking act, he used **Enthralling Brawl**, causing 21 of the 24 cloaked kidnappers to stop and enjoy the show. Then fell fully asleep.
+
+He was carried to the wagon by four kidnappers due to his size. He was woken by saxophone music and immediately ate sausages and eggs. He stared at the paralyzed guard and said: *"I'm the captain now."*
+
+At the market in Alastair, he bought a **wrist crossbow** and **34 crossbow bolts**.
+
+**New abilities seen in play:**
+- **Enthralling Brawl** — caused 21 of 24 targets to stop and watch his performance; significant area crowd control
+
+**New inventory:**
+- **Wrist crossbow** (100 arrow)
+- **34 crossbow bolts**
+
+**New open thread:**
+- The **fifth statue** — the kindly old man with the book and play/pause insignia. Cooper (George's player) identified this as a god from his own world — not George's in-game backstory. What does this god represent?
+
+*Last updated: Session 16*
 
 ---

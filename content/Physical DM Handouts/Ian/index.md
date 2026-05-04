@@ -1,13 +1,14 @@
 ---
-title: Physical DM Handouts
-tags: [dnd, shattered-world, handouts, props]
+title: Ian's Handouts
+date: 2026-04-19
+tags: [dnd, shattered-world, handouts]
 ---
 
-*Physical documents handed to players by the DM. Each item below is a readable transcription of an original physical handout or scan.*
+*Handouts provided by Ian. Each item is a readable transcription of a physical document handed to the players.*
 
 ---
 
-## "Property of Dr. Allistaire Larkin" — Session 15 (Ian)
+## "Property of Dr. Allistaire Larkin" — Session 15
 
 | Document | File |
 |----------|------|
@@ -23,7 +24,3 @@ tags: [dnd, shattered-world, handouts, props]
 | Letter: Liz to Iskander (April 16th, from Paradise Manor) | [[Letter-Liz-to-Iskander]] |
 | Letter: Iskander to Liz (from Cadet service) | [[Letter-Iskander-to-Liz]] |
 | Pleasant Publishing newspaper — Year 1717 | [[Pleasant-Publishing-Newspaper-1717]] |
-
----
-
-*Some physical scans have not yet been transcribed — ask Ian if additional documents exist.*

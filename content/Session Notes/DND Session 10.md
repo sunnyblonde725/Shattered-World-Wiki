@@ -1,7 +1,7 @@
 ---
 title: "Session 10 — The Thing That Eats"
 session: 10
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-10]
 ---
 
@@ -355,12 +355,9 @@ Session ended at approximately **3:28 real-time** for Hero Forge character creat
 
 ## YouTube Edit Notes
 
-- **Cold open candidate**: The caravan wagons getting instantly coated in goop as they cross the gate — hard cut from "normal morning" to "black goop everywhere"
-- **Best lore moment**: Salt is white gold — freshwater surface oceans, only two salt sources in the world. Grounding worldbuilding that makes X-salent feel real.
-- **Best dramatic beat**: The creature's kill sequence — Reficul as a kobold launches a mote of radiant light, both heads explode, body becomes goop. It should NOT have worked. It absolutely worked.
-- **Best horror moment**: The creature desperately trying to put out a fire that wasn't there, screaming in overlapping voices with drowning sounds underneath
-- **Best emotional beat**: George's description of the original Grungrak: *"now it's in our river."* Don't rush past this one.
-- **Understated hit**: Halcyra is 18. She left home over her mother's feelings about Apollo. That's a lot of weight in very few words.
-- **Comedy highlight**: The wagon rune translation going from *"catalyst, return, sleep"* directly to *"dinosaur cheesecake"*
-- **Cliffhanger edit**: End on the dark shadow marks in Halcyra's arm — something is still in there
-- **Transition note**: Reficul's card game reveal (hands moved on their own, writing before speaking) is perfect to cut directly to the wall writing mystery — the visual connection is sitting right there
+**Suggested cuts:**
+- **[00:00:00 - 00:07:00]** — Pre-session off-topic chatter: video games (Repo, Stardew Valley), charging cords, temperature/fan complaints. Session doesn't actually start until ~7:00.
+- **[00:48:15 - 00:49:35]** — AFK break mid-card-game: player leaves to retrieve salad from car, another stops to feed a pet. Game fully paused; the "you get to ask a question" beat at 47:43 resumes cleanly at ~49:35 when play picks back up.
+- **[01:56:43 - 01:57:04]** — Hero Forge sale tangent mid-combat. One player mentions a Black Friday sale on Hero Forge and that it ends Monday. Brief but lands directly in the middle of the Burning Hands sequence. Editor's call — very short, may cut clean.
+- **[03:23:18 - 03:26:00]** — Off-topic tangent: group Discord quote book, "Brad Stone" rec center story. Session has wrapped narratively; this is pure hang-out conversation with no game content. Starts after the banana donkey jokes (which are worth keeping) and runs until the DM redirects back to the runes at ~03:26:00.
+- **[03:27:33 - end]** — Session stop logistics and Hero Forge character creation. Includes "we could stop here," fatigue check-in, and the shift into Hero Forge. Natural hard out point is around 03:27:33 after the Nightmare King speculation.

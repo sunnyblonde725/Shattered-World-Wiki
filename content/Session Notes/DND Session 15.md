@@ -1,5 +1,6 @@
 ---
 title: "Session 15 — Stuart Returns"
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-15]
 created: 2026-04-18
 ---
@@ -31,7 +32,7 @@ The party followed Constance into Paradise Manor — a large, well-maintained ho
 Constance brought the party to a **locked study door** she had never been able to open — three separate locks of different types. The party investigated and discovered each lock required a musical activation:
 
 - **Lock 1:** A carved flute on the door — George played it and chanted
-- **Lock 2:** A carving of Mira's exact face [NEEDS CONFIRMATION] — required a falsetto vocal match
+- **Lock 2:** A vocal carving lock — required a falsetto match *(face carving not confirmed as Mira's)*
 - **Lock 3:** A dragon carving — Inquizo pressed his tongue against it
 
 All three performed simultaneously. The locks disengaged.
@@ -171,7 +172,7 @@ The party debriefed, noted that grandfather clocks keep appearing everywhere and
 
 | Location | Notes |
 |----------|-------|
-| **Paradise Manor** | Constance's home; large house full of orphaned children; was Iskander's study location; has the fog clock room |
+| **Paradise Manor** | Constance's home; large house full of orphaned children; was the Doctor's study location; has the fog clock room |
 | **The Eustace** | Bread-only sustenance community inside Bermuda Foundation; Alia lives here |
 | **Canary Park** | Amusement park built by the Tempest family; birds everywhere; Ferris wheel, roller coasters, mine ride; students in uniform |
 | **Ikinawai's Gentle Descent** | Mine train ride through the mountain; track splits, becomes a time/magic anomaly with a glowing clock, skeletons, and a sheep-dragon |

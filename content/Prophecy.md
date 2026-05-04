@@ -1,5 +1,6 @@
 ---
 title: The Prophecy
+date: 2026-05-03
 tags: [dnd, shattered-world, lore, prophecy]
 cssclasses: [prophecy-scroll]
 ---

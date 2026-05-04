@@ -1,7 +1,7 @@
 ---
 title: "Session 11 — The Palace Assault"
 session: 11
-date: 2026-03-07
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-11]
 ---
 
@@ -574,16 +574,16 @@ The session ended with:
 
 ## YouTube Edit Notes
 
-- **Cold open candidate:** Reverie at the caravan campsite — inky black eyes, crouching over a dissected goop creature surrounded by a salt rune circle. No dialogue needed.
-- **Best comedy moment:** George landing loudly in front of all 20 guards, immediately followed by Grungrak's Deception 24 illusion. The turnaround is perfect.
-- **Best physical gag:** Inquizo toppling 17 candelabras in sequence — 45 damage, mostly from dominos.
-- **Best gross-out moment:** Inquizo throwing the full English breakfast into King Pmurt's eyes. "Cobert!" DM ruled it effective.
-- **Best horror/lore beat:** Reverie's eyes going fully black while delivering the Yomi lore dump. The God of Dreams was consumed. His voice speaks through her.
-- **Best villain moment:** Pmurt under Zone of Truth: "Those nightmares... they're hungry." Inquizo hits him with a book mid-sentence.
-- **Best tension moment:** The chef stepping out of the kitchen. Drops his tray. Screams at Halcyra. Baked beans everywhere. End of stealth.
-- **Best reveal:** Mira's sickle materializing in her hand without her willing it. She doesn't know she's a warlock.
-- **Suggested cuts:** Logistics discussion after returning from the portal; extended disguise debate for Mira at the city gates.
-- **Suggested natural breaks:** After the prophecy reading (Part 2 end); after the balcony fight (before Pmurt's bedroom); after the Zone of Truth (before Pmurt escapes).
+**Suggested cuts:**
+- **[Pt.1 - 00:00:00 - 00:19:12]** — Pre-game "Blurt Out" card game warm-up; snack talk, game rules explanation, zero gameplay
+- **[Pt.1 - 01:13:01 - 01:14:34]** — Someone plays a Critical Role song off their phone mid-lull; cast member literally says "that was cut for everybody" on-mic; ~46-second dead air gap follows
+- **[Pt.2 - 00:00:00 - 00:03:00]** — Recording start noise, groaning, Alexa light command, YouTube Premium/Critical Role podcast tangent before gameplay begins
+- **[Pt.2 - 00:44:09 - 00:44:36]** — Phone rings on-mic; immediately followed by unrelated story about a cousin at a Christmas party recognizing a D&D shirt (editor's call — short, but fully off-topic)
+- **[Pt.2 - 01:42:23 - 01:42:59]** — Real-world time check ("it's almost 8"), pasta smell, food logistics, people noting how long they've been playing — real-world break bleeding into recording
+- **[Pt.3 - 00:42:37 - 00:43:31]** — Dead-air rules lookup: extended debate over whether Minor Illusion is a concentration spell; multiple people pulling up phones/books, no gameplay
+- **[Pt.3 - 01:13:45 - 01:14:50]** — Rules derailment: debate over compass/navigator's tools and whether cardinal directions still apply post-Shattering; gameplay fully paused
+- **[Pt.3 - 04:24:42 - 04:25:12]** — Dead air after boss fight ends; screaming, "you're roleplaying at that point," no content
+- **[Pt.3 - 04:25:12 - 04:29:58]** — Post-session wrap-up: level-up discussion, spell level math, planning next session — editor's call if keeping for behind-the-scenes value
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Session 08 — The Writing on the Wall"
 session: 8
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-8]
 ---
 
@@ -335,11 +335,10 @@ Session ended here — Charlie called it as a narratively satisfying stopping po
 
 ## YouTube Edit Notes
 
-- **Strong open:** Reficul's Silent Image grandfather clock at Mira's door. Great visual bit.
-- **Halcyra/Mira scene** is the emotional setup for the whole episode — keep it full.
-- **Totem vendor scene** is pure comedy gold; Reficul/Ian at full chaotic lawyer energy.
-- **Writing on the Wall reveal** — the guard reading the full poem aloud is a strong atmospheric moment. DM Charlie was clearly proud of it.
-- **Slum chaos sequence** is the action highlight: figure tracking → Reficul in mud → Earth Tremor → Oni transformation → Command → mass Spare the Dying. Fast editing.
-- **George/Mira reconciliation** is the emotional climax of the episode. Let it breathe. Don't cut.
-- **"I killed half of eight people"** — great button for the end of the heavier emotional content.
-- **Next session Prophecy Day** — good teaser material.
+**Suggested cuts:**
+- **[00:00 - 01:27]** — Pre-game chatter about someone's kid's old DnD character (Lord Red Claw) before the session recap starts. Nothing game-relevant.
+- **[03:25 - 08:27]** — Room number coordination tangent: players trying to remember their guild room numbers, discussing potent cantrip, miscellaneous crosstalk. Mundane logistics with no narrative content.
+- **[30:03 - 35:43]** — Rush Hour / Jackie Chan tangent, missionary story, Ninjago and Pokémon nostalgia conversation. Fully off-topic; runs about five and a half minutes. (Editor's call on whether the Rush Hour bit plays as a funny character comparison — probably not for a general audience.)
+- **[42:00 - 46:30]** — Real-world social media tangent (Twitter, Skizz, college football Holy War, local farmers market traffic). Fully off-topic, no D&D content.
+- **[01:01:43 - 01:20:16]** — Extended snack break: players struggling to open a jar/dip container for several minutes, pizza prep, plate logistics, real-life chatter about a roommate's storage unit, cosplay, cat and snake stories. Game completely paused. This is the single largest cut in the session — nearly 19 minutes.
+- **[01:27:51 - 01:27:59]** — Brief "did we get the oven turned off?" interruption mid-Writing on the Wall scene. Tiny but clips the atmosphere right as the writing is being described.

@@ -9,6 +9,98 @@ tags: [dnd, shattered-world, changelog]
 
 ---
 
+## 2026-05-03
+
+### Session 16 Corrections
+- Fixed Grasping Strike → Enthralling Strike (vines) for Halcyra's kidnapping action in Session 16 notes, Halcyra.md, Campaign Narrative.md, Campaign Narrative - Working.md
+- Fixed Inquizo → Halcyra as the one who shot Mira's captor in Session 16 notes, Inquizo.md, Mira.md, Campaign Narrative.md, Campaign Narrative - Working.md
+- Fixed Hold Person swap: Mira casts (not Halcyra), Halcyra cuffs (not Mira) in Session 16 notes, both character profiles, NPC Registry.md (Lila entry), Campaign Narrative - Working.md
+- Fixed Merck's face → Pmurt's face on statues in Session 16 notes, Halcyra.md, Current State.md, Campaign Narrative.md, Campaign Narrative - Working.md
+- Fixed "George lifts the train" → George summons Valu who turns it into a sky train in Session 16 notes and Campaign Narrative.md
+- Fixed 5th statue attribution: Cooper was describing a god from his own world (not George's in-game backstory) in Session 16 notes, Halcyra.md, Grungrak.md, Campaign Summary.md, World Lore.md, Unresolved Threads.md, Campaign Narrative - Working.md, Current State.md
+- Removed "via Dex" from Numgis going north in Session 16 notes
+- Moved embroidery purchase from Mira to Halcyra section in Session 16 notes (already fixed in all other files previously)
+- Fixed Prophetess recognition: Halcyra first recognized her (not Mira) in Session 16 notes, Halcyra.md, Mira.md, Current State.md
+- Added blue clock context (one of the evil clocks the party has been encountering) in Session 16 notes
+
+### Vault Cleanup
+- **Status Board.md** — updated from Session 13 to Session 16 (party now in Alastair at the platform cliffhanger)
+- **Wiki planning files** — moved from `Claude References/` to new `Wiki Planning/` folder: Wiki Design, Wiki Ideas, Wiki Setup, Sunny's Wiki Ideas (filename typo fixed)
+- **Quartz docs** — consolidated into `Sunny's Learning/Quartz/`; old duplicates deleted
+- **Deleted stale files:** `CORRECTIONS NEEDED — Edit Me.md`, `VAULT CLEANUP — Edit Me.md`, `Claude References/Pending Review.md`, `Claude References/Shattered World.md`
+- **Last deep consistency check:** 2026-03-17 (report deleted; all findings from that check have since been resolved)
+
+---
+
+## 2026-05-03 (corrections)
+
+### Corrections
+- **Embroidery attribution** — moved from Mira to Halcyra in: Artifacts-and-Items.md, Campaign Narrative.md, Campaign Narrative - Working.md, Current State.md, Halcyra.md (added to inventory + Session 16 Update), Mira.md (removed from Session 16 Update)
+- **George's wrist fracture** — removed (never happened) from: Current State.md, Campaign Narrative.md, Campaign Summary — For Newcomers.md
+- **Session 15 scarab** — removed [NEEDS CONFIRMATION] from Halcyra.md (confirmed: Halcyra cut it)
+- **Session 15 study lock** — fixed Lock 2 description (removed "Mira's face" claim); fixed Notable Locations label ("Iskander's study" → "the Doctor's study") in DND Session 15.md
+- **Mysteries-and-Theories.md** — rephrased pomegranate entry: "terms of Grungrak's deal" → "hold the underworld has on Grungrak"
+- **Reficul Death Counter** — removed "what killed him?" open question (confirmed: self-inflicted stab wound)
+- **Session 14 rolls table** — removed stale [NEEDS CONFIRMATION] from Hold Person (both summary and table rows)
+- **Unresolved Threads** — Valu entry updated to five statues (fifth revealed Session 16); horse thread updated to reflect party left X-salent in Session 11
+- **Horse NPC file** — updated Last Seen, Status, and Session History to reflect Sessions 8–10 at X-salent; undocumented since Session 11
+- **Halcyra.md** — added horse and embroidery to Equipment section
+- **Current State.md** — updated George and Mira rows; added embroidery to Halcyra row; removed wrist fracture from emotional state section
+
+### New Files
+- `Silly Little Things/Things-Given-to-the-Party.md` — created with 6 entries: Vengeance sickle, Bow of Dusk, Prophecy scroll, sun medallion, pan pipes, cotton candy
+
+### Already Applied (verified, no action needed)
+- Campaign Narrative - Working.md Sessions 10/11 removal — already done
+- Campaign Narrative - Working.md duplicate sections — already done
+- Session 07 Inquizo "Warlock" — correction note already present
+- Session 01 Nightmare Spell table — annotation already present
+- "Grant" → "Bant" — already applied in previous pass
+
+---
+
+## 2026-05-02
+
+### New Session
+- Added Session 16 notes: *The World Untrue*
+- Updated character profiles: Halcyra (Grasping Strike bite, captor paralyzed, Hold Person, removed faces from all 5 statues, rash treated), Grungrak/George (wrist fractured, wrist crossbow + 34 bolts), Inquizo (nat 20 save, invisible, radiant bolt, gas mask + hamster, clock throw + acrobatics 21, 10 fire ant jars, weird mirror), Mira (failed save, Cuckoo nat 1, Deception faked sleep, cuffs, alchemist belt, embroidery, first to recognize Prophetess)
+- Updated NPC Registry: added Lila Monger, Albino Man, Eskander, Monster-Boy, False Knight, Wizard Pug; updated Prophetess status, Gbot'n status, Gore Harlow entry
+- Updated Location Index: added Alastair (capital of Errolon), The Train/Bridge; updated COG expansion, Eustace sleeping sickness note
+- Updated World Lore: Alastair confirmed as capital, Errolon map regions, COG = Commonwealth Oversight Guild, Amasia loyalists, 5 statues not 4, breaking blue clocks worsens chaos, prophecy stanzas literal, Numgis going north to free Nightmare God, currency (~10 arrow = 1 gold), sleeping sickness spreading
+- Updated Unresolved Threads: added 9 new Session 16 threads (Prophetess cliffhanger, monster-boy identity, clock tower, 5th statue, Eskander, Amasia loyalists, sleeping sickness source, prophecy fulfillments, Gbot'n in capital)
+- Appended to Campaign Narrative.md (Session 16 prose) and Campaign Narrative - Working.md (new session + updated Threads + updated Speculation; trimmed nothing — still within 5-session window)
+- Updated Current State.md to reflect end of Session 16
+- Updated Silly Little Things: Sessions.md (count → 16, Session 16 entry), Quote Wall.md (count → 16, 6 new quotes), Dumb-Decisions-That-Worked.md (inductees → 13, clock throw entry), Artifacts-and-Items.md (alchemist belt, embroidery, gas mask, hamster, fire ant jars x10, weird mirror, wrist crossbow), Things-Inquizo-Has-Stolen.md (gas mask + hamster)
+- Session title: *The World Untrue* (from prophecy stanza "the sky's untrue" — came literally true this session)
+
+---
+
+## 2026-04-18
+
+### New Session
+- Added Session 15 notes: *Stuart Returns*
+- Updated character profiles: Halcyra (pan pipes, Aspens, scarab removal), Grungrak (drinking contests, wrestling, vomit on coaster), Inquizo (plastic canary, mine clock), Mira (Mage Hand, Plant Growth, time distortion observation)
+- Updated NPC Registry: added Constance/Liz, THETA, Alia, The Aspens, Anson, Winged Woman
+- Updated Location Index: added Los Alamos district, Paradise Manor, Canary Park, Ikinawai's Gentle Descent, The COG
+- Updated World Lore: insect-scarab possession, The Eustace, Millaphera's origin, multiple clocks = time anomaly, pan pipes/Aspens, undelivered letters, Tempest family
+- Updated Unresolved Threads: added 9 new threads (winged woman, Stuart, Aspens, Iskander, Tempest family, googly-eye connection, time distortion, Ariel/Bylo, The COG)
+- Appended to Campaign Narrative.md (Session 15 prose) and Campaign Narrative - Working.md (new session + updated Threads + updated Speculation)
+- Updated Current State.md to reflect end of Session 15
+- Updated Silly Little Things: Sessions.md (count → 15), Quote Wall.md (count → 15, 6 new quotes), Dumb-Decisions-That-Worked.md (Inquizo clock hand grab), Buttons-Inquizo-Has-Pressed.md (count → 11, mine clock), Artifacts-and-Items.md (pan pipes, scarab, plastic canary)
+- Added in-world document content: "Documents Found" Google Doc referenced for letters between Iskander and Liz + full document set from Ian
+- Confirmed session title: *Stuart Returns* (replacing TBD placeholder)
+- Corrected attributions: Plant Growth → George (not Mira); Halcyra confirmed for scarab removal and winged woman rescue; DM confirmed as Ian; all [NEEDS CONFIRMATION] markers resolved
+- Created `Silly Little Things/Things-Given-to-the-Party.md` — new file tracking items bestowed on party by NPCs (6 entries: Vengeance sickle, Bow of Dusk, Prophecy scroll, sun medallion, pan pipes, cotton candy)
+
+### Larkin Document Lore Pass
+- Created `Physical DM Handouts/` folder with 12 transcribed documents from Ian's "Property of Dr. Allistaire Larkin" Google Doc
+- **NPC Registry updated:** Added new entries for Iskander, Gore Harlow, Mari Hokami, Tripper Harlow, Commander Kardos, Fletcher Kardos, Allen Prothero, Jolon Lozen, Aurum Eirien
+- **NPC Registry updated (existing):** Constance/Liz (birth name Eustice, full name, COG Free Company 24B); Starglass (Deep origin, cognitive intent, metallic tissue, Head Locker, Larkin's plan to free her); The Doctor (expedition contamination confirmed, Year 1719 suicide note, other expedition survivors in Aerolon leadership); Malafera (Deep name Millaphera, sister who "breathes war")
+- **World Lore updated:** Added Kinlind confirmed as Jolon Lozen's guided-evolution supplement; House of Long Sentences; The Head Locker; sleeping sickness (Aerolon); Luminary system; Larkin's contamination + Year 1719 suicide note; "Five" warning; Millaphera's sister; "A crown was exchanged for rapport"; COG Free Company; The Eustace name origin
+- **Unresolved Threads updated:** Added 8 new threads (Larkin freed Starglass?; Iskander missing; Kardos paternity; "Five"; Millaphera's sister; expedition contamination in Aerolon leadership; Kinlind effects on party; Aurum Eirien status)
+
+---
+
 ## 2026-03-28
 
 ### New Lore Added

@@ -1,7 +1,7 @@
 ---
 title: "Session 05 — The Fields of Asphodel"
 session: 5
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-5]
 ---
 
@@ -351,14 +351,13 @@ The session ended here.
 
 ## YouTube Edit Notes
 
-- **Opening:** Phase Two begins — blood cocoon reforms from the angel's remains. High tension immediately.
-- **Key clip:** The Calm Emotions sequence — the angel going docile, peeking out and saying "Bye," then Halcyra extracting the full family divorce lore. This is some of the best worldbuilding in the campaign.
-- **Emotional anchor:** Grungrak pulling Lorya's nail. Strength 21. Her appearing for a moment — horrified — then gone. No music needed.
-- **Highlight reel:** The overseer saying "It's super delicious!" and running off the cliff. Use with incoming crash sound effect.
-- **Transition moment:** Party passes through the mirror wall — use for a location card introducing the Floating Archipelago.
-- **Comedy peak:** The spoon table / Inquizo's sneeze / *"It's all drugs."* The whole sequence plays as a beat.
-- **Climax:** Richard confrontation → Thunder Wave → sprint to portal → Mira slashes it in half → crowd bisected. This is the session's action peak.
-- **Final shot:** Reficul standing in the wheat field, pile of corpses in the background, completely calm. *"Welcome to the Fields of Asphodel."*
+**Suggested cuts:**
+- **[00:00 - 01:34]** — Pre-game chatter: Hollow Knight / Watcher Knights tangent before the DM starts the recap
+- **[01:34 - 05:55]** — Off-topic tangent: extended sticker debate (laptop vs. car, frog stickers, PC tower) and dog naming story; nothing game-related until DM says "So, as is the angel" at 05:58
+- **[01:42:39 - 01:43:22]** — Bathroom break; player announces they need to go, Grungrak runs off to the mining island solo; game pauses and resumes when they return
+- **[02:53:55 - 02:53:58]** — Scheduling talk mid-scene: "we're playing until five or 10 to leave, I have to leave at 4.30" — drops into the middle of the Richard confrontation
+- **[03:01:37 - 03:01:57]** — Off-topic: players break to discuss what day of the week it is and whether it's someone's birthday; game has just ended and Reficul introduced himself
+- **[03:06:13 - end]** — Post-session wrap-up: DM announces the cut-off time, players recap events out of character for a player who missed the ending; pure table talk, no in-game content
 
 ---
 

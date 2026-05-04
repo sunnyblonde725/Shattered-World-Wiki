@@ -1159,3 +1159,91 @@ Time reversed. The scene returned to before the combat — before the red sky, b
 The clock can reverse time. What it costs, how far it can go, and what Inquizo now is to a ship that uses its living core to breathe — these are the questions that will follow him into the next session.
 
 The Doctor was returning shortly. His base is burning. His lieutenant doesn't know why.
+
+---
+
+## Session 15 — The Gentle Descent
+
+The session the DM called a beach episode was not a beach episode.
+
+The party disembarked at Bermuda Foundation's Los Alamos district and immediately found a girl in a yellow dress with fifteen orphaned children, a locked study that hadn't been opened in years, and a fog-filled room with a slime creature cycling through forms. The slime became a skeleton. The skeleton became THETA — a former judge, naked, bewildered, and profoundly relieved that someone had finally arrived.
+
+Under Zone of Truth, THETA told them what he'd been told to protect: a child named Ariel, sometimes called Bylo. He told them who had locked him in: a metal individual, likely one of Millaphera's automatons. He told them what the second half of Dr. Larkin's notebook said.
+
+The expedition that created the automatons wasn't an accident. They killed Millaphera's family. The automatons are grief, shaped by someone who understood how to give grief a body.
+
+A drawer in the study held undelivered letters between Constance and her brother Iskander. Neither of them had ever received the other's words. Constance didn't say anything when she understood what she was looking at. She just held them.
+
+Then they went to a theme park.
+
+Canary Park is everything you'd expect a humanitarian amusement park built by a family called Tempest to be: birds everywhere, a Ferris wheel half underground, a mine ride called the Gentle Descent, and an old man in the ticket booth who put on googly-eye glasses and told them the deeper you go, the less the world belongs to you. He said it like a park slogan. It may have been.
+
+Before the park, the party passed through The Eustace — a community of people who can only be nourished by bread. They grow vegetables they can taste but not absorb, and grain to make the bread that keeps them alive. Among them was Alia, daughter of Arcus the lighthouse keeper, who had been brought here when her island became too dangerous. She was building a boat to go back. She gave Halcyra a set of wooden pan pipes she had made herself. When Halcyra played them, three people appeared — all of them called themselves Aspen.
+
+At the unnamed tavern, George challenged a man in Gambison armor named Anson to three whiskey-bottle contests in a row. He won all three. He used Cutting Words to win the wrestling match too. He earned four hundred gold and was only slightly drunk. Gbot'n appeared on a table, declared economic war on the restaurant, and floated out the window before anyone could finish a sentence.
+
+The mine ride separated the carts. The guide said "what a pity, good luck" and went somewhere safe. George threw up. The vomit arc hit a stranger. Liz dodged.
+
+At the bottom of the track: a glowing blue clock. And Stuart.
+
+Stuart the green sheep from the Session 5 cult was standing in the mountain with wings growing from his wool and fire coming from his mouth, possessed by a scarab attached to his skull by what appeared to be organic tendons. The same mechanism as Galveston's eye insect. The same pattern as the Doctor's "different man underneath his skin." Whatever the Doctor does to people, it also works on sheep.
+
+Mira stopped the clock's second hand with Mage Hand. Plant growth jammed its gears; the face fell off; a cuckoo emerged. Inquizo grabbed the hour hand and was spun in circles, functioning as a brake. Two skeletons — neutral once Stuart was freed — helped stop the clock completely. Halcyra cut the scarab off Stuart's skull. He reverted to sheep form and vanished. The skeletons dissolved.
+
+A woman dangling off a railing — metal armor, orange eyes, painter's cap, locket — sprouted wings and flew them out of the cave. She said she had a safehouse in this very district. She was running from people unhappy she was adopted. Then she ran.
+
+Time outside the mine had been moving at a different pace. The party spent ten minutes inside. Liz waited two hours.
+
+---
+
+The session ended with the group walking back toward Paradise Manor and the winged woman's safehouse. The Doctor's district surrounds them. Another clock has appeared. Another possession mechanism confirmed. Another person with a story they haven't finished telling.
+
+---
+
+## Session 16 — The World Untrue
+
+Everyone was asleep when it started.
+
+The party was on the road through Eustace when the sleeping sickness found them. One by one they went under — all except Inquizo, who rolled a natural twenty and stood alone among collapsed bodies while a cuckoo bird landed on Mira's head. Mira, half-dreaming, tried to remove it. She rolled a natural one. She knocked herself out.
+
+There were elephant-like creatures on the road. There was an albino man in a dreamcatcher vest. When the party woke, they were in a limousine wagon — wrists cuffed, cargo, moving.
+
+George woke up first and smashed the albino man's wrist. The albino man screamed. Inquizo had stayed invisible the whole time. Halcyra used Enthralling Strike — vines tangled up her captor and she fell paralyzed. Halcyra shot Mira's captor to free her. Mira had been awake the whole time, pretending not to be. Inside the wagon, Mira cast Hold Person on the guard about to cuff her — the guard rolled a 2 and went down. Halcyra cuffed her. She didn't have a key. She took two more pairs anyway.
+
+The woman in charge of the wagon was named Lila Monger. She carried a barbed-wire spear and had views about truth that she delivered with the sincerity of someone who had given this speech before. She was a loyalist of Amasia, which is apparently a real faction and not something the party had previously had cause to think about. She released them after they agreed to hear her out. She gave them sausages and eggs. She said the organization they'd just been fighting — Gore Harlow's operation — had been treating the garrison like a private resource. She wanted them to understand the difference between what the COG was supposed to be and what it had become. Then she went her own way.
+
+Constance told them about Eskander on the train.
+
+She said Gore Harlow had a son named Eskander. Eskander had been working inside the organization until he wasn't — until he'd decided Constance was worth more to him than the family business. He'd helped her when he should have turned her over. He was gone now. What "gone" meant, no one pressed. She said it like it was settled.
+
+The train crossed a long bridge over nothing.
+
+Somewhere below the bridge's mid-point, there was a glowing blue clock bolted to the underside of the track. It was the same kind of clock as the one in the mine, the one on the Starglass, the one in the study. Inquizo climbed out, balanced on the railing, and threw it off the bridge. The acrobatics check was a twenty-one. The clock fell. It hit the water.
+
+The sky went red.
+
+The sun disappeared. The stained glass mosaic in the wall of the bridge tunnel cracked open and a dragon made of colored glass came through it, and it was beautiful and enormous and it took nine damage points off Inquizo before the party could get inside. The sky outside stayed red for long enough that no one was certain it was coming back. Then it did. George summoned Valu, who turned the train into a sky train. The train pulled into Alastair — through the ceiling of the bathhouse.
+
+A sign said: Welcome to Alastair. The capital of Errolon.
+
+They knew two of the prophecy stanzas. They'd both just happened. *Dragon scale shining in your eye* — the stained glass dragon. *The sky's untrue* — the red sky, the missing sun, the world briefly inverted. Neither one had felt metaphorical in the moment.
+
+Gbot'n was in the bathhouse.
+
+The party crashed through the ceiling, or near enough. Gbot'n was sitting in the water in a robe with a wet croissant, and he did not look surprised to see them. He was supposed to be going to prison. He was not in prison. He offered no explanation. The wizard in the corner — bathrobe, hat, presumably taking a bath — did not look up.
+
+They found Halcyra a doctor for her rash. They went to the market, where Inquizo sold a glass shard that was still technically inside his own body. He bought a gas mask and left with a hamster attached to it that he had not intended to acquire. He bought ten jars of fire ants, one of which was rainbow. He bought a weird mirror. George bought a wrist crossbow and thirty-four bolts. Mira bought an alchemist's tool belt. Halcyra bought a piece of embroidery that has a chance, if held during prayer, to restore divine power.
+
+Halcyra took the Pmurt faces off all five statues. There were five statues. There had always been five — the kindly old man with the open book and the play/pause symbol on his chest was there alongside the others, and no one had counted correctly until now. George looked at him for a long time and did not say what he recognized.
+
+The platform at the edge of Alastair was crowded.
+
+The Prophetess was there. The same woman who had been traveling north with Haki, the one with visions, the one they'd been meant to find since before the party understood what "meant to find" implied. She was standing on the platform. Next to her was a boy with burnt skin and growing claws who said: *you can't take her from me.* Behind her, a knight in silver armor raised a war hammer engraved with trees and crystals.
+
+The party did not get to introduce themselves.
+
+---
+
+The sky was wrong. The capital's clock tower was broken in a way that spread across the city like weather. The woman they'd been looking for was within reach. The boy guarding her might have been someone they'd lost. The prophecy was coming true in real-time and no one had agreed on what came next.
+
+Session 16 ended there.

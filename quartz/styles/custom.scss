@@ -6,23 +6,8 @@
 // TAGS
 // ============================================
 
-a.internal.tag-link {
-  border-radius: 999px !important;
-  background-color: transparent !important;
-  border: 1px solid var(--gray) !important;
-  color: var(--darkgray) !important;
-  padding: 0.15rem 0.65rem !important;
-  font-size: 0.72rem !important;
-  font-weight: 500 !important;
-  letter-spacing: 0.03em !important;
-  text-transform: lowercase !important;
-  transition: background-color 0.15s ease, color 0.15s ease !important;
-
-  &:hover {
-    background-color: var(--highlight) !important;
-    border-color: var(--secondary) !important;
-    color: var(--secondary) !important;
-  }
+ul.tags {
+  display: none !important;
 }
 
 // ============================================
@@ -94,10 +79,14 @@ a.internal.tag-link {
 @mixin parchment-ink {
   color: #5c3a14 !important;
   font-family: "IM Fell English", "Palatino Linotype", Palatino, Georgia, serif !important;
-  background: transparent !important;
   [data-theme="dark"] & {
     color: #5c3a14 !important;
   }
+}
+
+@mixin parchment-child {
+  @include parchment-ink;
+  background: transparent !important;
 }
 
 // ---- LETTERS (personal correspondence) ----
@@ -121,14 +110,14 @@ article.letter-page {
     background-color: #f5ead0 !important;
   }
 
-  p, li, em, span, div, blockquote {
-    @include parchment-ink;
+  p, li, em, strong, b, span, div, blockquote, td, th, code {
+    @include parchment-child;
     font-size: 1.05rem !important;
     line-height: 1.85 !important;
   }
 
   h1, h2, h3, h4 {
-    @include parchment-ink;
+    @include parchment-child;
     border-bottom: 1px solid rgba(170, 110, 30, 0.35) !important;
     padding-bottom: 0.4rem !important;
   }
@@ -165,14 +154,14 @@ article.notebook-page {
     background-color: #e8d5a3 !important;
   }
 
-  p, li, em, span, div, blockquote {
-    @include parchment-ink;
+  p, li, em, strong, b, span, div, blockquote, td, th, code {
+    @include parchment-child;
     font-size: 1.1rem !important;
     line-height: 1.9 !important;
   }
 
   h1, h2, h3, h4 {
-    @include parchment-ink;
+    @include parchment-child;
     text-align: center !important;
     border-bottom: 1px solid rgba(154, 114, 48, 0.5) !important;
     padding-bottom: 0.5rem !important;
@@ -206,14 +195,14 @@ article.official-report {
     background-color: #f0e6c8 !important;
   }
 
-  p, li, em, span, div {
-    @include parchment-ink;
+  p, li, em, strong, b, span, div, blockquote, td, th, code {
+    @include parchment-child;
     font-size: 1rem !important;
     line-height: 1.8 !important;
   }
 
   h1 {
-    @include parchment-ink;
+    @include parchment-child;
     text-align: center !important;
     font-size: 1.15rem !important;
     letter-spacing: 0.06em !important;
@@ -223,7 +212,7 @@ article.official-report {
   }
 
   h2, h3, h4 {
-    @include parchment-ink;
+    @include parchment-child;
     font-size: 0.85rem !important;
     letter-spacing: 0.08em !important;
     text-transform: uppercase !important;
@@ -258,7 +247,7 @@ article.newspaper-page {
     color: #5c3a14 !important;
   }
 
-  p, li, em, span, div {
+  p, li, em, strong, b, span, div, blockquote, td, th, code {
     color: #5c3a14 !important;
     font-family: "IM Fell English", "Palatino Linotype", Palatino, Georgia, serif !important;
     background: transparent !important;
@@ -324,22 +313,28 @@ article.notebook-page,
 article.official-report,
 article.newspaper-page {
   h2#notes {
-    font-size: 0.75rem !important;
+    font-size: 0.7rem !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
     text-transform: uppercase !important;
-    letter-spacing: 0.12em !important;
-    color: rgba(30, 14, 0, 0.45) !important;
-    border-top: 1px dashed rgba(30, 14, 0, 0.25) !important;
+    letter-spacing: 0.14em !important;
+    color: rgba(30, 14, 0, 0.4) !important;
+    border-top: 1px dashed rgba(30, 14, 0, 0.2) !important;
     border-bottom: none !important;
     padding-top: 2rem !important;
-    margin-top: 2.5rem !important;
+    padding-left: 0.75rem !important;
+    margin-top: 3rem !important;
     text-align: left !important;
   }
 
   h2#notes ~ ul,
   h2#notes ~ p {
-    font-size: 0.82rem !important;
-    opacity: 0.55 !important;
-    font-style: italic !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+    font-size: 0.8rem !important;
+    opacity: 0.5 !important;
+    font-style: normal !important;
     line-height: 1.6 !important;
+    border-left: 2px solid rgba(30, 14, 0, 0.15) !important;
+    padding-left: 0.75rem !important;
+    margin-left: 0 !important;
   }
 }

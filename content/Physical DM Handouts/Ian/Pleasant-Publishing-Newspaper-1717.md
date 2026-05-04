@@ -1,5 +1,6 @@
 ---
 title: Pleasant Publishing — Evening Circulation, Year 1717
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, newspaper, harlow, aerolon]
 source: Scan 3.jpeg + Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [newspaper-page]

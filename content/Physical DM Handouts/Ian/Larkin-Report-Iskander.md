@@ -1,5 +1,6 @@
 ---
 title: "Larkin's Report — Subject: Iskander (Year 1718)"
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, larkin, iskander, kardos, report]
 source: Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [official-report]

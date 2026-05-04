@@ -1,5 +1,6 @@
 ---
 title: Things Inquizo Has Stolen
+date: 2026-05-03
 tags: [dnd, shattered-world, inquizo, fun]
 ---
 
@@ -54,6 +55,14 @@ tags: [dnd, shattered-world, inquizo, fun]
 **Session:** Session 8
 **How:** It was Grungrak who nabbed the guard's notebook, not Inquizo — noted here for clarity. Grungrak is the one who copied the poem from it.
 **Outcome:** Not Inquizo — Grungrak
+
+---
+
+## A Gas Mask (+ Accidental Hamster)
+**Stolen from:** The albino man's caravan / kidnappers
+**Session:** Session 16
+**How:** Inquizo was the only party member awake (nat 20 Wisdom save). He went invisible, located the caravan, and stole the gas mask from the kidnappers while they were occupied managing the unconscious party members. The hamster was attached to or inside the gas mask. He did not know about the hamster. He now has a hamster.
+**Outcome:** Kept both. The hamster was not intentional. The hamster is now his.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Carnival
+date: 2026-03-17
 tags: [dnd, shattered-world, location]
 ---
 

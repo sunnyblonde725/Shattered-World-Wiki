@@ -1,5 +1,6 @@
 ---
 title: The Shrine of Persephone
+date: 2026-03-17
 tags: [dnd, shattered-world, location]
 ---
 

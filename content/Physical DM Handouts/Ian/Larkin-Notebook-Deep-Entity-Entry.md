@@ -1,5 +1,6 @@
 ---
 title: Larkin's Notebook — The Deep Entity's Writing
+date: 2026-04-19
 tags: [dnd, shattered-world, handout, larkin, notebook, deep, starglass, millaphera]
 source: Property of Dr. Allistaire Larkin (Google Doc, shared by Ian)
 cssclasses: [notebook-page]

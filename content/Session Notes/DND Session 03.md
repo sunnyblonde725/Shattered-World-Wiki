@@ -1,7 +1,7 @@
 ---
 title: "Session 03 — See You in Hell"
 session: 3
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-3]
 ---
 
@@ -270,17 +270,6 @@ Post-session, the group fell into reminiscing about a previous campaign — "Ali
 **Suggested cuts:**
 - **[~04:52 - 05:00]** — Extended jar-of-spiders negotiation (tighten but keep the 24 Persuasion moment)
 - **[05:15 - end]** — Post-session banter about previous campaign (Alias and Thorn) — cut unless doing a "we love this group" montage
-
-**Highlight moments:**
-- **[~02:00]** — Reficul stabs himself: "See you in hell." Changeling form reveal
-- **[~03:00]** — Ariel's death. Silencing wave lifts. Hamish speaks.
-- **[~04:28]** — Laxative gum + rose wing transformation
-- **[05:09]** — "Mira doesn't know she's dead."
-- **[05:05]** — Religious pug prayer
-
-**Suggested natural breaks:**
-- **[~03:15]** — After Hamish names and the Ariel backstory reveal (end of underwater city arc)
-- **[~04:15]** — After long rest (transition to new location)
 
 ---
 

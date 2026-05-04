@@ -1,7 +1,7 @@
 ---
 title: "Session 06 — The Eel That Sings"
 session: 6
-date: unknown
+date: 2026-05-03
 tags: [dnd, shattered-world, session-notes, session-6]
 ---
 
@@ -357,16 +357,20 @@ Session ends. The party had to leave for dinner.
 
 ## YouTube Edit Notes
 
-- **Opening:** Mira tackling Reficul, mid-sentence from Session 5. Use for a "previously on" → cold open.
-- **Comedy set piece 1:** The turkey — Mira running, Inquizo going invisible, the harness reveal, Reficul carrying a cassowary by the handle. Full bit.
-- **Physical comedy peak:** Grungrak ripping out the floor and going airborne toward the Lethe. Halcyra catches him. One-shot montage material.
-- **Horror/comedy pivot:** "The anchor is a horse." Then: "It has an axe." Then initiative music. Perfect transition.
-- **Best combat moment:** Halcyra's radiant shot bouncing off the horse and hitting Reficul instead. Score it like a dramatic moment and reveal the result.
-- **Quiet character beat:** The horse napping on the hole. Cut to silence. Then: "It worked."
-- **Tonal shift:** Grungrak walking alone into the white forest with the sickle. Music drops. Trees bleed.
-- **Story beat:** The Persephone negotiation — vine entrapment, sickle handover, deal struck. Major moment.
-- **Absurdist highlight:** The elevator. The horse pressing buttons with its axe. The Ballad of George. All of it.
-- **Final shot:** Urscylla surfacing on both sides of the boat. Six heads. Roll for initiative. Cut to black.
+**Suggested cuts:**
+- **[00:00:00 - 00:11:02]** — Pre-game setup: Discord quote-posting, music button not working, "lizard" chanting, mini pigs discussion, Bible prop gag, friend suggestions on phone, character name pronunciation debate. Nothing game-related happens until ~11:02 when the DM starts scene-setting.
+- **[00:04:00 - 00:05:08]** — (Overlap with above, flagged separately) Dead air: someone posting to Discord, cotton ball joke, "lizard" repeated. No game content.
+- **[00:05:29 - 00:06:02]** — Rules lookup tangent: "Check the code book real quick" + races rules discussion. Game paused, no content.
+- **[00:22:38 - 00:23:57]** — Off-topic tangent about U.S. Constitutional amendments / "Fifth Amendment in a fantasy world" extended bit. Goes over a minute, no game content.
+- **[00:28:07 - 00:31:38]** — Long Percy Jackson mythology name-pronunciation tangent (Persephone, Hephaestus as "Hepatitis," Thalia as "Thelina"). Editor's call — some of it is genuinely funny but it runs ~3.5 minutes with zero game content.
+- **[00:34:22 - 00:35:44]** — Snack break discussion: "Do we have chips?", crispy bread slices, "Shark Koochie Board." Game fully paused, players looking for food.
+- **[01:13:48 - 01:14:41]** — Mid-combat logistics tangent: group discussing going to "Cougar and Lordhouse," playing Minecraft, switching to Discord to play board games after. Scheduling talk mid-initiative.
+- **[01:15:44 - 01:16:24]** — Thrift store / DI / folding table tangent mid-combat. Off-topic, pauses initiative.
+- **[01:28:37 - 01:30:12]** — Homebrew spell exhaustion rules discussion. Interesting design talk but fully off-topic mid-fight. Editor's call — cut if pacing matters, keep if audience enjoys theory content.
+- **[01:34:39 - 01:36:08]** — Previous campaign Changeling/Furborg story tangent. Long personal anecdote unrelated to current session.
+- **[01:49:26 - 01:53:41]** — Extended real-world boat physics / anchor / rudder mechanics discussion. Genuinely funny in small doses but runs ~4 minutes. Editor's call — trim to the funniest 30 seconds ("fantasy bullshittery") and cut the rest.
+- **[02:20:38 - 02:22:22]** — Off-topic personal news: player receives a "baby sprinkle" invite mid-session, group discusses her sister's pregnancy. Sweet but fully off-topic.
+- **[03:22:33 - 03:23:28]** — Post-cliffhanger dinner/logistics discussion: "We should do dinner," food court plans, Playdoh over Discord. Session has ended narratively; this is pure post-game chatter.
 
 ---
 

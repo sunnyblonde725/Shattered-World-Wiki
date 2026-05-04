@@ -1,11 +1,12 @@
 ---
 title: Quote Wall
+date: 2026-05-03
 tags: [dnd, shattered-world, quotes]
 ---
 
 # Quote Wall
 
-*The best lines from across all 14 sessions of A Shattered World.*
+*The best lines from across all 16 sessions of A Shattered World.*
 
 ---
 
@@ -368,3 +369,47 @@ tags: [dnd, shattered-world, quotes]
 
 > *"Next time on Dragon Ball Z."*
 > — DM, ending the session on the clock hands cliffhanger
+
+---
+
+## Session 15 — The Gentle Descent
+
+> *"The deeper you go, the less the world belongs to you."*
+> — Ticket booth man at Canary Park, putting on googly-eye glasses
+
+> *"This is the place that put me in ruin! I will destroy it by economic downturn."*
+> — Gbot'n, standing on a tavern table, floating away before anyone could respond
+
+> *"I don't think it's the fish. I didn't eat any. That's right."*
+> — Inquizo, when Constance suggested their supernatural experiences might be food poisoning
+
+> *"It wasn't going to be gentle. It was going to be very informative and educational."*
+> — Mine ride tour guide, seconds before the carts separated
+
+> *"I can't lay my eyes off of you for one second, can I?"*
+> — Constance, reuniting with the party after waiting two hours for their ten-minute mine ride
+
+> *"Sometimes I can still hear his voice."*
+> — Inquizo [player], about Reficul and the grandfather clocks
+
+---
+
+## Session 16 — The World Untrue
+
+> *"I'm the captain now."*
+> — Inquizo, on the wagon, after they'd escaped their captors
+
+> *"I don't lie to people who don't deserve it. I lie to the people who need it. Every single one of us lies. I just admit it."*
+> — Lila Monger, on her personal philosophy of truth
+
+> *"He helped me. He chose me over his family. And now he's gone."*
+> — Constance, about Eskander
+
+> *"Surely this will not come back to hurt us later."*
+> — Someone at the table, watching Inquizo reach for the blue clock
+
+> *"Crazy how it's all fucking connected."*
+> — Table, after the fifth statue reveal and the Eskander/Iskander thread landed at once
+
+> *"You can't take her from me."*
+> — The monster-boy, on the platform, to the party
