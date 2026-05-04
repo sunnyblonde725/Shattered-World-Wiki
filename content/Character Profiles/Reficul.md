@@ -1,7 +1,7 @@
 ---
 title: Reficul — Character Profile
-date: 2026-05-03
 tags: [dnd, shattered-world, characters, reficul]
+date: 2026-05-03
 ---
 
 *Linked to: [[Character Profiles]] | [[World State]] | [[Shattered World]]*
@@ -13,104 +13,93 @@ tags: [dnd, shattered-world, characters, reficul]
 
 ---
 
-## [[Reficul]]
+## Reficul
 
-**Player:** Ian
-**Race:** Changeling
-**Class:** Bard
-**Role:** DM 2/3 + Player
+**Player:** Ian | **Race:** Changeling | **Class:** Bard (College of Whispers)
+**Currently:** Separated from the party — staying in the former island city to help the people resettle
+
+---
 
 ### Who He Is
-Reficul (Lucifer backwards) is theatrical, philosophical, charming, and deeply manipulative — in the best possible way. He spends sessions doing the most extreme thing available to him with complete confidence, then saying something surprisingly profound to a stranger in a prison cell. He died in Session 3, went to hell, and returned in Session 6. As of Session 13, he has chosen to stay behind in the former island city of King Pmurt to help the people resettle. He is separated from the party.
 
-### What We Know About Him
-- His name is **Lucifer spelled backwards** — devil-theming is intentional
-- His **true changeling form**: approximately 3 feet tall, fiendish horns, long white hair, blood that shifts from green to blue based on temperature. This form is only revealed in death.
-- **When he dies, he goes to hell** — no death saves. This is confirmed as a permanent mechanic, not a one-time event.
-- His **clothes shift with him** during transformation — the shapeshifting is complete
-- He **invokes the King of Hell** as legal and divine authority
-- He called himself the **"God of Freedom"** when trying to recruit Sisyphus
-- He figured out Ariel's weakness (**Eric** — her dead husband) mid-combat through intuition or deduction, and used it against her — she cried but kept fighting
-- He **stabbed himself mid-combat**, said "see you in hell," and died. He died from the stab wound. Mira's medicine check of 21 could not clinically confirm this, but the stab was the cause of death.
-- He is **currently separated from the party** — staying in the island city (as of Session 13)
+Reficul is Lucifer spelled backwards, and that is not a coincidence. He is theatrical, philosophical, charming, and deeply manipulative — in the best possible way. He spends sessions doing the most extreme thing available to him with complete confidence, then saying something surprisingly profound to a stranger in a prison cell. He has a devil's deal: a job he must complete for the King of Hell before he can be allowed peace. He is 1/100th of the way there. He cannot die until the job is done. He has tested this multiple times.
 
-### Abilities Seen in Play
-- **Nat 20 Performance** (Session 1 — directed an impromptu dwarf circus in the carnival big top; got dwarves up trapeze ladders and firing them as human cannonballs with zero planning)
-- **Minor Illusion** (Session 1 — swapped the "Chosen One" child out of the dwarf mob with an illusion, returning the child safely to their parents)
-- **Heat Metal** (Session 1 — attempted on King Pmurt's gold-plated castle; too much metal, not enough heat; mostly ineffective)
-- **Shapeshifting** — confirmed bull shark form (Session 2); full changeling transformation ability
-- Bardic abilities
-- **Telepathy** — used through the holding room window to communicate with Sisyphus; used in Session 8 on a stranger running through slum alleys (no line of sight required; same plane of existence): *"Divinity needs your haste. Meet the tavern in two hours."*
-- Emotional manipulation / high Persuasion / Charisma
-- **Detect Magic** (Session 8 — level 1 spell; cast on the mud to track the mysterious figure's magical footprint; used alongside Survival check of 22 to locate the disguised figure)
-- **Starry Wisp** (Session 8 — attempted to cast on the mysterious figure to mark/track them; figure grabbed his arm and shoved it away; failed to land)
-- **Silent Image** (Session 8 — cast outside Mira's door: a grandfather clock with sticky note "You need time XOXO" and a smiling face; dismissed it after Mira smiled at it)
-- **Door-to-door petition idea** (Session 8 — Reficul originated the idea of going door-to-door in the slums to gather support; Inquizo executed it)
-- **Words of Terror** (Session 8 — WIS save DC 15; the target barely passed via coin flip; no terror effect landed)
-- **Vicious Mockery + Psychic Blades** (Session 8 — cast from the mud after being kicked; 12 psychic damage; target clutched their head and wailed; crowd turned hostile)
-- **Earth Tremor** (Session 8 — cast in slums square to intimidate hostile crowd; 5 ft radius; 4 homeless commoners knocked to 0 HP; all later revived)
-- **Devil's Curse — Oni transformation** (Session 8 — curse activated during slums chaos; random monster roll landed on Oni; became a large creature with blue hair, white skin, red eyes; physical/physiological abilities transfer but not magical ones; duration unknown)
-- **Devil's Curse — Kobold transformation** (Session 10 — 4th curse activation; became a kobold, which allowed him to walk through creatures and spaces freely; killed the cave creature with Starry Wisp + Psychic Blades: 8 radiant + 11 psychic = 19 total damage; both heads exploded)
-- **Starry Wisp + Psychic Blades** (Session 10 — 15 to hit; 19 total damage; killing blow on the cave creature)
-- **Bullywug transformation** (Session 11 — curse activated before/during the island city section; became a bullywug, which affected his movement and possibly how guards perceived him during the infiltration)
-- **Dissonant Whispers** (Session 11 — used against King Pmurt during the throne room fight; dealt 32 damage in a single cast; one of the highest single-spell damage totals of the session)
-- **Starry Wisp** (Session 11 — used to kill the phantasmal spectator summoned by Pmurt in Phase 2 of the throne room fight; finishing blow on the spectator)
+He died in Session 3 — stabbed himself mid-combat, said "see you in hell," and went. He came back in Session 6. He died twice more in Session 6 — once when a boat crashed on him, once when he swan dived into Persephone's soul pool. He came back both times. His true changeling form only shows in death: approximately three feet tall, fiendish horns, long white hair, blood that shifts from green to blue depending on temperature. Otherwise he looks like whatever he wants.
+
+As of Session 13, he chose to stay behind in the former island city of King Pmurt. The people needed someone. He walked onto an execution platform, gave a long speech about death and punishment, threw an axe into a man who shouted something unforgivable, punched another man off the platform (who died — just a normal person, no saves), and then decided he couldn't leave. *"I cannot leave these people. I have to stay."* Halcyra told him directly that it wasn't the first time she'd watched him kill someone because he was angry. He didn't defend himself. He said: *"I don't feel good about this."* Then he stayed anyway. His shadow — the First and Last Witness — showed him a peaceful life he never chose, and he argued with it philosophically until it agreed to become part of him. He woke up with a tattoo.
+
+---
+
+### How He Fights
+
+Reficul is a battlefield disruptor — he shapeshifts, applies debuffs, deals unexpected bursts of damage, and occasionally becomes a different creature entirely due to his devil's curse.
+
+**Damage & Offense**
+- **Dissonant Whispers** — 32 damage in a single cast against King Pmurt in Session 11; one of the highest single-spell totals in the campaign
+- **Psychic Blades** — expend Bardic Inspiration on a hit; 3d6 psychic damage at level 5+
+- **Vicious Mockery + Psychic Blades combo** — 12 psychic damage from the mud in Session 8; target clutched their head and wailed
+- **Starry Wisp + Psychic Blades** — 8 radiant + 11 psychic = 19 total; killing blow on the cave creature in Session 10
+- **Starry Wisp** — finished the phantasmal spectator in the Pmurt fight (Session 11)
+
+**Shapeshifting & Curses**
+- **Changeling shapeshifting** — full form change; clothes shift with him; used to become a bull shark (Session 2) and various other forms
+- **Devil's Curse** — activates randomly; he becomes a different creature each time; so far: bull shark (Session 2), very tall naked man (Session 6), Oni (Session 8), kobold (Session 10), bullywug (Session 11); exact activation trigger unknown; kobold form let him walk through creatures freely
+- **Shadow tattoo (Session 12)** — left arm; pulsating dark mark; can summon another creature's shadow physically (living targets within 30 ft, deals psychic damage); can project the appearance of deceased people through Whispers mechanics
+
+**Utility & Manipulation**
+- **Telepathy** — 60 ft; used through a holding room window to communicate with Sisyphus; used in Session 8 on a stranger in slum alleys (no line of sight required): *"Divinity needs your haste. Meet the tavern in two hours"*
+- **Words of Terror** — 1-minute conversation, WIS save or frightened for 1 hour
+- **Mantle of Whispers** — reaction: absorb a humanoid's appearance when it dies within 30 ft; action: become that person for up to 1 hour
+- **Detect Magic** — used to track a mysterious figure's magical footprint in the mud (Session 8)
+- **Silent Image** — cast a grandfather clock outside Mira's door with a sticky note: *"You need time XOXO"*; dismissed it when Mira smiled at it
+- **Minor Illusion** — swapped a child out of a dwarf mob with an illusion in Session 1
+- **Nat 20 Performance (Session 1)** — directed an impromptu dwarf circus; got dwarves up trapeze ladders and firing them as human cannonballs with zero planning
+
+---
+
+### What He's Carrying
+
+- **Shadow tattoo** (left arm) — permanent since Session 12; summon shadows of living creatures or project appearances of the deceased
+- **Rapier** — his primary weapon
+- *(Currently staying in the island city — portable inventory beyond the above is unknown)*
+
+---
+
+### The People Around Him
+
+> Reficul, George, and Halcyra were a trio before the party formed. They met Inquizo and Mira at the tavern — that's how the group came together.
+
+**[[Halcyra]]**
+She confronted him after the platform: *"This is not the first time I have witnessed you kill someone because you were angry."* He acknowledged it without defending himself. She also cast Command on him during the Oni incident. There is no hostility between them — she sees through his confidence and he knows it.
+
+**[[Grungrak]] (George)**
+George gave him a speech using his own words about second chances. Reficul called him "gorgeous." Before parting: *"Don't be scared of the stick"* and *"If you have to cry yourself to sleep, that's okay."* He has been quietly investigating George's birthday for reasons he hasn't shared. He called George's name in a Lethe vision. There is a warmth here that Reficul rarely shows directly.
+
+**[[Mira]]**
+She confronted him about his choices and smacked him on the head with her staff. She also immediately saw through him pretending to be asleep after the shadow therapy and just checked on him without calling him out. He didn't fool her for a second. They balance each other in a way that isn't comfortable but is honest.
+
+**[[Inquizo]]**
+Adjacent chaos. They exist in the same party and occasionally amplify each other's worst decisions.
+
+---
 
 ### Prophecy Connections
+
 - *"A form untethered collects those who touch / Death does not hinder, for they escape its clutch"* — Reficul exactly. Changeling (untethered form), dies and returns from hell. Death cannot hold him.
-- *"Souls adrift in shadow streams / Bound by neither hopes nor dreams"* — what he may encounter or collect in hell; or what he carries back
+- *"Souls adrift in shadow streams / Bound by neither hopes nor dreams"* — what he may encounter or carry back from hell; or what he holds now
 
-### Current Known Inventory
-- *(Currently staying in the island city — portable inventory unknown)*
-- **Shadow tattoo (Session 12)** — on his left arm; pulsating dark mark; grants the ability to summon another creature's shadow physically (living targets within 30 ft — he becomes the shadow, deals psychic damage); for deceased people, he can project their appearance through Whispers-style mechanics
-- *(Character sheet upload will fill this in further)*
+---
 
-### Session 11 Update
-Reficul was part of the town/portal group in Session 11 (with Mira, and then later at the palace). His curse activated again — bullywug form this time. He used Dissonant Whispers for a devastating 32 damage hit on King Pmurt, and later killed the phantasmal spectator with Starry Wisp. He was present for the Zone of Truth interrogation of Pmurt post-fight, and for Mira's partial castration attempt. The party leveled to 6 at session's end.
+---
 
-### Session 13 Update
-Reficul chose to **stay behind** in the former island city of King Pmurt. The city was in chaos — the people had seized power, executed or imprisoned their former guards, and a man named Naamon had taken over, planning more public executions. Reficul walked onto the execution platform when the crowd chanted his name, was handed an axe, and gave a long speech about death and punishment — arguing that death is freedom, not punishment, and that the true sentence is making a person live with their crimes. He threw the axe into the crowd and split someone in half who shouted "Get his wife and kids!" Then he punched Naamon off the platform (Halcyra caught the man, but he died from the punch — just a normal person). Halcyra confronted him directly: "This is not the first time I have witnessed you kill someone because you were angry." Reficul did not defend himself. He said, "I don't feel good about this."
+## By the Numbers
 
-Despite this, he decided he could not leave the people without guidance again. He said: **"I cannot leave these people. I have to stay."** He will remain long-term, helping the city resettle. Before the party left, he had brief goodbyes with the group. To George: *"Don't be scared of the stick"* and *"If you have to cry yourself to sleep, that's okay."* The party arranged for Gunj to visit and assist him.
-
-He is **separated from the party** for the foreseeable future. Whether this means his player is now co-DMing full-time or he returns when the plot calls for it is not specified.
-
-### Session 12 Update
-Reficul's shadow — the First and Last Witness — showed him the peaceful alternate life he never chose: a cottage, children laughing, his name called lovingly, no contract and no debt. Rather than be seduced by it or deny it, Reficul engaged philosophically. He acknowledged the beauty of the life, said he had his regrets, but argued that his path — the mistakes, the pain, the learning — was something his peaceful counterpart couldn't understand. When the shadow revealed it was looking for a deity who could change form, Reficul turned the questions back on it. The shadow ultimately admitted: *"I am but a shout."* It merged with him rather than fighting. His shadow tattoo is now a permanent part of him. He woke up pretending to be asleep (Mira checked immediately).
-
-### Session 6 Update
-**Reficul is back.** He was in the Fields of Asphodel, which is where the party arrived at the end of Session 5. He had been on "vacation" — he was a shark, got mistaken by another shark for the one being chased, and ended up in the underworld. He found a boat, a map, and had been exploring.
-
-He died **twice** in Session 6:
-1. The boat crashed into Persephone's shrine and the hull landed on him. His changeling child true form appeared, then a very tall naked man emerged from the sand — his new form. He threw his own dead child body into the River Lethe and fashioned white robes into a loincloth.
-2. He swan dived into Persephone's soul pool to retrieve Eric and died in the process. Came back. Kept going. Eventually succeeded.
-
-His clothes were already waiting for him in a chest inside Persephone's shrine. Someone put them there.
-
-### Session 7 Update
-Reficul appeared at the Gate of Ivory beach — exhausted, dressed normally. His first words: *"Crush the—"* before the boat landed on him (barely survived, d4 = 2, beard trimmed).
-
-His voice had been stolen by Urscylla and was orbiting her as a glowing yellow orb. Grungrak caught it and returned it.
-
-He revealed more clearly in the tavern (in conversation with George/Halcyra):
-- He made **a deal with the devil** — a job he must complete before he can be allowed peace. He **cannot die** until the job is done.
-- He is **1/100th of the way there** after this adventure.
-- He would rather forget his deaths. "I would rather forget myself dying."
-
-He also called George/Grungrak "gorgeous," which is extremely him.
-
-**George’s records at X-salent guild were retrieved by Justin** (at Reficul’s request) — a badly water-damaged piece of paper, bottom half completely missing, including George’s birthdate. Reficul is trying to determine when George’s birthday is.
-
-## Character Sheet Stats
-
-> *Extracted from D&D Beyond screenshot (reficul1.jpg / reficul2.jpg). Level 13 as displayed — possibly a D&D Beyond display anomaly; campaign context suggests Level 6 as of Session 13. Stats recorded as shown.*
+> *Extracted from D&D Beyond screenshot. Level shown as 13 on D&D Beyond — likely a display anomaly; campaign context suggests Level 6 as of Session 13.*
 
 **Full Name:** Reficul
-**Class:** Bard (College of Whispers) — Level shown as 13 on D&D Beyond
+**Class:** Bard (College of Whispers)
 **Species:** Changeling
-**Background:** [not shown]
-**Speed:** 30 ft
-**Proficiency Bonus:** +3 (shown on sheet as +3)
+**Speed:** 30 ft | **Proficiency Bonus:** +3
 
 ### Ability Scores
 
@@ -125,124 +114,60 @@ He also called George/Grungrak "gorgeous," which is extremely him.
 
 ### Defenses
 
-- **Armor Class:** 13 (Class / Light Armor)
-- **Hit Points:** 45 current / 45 max
+- **Armor Class:** 13 (Light Armor)
+- **Hit Points:** 45 max
 - **Passive Perception:** 14
-- **Passive Investigation:** 9
 - **Passive Insight:** 14
 - **Initiative:** +4
 
 ### Saving Throws *(proficient)*
 
-- STR (filled dot — proficient)
-- CON (filled dot — proficient)
-- CHA (filled dot — proficient)
+- STR (proficient)
+- CON (proficient)
+- CHA (proficient)
 
 ### Skills
 
 | Skill | Bonus | Notes |
 |-------|-------|-------|
-| Acrobatics (DEX) | +4 | |
 | Animal Handling (WIS) | +9 | Expertise |
-| Arcana (INT) | +1 | |
-| Athletics (STR) | +1 | |
 | Deception (CHA) | +7 | |
-| History (INT) | +1 | |
-| Insight (WIS) | +4 | |
-| Intimidation (CHA) | +4 | |
-| Investigation (INT) | +1 | |
-| Medicine (WIS) | +4 | |
-| Nature (WIS/INT) | +1 | |
-| Perception (WIS) | +4 | |
-| Performance (CHA) | -5 | Notably low — possible intentional flaw |
 | Persuasion (CHA) | +9 | Expertise |
-| Religion (INT) | +1 | |
-| Sleight of Hand (DEX) | -4 | Notably low |
+| Perception (WIS) | +4 | |
+| Insight (WIS) | +4 | |
 
 ### Weapons & Attacks
 
 | Weapon | Attack | Damage | Notes |
 |--------|--------|--------|-------|
-| Rapier | +6 | 1d8+3 piercing | Martial, Finesse, Vex |
-| Starry Wisp | +7 | 2d8+ radiant | Cantrip, V/S |
+| Rapier | +6 | 1d8+3 piercing | Finesse, Vex |
+| Starry Wisp | +7 | 2d8 radiant | Cantrip |
 | Unarmed Strike | -1 | 1 bludgeoning | |
 
-### Equipment & Armor
+### Armor & Proficiencies
 
 - **Armor:** Light Armor
-- **Weapons Proficient:** Crossbow (hand), Longsword, Rapier, Shortsword, Simple Weapons
+- **Weapons:** Crossbow (hand), Longsword, Rapier, Shortsword, Simple Weapons
 - **Tools:** Bagpipes, Carpenter's Tools, Horn, Songhorn
-- **Shadow tattoo** (left arm — Session 12) — summon another creature's shadow; psychic damage to living targets within 30 ft; project appearance of deceased through Whispers mechanics
-- *(Currently staying behind in island city — portable inventory unknown)*
+- **Languages:** Common, Hebrew (noted in D&D Beyond notes)
 
 ### Class Features *(College of Whispers)*
 
 - **Psychic Blades** — expend Bardic Inspiration on hit; 3d6 psychic damage at lvl 5+
-- **Words of Terror** — 1 min conversation; WIS save (Spell Save DC) or frightened for 1 hour; 1/short rest
-- **Mantle of Whispers** — *Reaction:* absorb humanoid's appearance when it dies within 30 ft; *Action:* become that person for up to 1 hour or until dismissed as bonus action; Wisdom (Insight) check vs. Deception +5 to see through
-- **Jack of All Trades**
-- **Cutting Words** (reaction)
-- **Font of Inspiration**
-- **Bardic Inspiration** die (Proficiency Bonus uses per long rest)
+- **Words of Terror** — 1-min conversation; WIS save or frightened for 1 hour; 1/short rest
+- **Mantle of Whispers** — reaction: absorb humanoid's appearance when it dies within 30 ft; action: become that person for up to 1 hour; WIS Insight vs. Deception +5 to see through
+- **Jack of All Trades** — half proficiency to any skill not using full proficiency
+- **Cutting Words** — reaction: subtract Bardic Inspiration die from enemy roll
+- **Font of Inspiration** — regain Bardic Inspiration on short or long rest
+- **Bardic Inspiration** — Proficiency Bonus uses per long rest
 
-### Species Traits *(Changeling / noted in Notes section)*
+### Species Traits *(Changeling)*
 
 - **Telepathy** — 60 ft (to creatures sharing a language)
 - **Detect Thoughts** — 1/long rest, free (2nd level spell)
 - **Shapeshifting** — full form change; clothes shift with him
-- **True Sight** — can see through invisibility; confirmed from Session 1 (spotted Inquizo while invisible; no one else in the party can see him when invisible)
-- **Speaks Hebrew** — noted in the D&D Beyond notes section
-
-### Additional Notes (from D&D Beyond notes page)
-
-- **Psychic Blades:** 3d6 at bardic inspiration level 5
-- **Words of Terror:** 1 min convo, save spell DC, 1 hour frightened
-- **Mantle of Whispers:** absorb reaction / become action; can absorb a humanoid dead within 30 ft; stays in inventory until used or long rest; another creature can see through it on WIS vs. Deception (+5 extra for Cooper)
-- **Can become someone's shadow** (Psychology) — same mechanics, but the person can be alive within 30 ft
-
-### Languages
-
-- [Languages section not visible on screenshot]
+- **True Sight** — can see through invisibility; spotted invisible Inquizo in Session 1 when no one else could
 
 ---
 
-### Relationships
-
-> Reficul, George, and Halcyra were a trio before the party formed. They met [[Inquizo]] and [[Mira]] at the tavern — that's how the group came together.
-
-**[[Halcyra]]**
-She confronted him after the platform — *"This is not the first time I have witnessed you kill someone because you were angry."* He acknowledged it without defending himself. She also cast Command on him during the Oni incident to stop him. There is no hostility between them, but she sees through his confidence and he knows it.
-
-**[[Grungrak]] (George)**
-George gave him a speech using his own words about second chances. Reficul called him "gorgeous." Before parting, he told George: *"Don't be scared of the stick"* and *"If you have to cry yourself to sleep, that's okay."* He has been quietly investigating George's birthday for reasons he hasn't explained. He called out George's name in a Lethe vision. There is a warmth here that Reficul rarely shows directly.
-
-**[[Mira]]**
-She confronted him directly about his choices — one of the clearest calls-out he received all campaign. She physically smacked him on the head with her staff at least once. She also immediately checked on him after his shadow therapy session when he was pretending to be asleep. He didn't fool her for a second. They balance each other in a way that isn't comfortable but is honest.
-
-**[[Inquizo]]**
-They share chaos energy more than they share scenes. Their dynamic is mostly ambient — they exist in the same party and occasionally amplify each other's worst decisions.
-
----
-
-### Open Threads
-- The King of Hell connection — is this mechanical, narrative, or both?
-- A chest of his clothes was waiting for him inside Persephone's shrine. Who put them there? Did someone know he'd be there?
-- **The devil's deal** — what is the job? What does "1/100th done" actually mean in terms of the task? What happens when it's complete — does he get peace, or does peace mean death?
-- **Investigating George’s birthday** — Reficul retrieved George’s X-salent guild record (via Justin); it is badly water-damaged with the bottom half missing, including George’s birthdate. Reficul is trying to find out when George was born. The record existing but being damaged raises its own questions.
-- **The mysterious figure (Session 8)** — he sent a cryptic telepathic message: *"Divinity needs your haste. Meet the tavern in two hours."* The figure teleported away before the meeting time. Did they receive the message? Will they show up? He never identified them.
-- **Curse form escalation** — 4th activation in Session 10 → kobold; 5th activation in Session 11 → bullywug. Running list: bull shark (Session 2), very tall naked man (Session 6), Oni (Session 8), kobold (Session 10), bullywug (Session 11). How many forms are there? What determines which one triggers?
-- **Session 10 backstory reveal** — childhood: picked up an ink and quill and his hands moved on their own. He learned to write before he could speak. The writing was unintelligible to anyone else. This connects directly to the wall writing mystery and his Oni nature.
-- **Earth Tremor incident** — he killed 4 commoners (all revived). Mira confronted him. This may have consequences with the city guard or the homeless community.
-- **Victorian manor encounter (Session 9)** — entered the house covered in mysterious script; encountered an adventuring party whose dragonborn member was visibly possessed by the house (eyes glowing red, weapon shapeshifting). Was pinned by an invisible boulder cast by the mouse party member. Escaped after Grungrak's Sleep spell. Received Grungrak's speech about second chances afterward.
-- **Received Grungrak's speech (Session 9)** — Grungrak used Reficul's own philosophy of second chances to argue for believing in him. Emotional impact unclear but the moment landed.
-- **Dissonant Whispers 32 damage (Session 11)** — single-cast, 32 damage against King Pmurt. One of the most impactful offensive moments of the session.
-- **Pmurt escaped (Session 11)** — he was present for the full throne room fight. Pmurt used a contingency poof mechanic and escaped; Reficul and the others now need to decide what comes next in the island city.
-- **Shadow merged (Session 12)** — the First and Last Witness did not fight him; it integrated. The tattoo now gives him the ability to show people their own shadows. His philosophical argument — that his mistakes were his, and his peaceful counterpart had learned nothing because he had never earned pain — was the thing that got him here. The shadow agreed, in its own way, by becoming part of him rather than staying separate.
-- **The shadow is looking for a deity** — during the therapy, his shadow mentioned it was looking for a deity who might be able to change form. Reficul noted this without fully engaging the thread. The shadow may know something about the campaign's larger divine landscape that Reficul now has access to through the tattoo.
-- **Stayed behind in the island city (Session 13)** — separated from party; helping people settle; will Gunj's presence be enough? Will he be safe? His violence on the platform (killing the heckler, killing Naamon) leaves open whether the people will trust him or turn on him.
-- **Halcyra confrontation (Session 13)** — Halcyra (not Mira) said: "This is not the first time I have witnessed you kill someone because you were angry." He acknowledged it. No resolution yet.
-- **Devil's deal progress** — does staying in the city advance or stall his deal?
-
-*Last updated: Session 13 — True sight added to Species Traits (2026-03-17)*
-
----
+*Last updated: Session 13*

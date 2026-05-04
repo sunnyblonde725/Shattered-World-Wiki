@@ -1,6 +1,7 @@
 ---
 title: Mira — Character Profile
 tags: [dnd, shattered-world, characters, mira]
+date: 2026-05-03
 ---
 
 *Linked to: [[Character Profiles]] | [[World State]] | [[Shattered World]]*
@@ -12,94 +13,109 @@ tags: [dnd, shattered-world, characters, mira]
 
 ---
 
-## [[Mira]]
+## Mira
 
-**Player:** Ele
-**Race:** Human *(confirmed)*
-**Class:** Sorcerer (Warlock) *(Mira believes she is a Sorcerer — she is actually a Warlock with a Fiend patron. The formatting reflects her self-perception vs. reality.)*
-**Role:** Player only (not a DM)
+**Player:** Ele | **Race:** "Human" *(in quotes on her sheet — her status is complicated)* | **Class:** Warlock (Fiend patron) *(she believes she is a Sorcerer)* | **From:** SKRP
+
+---
 
 ### Who She Is
-Mira is the most competent person in the party and has been dead the entire time. She handles diplomacy, reads user manuals mid-crisis, labels submarine buttons, and keeps three chaotic companions from getting everyone killed — all without knowing she is not supposed to exist in this world. She is a previous campaign character who was reinvigorated by an unknown force and dropped back into the story. Whatever brought her back didn't tell her she was dead first.
 
-### What We Know About Her
-- She is **dead** — or caught somewhere between alive and dead. She has been "reinvigorated" by an unknown force.
-- She **does not know she is dead** — not denial. Genuine unawareness. *"It's not that Mira doesn't believe she's dead. It's that Mira doesn't know she's dead."*
-- In the pit area (Session 3), she:
-  - Moves at **approximately 1/15th normal speed** — her feet stick like walking through deep mud; everyone else moves normally
-  - Cannot **heal or pray**
-  - Has her **blood "tugged"** toward something
-  - Heard a voice say: *"You're not supposed to be here"*
-- She is a **previous campaign character** — carries over history and relationships from before this story started
-- She is **friends with Grungrak** (George) from the previous campaign — he doesn't recognize her now
-- She has **heard the Ballad of Grungrak** — the ballad written about the original Grungrak. George has been secretly learning the Ballad of Mira for her in return (caught in Session 13)
-- She is described as **chronically ill** with a strength modifier — not physically powerful
-- She noticed the **Security Glabra** (clam surveillance cameras) in the underwater city
+Mira is the most competent person in the party and has been dead the entire time. She handles diplomacy, reads user manuals mid-crisis, labels submarine buttons, and keeps three chaotic companions from getting everyone killed — all without knowing she is not supposed to exist in this world. She is a character from a previous campaign who was reinvigorated by an unknown force and dropped back into the story. Whatever brought her back didn't tell her she was dead first. It's not that she doesn't believe she's dead. It's that she doesn't know.
 
-### Real Name
-**Cassidy.** She was called "Mira" after she recovered from her illness — short for "miracle child." The party calls her Mira.
+Her real name is Cassidy. She was called "Mira" — short for "miracle child" — after she recovered from an illness she had as a young child. Her father sold his soul to save her life when she was five. The entity that made that deal has been speaking through her ever since, manifesting as a masculine voice that emerges during death magic, taking over her body at key moments, and eventually producing a sickle in her hand during the Pmurt fight. She is a warlock with a Fiend patron she has never chosen, bound by a contract she didn't sign. She knows none of this. She thinks she's a sorcerer.
 
-### Abilities Seen in Play
-- **Medicine check (21)** — used to examine Reficul's body in Session 3
-- Diplomatic skills / high social stats (handled the entire throne room diplomacy in Session 2)
-- Fast reading, labeling, and information processing (submarine manual in Session 2)
-- **Mind Spike** (Session 4 — 9 damage, pierced angel's lungs, failed Wisdom save)
-- **Toll the Dead** (Session 4 — 11 damage, d12. A masculine voice came out of her. Not her own voice.)
-- **False Life** (Session 5 — used to hold her turn while partially fighting off patron control)
-- **Burning Hands** (Session 6 — 15-foot cone on the horse; horse succeeded Dex save 13; took 5 fire damage)
-- **Deception (19)** — Session 6, attempting to mask her fear of the turkey. Did not fool anyone.
-- She was **charmed by Ariel's singing** (Session 3)
-- **Charmed by Urscylla's aria** (Session 7 — rolled 13; jumped into the River Lethe while charmed; saw duplicates of herself in the water)
-- **Cosphere** (Session 7 — cast with no spell slots remaining; took a **level of exhaustion**; DC 13, 4 of Urscylla's tentacles were frightened)
-- **Level 5 — Extra Attack** gained
-- **Level 5 — Plant Growth** added as a spell
-- **Level 5 — Two new level 3 spell slots** gained
-- **Investigation (14)** (Session 8 — examined the mystery bedroom; found no signs of breaking and entering; discovered fine kanji-like magical sigils on the outer window frame, written in the same substance as the wall text but far smaller and in a completely different hand)
-- **Arcana (18)** (Session 8 — confirmed the window sigils are magical; the wall writing itself has no arcane energy imbued in it; the sigils appear to be a separate layer used to access the room)
-- **Command ("Approach")** (Session 8 — cast on Oni-Reficul after his curse triggered; he failed the save and had to walk toward her)
-- **Comprehend Languages** (Session 8 — planned for use on the sigil script; not yet cast)
-- **Arcane energy detection (Arcana — roll 12)** (Session 9 — confirmed magical energy present when the YOMI letters glowed during Halcyra's prayer at the Apollo temple)
-- **False Life** (Session 11 — used during the King Pmurt fight to give herself a buffer of temporary HP before or during combat)
-- **Warding Wind** (Session 11 — used to protect the party's position during the throne room fight; also confirmed to have been used earlier in the session to protect the journal recovered in Session 10)
-- **Hunger of Hadar x2** (Session 11 — cast Hunger of Hadar twice during the session; once in the town/portal section and once during the Pmurt fight; the spell creates a 20-foot sphere of darkness and tentacles, dealing cold and acid damage)
-- **Pact weapon sickle manifested** (Session 11 — Mira's pact weapon manifested as a sickle during the Pmurt fight; she is an unknowing warlock with an unknown patron; the sickle appearing confirms the patron is actively present and granting warlock features)
-*(Note: Zone of Truth in Session 11 was cast by Halcyra, not Mira — Mira has Zone of Truth on her spell list but Halcyra was the one who used it on Pmurt.)*
-- **Partial castration attempt** (Session 11 — after Zone of Truth, Mira attempted to castrate King Pmurt with her pact sickle; she partially succeeded before he escaped; Pmurt is now alive, wounded, and missing something important; this is now a defining Mira moment)
-- **Invisibility** (Session 13 — cast on herself to enter the island city square unseen; used a floating rope to communicate with Dex while invisible; remained invisible for the full Dex rescue and interview)
-- **Medicine 18** (Session 14 — removed broken glass shards from George's hands with tweezers after the valve pressure jump; careful and precise)
-- **Breath lock** (Session 14 — discovered the "PSI 16" needle lock on the ship required a breath; rolled 18 vs DC 17; succeeded; obtained the **moon medallion** from the mechanism)
-- **Set destination to Bermuda Foundation** (Session 14 — used the navigation circle after placing the moon medallion; set course for the Doctor's base)
-- **First to see the burning city** (Session 14 — spotted Bermuda Foundation through the kitchen window; blood-red sky, every building on fire; said nothing for a moment, just looked)
-- **Hold Person — failed** (Session 14 — cast on Galveston during combat; Galveston saved with an 18; spell failed)
-- **Mind Spike — succeeded** (Session 14 — landed Mind Spike on Galveston; the insect that was fused to his eye fell off; significant combat hit)
-- **Toll the Dead** (Session 14 — used to kill one of the four hellhounds during combat)
+She is practical, dry, and quietly devastating. She picked up Inquizo after his shadow breakdown and held him until the panic passed without saying a word. She walked into her shadow dragon rather than fighting it. She is learning the Ballad of Grungrak — the song about the friend she lost, who is standing right next to her and doesn't remember her. She knows who her patron is now. She has the necklace her father gave his soul for around her neck. She is carrying all of this without falling apart, which might be the most remarkable thing about her.
 
-### Current Known Inventory
-- **Staff** — her primary weapon (used to cast Toll the Dead, Session 4); also used to physically smack Reficul on the head in Session 8
-- ~~**Broken wrist**~~ — healed; after the Session 9 long rest it fully set
-- ~~**Ink sample**~~ — **ANALYZED (Session 9).** Substance fully tested at Alchemy Guild; findings documented. No longer a loose sample.
-- *(Note: Pages 35–40 from "Ruins from Ancient Ages" were checked out by Halcyra, not Mira — Mira found and read the pages at the library, but Halcyra has physical possession of them)*
+**What she doesn't know:** She is dead — or something between alive and dead. She was reinvigorated by an unknown force. Whatever is keeping her here has not explained itself.
+
+---
+
+### How She Fights
+
+Mira is a warlock who excels at control, information, and precise, devastating hits. She is methodical in combat — she plans, she rolls math out loud, and she lands what she needs to land.
+
+**Damage & Offense**
+- **Mind Spike** — WIS save or takes psychic damage; she hit the blood angel's lungs for 9 in Session 4 and dislodged the insect from Galveston's eye in Session 14
+- **Toll the Dead** — d12 cantrip on damaged targets; a masculine voice has come out of her when casting this; she used it to finish a hellhound in Session 14
+- **Hunger of Hadar** — 20-foot sphere of darkness and tentacles; cold and acid damage; cast twice in Session 11 including during the Pmurt fight
+- **Burning Hands** — 15-foot cone; used on a metal horse in Session 6
+- **Pact weapon sickle** — manifested without her consciously calling it during the Pmurt fight; she partially castrated King Pmurt with it before he escaped; this is now a defining Mira moment
+- **Stormwake Sigil** — her father's final gift; adds 2d6 lightning damage to any attack (physical or magical) up to proficiency bonus times per day
+
+**Control & Utility**
+- **Hold Person** — paralyzed the wagon guard in Session 16 (guard rolled 2; went fully paralyzed); previously failed against Galveston (he saved with an 18)
+- **Command ("Approach")** — cast on Oni-Reficul in Session 8; he failed the save and had to walk toward her
+- **Invisibility** — used to rescue Dex from the execution platform in Session 13; remained invisible through the full interview
+- **False Life** — no-slot self-buff; used to give herself temp HP going into the Pmurt fight
+- **Warding Wind** — protected the party's position in the throne room and preserved the Session 10 journal during combat
+- **Comprehend Languages** — planned for the sigil script; not yet cast
+- **Cosphere** — cast with no spell slots remaining (Session 7); took a level of exhaustion; frightened 4 of Urscylla's tentacles
+- **Aid** — prepared; buffs allies with temp HP
+- **Suggestion, Scorching Ray** — Fiend spells, always prepared; not yet used on-screen in notable ways
+
+**Social & Investigation**
+- Medicine 21 — examined Reficul's body in Session 3
+- Investigation 14 + Arcana 18 — found fine magical sigils on the window frame in Session 8; confirmed their magical nature
+- Arcana 12 — confirmed magical energy during the YOMI glow at Apollo's temple
+- History 22 — recognized the runes on Starglass's body from the abandoned town murals in Session 13
+- Medicine 18 — removed broken glass shards from George's hands with tweezers in Session 14
+- **Breath lock** — figured out the PSI 16 needle lock required a breath (rolled 18 vs. DC 17); obtained the moon medallion in Session 14
+- **Time distortion identification** — first to correctly identify the mine ride time distortion in Session 15; laid out the full pattern to the party
+
+---
+
+### What She's Carrying
+
+- **Staff (Quarterstaff)** — primary weapon; also used to physically smack Reficul on the head at least once
+- **Pact weapon sickle** — manifested during the Pmurt fight; the patron's presence is now confirmed
+- **Stormwake Sigil** — lightning bolt necklace; her father's soul gift from the shadow dream in Session 12; +2d6 lightning damage to any attack, up to proficiency bonus times per day; she put it on immediately after waking
+- **Sending Stone** — given by Valu; long-distance communication
 - **18 copied plant entries** — hand-copied from a foraging guide at the library (Session 9)
-- **Alchemy Guild research notes** — full write-up of the substance analysis from Session 9 (beads when heated; gaseous with Agopyl; solidifies with salt; not from SKRP)
-- **Goop sample** (from cave creature, Session 10) — same substance as wall writing and caravan goop; confirmed via salt coagulation test
-- **Skull shards and snake teeth** (from cave creature, Session 10) — evidence; deer-like skull with cone/snake teeth
-- **Gavikwest berry** (found en route to cave, Session 10) — one of the forest fetch quest items
-- **Journal from the cave** (Session 10) — recovered from the dead man’s camp; partially on fire during combat; Warding Wind preserved it; DM will share contents later
-- **Pact weapon sickle** (Session 11) — manifested during the Pmurt fight; the patron’s presence is now undeniable even if Mira doesn’t understand what it means
-- **Stormwake Sigil** (Session 12) — a lightning bolt necklace; father’s final gift passed through the shadow. Add 2d6 lightning damage to any attack (physical or magical) up to proficiency bonus times per day. She put it on immediately after waking.
-- *(Character sheet upload will fill this in further)*
+- **Alchemy Guild research notes** — full write-up of the substance analysis (beads when heated; gaseous with Agopyl; solidifies with salt; not from SKRP)
+- **Goop sample** — from the cave creature (Session 10); confirmed same substance as wall writing and caravan goop
+- **Skull shards and snake teeth** — evidence from the cave creature; deer-like skull with cone/snake teeth
+- **Gavikwest berry** — one of the forest fetch quest items
+- **Journal from the cave** — recovered from the dead man's camp in Session 10; partially on fire during combat; Warding Wind preserved it; contents to be shared by DM
+- **Grungrak's spellbook** — also has Grungrak's broken hammer noted
+- **Alchemist's tool belt** — bought at the Alastair market in Session 16; comes loaded with 2 alchemist fire, 2 acid, 1 antitoxin; replenishes on long rest
+- **2 daggers, component pouch, scholar's pack, leather armour, lamp, oil, parchment, jar of chimney blood, jar of moths, book and quill**
 
-## Character Sheet Stats
+---
+
+### The People Around Her
+
+**[[Halcyra]]**
+Halcyra shared the prophecy scroll with Mira one-on-one — a rare vulnerable moment. Mira said she couldn't help right then. They work in sync during combat. The prophecy conversation sits unfinished between them; neither has pushed it.
+
+**[[Grungrak]] (George)**
+They have history from a previous campaign that only Mira remembers. She pushed too hard at first and apologized for it. He told her he had met Grungrak in the Lethe — the version of himself he lost — and found him kind. She was inside the shadow dragon where Grungrak appeared. She severed the cord and he emerged physical for a moment: *"Thank you for letting me be me."* George woke up smiling through tears. She is learning the Ballad of Grungrak. He has been secretly learning the Ballad of Mira. Neither has performed it for the other yet.
+
+**[[Reficul]]**
+She has confronted him directly about his choices more than once. She smacked him with her staff. She also immediately saw through him pretending to be asleep after his shadow therapy and said nothing — just checked on him. She holds him accountable and then makes sure he's okay. Both parts matter.
+
+**[[Inquizo]]**
+After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat. She picked him up like a cat and held him until the panic passed. No speech. No explanation. Just presence.
+
+---
+
+### Prophecy Connections
+
+- *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — Mira, precisely. The stanza fits her condition exactly.
+- *"Where Hades' veil and sunlight meet / The child shall walk in realms replete"* — possibly Mira or Halcyra; both exist at a boundary between the living and the dead
+
+---
+
+---
+
+## By the Numbers
 
 > *Extracted from physical character sheet. Level 6 as of Session 13.*
 
 **Full Name:** Cassidy "Miracle" Ticke-Mira (goes by Mira)
 **Class:** Warlock 6 (Fiend patron)
-**Species:** "Human" *(listed in quotes on sheet)*
-**Background:** [not clearly legible]
-**Alignment:** [not filled]
-**Size:** Medium
-**Speed:** 30 ft
+**Species:** "Human" *(in quotes on sheet)*
+**Size:** Medium | **Speed:** 30 ft
 **Proficiency Bonus:** +3
 
 ### Ability Scores
@@ -116,34 +132,31 @@ Mira is the most competent person in the party and has been dead the entire time
 ### Defenses
 
 - **Armor Class:** 13 (Light armor)
-- **Hit Points:** 41 max | Hit Dice: 1d8 per level (noted on sheet as "1d8 per level" and "1d3 per level" — likely 1d8 primary)
+- **Hit Points:** 41 max | Hit Dice: 1d8
 - **Passive Perception:** 10
 - **Initiative:** +2
 
 ### Saving Throws *(proficient)*
 
-- CON (proficient — filled dot)
-- CHA (proficient — filled dot)
+- CON (proficient)
+- CHA (proficient)
 
 ### Skills *(proficient)*
 
-- Arcana (INT — filled dot)
-- History (INT — filled dot)
-- Investigation (INT — filled dot)
-- *(Other proficiencies not clearly visible)*
+- Arcana (INT)
+- History (INT)
+- Investigation (INT)
 
 ### Spellcasting
 
 - **Spellcasting Ability:** Charisma
-- **Spell Save DC:** 18 (partially legible — may be 14 or 15 given CHA +3 + PB +3; written value unclear)
 - **Spell Attack Bonus:** +5
-- **Spellcasting Modifier:** +3
 - **Prepared spells:** 7
 
-**Spell Slots:** (Warlock Pact Magic — short rest recovery)
+**Spell Slots:** *(Pact Magic — short rest recovery)*
 | Level | Total |
 |-------|-------|
-| 1st | 4 (or 2 — Pact Magic slots at L6 = 2 slots of L3; additional slots may be from Magical Cunning) |
+| 1st | 4 |
 | 2nd | 2 |
 | 3rd | 2 |
 
@@ -153,168 +166,55 @@ Mira is the most competent person in the party and has been dead the entire time
 
 | Level | Spell | Notes |
 |-------|-------|-------|
-| 1 | False Life | No spell slot version — always self |
+| 1 | False Life | No slot — always self |
 | E1 | Comprehend Languages | |
-| E1/2 | Crown of Madness | Action, 120 ft, up to 1 minute |
-| 2 | Hold Person | Action, 60 ft, up to 1 minute |
-| F | Burning Hands | Action, Self (15 ft cone) — Fiend spell, always prepared |
-| F | Command | Action, 60 ft — Fiend spell, always prepared |
-| F | Scorching Ray | Action, 120 ft — Fiend spell; one or several targets, roll for each ray |
-| F | Suggestion | Action, 30 ft, up to 9 hours — Fiend spell, always prepared |
-| 2 | Mind Spike | Action, 60 ft; WIS save — always prepared |
-| C | Toll the Dead | Action, 60 ft; WIS save — cantrip |
-| 2 | Invisibility | Action, Touch — always prepared |
-| 1 | Cause Fear | Action, 60 ft — always prepared |
-| 3 | Hunger of Hadar | Action, 150 ft; 20 ft sphere — always prepared |
+| E1/2 | Crown of Madness | Action, 120 ft, up to 1 min |
+| 2 | Hold Person | Action, 60 ft, up to 1 min |
+| F | Burning Hands | Fiend spell, always prepared |
+| F | Command | Fiend spell, always prepared |
+| F | Scorching Ray | Fiend spell, always prepared |
+| F | Suggestion | Fiend spell, always prepared |
+| 2 | Mind Spike | Action, 60 ft; WIS save |
+| C | Toll the Dead | Cantrip; WIS save |
+| 2 | Invisibility | Action, Touch |
+| 1 | Cause Fear | Action, 60 ft |
+| 3 | Hunger of Hadar | Action, 150 ft; 20 ft sphere |
 | 2 | Aid | Action, 30 ft; 15 HP for 3 allies |
 | 2 | Zone of Truth | Action, 60 ft; 1 hour |
 
-*(F = Fiend patron spell, always prepared; C = cantrip; E = eldritch / expanded list)*
+*(F = Fiend patron spell, always prepared; C = cantrip; E = eldritch/expanded list)*
 
 ### Weapons & Attacks
 
 | Weapon | Attack | Damage | Notes |
 |--------|--------|--------|-------|
-| Quarterstaff | — | 1d6 B | Versatile (1d8 with two hands) |
+| Quarterstaff | — | 1d6 B | Versatile (1d8 two-handed) |
 | Dagger | — | 1d4 P | Range 20/60 |
-| Scythe | — | 1d4 slashing | Pact weapon |
+| Scythe (pact) | — | 1d4 slashing | Pact weapon |
 
-### Equipment
-
-- Staff (primary weapon)
-- 2 daggers/knives
-- Component pouch
-- Jar of chimney [illegible] blood
-- Jar of moths
-- Book and quill
-- Scholar's pack
-- Leather armour
-- Lamp, oil
-- Parchment
-- **Grungrak's spellbook** (also noted: Grungrak's hammer — broken)
-- **Stormwake Sigil** (lightning bolt necklace — father's soul gift, Session 12): +2d6 lightning damage added to any attack (physical or magical), up to proficiency bonus times per day
-- **Sending Stone** (from Valu — Session 13)
-- 18 copied plant entries
-- Alchemy Guild research notes
-- Goop sample (cave creature, Session 10)
-- Skull shards and snake teeth (cave creature, Session 10)
-- Gavikwest berry
-- Journal from the cave (Session 10)
-- Pact weapon sickle (manifested Session 11)
-
-**Coins:** 8 SP + 3 GP (partially legible)
-
-### Armor Training & Proficiencies
+### Armor & Proficiencies
 
 - **Armor:** Light, Medium, Heavy, Shields (marked)
 - **Weapons:** Simple weapons
 - **Tools:** Calligrapher's Supplies
+- **Languages:** Common, Elvish, Dwarvish
 
 ### Class Features *(Warlock — Fiend Patron)*
 
-- **Eldritch Invocations** — [specific invocations not legible from sheet; known from play: Agonizing Blast equivalent, possibly Devil's Sight]
 - **Pact Magic** — short-rest spell slot recovery
 - **Magical Cunning** — recover half spell slots on short rest (1/long rest)
-- **Fiend Patron:** Dark One's Blessing — when reducing a creature to 0 HP, gain temp HP = CHA mod + Warlock level
-- **Fiend Spells** — always prepared: Burning Hands, Command, Scorching Ray, Suggestion (these appear as "F" marked on sheet)
+- **Dark One's Blessing** — when reducing a creature to 0 HP, gain temp HP = CHA mod + Warlock level
+- **Fiend Spells** — always prepared: Burning Hands, Command, Scorching Ray, Suggestion
+- **Eldritch Invocations** — specific invocations not fully legible on sheet
 
 ### Species Traits *("Human")*
 
 - **Resourceful** — gain 1 Heroic Inspiration after a long rest
-*(Note: quotation marks around "Human" on sheet are likely intentional — her status as the dead-but-walking makes "Human" complicated)*
 
 ### Feats
 
-- **Skilled** — gain proficiency in three skills or tools of choice
-
-### Languages
-
-- Common
-- Elvish
-- Dwarvish
+- **Skilled** — proficiency in three additional skills or tools
 
 ---
-
-### Prophecy Connections
-- *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — Mira, precisely. The stanza fits her condition exactly.
-- *"Where Hades' veil and sunlight meet / The child shall walk in realms replete"* — possibly Mira or Halcyra; both exist at a boundary between living and dead, divine and mortal
-
-### Relationships
-
-**[[Halcyra]]**
-Halcyra shared the prophecy with Mira one-on-one — a rare vulnerable moment for her. Mira said she couldn't help right then. They work in sync during combat. Mira has not revisited the prophecy conversation, and neither has Halcyra pushed it. Something sits unfinished between them there.
-
-**[[Grungrak]] (George)**
-They have history from a previous campaign that only Mira remembers. She pushed too hard for him to remember at first; she apologized for that in Session 8 and reached out first. He told her about meeting Grungrak in the Lethe. She was inside the shadow dragon where Grungrak appeared. She severed the cord and he emerged — physical, real for a moment — and said *"Thank you for letting me be me."* George woke up smiling through tears. She has been learning the Ballad of Grungrak. He has been secretly learning the Ballad of Mira. Neither has performed it for the other yet.
-
-**[[Reficul]]**
-She confronted him directly about his choices more than once. She smacked him with her staff. She also immediately saw through him pretending to be asleep after his shadow therapy and said nothing, just checked on him. She holds him accountable and then checks that he's okay. Both parts matter.
-
-**[[Inquizo]]**
-After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat. She picked him up like a cat and held him until the panic passed. No speech. No explanation. Just presence.
-
----
-
-### Open Threads
-- She is dead and doesn't know it — when does she find out? What happens when she does?
-- What reinvigorated her, and why?
-- The pit area — what are the glowing white strings? Why is her movement so affected?
-- Her shared history with Grungrak — will she ever tell him? Will he remember? During the Session 10 card game, she described the original Grungrak unprompted: *"He was my best friend. He found me when I first came to the guild. Decided we were gonna be best friends, just by my attempts not to be. And now it's in our river."*
-- She cannot heal others. She CAN pray and CAN heal herself — she just cannot heal other people.
-- **Her patron** — a masculine entity that speaks through her during death magic and forcibly takes over her body. Who is this? What does it want?
-- **"You're already mine"** — the blood angel claimed her and assigned itself a number (8). The angel is dead, but the claim may not be.
-- **Her stolen memory** — pre-sickness childhood memories taken by the blood angel. DM left a door open. Who holds them now? Is it retrievable?
-- ~~**Her broken wrist**~~ — **RESOLVED (Session 9).** Healed by Grungrak in Session 5; fully resolved by Session 9.
-- ~~**Tension with Grungrak around honesty**~~ — **RESOLVED (Session 8).** Mira initiated the reconciliation with George — she reached out first, acknowledged she had been too forceful in pushing him to remember. George told her he had met Grungrak in the Lethe and found him kind. They embraced. The honesty thread is closed.
-- **The Lethe** — she jumped in while charmed and saw duplicates of herself. Did this change anything about her condition? She is already technically dead — what does the river of forgetting do to someone who shouldn't exist?
-- **The writing mystery (Session 10 update)** — the cave creature's goop is chemically identical to the wall writing and the caravan goop (same salt coagulation reaction). Wagon runes found on the bottom of the Velodorn caravan wagons are from the same alphabet family as the ruins runes. Rough translation: sleep, return, catalyst, invite (plus noise: "dinosaur cheesecake"). Two rune sets exist: on building doors/windows and on wagon bottoms. Someone or something is making goop constructs in the woods. Comprehend Languages on the script still planned but not yet cast.
-- ~~**Alchemy tools still missing**~~ — **RESOLVED (Session 9).** She was able to conduct full research at the guild; tools situation no longer blocking her work.
-- **Pact weapon manifestation (Session 11)** — her sickle manifested during the Pmurt fight without her consciously calling it. She is confirmed as an unknowing warlock. Her patron is real and present. What does the patron want? Why is Mira the vessel? The sickle as a pact weapon is significant given that the last famous sickle in this campaign was the "Castrator of the Sky" — now given to Persephone. Is there a connection?
-- **Partial castration of Pmurt (Session 11)** — Mira partially castrated King Pmurt after Zone of Truth. He escaped before completion. This act was not impulsive — she chose it deliberately. What does this mean for her character going forward? And Pmurt now has very personal reasons to come after the party.
-- **Town group (Session 11)** — Mira was in the town/portal section at the start of Session 11. She traveled through the portal to the island city with Reficul, encountered the gender-fluid portal operator, saw the butcher's body hanging from the portcullis with the "Do Not Rebel" sign, and ultimately reached the palace where the full party converged.
-- **Level 6 (Session 11)** — leveled up at session's end; new abilities not yet documented.
-- **The patron is a dragon (Session 12)** — Mira's shadow grew into a blue dragon with green veins. Grungrak was inside it. The dragon said: *"I was truly the one in power. I am behind it. Which is to say, I am you. You are the one behind each of these deaths."* Mira walked into the dragon rather than fighting it. Cooper had prepared for denial; Mira provided integration. She is the most unexpected person in the room, again.
-- **Her father sold his soul (Session 12)** — The contract appeared inside the dragon: *My soul for hers.* Signed by her father shortly after her fifth birthday, when she first got sick. The patron who has been speaking through her, manifesting the sickle, taking over her body — has been there because her father paid for her life with his own soul. She did not choose this. She was purchased. Her father's "final gift" is now around her neck — the Stormwake Sigil.
-- **Grungrak was inside the dragon (Session 12)** — Inside the dragon, Mira found Grungrak. She asked what the other Mira (in the mirror) had done differently when told to run. *She saved.* Mira severed the cord. Grungrak became physical — real — for a moment. He hugged her and said *"Thank you for letting me be me."* Then faded. George woke up smiling through tears.
-- **Shadow is the Hollow Heir (Session 12)** — her shadow's name. After severing all the cords, the shadow shrank to a small, scared girl asking *"What am I when they all leave?"* Mira answered her honestly. The shadow gave her the necklace and faded.
-- **She carried Inquizo (Session 12)** — after waking, Mira was not crying but reflecting; she dissipated her sickle, put on the necklace, then went to Inquizo (catatonic, muttering "I'm sorry") and picked him up like a cat. She held him and gently brought him out of the panic attack. This is who she is.
-- **Dex rescue (Session 13)** — used Invisibility and a floating rope to free Dex from the execution platform without being recognized. Interviewed him about Numgis's dream conversations and his own nightmares. She questioned him about the nightmares and connected his experience to the dream realm: his tavern dream on the night of the major event means he accidentally entered a god's realm through sleep — probably Latar's, not necessarily the God of Dreams'.
-- **Thorin statue investigation (Session 13)** — rolled Investigation 15; confirmed the Thorin statue is made of different materials than the Valu statue (different makers); collected a material sample; observed the single tear the statue shed. Also suggested bringing the statue with them on the airship, connecting the Valu-release mechanic to the idea that Thorin needs to reach his people.
-*(Note: It was Halcyra, not Mira, who confronted Reficul on the platform after the Naamon incident and said "This is not the first time I have witnessed you kill someone because you were angry.")*
-- **Decompressing via prophecy (Session 13)** — on the ship, she was in the cargo area reading the prophecy scroll. She used the sending stone to contact Gunj, asking him to come to the island city to help Reficul and keep an eye on the Thorin statue. She visited the prison on the way out of the island city to update the remaining prisoners that executions were likely over. She also found the map's slot, triggered the ship reboot, followed the ticking into the cargo hold, and discovered Starglass in the glass case behind the wallpaper. She confirmed the "Heal the Statues Made of Stone" stanza applies to the statue situation. She then spent a very long time in the server room failing to understand steampunk machinery. She accepted this failure immediately.
-- **Session 13 — Starglass conversation** — Mira was one of two people who passed the History check (22) recognizing the runes on Starglass's body from the abandoned town murals. She asked about the runes directly — and learned they represent "hello" and "goodbye" to Malafera's constructs. She suggested bringing the Thorin statue with them after connecting the Valu release to the statue-and-people mechanic. She said: "I think we have to do that" after Halcyra's Gunj plan.
-- **Sending Stone** — received from Valu; in her inventory.
-- **Session 14 — Breath lock and the moon medallion** — Mira was the one who figured out the PSI 16 needle lock required a literal breath. Rolled 18 vs DC 17 to activate it. Received the moon medallion. Set destination to Bermuda Foundation via the navigation circle.
-- **Session 14 — Saw the burning city first** — she spotted Bermuda Foundation through the kitchen window before anyone else. Blood-red sky, entire city on fire. She was quiet about it for a moment before telling the party. Classic Mira: absorb the worst thing first, then tell everyone.
-- **Session 14 — Galveston combat** — Hold Person failed (he saved with an 18). Mind Spike succeeded and dislodged the insect from his eye. Toll the Dead finished one of the hellhounds. She contributed meaningfully even with a failed save.
-- **Session 14 — Kinlind soda can** — said "talk shit" and Gbot'n merely barked; the briefcases opened (these locks respond to air pressure, not code words). The Kinlind soda can was in the leather briefcase. Mira has it now.
-- **Bermuda Foundation is burning (Session 14)** — the Doctor's base was on fire when they arrived. What does Mira think about this? What does it mean for the Doctor's operations?
-- **Glass case creature (Session 14)** — a burned, wire-connected humanoid with many eyes was inside the second glass case. Mira interacted with it [NEEDS CONFIRMATION — who was present in the room]; the creature had the sun medallion.
-
-### Session 15 Update
-
-Mira was the first to correctly identify that the party had experienced time distortion in the mine ride — they were inside for approximately ten minutes, but Liz had been waiting for two hours. She laid out the pattern to the party: first time reversal (Session 14 clock), then time moving forward (Liz said she searched the whole manor), now this. Something is actively happening with time.
-
-She used **Mage Hand** to stop the second hand of the glowing blue clock at the end of the mine track. This contributed to stopping the clock and ending the skeleton/Stuart threat (George cast Plant Growth simultaneously; Inquizo grabbed the hour hand).
-
-Liz gave Mira **cotton candy** at the fair — she accepted it. This was a small warm moment.
-
-At the tavern, Mira was the one who first tried to engage with Gbot'n's scheme when he arrived — she started explaining that Constance's manor had kids who didn't know how to cook and Dex was on the ship, but Gbot'n floated away before she could finish.
-
-**New items:** None this session.
-
-### Session 16 Update
-
-Mira failed her Wisdom save (rolled 5) and became the most affected by the sleeping gas. The fat finch Cuckoo landed on her head. She attempted to remove it with an acrobatics check — rolled a **natural 1** — and knocked herself unconscious. Cuckoo stayed. She woke when Halcyra shot her captor (captor dropped her). She then successfully pretended to be asleep (strong Deception roll) while being loaded into the limousine wagon.
-
-Inside the wagon, she cast **Hold Person** on the guard about to cuff her — the guard failed the save (rolled 2) and went paralyzed.
-
-At the market in Alastair, she bought:
-- **Alchemist's tool belt** — comes loaded with 2 alchemist fire, 2 acid, 1 antitoxin; replenishes on long rest
-
-**New inventory:**
-- **Alchemist's tool belt** (2 alchemist fire, 2 acid, 1 antitoxin; long rest replenish)
 
 *Last updated: Session 16*
-
----

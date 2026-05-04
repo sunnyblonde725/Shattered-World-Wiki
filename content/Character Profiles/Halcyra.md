@@ -1,6 +1,7 @@
 ---
 title: Halcyra — Character Profile
 tags: [dnd, shattered-world, characters, halcyra]
+date: 2026-05-03
 ---
 
 *Linked to: [[Character Profiles]] | [[World State]] | [[Shattered World]]*
@@ -12,128 +13,128 @@ tags: [dnd, shattered-world, characters, halcyra]
 
 ---
 
-## [[Halcyra]]
+## Halcyra
 
-**Player:** Lorenne (Sunny)
-**Race:** Aasimar
-**Class:** Paladin
-**Role:** Player only (not a DM)
-
-### Who She Is
-Halcyra is the quiet center of the group — a winged Aasimar paladin who is also, without knowing it, the child of a prophecy and the daughter of Apollo. She is playing a character carrying enormous cosmic weight while being entirely unaware of it. That gap between who she is and what she's meant to be is one of the most interesting threads in the campaign.
-
-### Backstory *(in development — DO NOT fill in speculatively)*
-> *Halcyra's backstory is being developed intentionally. Do not add or infer details without explicit confirmation. The plan is to:*
-> *1. Get all sessions processed and canon details locked in first*
-> *2. Reference prior conversations with players/DM about her backstory*
-> *3. Then flesh out the full backstory with a solid foundation*
-
-**Confirmed so far:**
-- She has had the prophecy scroll since she was 15 — who gave it to her and whether she understands it is not yet established
-- **Session 7 confirmed:** At 18, when she was formally judged for her wings, they **physically drooped** as an involuntary shame response — she had been raised to hide them, and her body betrayed that in the moment. She grew up feeling constantly judged by how she looked. She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes. This is the first time she shared this with the party.
-
-**Pending — needs canon confirmation before developing further:**
-- How she got the scroll
-- Her life before the campaign
-- Her relationship to Apollo (in-world, not just narrative)
-- Anything discussed with players/DM about her background
-
-### What We Know About Her
-- She has **wings** — a constant political liability in the underwater city, which is at war with "bird folk"
-- She is the **daughter of Apollo** — confirmed in campaign context, she does not know this
-- She is the **child of prophecy** — the overarching campaign prophecy centers on her; she does not know this
-- She has **healing hands** — likely Paladin's Lay on Hands; used on Grungrak in Session 2
-- She adapted quickly under pressure: used her wings as an umbrella to shield the group from brightness, and spent the underwater city arc disguised in a trench coat or hovering behind Mira with her eyes down
-- She was **charmed by Ariel's singing** at the start of Session 3's throne room combat — forced toward the queen against her will
-
-### Abilities Seen in Play
-- Lay on Hands (healing touch — Session 2)
-- Mind Spike (Session 4, with Mira — 9 damage, pierced angel's lungs)
-- Divine Favor — radiant arrow (Session 5, 14 hit/6 damage; second arrow 5 damage — confirmed blood angel's extreme weakness to radiant)
-- Cause Fear (DC 13 Wisdom save — Session 5, scattered Richard's entire crowd)
-- Thunder Wave (Session 5 — blasted Richard's crowd off the floating island)
-- Radiant bolt (Session 6 — rolled a 1; bounced off the metal horse and hit Reficul in the face for 7 damage instead)
-- Athletics catch (Session 6 — 15, caught Grungrak before he landed in the River Lethe)
-- **Divine Smite + Natural 20** (Session 7 — cleaved off one of Urscylla's tentacles; 37 radiant damage total: 3d8 guaranteed max 24 + 3d8 rolled 13; "just like taking down a tree")
-- **Wisdom save vs. Urscylla's aria** (Session 7 — rolled 22, not charmed; full presence of mind during the fight)
-- **Level 5 — Extra Attack** gained
-- **Level 5 — Faithful Steed** gained: can cast Find Steed once without a spell slot; steed is almost certainly a Pegasus (Percy the horse with wings)
-- **Healing Hands** (Session 8 — used on commoners knocked to 0 HP by Reficul's Earth Tremor in the slums; fully healed one back to consciousness)
-- **Divine Sense** (Session 10 — determined the cave creature is NOT a celestial, fiend, or undead; this was the most critical combat intel of the fight)
-- **Light cantrip** (Session 10 — cast on a torch to create 20-foot bright light; creature reacted badly)
-- **Cure Wounds** (Session 10 — on herself after creature bite, 9 HP; and on Inquizo; partially expelled goop from bite wounds; dark shadow marks remained)
-- **Searing Smite** (Session 11 — during the King Pmurt throne room fight; lit Pmurt on fire after a hit; fire damage persisted each turn with a Constitution save to extinguish)
-- **Chandelier leverage** (Session 11 — used the throne room chandelier as a tactical anchor point during the fight; coordinated with Inquizo who pulled the lever to drop it)
-- **Zone of Truth** (Session 11 — cast before Pmurt escaped to interrogate him; a significant character moment given that Zone of Truth is a paladin spell and she used it to extract genuine information from the man who had been running from them)
-- **Wings as shield** (Session 14 — reflexively covered Inquizo with her wings when the ship jumped from the pressure valve release; Constitution save situation, alchemy equipment crashing; she moved to cover the smallest party member)
-- **Broke into glass case room** (Session 14 — broke through the glass floor to enter; first attempt 15 failed, nat 20 succeeded; discovered the burned humanoid creature inside)
-- **Negotiation** (Session 14 — successfully negotiated the sun medallion from the glass case creature by speaking with it respectfully; creature gave the sun pendant willingly)
-- **Bow of Dusk — Galveston** (Session 14 — used Bow of Dusk with Snare Strike; Galveston's arm blown off; when the red sky cleared, he walked off the ship with his four Dobermans — not confirmed dead)
-
-### Current Known Inventory
-- **Longsword** — primary weapon
-- **Goop bite wound (arm)** — dark shadow marks remain at the bite points after Cure Wounds; something is still in there
-- **Pages 35–40 from "Ruins from Ancient Ages"** — checked out from the city library (Session 9); confirms the ruins are purely magical in origin, linked to a deity the author would not name
-- *(Character sheet upload will fill this in further)*
-
-### Session 11 Update
-Halcyra fought in the King Pmurt throne room battle alongside the rest of the party (palace infiltration group). She used Searing Smite to light Pmurt on fire, sustaining the burn pressure each round. She also took significant damage during the fight (estimated 22+ HP lost) from Pmurt and the phantasmal spectator summoned in Phase 2. She coordinated with Inquizo on the chandelier tactic. Pmurt escaped via contingency poof before the fight could conclude. After Pmurt fled, she was present for the Zone of Truth interrogation and Mira's partial castration attempt. The party leveled up to 6 at session's end.
-
-### Prophecy Connections
-
-**Session 13 — Valu names Apollo:**
-When the party spoke with Valu (the wind god, freed from the Kenku statue), Halcyra asked whether Valu was aware of the prophecy she carries. Valu said: *"Not my realm."* When pressed on whose realm it was, Valu said the god responsible is someone they would know — *"He's an asshole"* — and named him: **Apollo**. *(The transcript transcription garbles this, but context strongly supports the name was Apollo.)* Valu also mentioned that there are beings above even Apollo — beings he doesn't know.
-
-This is the first direct in-universe confirmation that **Apollo is the god of prophecy** for the campaign's mythology — and that Apollo is connected to Halcyra's scroll. Given that Halcyra is Apollo's daughter, this is significant: the prophecy Halcyra has been carrying since age 15 was likely written or overseen by her own father. Whether he intended her to find it, or whether it found her another way, is not yet established.
-
-Valu also recognized by one party member — almost certainly Halcyra, as the only character from a world with Olympian mythology — when his face shifted to reveal **Aeolus** (the Greek wind god). The DM's exact words: *"You recognize this face. Only you do."*
-
-Multiple stanzas speak directly to Halcyra:
-- *"A child born at the end of the world"* — she is the child of prophecy
-- *"The sun withdraws, its gaze turns cold / The child forsaken left alone"* — Apollo (the sun) has withdrawn; she is without her divine parent
-- *"Upon the wind, hidden wings shall rise"* — her wings are currently hidden; they will rise; she is tethered by "mortal chains" (her ignorance of who she is)
-- *"One fated to fuse the fractured fields"* — she is the one meant to reunite the three shattered worlds; "the cost of wholeness cast away" means this will require real sacrifice
-- *"The healer's hand to bind the seam / Through golden light to cure the dream"* — her paladin healing is literally the mechanism for the world's repair
-- *"Only through loss will the fractures close / The hero must give what none can spare"* — the ending belongs to her, and it will cost her something irreplaceable
-
-### Relationships
-
-> Halcyra, George, and Reficul were a trio before the party formed. They met [[Inquizo]] and [[Mira]] at the tavern — that's how the group came together.
-
-**[[Grungrak]] (George)**
-Halcyra privately believes George is part of the prophecy and has committed to protecting him. She caught him alone on the airship, quietly learning the Ballad of Mira — he fled red-faced; the moment hasn't been addressed. She used Lay on Hands on him in Session 2. She shared the prophecy with Mira specifically because of her feelings about George.
-
-**[[Reficul]]**
-She confronted him directly after the execution platform incident: *"This is not the first time I have witnessed you kill someone because you were angry."* He didn't defend himself. Moral tension has been building across multiple sessions — she respects him but watches him closely.
-
-**[[Mira]]**
-Halcyra shared the prophecy scroll with Mira one-on-one — an emotionally vulnerable moment. She told Mira she thinks George is a big part of it. Mira said she couldn't help right then. They work in sync during combat and are allies, but the prophecy conversation has never fully resolved.
-
-**[[Inquizo]]**
-Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, their dynamic is mostly proximity — they share a party but their threads are quieter together than with others.
+**Player:** Lorenne (Sunny) | **Race:** Aasimar | **Class:** Paladin (Oath of the Ancients) | **From:** Planetos
 
 ---
 
-### Open Threads
-- She doesn't know she's the child of prophecy or the daughter of Apollo — when does this change?
-- The underwater city's hatred of winged beings puts a direct target on her back in this region
-- Her wings are both her greatest vulnerability and presumably tied to her divine identity
-- *(Backstory in development)* She has carried the prophecy scroll since age 15 — who gave it to her? Does she know what it says? Has she ever connected it to herself?
-- **Age confirmed (Session 10):** She is 18. She left home at 18 — there was a disconnect with her mother over her father (Apollo). She privately swears George is part of the prophecy and has committed to protecting him.
-- **Actively searching for the chosen hero** described in a prophecy she heard growing up — she has not yet told the party who or what she's looking for beyond this. Is the chosen hero already in the party?
-- She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
-- **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
-- **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
-- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached.
-- **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
-- **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
-- **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large. How does the party proceed from the island city?
-- **Shadow name: The Crown of Golden Lies (Session 12)** — her shadow self was the older Halcyra who challenged her about hiding her wings, obeying her mother, and following rules that kept her from being herself.
-- **Bow of Dusk received (Session 12)** — given by the old man who helped her take her paladin oath. A +2 longbow that deals radiant damage only (no piercing). Currently the dusk version — the dawn version is what she'll become. *"You just gotta get through the night first."*
-- **Confronted her mother (Session 12)** — in the dream, her mother switched faces with her older shadow-self and screamed "Why have you left me?!" Halcyra flew toward a booming, familiar, kind voice calling from the sky — Apollo's voice calling her name and saying "The worlds are at stake." She went to her mother, whispered "I promise I do love you," and walked out the door toward the voice.
-- **Apollo called her (Session 12)** — the booming voice from the sky, described as "familiar, kind," calling her name three times and saying "the worlds are at stake" — this was Apollo, reaching her in the dream. She turned toward it.
+### Who She Is
 
-## Character Sheet Stats
+Halcyra is a winged Aasimar paladin who is carrying more cosmic weight than she knows. She is the daughter of Apollo and the child of a prophecy — both facts she is entirely unaware of. She has been searching for the "chosen hero" described in a scroll she's carried since she was fifteen, not realizing she is the one the prophecy is about. That gap between who she thinks she is and what she is meant to be is one of the most important threads in the campaign.
+
+She grew up being told to hide her wings. When she was formally judged at eighteen, her wings physically drooped from the shame of it — her body betrayed what words couldn't say. She left home at eighteen, after a rupture with her mother over the subject of her father. She doesn't know her father is Apollo. She has been searching for a hero and protecting the people she believes the prophecy points to, particularly George, who she has privately committed to protecting at all costs.
+
+She is the quiet center of the group. Not the loudest, not the most chaotic — but the one who covers Inquizo with her wings when the ship lurches, the one who prays alone at Apollo's temple, the one who whispered *"I promise I do love you"* to her mother and still walked out the door. The prophecy she carries has been coming true line by line since the campaign began. The sky turned red. A dragon made of stained glass attacked the train. Both were written on the scroll. At the end of Session 16, standing on a platform in Alastair, she was the first in the party to recognize the Prophetess.
+
+**What she doesn't know:** She is the child of prophecy. Her father is Apollo. Apollo has been calling to her — she heard his voice in a dream and turned toward it, but didn't know whose it was. The prophecy wasn't just something she found. It was written for her.
+
+---
+
+### How She Fights
+
+Halcyra is a front-line paladin who hits hard and keeps people alive. Her strongest moments combine radiant damage with healing and crowd control.
+
+**Damage & Offense**
+- **Divine Smite** — uses spell slots to deal radiant damage on any hit; her biggest moment: a Natural 20 in Session 7 cleaved off one of Urscylla's tentacles for 37 radiant damage total
+- **Bow of Dusk** — her +2 radiant longbow from the old man at her paladin oath; always rolls minimum 12; used Snare Strike to blow off Galveston's arm in Session 14
+- **Searing Smite** — lights a target on fire; burn persists each turn until they make a Constitution save; used on Pmurt in Session 11
+- **Divine Favor** — radiant arrows; confirmed blood angels have extreme weakness to radiant damage
+- **Enthralling Strike** — vines spring from the ground to restrain a target; used to tangle and paralyze a kidnapper in Session 16
+- **Cause Fear** — DC 13 Wisdom save; scattered an entire crowd off a floating island in Session 5
+- **Thunder Wave** — blasted Richard's crowd off the island in Session 5
+- **Mind Spike** — used with Mira in Session 4; 9 damage, pierced the blood angel's lungs
+
+**Healing & Support**
+- **Lay on Hands** — pool of 30 HP; can heal or remove disease/poison with a touch
+- **Healing Hands** — Aasimar bonus action touch heal (1d4 × proficiency bonus HP)
+- **Cure Wounds** — standard healing spell; partially expelled goop from bite wounds in Session 10
+- **Aid** — buffs party with temporary HP before a fight
+- **Aura of Protection** — since level 6, adds her Charisma modifier to all allies' saving throws within 10 feet
+
+**Utility**
+- **Zone of Truth** — cast on Pmurt after the Session 11 throne room fight; extracted genuine information before he escaped
+- **Divine Sense** — determines whether a creature is a celestial, fiend, or undead; revealed the cave creature was none of those in Session 10
+- **Light cantrip** — 20-foot bright light; cave creature reacted badly
+- **Faithful Steed** — can summon a steed once without a spell slot; almost certainly a Pegasus (Percy the winged horse)
+- **Extra Attack** — two attacks per action since level 5
+- **Wings** — used as an umbrella against brightness, and reflexively covered Inquizo during the pressure valve jump in Session 14
+- **Athletics** — caught Grungrak before he fell into the River Lethe; broke through a glass floor (nat 20) to reach the creature inside the glass case in Session 14
+
+---
+
+### What She's Carrying
+
+- **Longsword** — primary melee weapon
+- **Bow of Dusk** — +2 radiant longbow; minimum 12 to roll; given by the old man at her paladin oath; currently the dusk version — *"You just gotta get through the night first"*
+- **Chainmail + Shield** — AC 18
+- **Holy Symbol** — amulet (attuned)
+- **Prophecy Scroll** — she's had this since she was fifteen; it's been predicting events in real time
+- **Pages 35–40 from "Ruins from Ancient Ages"** — checked out from the city library; confirms the ruins are purely magical in origin, linked to a deity the author would not name
+- **River Styx pearl**
+- **Sending Stone** — given by Valu; allows long-distance communication
+- **Metal horse** — Poseidon's grandson; Halcyra's mount since Session 6; grants advantage on Athletics; does not need to breathe
+- **Pan pipes** — wooden, handmade by Alia (Arcus's daughter); when played, summons three figures who call themselves "Aspen"; used to stop a runaway clock in Session 15
+- **Embroidery** — bought at the Alastair market in Session 16; when held during prayer, has a chance to restore her divine power as an action
+- **Goop bite wound (arm)** — the cave creature bit her in Session 10; Cure Wounds expelled most of it, but dark shadow marks remain at the bite points; long-term effect unknown
+
+---
+
+### The People Around Her
+
+> Halcyra, George, and Reficul were a trio before the party formed. They met Inquizo and Mira at the tavern — that's how the group came together.
+
+**[[Grungrak]] (George)**
+She privately believes George is part of the prophecy and has committed to protecting him. She caught him alone on the airship, quietly learning the Ballad of Mira — he fled red-faced; the moment hasn't been addressed. She shared the prophecy with Mira specifically because of her feelings about George.
+
+**[[Reficul]]**
+She confronted him directly after the execution platform incident: *"This is not the first time I have witnessed you kill someone because you were angry."* He didn't defend himself. She respects him but watches him closely.
+
+**[[Mira]]**
+Halcyra shared the prophecy scroll with Mira one-on-one — an emotionally vulnerable moment. She told Mira she thinks George is a big part of it. Mira said she couldn't help right then. They work in sync during combat, but the prophecy conversation has never fully resolved.
+
+**[[Inquizo]]**
+Coordinated the chandelier tactic with him during the Pmurt fight. She covered him with her wings when the ship jumped from the pressure valve. Their dynamic is quieter than her others, but she looks out for him.
+
+---
+
+### Prophecy Connections
+
+When the party met Valu (the wind god), Halcyra asked whether Valu knew anything about the prophecy she carries. He said it wasn't his realm — and named whose realm it was: **Apollo**. *"He's an asshole,"* Valu said. This was the first in-universe confirmation that Apollo is the god of prophecy — and that the scroll Halcyra has carried since age fifteen is tied to her own father. She doesn't know this yet.
+
+In that same conversation, Valu's face shifted to reveal **Aeolus** — the Greek wind god from Planetos mythology. Halcyra was the only party member who recognized it. The DM confirmed: *"You recognize this face. Only you do."*
+
+Multiple stanzas from the scroll speak directly to her:
+- *"A child born at the end of the world"* — she is the child of prophecy
+- *"The sun withdraws, its gaze turns cold / The child forsaken left alone"* — Apollo has withdrawn; she is without her divine parent
+- *"Upon the wind, hidden wings shall rise"* — her wings are hidden; they will rise; she is tethered by "mortal chains" (her ignorance of who she is)
+- *"One fated to fuse the fractured fields"* — she is the one meant to reunite the three shattered worlds; *"the cost of wholeness cast away"* means this will require real sacrifice
+- *"The healer's hand to bind the seam / Through golden light to cure the dream"* — her paladin healing is literally the mechanism for the world's repair
+- *"Only through loss will the fractures close / The hero must give what none can spare"* — the ending belongs to her, and it will cost her something irreplaceable
+
+---
+
+### Backstory *(in development — DO NOT fill in speculatively)*
+
+> *Halcyra's backstory is being developed intentionally. Do not add or infer details without explicit confirmation.*
+
+**Confirmed so far:**
+- She has had the prophecy scroll since she was 15 — who gave it to her and whether she fully understands it is not yet established
+- At 18, when she was formally judged for her wings, they **physically drooped** as an involuntary shame response — she had been raised to hide them
+- She left home at 18 after a rupture with her mother over her father (Apollo)
+- Her mother begged her to stay; there is something related to her father her mother wanted to give her — unresolved
+- She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes
+
+**Still needs canon confirmation:**
+- How she got the scroll
+- Her relationship to Apollo (in-world, not just narrative)
+- What her mother was going to give her
+
+---
+
+---
+
+## By the Numbers
 
 > *Extracted from physical character sheet. Level 6 as of Session 13.*
 
@@ -166,14 +167,14 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 ### Saving Throws *(proficient)*
 
 - STR +1 (not proficient)
-- CON +6 (proficient — marked)
-- CHA +3 (proficient — marked)
+- CON +6 (proficient)
+- CHA +3 (proficient)
 
 ### Skills *(proficient)*
 
-- Athletics +3 (STR — proficient)
+- Athletics +3 (STR)
 - History +1, Investigation +1 (INT)
-- Nature +4, Religion +4 (WIS — marked)
+- Nature +4, Religion +4 (WIS)
 - Animal Handling +4, Insight +4, Medicine +1, Perception +1, Survival +1 (WIS)
 - Deception +3, Intimidation +3, Performance +3 (CHA)
 - Acrobatics +1 (DEX)
@@ -183,7 +184,6 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 - **Spellcasting Ability:** Charisma
 - **Spell Save DC:** 14
 - **Spell Attack Bonus:** +6
-- **Spellcasting Modifier:** +3
 
 **Spell Slots:**
 | Level | Total |
@@ -197,12 +197,12 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 **Cantrips:** Light
 
 **Prepared Spells:**
-- *1st level:* Ensnaring Strike, Speak with Animals, Bless, Cure Wounds, Heroism, Searing Smite
-- *2nd level:* Misty Step, Moonbeam, Aid, Zone of Truth
-- *3rd level:* Plant Growth, Protection from Energy
-- *4th level:* Ice Storm, Stoneskin
-- *5th level:* Tree Stride, Commune with Nature
-- *Bonus spells (Oath / Class):* Divine Smite (always), Find Steed (1/long rest, no slot)
+- *1st:* Ensnaring Strike, Speak with Animals, Bless, Cure Wounds, Heroism, Searing Smite
+- *2nd:* Misty Step, Moonbeam, Aid, Zone of Truth
+- *3rd:* Plant Growth, Protection from Energy
+- *4th:* Ice Storm, Stoneskin
+- *5th:* Tree Stride, Commune with Nature
+- *Bonus (Oath / Class):* Divine Smite (always), Find Steed (1/long rest, no slot)
 
 ### Weapons & Attacks
 
@@ -210,134 +210,39 @@ Coordinated the chandelier tactic with him during the Pmurt fight. Beyond that, 
 |--------|--------|--------|-------|
 | Longsword | — | 1d8 slashing | Primary melee |
 | Longbow | — | 1d8 piercing | Range 100/400 |
-| Bow of Dusk | +2 | 1d8 radiant | Always 12 to roll; currently dusk version |
+| Bow of Dusk | +2 | 1d8 radiant | Minimum 12 to roll; dusk version |
 
-### Equipment & Armor
+### Armor & Proficiencies
 
-- **Armor:** Chainmail (equipped)
-- **Shield:** Equipped
-- **Holy Symbol:** Amulet (Magic Item Attunement slot)
-- **Priest's Pack** + rope
-- **Prophecy Scroll**
-- Book: *Ruins from Ancient Ages* pg 35–40
-- River Styx pearl
-- Sending Stone (from Valu)
-- Bow of Dusk (from the old man at her paladin oath)
-- **Embroidery** — chance to restore divine power via prayer (bought at Alastair market, Session 16)
-- **Metal horse** — Poseidon's grandson; Halcyra's mount since Session 6; grants advantage on Athletics checks; does not need to breathe
-
-### Armor Training & Proficiencies
-
-- **Armor:** Light, Medium, Heavy, Shields
-- **Weapons:** Simple and Martial weapons
+- **Armor:** Chainmail + Shield (equipped); proficient in Light, Medium, Heavy, Shields
+- **Weapons:** Simple and Martial
 - **Tools:** Land vehicles
+- **Languages:** Common, Celestial, Elvish
 
 ### Class Features *(Oath of the Ancients)*
 
+- **Lay on Hands** — Pool of 30 HP; heal or remove disease/poison (1/long rest)
+- **Fighting Style: Archery** — +2 to ranged attack rolls
+- **Divine Smite** — uses spell slot; always available
+- **Divine Sense** — detect celestials, fiends, undead; detect consecrated/desecrated spaces
+- **Extra Attack** — 2 attacks per action
+- **Aura of Protection** — adds CHA modifier to all saves for allies within 10 ft
+- **Faithful Steed** — cast Find Steed once without a spell slot (1/long rest)
 - **Weapon Mastery** — Longsword + Longbow
-- **Fighting Style: Archery** — +2 bonus to attack rolls with ranged weapons
-- **Lay on Hands** — Pool of 30 HP to heal or remove disease/poison (1/long rest)
-- **Fighting Style: Archery** (+2 to ranged)
-- **Paladin's Divine Smite** — uses spell slot; always available
-- **Divine Sense** — use to detect celestials, fiends, undead
-- **Divine Grace** — use Charisma for non-magical effects
-- **Abjure Foes / Detect creatures** — detect fiends, locations, types; detect consecrated/desecrated spaces; similar to Aura of Piety
-- **Paladin Subclass: Oath of the Ancients** — lvl 5: Aura of Protection (+CHA to all saves within 10 ft of allies)
-- **Level 4+:** Extra Attack (2 attacks per action when taking Attack action)
-- **Aura of Protection** (Lvl 6+) — [illegible detail on sheet]
-- **Divine Smite** (bonus action) — Divine Smite always available
 
 ### Species Traits *(Aasimar)*
 
 - **Darkvision** — 60 ft
 - **Celestial Resistance** — resistance to necrotic and radiant damage
-- **Healing Hands** — touch heal; 1d4 × proficiency bonus HP or remove one disease; bonus action
-- **Light Bearer** — knows Light cantrip (Charisma); natural spell
-- **Paladin Traits** — Lay on Hands, Pool of 30 HP
-- **Celestial Revelation** — [specific form not clearly written; likely Necrotic Shroud or Radiant Soul given wing imagery]
+- **Healing Hands** — bonus action touch heal; 1d4 × proficiency bonus HP or remove one disease
+- **Light Bearer** — knows Light cantrip (Charisma)
+- **Celestial Revelation** — form not clearly noted on sheet; likely Radiant Soul given wing imagery
 
 ### Feats
 
-- **Origin: Tough** — when rolling HP add +2 to hit points per level
-- **Fighting Style: Archery** — +2 to attack on ranged weapons
-- **ASI** — 10/11/12/16 spread; either increased one stat by 2 or two stats by 1
-
-### Languages
-
-- Common, Celestial, Elvish
+- **Origin: Tough** — +2 HP per level when rolling HP
+- **Fighting Style: Archery** — +2 to ranged attack rolls
 
 ---
-
-### Session 14 Update
-
-Halcyra covered Inquizo with her wings when the ship's pressure valve caused a five-foot jump, alchemy equipment crashing to the floor. She broke through the glass floor (nat 20) to enter the second glass case room and negotiate with the creature inside — a burned, many-eyed humanoid connected by wires. The creature was sassy but cooperative; after a genuine conversation, it handed over the **sun medallion** (shaped like a pendant), which went into the navigation circle. She prepared for combat by casting **Aid** [NEEDS CONFIRMATION], giving the party temporary HP before Galveston arrived. In the fight, she used her **Bow of Dusk** combined with **Snare Strike** — his arm was blown off. When the red sky cleared, Galveston walked off the ship with his four Dobermans. Not confirmed dead.
-
-### Session 13 Update
-
-**Dream (session opening):** Halcyra had her first real dream since arriving on Gunj's couch. She was on a beached pirate ship, churning dark ocean around her. An injured Alias (the sea god) emerged from belowdecks — covered in wounds leaking black ooze, moving despite them. Alias saw Halcyra and charged at her, screaming *"What are you doing here? You're not supposed to be here."* An invisible force slammed Alias aside before she reached Halcyra. Alias rose again and said: *"No one is supposed to be here."* Then threw a dagger at Halcyra to wake her up. Alias knew Halcyra by a version of her name: "Hakira." This was Halcyra's first dream. It felt completely real.
-
-**Valu manifestation:** In Voxus's throne room, when the Kenku god-statue manifested as an ethereal 20-foot figure, Halcyra was the one who recognized its shifting face as **Aeolus** — the Greek wind god from her world's mythology. The DM confirmed: *"You recognize this face. Only you do."* This is consistent with her Planetos origins, where Olympian mythology is real.
-
-**Apollo named:** When Halcyra asked Valu about the prophecy, Valu named **Apollo** as the god whose realm that falls under — *"an asshole"* who Valu has met, and above whom there are still higher powers. Apollo is the god of prophecy. Halcyra has been carrying a scroll tied to Apollo since she was 15. Her divine father wrote (or oversees) her mission.
-
-**Airship:** Discovered George alone, quietly practicing the Ballad of Mira — he was caught mid-song, embarrassed, and fled red-faced. Tripped on a tapestry in the cargo hold showing sun, rays, wings, and sheep — the imagery is Apollo-adjacent. Beneath it: a second glass case with something faintly blue inside, already fading. The party decided not to open it while airborne.
-
-**New inventory items:**
-- **Sending Stone** — given by Valu; allows long-distance communication
-
-### Open Threads (updated after Session 13)
-- She doesn't know she's the child of prophecy or the daughter of Apollo — but Apollo just called to her in a dream. When does this change?
-- The underwater city's hatred of winged beings puts a direct target on her back in this region
-- Her wings are both her greatest vulnerability and presumably tied to her divine identity
-- *(Backstory in development)* She has carried the prophecy scroll since age 15 — who gave it to her? Does she know what it says? Has she ever connected it to herself?
-- **Age confirmed (Session 10):** She is 18. She left home at 18 — there was a disconnect with her mother over her father (Apollo). She privately swears George is part of the prophecy and has committed to protecting him.
-- **Actively searching for the chosen hero** described in a prophecy she heard growing up — she has not yet told the party who or what she's looking for beyond this. Is the chosen hero already in the party?
-- She pulled out the prophecy paper in the tavern at the end of Session 7 — the party was about to read it together when the session paused.
-- **Shared the prophecy with Mira (Session 8)** — one-on-one, emotionally; told Mira she thinks George is a big part of it and that's partly why she cares for him. Mira said she couldn't help right now.
-- **Prophecy Day (Session 9) — did not happen.** The party got derailed by the Victorian manor/spaghetti incident. Still pending.
-- **YOMI letters glowed (Session 9)** — while Halcyra prayed to Apollo at the temple district, the crossed-out letters spelling YOMI began glowing with heat and light. Mira confirmed arcane energy (roll 12). Two theories: Apollo responded, or the ink reacted to candle heat. No definitive answer reached.
-- **Goop bite wound (Session 10)** — the cave creature bit her arm; she failed a Constitution save and lost 1 level 1 spell slot (creature drains magical energy on bite). Cure Wounds partially expelled the goop, but dark shadow marks remain at the bite points. Long-term effect unknown.
-- **Level 6 (Session 11)** — leveled up at the end of the session; new abilities not yet documented.
-- **Pmurt escaped** — she was in the throne room fight when he poofed away. She knows Pmurt is alive, wounded, and still at large.
-- **The Bow of Dusk** — she has the dusk version. The dawn version exists and is what she could become. Getting there requires growing through something.
-- **Mother confrontation (Session 12)** — her mother begged her to stay. She left anyway. Her mother said there was something related to her father she wanted to give her. Whether Halcyra will go back, or whether the item appears another way, is unresolved.
-- ~~**Second glass case on the airship**~~ — **RESOLVED (Session 14).** Opened. Contains a burned humanoid creature with many eyes, connected by wires. Sassy and cooperative. Gave up the sun pendant for the navigation circle.
-- **Dex and his nightmares (Session 13)** — Mira connected his dream experience to the shattered world's dream realm rules. Halcyra is aware there is someone on the ship with recurring, real dream-realm contact.
-- **Found George with the Ballad of Mira (Session 13)** — discovered George alone on the airship quietly practicing the song; he was caught and fled embarrassed.
-- **Galveston's death (Session 14)** — she killed the Doctor's lieutenant. The Doctor will know. How does he respond?
-- **Bermuda Foundation is on fire (Session 14)** — the Doctor's base was burning when they arrived. Did they cause this accidentally? Is it a trap? Is someone else involved?
-- **Aid spell and combat prep (Session 14)** — used the long rest before arriving at Bermuda Foundation; party arrived with full resources [confirm Aid cast attribution]
-
-### Session 15 Update
-
-At Canary Park, the party met **Alia** — daughter of Arcus (the lighthouse keeper from the island). Alia gave Halcyra a set of **wooden pan pipes** she had made herself. When Halcyra played them, three people who called themselves "Aspen" appeared. The Aspens stayed with the party through the mine ride and were directed by Halcyra to help stop the clock at the end of the track.
-
-In the mine ride, **Stuart** the green sheep (from the Session 5 cult encounter) reappeared — transformed into a fire-breathing dragon by a **glowing scarab** attached to his skull. Halcyra cut the scarab off with her sword (STR check 13 → success), freeing Stuart from whatever was controlling him.
-
-**New inventory items:**
-- **Pan pipes** — wooden, made by Alia; magical; summons three "Aspens" when played; origin and nature of the Aspens unknown
-
-**Open thread added:**
-- **The Aspens** — who or what are they? Their appearance from the pan pipes suggests a divine or magical summons, possibly connected to Apollo or another nature god. They helped stop the mine clock. No in-world explanation yet.
-
-### Session 16 Update
-
-In Eustace, Halcyra failed her Wisdom save against the sleeping gas and became drowsy (half movement). She woke while being carried by a tall buff woman during the kidnapping attempt, used **Enthralling Strike** on the woman — vines tangled up her captor and she fell paralyzed. The woman said *"I'm trying to get you out of here."* Halcyra also shot Mira's captor to free her. Halcyra was loaded into the limousine wagon anyway.
-
-Inside the wagon, she cuffed the wagon guard after Mira cast Hold Person (guard rolled 2, paralyzed), and took 3 extra pairs of handcuffs. No key was found.
-
-At the Alastair market, Halcyra bought **embroidery** — when held during prayer, has a chance to restore her divine power as an action.
-
-On the train, Halcyra removed the Pmurt-face disguises from all five statues. The fifth statue has a different god — a kindly old man with a big beard, holding an open book with a play/pause button insignia. Cooper (George's player) identified this as a god from his own world.
-
-**New inventory items:**
-- **Embroidery** — chance to restore divine power via prayer (Alastair market)
-
-**New open threads:**
-- The fifth statue's god — who is the kindly old man with the open book? (a god from Cooper/George's world)
-- The Prophetess — Halcyra was first to recognize her; now at platform cliffhanger
-- The prophecy is coming true in real time: the stained glass dragon on the train matched *"When hammer breaks on dragon scale"*; the red sky matched *"the sky's untrue"*
 
 *Last updated: Session 16*
-
----

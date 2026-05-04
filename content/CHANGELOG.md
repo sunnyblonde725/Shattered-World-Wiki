@@ -11,6 +11,16 @@ tags: [dnd, shattered-world, changelog]
 
 ## 2026-05-03
 
+### Character Profile Redesign & New Files
+- **All five character profiles rewritten** (Halcyra, Mira, Grungrak, Inquizo, Reficul) — new story-first structure: Who They Are, How They Fight, What They're Carrying, The People Around Them, Prophecy Connections, By the Numbers. Open Threads sections removed; Session Update appendages removed; abilities organized by category.
+- **`Mysteries & Theories.md`** — new player-facing mysteries page created; organized by theme (Active Right Now, The Party, The Villains, The Gods, The World, Long-Burning Questions); replaces end-of-session thread dumps as central mystery hub
+- **`Sunny's To-Do.md`** — new personal to-do file created in vault root
+- **Skills updated** — `dnd-session-processing`, `dnd-wiki-maintenance`, `dnd-corrections`, `dnd-deep-cross-check` all updated to reflect new profile structure and Mysteries & Theories.md
+
+---
+
+## 2026-05-03
+
 ### Session 16 Corrections
 - Fixed Grasping Strike → Enthralling Strike (vines) for Halcyra's kidnapping action in Session 16 notes, Halcyra.md, Campaign Narrative.md, Campaign Narrative - Working.md
 - Fixed Inquizo → Halcyra as the one who shot Mira's captor in Session 16 notes, Inquizo.md, Mira.md, Campaign Narrative.md, Campaign Narrative - Working.md
