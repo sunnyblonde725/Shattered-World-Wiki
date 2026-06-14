@@ -1,6 +1,5 @@
 ---
 title: Dumb Decisions That Worked
-date: 2026-05-03
 tags: [dnd, shattered-world, fun, hall-of-fame]
 ---
 
@@ -10,7 +9,7 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 
 ---
 
-**Inductees: 13**
+**Inductees: 14**
 
 ---
 
@@ -149,6 +148,16 @@ tags: [dnd, shattered-world, fun, hall-of-fame]
 **Why It Was Dumb:** Every clock the party has encountered has caused reality-warping consequences when tampered with. One reversed time. One created a time loop. One distorted relative time. The pattern was clear. Inquizo climbed out onto a bridge railing over nothing and threw the clock into the void.
 **What Actually Happened:** The sky went red. The sun disappeared. A stained glass dragon burst through the tunnel wall and took 9 damage points off Inquizo. The two prophecy stanzas that had been lingering as "metaphor" — *dragon scale shining in your eye* and *the sky's untrue* — came true simultaneously. The party survived. The sky came back. The train pulled into Alastair. Nobody acknowledged how insane that was.
 **Verdict: Worked.** Technically. Everyone is alive and they're in the capital. Whether "turned the sky red and triggered two prophecy events" counts as "working" depends on your definition.
+
+---
+
+### 14. "CANNONBALL" — Sliding Through a Goop Monster
+**Who:** George (Grungrak)
+**Session:** Session 17
+**The Decision:** A horned, winged goop-figure threw a glob of slime onto the stairs beneath George. Instead of dodging, George threw himself down the stairs feet-first, screamed "CANNONBALL," and aimed himself directly at — and through — the goop monster itself.
+**Why It Was Dumb:** He launched his own body at a hostile creature made of goop, on purpose, while already sliding downhill on a surface that same creature had just made slippery. There was no plan beyond the word "cannonball."
+**What Actually Happened:** Acrobatics 19. George slid clean through the goop-figure and came out the other side completely coated in slime — "Nickelodeon slime," by his own description. His verdict: *"This is gross. I need a shower."* The goop-figure's taunt ("Afraid of getting a little wet?") went unanswered, because George was already past it.
+**Verdict: Worked.** Filthy, but worked.
 
 ---
 

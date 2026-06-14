@@ -1,11 +1,12 @@
 ---
 title: A Shattered World
-date: 2026-05-03
 ---
 
-*A campaign wiki for The Betrayers.*
+*There used to be more worlds than this one.*
 
-*A world torn apart. A prophecy no one fully understands. Five adventurers who probably shouldn't be trusted with any of this — and yet, here we are.*
+*They broke. Something broke them — or someone. The fractures left behind aren't just scars in the sky; they're open wounds, and things crawl through them that shouldn't exist here.*
+
+*A prophecy circulates. No one agrees on what it means. Five people are probably going to have to figure it out anyway.*
 
 ---
 
@@ -18,10 +19,8 @@ date: 2026-05-03
 
 ---
 
-> [!info] Currently — After Session 16
-> The party stands on a platform at the edge of Alastair, facing a cliffhanger: a boy with burnt skin and growing claws blocking their path, a silver-armored knight between them and The Prophetess. Reficul stayed behind in the island city. The party is four.
->
-> [[Status Board|→ Full Status Board]]
+> [!info] Currently — After Session 17
+> The party is back aboard their own airship, reeling from a night that destroyed a sentient clock tower, introduced two new gods, and ended with Inquizo unconscious on the floor — put to sleep by a spider goddess who just told Halcyra she has a contract she doesn't remember signing. Liz has vanished into the shadows with a stranger. The party is down to three awake, plus Inquizo. Reficul remains behind in the island city.
 
 ---
 
@@ -37,70 +36,35 @@ date: 2026-05-03
 ---
 
 > [!tip] The World
-> A world that was shattered, and the people trying to piece it back together.
 >
-> - [[World State|World State]]
-> - [[Campaign Narrative|Campaign Narrative]]
-> - [[Prophecy|The Prophecy]]
+> - [[World State|World State]] — where things stand right now
+> - [[Campaign Narrative|Campaign Narrative]] — the full story, beginning to end
+> - [[Prophecy|The Prophecy]] — what it says, and what it might mean
+> - [[Mysteries & Theories|Mysteries & Theories]] — the open questions, the leading theories
 
 ---
 
-> [!example] NPCs
-> Everyone the party has met — allies, enemies, and everyone in between.
+> [!abstract] The Story So Far
+> Seventeen sessions. One world falling apart at the seams.
 >
-> - [[NPCs/King-Pmurt|King Pmurt]]
-> - [[NPCs/Durf-Numgis|Durf Numgis]]
-> - [[NPCs/Arcus|Arcus]]
-> - [[NPCs/Lorya|Lorya]]
-> - [[NPCs/Starglass|Starglass]]
-> - [[NPCs/Dex|Dex]]
-> - [[NPCs/Penopolis|Penopolis]]
-> - [[NPCs/Valu-Aeolus|Valu]]
-> - [[NPCs/The-Doctor|The Doctor]]
-> - [[NPCs/Alias|Alias]]
-> - [[NPCs/The-Prophetess|The Prophetess]]
-> - [[NPCs/The-Blood-Angel|The Blood Angel]]
-> - [[NPCs/Minor-NPCs|All Minor NPCs →]]
+> [[Session Notes/index|→ Browse All Sessions]]
 
 ---
 
-> [!tip] Locations
-> Every place the party has been — and a few they haven't yet.
+> [!example] People & Places
 >
-> - [[Locations/X-salent|X-salent]]
-> - [[Locations/The-Island-City|The Island City]]
-> - [[Locations/Voxus|Voxus]]
-> - [[Locations/Sypium|Sypium]]
-> - [[Locations/Pmurts-Airship-Starglass|Pmurt's Airship — Starglass]]
-> - [[Locations/The-Field-and-The-Pit|The Field & The Pit]]
-> - [[Locations/The-Underground-Hell|The Underground]]
-> - [[Locations/The-Shrine-of-Persephone|The Shrine of Persephone]]
-> - [[Locations/The-Gate-of-Ivory|The Gate of Ivory]]
-> - [[Locations/Minor-Locations|All Locations →]]
+> [[NPCs/index|→ Everyone the party has met]]
+>
+> [[Locations/index|→ Every place they've been]]
+
+---
+
+> [!note] Silly Little Things
+> For everything that doesn't fit in a serious wiki page — the hat collection, the death counter, the button log.
+>
+> [[Silly Little Things/index|→ Explore the chaos]]
 
 ---
 
 > [!question] Explore the Connection Map
 > Every character, location, and NPC in this wiki is linked together. Look for the **graph widget on the right sidebar** of any page — click any node to jump to that page, and watch how everything connects. The more you explore, the more the web grows.
-
----
-
-> [!abstract] Session Notes
-> The story so far — one session at a time.
->
-> - [[Session Notes/DND Session 01|Session 1]]
-> - [[Session Notes/DND Session 02|Session 2]]
-> - [[Session Notes/DND Session 03|Session 3]]
-> - [[Session Notes/DND Session 04|Session 4]]
-> - [[Session Notes/DND Session 05|Session 5]]
-> - [[Session Notes/DND Session 06|Session 6]]
-> - [[Session Notes/DND Session 07|Session 7]]
-> - [[Session Notes/DND Session 08|Session 8]]
-> - [[Session Notes/DND Session 09|Session 9]]
-> - [[Session Notes/DND Session 10|Session 10]]
-> - [[Session Notes/DND Session 11|Session 11]]
-> - [[Session Notes/DND Session 12|Session 12]]
-> - [[Session Notes/DND Session 13|Session 13]]
-> - [[Session Notes/DND Session 14|Session 14]]
-> - [[Session Notes/DND Session 15|Session 15]]
-> - [[Session Notes/DND Session 16|Session 16]]

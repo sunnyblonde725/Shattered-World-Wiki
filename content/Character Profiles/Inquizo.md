@@ -27,6 +27,18 @@ He carries a black orb with an unidentified entity inside. He stole the core of 
 
 He is hard to read and easy to underestimate. His stealth roll was 28 during the palace infiltration. His Persuasion is near-perfect. He accumulates hats with the focus of someone pursuing a divine mission, and something about all of it feels narratively intentional.
 
+Session 17 was a big one for him. A new invisibility houserule kicked in for the first time: on a natural 1 for an invisibility-type check, the character believes they ARE invisible when they're not. Inquizo rolled into that exact failure — but still pulled off a Stealth 24 (16+8) to reach the clock tower, using the statues around it for cover. While in position, he eavesdropped (41% successful) on a conversation between Dervnumgus and Gore Harlow, catching fragments like "...almost complete..." and "...we've almost reached my climax..." — and heard the clock tower itself referred to as "a woman."
+
+At the clock tower, "the machine" spoke to him telepathically — offering to help him "break her wall," promising "a second chance," and inviting him to "come feed the machine." He backed off about 20 feet and took cover behind a pillar. During the fight that followed, he distracted a slow-moving giant glass hand away from the party with an improvised theory that a cult had been "started by Dervnumges" — *"I'm sorry, guys, I'm out of your shot."*
+
+He also landed a "white flash" — two attacks that sliced through all of the Machine's tendrils at once — which triggered the bonus 8 lightning damage from his homebrew item. That item's ruling is now formal: usable a number of times per long rest equal to his proficiency bonus (the item's actual name was heard as something like "Mike's one-week schedule" — almost certainly a mis-transcription; needs confirmation).
+
+Then things got strange. A wave of "brain fog" hit him — the smell of maple and oil, a repetitive dripping sound, the tendrils going still — and with it came a sudden, overwhelming impulse to "kill the eye." He climbed the railing and jumped toward the second eye, roughly 200 feet up (*"Oh, I was already doing that, baby"*). A Constitution check was called for, but the result wasn't caught.
+
+Later, the Watcher — the god of stories — called him "Mr. Inquizdill," noted he'd been "trying to sneak off," and told him *"your arc... ends beautifully. Tragically, but beautifully."* The Watcher let him keep two secrets about himself instead of the usual one — *"All of them, please"* / *"Can the secret be my life?"* — and confirmed that his "goofy chaos gremlin" persona is, in fact, "a mask." Oravis then offered to reveal the name of Inquizo's brother. Inquizo reacted with visible discomfort — *"Don't you know who that is?"* / *"I feel very conflicted right now"* — and the name was not revealed. Separately, he passed a Religion check (16) and recognized the name "Oravis," and also recognizes "Aghaad" — a statue that appeared "on the train" in a much earlier session (needs cross-reference).
+
+Near the end of the session, the Spider Goddess — eight feet tall, part spider, part woman, six sets of non-human eyes — addressed Inquizo first: *"My dear, why do you still hide in this dream? When you can't hide in it forever, the waking world remembers your name as much as you try to avoid it. It's best that you sleep now. Lord knows you'll need it."* Inquizo was magically put to sleep — **and remains asleep on the floor as the session ends.** This carries directly into Session 18.
+
 ---
 
 ### How He Fights
@@ -39,6 +51,7 @@ Inquizo is a Rogue built around stealth, surprise, and creative improvisation. H
 - **Chains of Eternity** — shackle bracelets; he can launch them to restrain a target, but he is restrained at the same time (Marley-style); used on Galveston in Session 14 (14 damage taken while restrained); up to proficiency bonus uses
 - **Flight** — used to dive at the blood angel in Session 5 and rip out the final nail
 - **Improvised weapons** — threw an English breakfast at King Pmurt and blinded him briefly in Session 11
+- **Homebrew lightning item (Session 17 ruling)** — landing a "white flash" (two attacks that sliced through all of the Machine's tendrils at once) triggers bonus 8 lightning damage; now formally ruled usable a number of times per long rest equal to his proficiency bonus (item's actual name uncertain — heard as something like "Mike's one-week schedule")
 
 **Stealth & Utility**
 - **Invisibility** — used repeatedly; notably invisible for an hour during the underworld gatehouse (Session 6); invisible while following the kidnappers in Session 16; Persephone saw through it with Truesight
@@ -50,6 +63,9 @@ Inquizo is a Rogue built around stealth, surprise, and creative improvisation. H
 - **Chandelier lever** — pulled the lever to drop the throne room chandelier in Session 11; coordinated with Halcyra's positioning
 - **Turned the clock back (Session 14)** — grabbed the wildly spinning grandfather clock hands below deck; turned them counter-clockwise; time reversed to before the Galveston combat; red sky cleared; Galveston and his Dobermans walked off with no memory of the fight; the party kept their memories
 - **Stopped the mine clock (Session 15)** — grabbed the hour hand and held on; was spun in circles; functioned as a brake combined with Mira's Mage Hand and two docile skeletons
+- **New invisibility houserule (Session 17)** — on a natural 1 for an invisibility-type check, the character believes they're invisible when they're not; Inquizo rolled into that exact failure (a 4) but still pulled off Stealth 24 (16+8) to reach the clock tower using statues for cover
+- **Eavesdropping (Session 17)** — 41% successful eavesdrop on Dervnumgus and Gore Harlow at the clock tower, catching fragments about something "almost complete" and the tower itself referred to as "a woman"
+- **Distraction (Session 17)** — improvised a theory that a cult had been "started by Dervnumges" to lure a slow-moving giant glass hand away from the party — *"I'm sorry, guys, I'm out of your shot"*
 
 **Social**
 - Persuasion 24 — argued that his jar of spiders was legally part of his body
@@ -105,6 +121,7 @@ After his shadow breakdown, Mira picked him up like a cat and held him while he 
 - His cover story for George in the underwater city: "significantly reduced intellectual capacity"
 - Cool-headed even after waking face-down in blood in hell
 - He can read. He just won't.
+- The Watcher confirmed in Session 17 that his "goofy chaos gremlin" persona is "a mask"
 
 ---
 
@@ -192,4 +209,4 @@ After his shadow breakdown, Mira picked him up like a cat and held him while he 
 
 ---
 
-*Last updated: Session 16*
+*Last updated: Session 17*

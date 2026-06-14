@@ -9,6 +9,19 @@ tags: [dnd, shattered-world, changelog]
 
 ---
 
+## 2026-06-13
+
+### New Session
+- Added Session 17 notes: Encounter with the Watchers (subtitle: The Watchers' Web)
+- Updated character profiles: Halcyra, Grungrak (George), Inquizo, Mira (Reficul did not appear)
+- Updated NPC Registry, Location Index, World Lore, Unresolved Threads
+- Updated Mysteries & Theories.md and Prophecy.md (new Mira verse)
+- Appended to Campaign Narrative.md and Campaign Narrative - Working.md (Session 12 trimmed to maintain 5-session window)
+- Updated Silly Little Things: Sessions.md, Quote Wall.md, Dumb-Decisions-That-Worked.md, Artifacts-and-Items.md, Things-Given-to-the-Party.md
+- Updated Current State.md — full rewrite to reflect Inquizo unconscious, Liz/Constance departed, and the Watchers' Web lore dump
+
+---
+
 ## 2026-05-03
 
 ### Character Profile Redesign & New Files

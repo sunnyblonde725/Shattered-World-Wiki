@@ -27,7 +27,11 @@ She grew up being told to hide her wings. When she was formally judged at eighte
 
 She is the quiet center of the group. Not the loudest, not the most chaotic — but the one who covers Inquizo with her wings when the ship lurches, the one who prays alone at Apollo's temple, the one who whispered *"I promise I do love you"* to her mother and still walked out the door. The prophecy she carries has been coming true line by line since the campaign began. The sky turned red. A dragon made of stained glass attacked the train. Both were written on the scroll. At the end of Session 16, standing on a platform in Alastair, she was the first in the party to recognize the Prophetess.
 
-**What she doesn't know:** She is the child of prophecy. Her father is Apollo. Apollo has been calling to her — she heard his voice in a dream and turned toward it, but didn't know whose it was. The prophecy wasn't just something she found. It was written for her.
+Session 17 cracked open the mystery of her own death and resurrection. The Watcher — a god of stories who keeps the books recording every world's history — told her that her father had held an official position "handling particular cases above his pay grade," and that when Halcyra died of a childhood illness, he made a contract with an entity (the name came through as something like "Refasual" — needs confirmation) to bring her back. He did it without the Watcher's knowledge, and it cost him his life — he is confirmed dead. The deal was originally meant to cure the illness for the entire world, but a god called Modeus (also heard as "Moevious"/"Modius," and described as governing "the balance in all things") twisted it "to be more chaotic," narrowing the miracle down to just her. As a result, the God of Chaos now has some kind of claim on her — both speakers at the table flagged this as "a spoiler." Her own scroll backed it up: mid-conversation it unfurled on its own and lit up a line in gold — *"Flesh runs living now decays"* — and the Watcher confirmed it instantly: *"That's you!"*
+
+Her mother, meanwhile, is alive — "perfectly okay" but "not happy" — and is somewhere above them on an airship called *The Eagle* (there is, notably, no eagle on it), searching for her "runaway daughter Hal Kyra" after fleeing a crisis of her own.
+
+**What she doesn't know:** She is the child of prophecy. Her father is Apollo. Apollo has been calling to her — she heard his voice in a dream and turned toward it, but didn't know whose it was. The prophecy wasn't just something she found. It was written for her. Now that her own scroll has confirmed which stanza belongs to her, and the truth of her death and resurrection is starting to surface, the gap between what she knows and what's true is closing — but she still doesn't know Apollo is her father, or how the chaos god's claim on her connects to any of it.
 
 ---
 
@@ -36,7 +40,7 @@ She is the quiet center of the group. Not the loudest, not the most chaotic — 
 Halcyra is a front-line paladin who hits hard and keeps people alive. Her strongest moments combine radiant damage with healing and crowd control.
 
 **Damage & Offense**
-- **Divine Smite** — uses spell slots to deal radiant damage on any hit; her biggest moment: a Natural 20 in Session 7 cleaved off one of Urscylla's tentacles for 37 radiant damage total
+- **Divine Smite** — uses spell slots to deal radiant damage on any hit; her biggest moment: a Natural 20 in Session 7 cleaved off one of Urscylla's tentacles for 37 radiant damage total. In Session 17, a single Divine Smite (rolled a 17 to hit) destroyed the Machine outright — severed every tendril connecting it to the clock tower and split the merged Iskander/Liz/automaton beings back into separate people
 - **Bow of Dusk** — her +2 radiant longbow from the old man at her paladin oath; always rolls minimum 12; used Snare Strike to blow off Galveston's arm in Session 14
 - **Searing Smite** — lights a target on fire; burn persists each turn until they make a Constitution save; used on Pmurt in Session 11
 - **Divine Favor** — radiant arrows; confirmed blood angels have extreme weakness to radiant damage
@@ -60,6 +64,7 @@ Halcyra is a front-line paladin who hits hard and keeps people alive. Her strong
 - **Extra Attack** — two attacks per action since level 5
 - **Wings** — used as an umbrella against brightness, and reflexively covered Inquizo during the pressure valve jump in Session 14
 - **Athletics** — caught Grungrak before he fell into the River Lethe; broke through a glass floor (nat 20) to reach the creature inside the glass case in Session 14
+- **Cartography** — has had cartographer's tools since day one of the adventure; in Session 17 she used them to copy a torn-paper map of the three original worlds, rolling 70% accuracy — *"Not bad"*
 
 ---
 
@@ -77,6 +82,8 @@ Halcyra is a front-line paladin who hits hard and keeps people alive. Her strong
 - **Pan pipes** — wooden, handmade by Alia (Arcus's daughter); when played, summons three figures who call themselves "Aspen"; used to stop a runaway clock in Session 15
 - **Embroidery** — bought at the Alastair market in Session 16; when held during prayer, has a chance to restore her divine power as an action
 - **Goop bite wound (arm)** — the cave creature bit her in Session 10; Cure Wounds expelled most of it, but dark shadow marks remain at the bite points; long-term effect unknown
+- **The Book of Criminals** — a magical book given to her by the Watcher in Session 17, in exchange for her own story: *"this is going to make for a very interesting story"*
+- **Hand-drawn world map (70% accurate)** — her own copy of a torn-paper map showing the three original worlds reassembled into the Shattered World, made with her cartographer's tools in Session 17
 
 ---
 
@@ -112,6 +119,17 @@ Multiple stanzas from the scroll speak directly to her:
 - *"The healer's hand to bind the seam / Through golden light to cure the dream"* — her paladin healing is literally the mechanism for the world's repair
 - *"Only through loss will the fractures close / The hero must give what none can spare"* — the ending belongs to her, and it will cost her something irreplaceable
 
+**Session 17 — confirmed:** During the clock tower scene, her scroll spontaneously unfurled and lit up a new line in gold — *"Flesh runs living now decays"* — and the Watcher confirmed it on the spot: *"That's you!"* This matches an existing stanza that had previously been theorized to belong to Mira:
+
+> *Flesh once living now decays,*
+> *Yet walks the earth in cursed arrays.*
+> *Bound by shadow, life unknown,*
+> *Lives their life, secretly alone.*
+
+It fits her newly-revealed history precisely: she died as a child and was brought back through her father's contract (*"flesh once living now decays, yet walks the earth"*); the "shadow" and "life unknown" are the chaos god's claim on her and the unexplained terms of that contract; "lives their life, secretly alone" is Halcyra herself, unaware of what's bound to her.
+
+The Watcher also gave her a cryptic directive: *"I've seen the person whose domain that is to tell you — Destroy the eldest God."* Halcyra pushed back immediately: *"I'm not one of you to destroy the eldest God... There are lambs for slaughter out there that do not become any single one of us."* The Watcher said the chaos-god connection could eventually be "healed... if you work hard and really put your mind to it" by collecting "all those names" — to which Halcyra replied, dryly, *"That's so reassuring, because there aren't that many names out there."*
+
 ---
 
 ### Backstory *(in development — DO NOT fill in speculatively)*
@@ -124,11 +142,15 @@ Multiple stanzas from the scroll speak directly to her:
 - She left home at 18 after a rupture with her mother over her father (Apollo)
 - Her mother begged her to stay; there is something related to her father her mother wanted to give her — unresolved
 - She heard about a prophecy from a young age and has been searching for the **chosen hero** it describes
+- **(Session 17)** She died of a childhood illness. Her father — who held an official position handling "particular cases above his pay grade" — made a contract with an entity (heard as something like "Refasual") to bring her back, without the Watcher's knowledge, at the cost of his own life. He is confirmed dead.
+- **(Session 17)** The deal was originally meant to cure the illness for the entire world, but a god called Modeus ("Moevious"/"Modius," governs "the balance in all things") subverted it "to be more chaotic," narrowing it to just her resurrection — and giving the God of Chaos some kind of claim on her.
+- **(Session 17)** Her mother is alive, "not happy," and is searching for her aboard an airship called *The Eagle*.
 
 **Still needs canon confirmation:**
 - How she got the scroll
 - Her relationship to Apollo (in-world, not just narrative)
 - What her mother was going to give her
+- The real name of the entity her father contracted with, and whether/how it connects to Apollo
 
 ---
 
@@ -245,4 +267,4 @@ Multiple stanzas from the scroll speak directly to her:
 
 ---
 
-*Last updated: Session 16*
+*Last updated: Session 17*

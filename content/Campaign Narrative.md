@@ -1246,4 +1246,151 @@ The party did not get to introduce themselves.
 
 The sky was wrong. The capital's clock tower was broken in a way that spread across the city like weather. The woman they'd been looking for was within reach. The boy guarding her might have been someone they'd lost. The prophecy was coming true in real-time and no one had agreed on what came next.
 
+---
+
+## Session 17 — Encounter with the Watchers
+*The Watchers' Web*
+
+The boy lunged before anyone could speak.
+
+*"You will not take her from me,"* he snarled — burnt skin, melting at the edges, eighteen years old and unraveling. Inquizo didn't wait for a plan. He grappled, he hog-tied, and the boy hit the platform bound and screaming.
+
+With him down, Halcyra finally got to the woman they'd crossed a continent for. The Prophetess was younger than the legend — maybe seventeen, maybe younger than that — and she didn't waste time on introductions. She was from a different world. Theta was dead. And then she gave Halcyra something else: a vision, unbidden, of **Numgis** standing at a clock tower beside a mechanical figure and a grandfather clock spinning out of control.
+
+Across the platform, Mira and Lila found themselves staring up at a bug roughly the size of a small house. His name was **Haki**, and he was, against all visual evidence, friendly — a hammer-wielder with "a score to settle at the clock tower" and a body too big to fit inside the gondola that had just pulled up to carry them all toward the palace. He rode on top instead.
+
+A new woman joined them at the platform's edge — bald, bioluminescent eyes, a sword at her hip, silent until the gondola doors closed. The party, the bound boy, Haki on the roof, and the stranger all went up together, toward the place where the prophecy had been pointing for sixteen sessions.
+
+---
+
+The stranger introduced herself partway across as **Millie**. She had a bug of her own — the same mind-control species from the mine outside Canary Park — and she pressed it onto the bound boy's skull before anyone could stop her. Mira got there first, cutting the elastic thread with her sword (a 17), and the boy went slack and unconscious instead of compromised.
+
+The Prophetess healed him without being asked. Then, almost as an afterthought, she turned to the whole party and granted them **Heroic Inspiration** — gone before anyone could thank her, carried off alongside Millie with the boy and a second unconscious figure in steampunk armor, a man called **Gabaton**.
+
+Millie, charging George on her way out, rolled an eleven on a one. Halcyra talked her name out of her with a 14; George's history check connected "Millie" to a ship — **Starglass** — they'd slept aboard not long ago. Millie was running from someone called "the Doctor," heading for the mountains by way of something called "Scipio," and she expected to see them again. At Starglass, she said. Soon.
+
+The gondola reached a mountain station — a gateway torn open, blood already dried on the stone — and ahead of it, finally, the thing the whole session had been circling: a clock tower three hundred feet tall, its hands stopped dead, and a courtyard full of kneeling cultists having the life drained out of them in slow, visible threads.
+
+A tusked figure — **Dervnumgus** — stood over the draining, and beside him, **Gore Harlow**. Inquizo went ahead alone. His first invisibility check came up a 4 — and the table, on the spot, made it a rule: roll a 1 on an invisibility check, and you believe you're invisible when you very much are not. His second check, a 24, got him past a garden of warm, hollow marble statues and close enough to catch part of the conversation. The clock tower, Dervnumgus called "a woman," "almost reaching my climax." He promised Gore Harlow "the fortune" and "control of your home" once it was over. The rest was lost.
+
+Inside, tendrils with strange blocky faces couldn't see Inquizo at all — but something else could. **THE MACHINE** spoke directly into his mind. *"Welcome to... I can give you what you have always wanted... a second chance... Come feed the machine."* It showed him three images — a burning demon city, an island where angels carried people away, a face he almost recognized — and reached for him with a hand made of glass. He stepped back. Twenty feet, just to be sure.
+
+---
+
+The rest of the party followed him in, past a glass menagerie of kneeling figures, into a chamber where three black, star-shaped eyes with crimson centers hung a hundred feet apart, strung together with dark tendrils like a web waiting to close.
+
+**THE VOICE** offered each of them the same thing: a vision of who they were, or who they could be, for a price it called "time." George said no — *"right now it's not that time"* — and the Voice accepted it without complaint, promising they'd meet again.
+
+Halcyra didn't say no. Four images bloomed in stained glass in front of her: herself beside a blue dragon, a hammer tearing the sky open; a laurel wreath; herself alone, crowned in laurels; and the city of Erlon burning, full of demons and dragons, with her mother standing somewhere inside it. She reached out and touched the laurels, and the image spun. *"Possibilities,"* the Voice told her. *"Everything can be changed. Everyone can be given a second chance."* If she touched the Machine itself, it said, she would remember everything — every possibility there had ever been.
+
+She didn't touch it. The light faded, and the choice — whatever it would have cost — stayed unmade.
+
+Mira did touch it. She'd already told Halcyra she was "way too focused" to be helped, and when she struck the Machine, it shattered under her hand — and the vision that followed was bigger than anything the Machine had shown anyone else, and everyone saw it.
+
+A scythe, enormous, placed into Mira's hands by a towering statue of a woman with silver-and-black hair, covered in flowers and vines — **the Lady**. The same scythe George had once wielded, "from this very spot." The vision ran backward: the Lady and a small boy who would grow eighteen feet tall — almost certainly **Argus** — walking into boats, speaking a language Mira could no longer understand. Warmth bloomed from the wheat seeds Reficul had given her, sessions ago, still in her pocket. Then it ran forward again: fields growing in an instant at the Lady's gesture, homes rising, Argus growing up alongside Naf and a tribe of fanged beasts — until winged mechanical things, "a bit like Icarus," armed with hammers and nails, fell on all of it. Argus took the nails meant for the Lady and threw them back. The mechanical things took people anyway. The Lady gathered the survivors into a temple, and the nails that had missed her before found her now — turned her to stone, mid-sentence, mid-gift, as she pressed the scythe into Argus's hands.
+
+He fought. He cut one of the mechanical things clean in half. He led the survivors to caves, to flying boats, to safety — and he could not wake the Lady. At the very end, he turned and looked through the vision, through all of it, directly at Mira.
+
+Time stopped. A third voice — not the Machine, not the Prophetess, the same one that had once told Mira to kill something in the underworld — spoke into the silence: *"It's a pity how things have to end. This is what it perpetuates. Good luck."* Mira asked if it was the same voice as before. No one answered.
+
+---
+
+The tendrils closed into a net while all of this was happening. The Voice turned its attention to Mira — *"Oh good. You're mine now"* — and Mira dodged with advantage, a Bardic Inspiration die she hadn't known she'd been carrying turning into an effective natural twenty. She still came away with ink across her shoulders.
+
+Inquizo answered for all of them. A double strike — a "white flash" — cut through every tendril in the room at once, and a homebrew item added eight lightning damage on top of it, a dragon shape flaring in the light. The cost came immediately: brain fog, the smell of maple and oil, the sound of dripping water, and an overwhelming compulsion to climb two hundred feet and destroy the second eye with his bare hands. He started climbing.
+
+A puddle of goop rose off the floor, flickered briefly into something like Gore Harlow, and resolved into someone new entirely — a long trench coat, regency clothes, horns, wings like a tiefling's, dripping. *"Afraid of getting a little wet?"* it asked, and threw a handful of goop that missed Halcyra in the air and landed on the stairs under George instead. George went down the stairs on his back, screaming *"CANNONBALL,"* rolled a 19, and slid straight through the horned figure — emerging on the other side completely coated in slime. *"This is gross,"* he said. *"I need a shower."*
+
+George hit the Machine again — Thunder Wave this time, confirmed thunder, not lightning — and that was when it happened to him and Mira both. A private vision, shared between only the two of them: a version of Mira ten times her size, three voices arguing over her — *"Get out of my head," "Please just come home," "All of you will die soon. But I have a new little visitor"* — and a picture described as "just before a Cataclysm." Someone brought up **Grungrake**, a past version of George who hadn't survived his own choice — who'd saved the person most important to him and died for it, something George had apparently heard before, more than once, in a river, in a shadow. The vision dismissed them both — *"You're happy with the time you've spent... you're of no use to me"* — and threw them out with twelve lightning damage each, the maximum possible. *"Oh, it's lightning!"* George said. *"No!"*
+
+---
+
+The Machine convulsed, and out of it came three beings sharing one body: **Iskander**, **Liz**, and a masked automaton, its face cleaved down the middle like a cross. Liz and Iskander — confirmed, finally, as adopted siblings — clutched at their chests, their heads, their arms, still fused.
+
+Halcyra didn't aim for the eyes. She hit the Machine itself with a Divine Smite, rolled a seventeen, and the Machine simply ended — every tendril severed at once, the merged bodies thrown apart, the automaton going rigid and still. The Machine's remains collapsed and flattened into a circular glass door, lying open on the floor like something from a children's story.
+
+Something small and wyrmling-shaped rose out of the wreckage. *"I am [—]. Why destroy my eternity, when all that awaits you is nothing but air and mar and cataclysm, over and over again? I would be the moment that stops you from your pain — from losing everything."* George didn't hesitate. *"I've done that once. I've recovered."* The thing told them they couldn't decide its fate. Halcyra told it the same was true in reverse. And then it told them what it was — *"I was made with one purpose: to halt progress"* — and who had made it. *"My father."* It wouldn't say more. The party refused it outright, and it grew — past the wyrmling, past anything reasonable, larger than the clock tower itself, the building rusting and sprouting vines around it, a maw opening overhead. They ran for the door.
+
+Halcyra reached Liz and Iskander first — an 18 on Athletics — and that was when the shadow came for them. A figure the prophecy scroll called **Dyrkonogus**, the same one Halcyra had seen before, somewhere she only called "this void." It took hold of her and said one word: *"Let go."*
+
+*"I haven't even seen him for so long,"* Halcyra said, of Iskander. *"I can't leave him. He's mine."* She rolled — Bardic Inspiration, advantage, everything she had — and needed exactly nineteen, and got it, on the dot, and then the coin flip that decided the tie came up tails. *"It's fate,"* someone said. The shadow asked Halcyra to choose: let Liz go, or keep her. Halcyra turned to Liz instead and asked her directly — *"Do you want to go with them?"*
+
+Liz pulled a gun. *"Yeah,"* she said, and was gone, into the shadow, with the figure, with — likely — her brother. She didn't look back.
+
+Mira made the jump out at a 21 — *"not saving a guy"* — and both she and Halcyra cleared the collapsing tower, glimpsing on the way down a ruined city under a clear blue sky, green and rusted and copper, flying flags that belonged, somehow, to pirates they'd once helped.
+
+---
+
+They fell through the Machine's glass door and landed somewhere else entirely — a library with a night sky for a ceiling, vast and quiet and, against everything that had just happened, peaceful. George picked up a level of exhaustion just from getting there. A kindly bearded man in glasses offered Mira and Halcyra tablets that restored health and spell slots — *"the script says you eat it"* — and introduced himself.
+
+**ORAVIS. THE GOD OF STORIES.**
+
+He was annoyed about Numgis — *"a villain in my story... I needed"* — and Halcyra didn't disagree. He pulled out a book about "the guillotine and the thought-turning realm," which Inquizo recognized immediately and loved. He pulled out the story of Apollo's chariot. He pulled out the Bible, looked at it, and threw it away. *"Boy, have mankind ruined this."* *"Tell me about it,"* Halcyra said.
+
+Then, to Inquizo, casually: *"Should I tell them your brother's name?"* Inquizo went pale. *"Don't you know who that is? I feel very conflicted right now."* The name went unsaid. Inquizo has a brother. A god knows his name. That was all anyone learned.
+
+---
+
+What followed was the longest single conversation of the campaign so far.
+
+Oravis named what he was — *"I am what one would call a watcher. We are an ancient group of gods"* — and named the others: Chaos, Order, Souls, Nightmares, and a woman tied to prophecy, "a spinner of schemes." The world had broken because the Watchers had fought — voted, even — over new stories. One god got caged. Another got destroyed. *"That's why time's all fucked up."* He blamed Chaos. *"Chaos hates Modeus."*
+
+Then he turned to Halcyra, and the library showed her father shaking hands with something called **Refasual**, signing a contract. *"This one was done without my knowledge,"* Oravis said. *"I thought the story your father was supposed to tell was going to be so much better. Boy, was I wrong."* The reveal came plainly, almost gently: *"Your father gave up his life to bring you back. That sickness — you died. Straight up. You made that. That's why. And the miracle child died."*
+
+Halcyra had died, as a child, of an illness. Her father's contract had cost him his life to undo it. She was the miracle child the prophecy had been calling her since before anyone knew her name. *"You're the one that —"* she started, and stopped. *"No one else killed me. I'm sorry."* A beat. *"She was a child."*
+
+Her mother, Oravis showed her, was alive — searching for her, aboard an airship called **The Eagle**, ironically named, looking for "her runaway daughter Hal Kyra," heading "all the way up."
+
+To Mira, the reveal was just as direct: her power didn't come from a dragon. It came from the **Ancient God of Chaos**. *"I am a wild magic sorcerer,"* Mira said. *"Have you ever actually done wild magic?"* Oravis asked, and Mira worked her way through the stages of grief in real time, landing — loudly — on rage.
+
+And then, to Halcyra's scroll: it unfurled on its own, and a line lit gold. *"Flesh runs living now decays."* *"That's you!"* Oravis said. The line the party had spent sessions trying to place had been about Halcyra the entire time. He grew somber, then gave them a directive with no context at all: *"I've seen the person whose domain that is to tell you — destroy the eldest God."* Halcyra pushed back immediately. *"I'm not one of you, to destroy a god. There are lambs for slaughter out there that do not become any of us."*
+
+He told them the Books of George and of Grundrack had both already ended — and that the Book of George would end again, later, a different ending. And that there was a third book. *"A secret third book that I'm not allowed to tell you about."* Inquizo negotiated two secrets out of him and kept them. Halcyra was given a new book of her own — **the Book of Criminals** — "in exchange," Oravis said, "for a very interesting story."
+
+His last warning was the only thing he said without a trace of a joke in it: *"Be cautious around Alias."* He mentioned a story about Alias and Thorin — about the day they'd seen a child and turned around. He mentioned that Thorin's "true form" wasn't the ripped statue everyone pictured but a dad-bod, and that he loved one of his daughters. And then he said the thing that turned the rest of the night into a game show: *"What you see is kind of merged with one of your gods. Yours. Thorin is the god of travelers —"*
+
+The guessing went on for a while. The answer, finally, was **Music**.
+
+---
+
+The reveals kept coming. Halcyra's father's *original* deal, Oravis said, hadn't been to save just her — it had been to cure the sickness for everyone, in every world. Something called **Modeus** — or Moevious, the name shifted depending on who said it — had changed the terms. *"More chaotic,"* Oravis said. *"The healing of disease — that's more in Modeus's realm. The balance in all things."*
+
+And then, almost as an aside, the biggest piece of all: *"Your guys' world — there was lightning that struck everywhere, caused by that dwarf right there"* — pointing at George, who was reading a music book and did not look up — *"as he struck that blue dragon with his hammer, and it shattered. That was the ending of World One. Ending of World Two."* A third world had ended too, torn apart by a forbidden ritual — "paper tearing." **Sibyl's Beast**, real, in the prophecy, had "stopped breathing" when it happened. Three worlds, ended three ways, and a faction of the Watchers had taken what was left of all three maps and stitched them into one.
+
+*A Shattered World.* Not a metaphor. A description.
+
+They were shown a crystal realm — looping visions of George's past self fighting the dragon, a minotaur, a child flanked by an elf and a halfling. Halcyra, with cartography tools she'd carried since the very beginning, copied the composite map of the three original worlds at seventy percent accuracy. It was the most complete map anyone in the party had ever held.
+
+Then the door gave way, and they fell again — into a spider's web.
+
+---
+
+The web opened onto an illusion: their own airship, Dex in the kitchen, a figure that might have been the Prophetess, all of it slightly wrong — blurry, scratched, like old tape. The illusion thinned, and the door closed behind them, and what had been waiting underneath revealed itself.
+
+**THE SPIDER GODDESS** — eight feet of trapdoor-spider and woman, too many eyes, delighted. *"I so love to finally meet you."*
+
+To Inquizo first. *"My dear, why do you still hide in this dream? It's best that you sleep now. Lord knows you'll need it."* He went down where he stood, and didn't get back up for the rest of the night.
+
+To George: *"Don't you wish to know who you are? What if this mythical creature — this Grungrak, as everyone calls him — is better than you? But also, what if in some way he is infinitely worse? Who ends the world for one person? This is not a trait of yours."* George said the only thing he had left to say. *"No."*
+
+To Mira: her world was unraveling, and she was at the center of it — *"one could even say the catalyst."* And then, a gift: four new lines, delivered with no explanation at all.
+
+*"Because a pair of light is a single thing to find. / It lies upon a path that lines. / When monsters sleep, the dawn shall soar. / The fated child to sleep no more."*
+
+Mira asked if it belonged to the prophecy they already knew, or if it was something else. The Spider Goddess only smiled. *"Maybe you should ask someone who will tell you."*
+
+And to Halcyra, last: *"What is death but not a dream?"* Halcyra asked why it had to be a dream at all — and then her mouth simply stopped working. Not a spell. Just silence, imposed. *"Do you not wish to know the terms of your own contract? Or do you not remember it? You can hear the song, can you not? Even now it whispers through that life you call your own. For some debts are collected by waking, rather than signing."*
+
+*"This has been lovely,"* the Spider Goddess said, as the web began to fall away beneath them. *"I hope you keep an eye out."*
+
+*"For what?"*
+
+*"You'll know."*
+
+---
+
+The floor gave out, and they landed back on their own airship — the real one this time. The kitchen was empty. Dex wasn't there. The Prophetess had never been there. Inquizo lay asleep on the floor, exactly where the Spider Goddess had left him, and no one woke him up.
+
+Halcyra's voice came back. Asked if she had anything to say, she said nothing at all.
+
 Session 16 ended there.

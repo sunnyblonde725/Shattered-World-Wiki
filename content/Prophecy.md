@@ -1,18 +1,15 @@
 ---
-title: The Prophecy
-date: 2026-05-03
-tags: [dnd, shattered-world, lore, prophecy]
-cssclasses: [prophecy-scroll]
+title: The Prophecy — A Shattered World
+tags: [dnd, shattered-world, prophecy, lore, reference]
 ---
 
 # The Prophecy
 
-*Halcyra has carried this scroll since she was fifteen. She does not know why it was given to her, or by whom. She has read it so many times the edges are worn thin.*
+*The full prophecy of the Shattered World. See [[Campaign Narrative]] for full analysis and [[Character Profiles]] for per-character connections.*
 
-*At least one stanza is missing. The scroll ends — but the story doesn't.*
+> **⚠️ Note:** There is at least one **missing stanza** — this is DM knowledge. Current suspicion is that it belongs at the end, but its location is unconfirmed. What's written here may be incomplete.
 
-<div class="scroll-container">
-<div class="scroll-text">
+---
 
 A child born at the end of the world,
 Their fragile form in chaos unfurled.
@@ -24,13 +21,13 @@ No warmth remains, no hand to hold.
 The child forsaken left alone,
 To find the light and find a home.
 
-When hammer breaks on the dragon's scale,
+When hammer breaks on the dragon’s scale,
 When the circle falters, rites shall fail.
 When the written fate in shards is cast
-Cybele's beast shall breathe its last.
+Cybele’s beast shall breathe its last.
 
 When lightning flashed and paper tore,
-A god's machine shall roar no more.
+A god’s machine shall roar no more.
 The fractured fields in silence weep,
 Dreams of fire consume the deep.
 
@@ -64,10 +61,12 @@ Yet walks the earth in cursed arrays.
 Bound by shadow, life unknown,
 Lives their life, secretly alone.
 
+> **Session 17 confirmation:** This stanza is about **Halcyra**, not Mira. During the confrontation with Oravis ("the Watcher," God of Stories), Halcyra's prophecy scroll unfurled on its own and highlighted this line in gold — read aloud in the moment as *"Flesh runs living now decays"* — and the Watcher confirmed directly: *"That's you!"* This ties to the same scene's revelation that Halcyra died of a sickness as a child and was resurrected through her father's contract with "Refasual," at the cost of his life. See [[Halcyra]] and [[Mira]].
+
 A mind broken by design,
 Holds the rites of the divine.
 Memories tangled, hidden from time,
-Whispers echo fate's true crime.
+Whispers echo fate’s true crime.
 
 A form untethered collects those who touch,
 Death does not hinder, for they escape its clutch.
@@ -91,10 +90,10 @@ Spinning wheels and secrets bide.
 
 Heal the faces made of stone,
 Defeat hateful hearts upon the throne
-Through fire's trial, truth is shown,
+Through fire’s trial, truth is shown,
 The hero reaps what they have sewn.
 
-The healer's hand to bind the seam,
+The healer’s hand to bind the seam,
 Through golden light to cure the dream.
 What once was broken now shines bright,
 As shadows yield to blinding light.
@@ -109,9 +108,9 @@ Of hope and light to meet the needs.
 Though roots may struggle in stone and clay,
 From patient toil, new worlds shall sway.
 
-Where Hades' veil and sunlight meet,
+Where Hades’ veil and sunlight meet,
 The child shall walk in realms replete.
-By Gods' design both lost and found,
+By Gods’ design both lost and found,
 The child treads on sacred ground.
 
 Where torches burn in secret halls,
@@ -142,7 +141,7 @@ To find the one who in dark lies.
 The shattered world is ripped in twain,
 A world that begs to be free of pain.
 At the precipice the hero stands,
-The world in someone else's hands.
+The world in someone else’s hands.
 
 Stand where woven threads divide,
 One course to drift, one course to guide.
@@ -154,7 +153,19 @@ Only through silence the true song grows.
 The hero must give what none can spare,
 Through surrender, the worlds made fair.
 
-*. . .*
+---
 
-</div>
-</div>
+## Session 17 Addendum — The Spider Goddess's Verse
+
+> **⚠️ Note on status:** It is **unconfirmed** whether this verse belongs to the prophecy above or is a separate prophecy entirely. When Mira asked the Spider Goddess directly — *"Is this part of the prophecy or is this a different prophecy?"* — she deflected: *"This is an excellent question. Maybe you should ask someone who will tell you."* When pressed further, she added: *"It's because it's more fun that way. And it creates a better story. It also makes you more likely to do what I tell you to."* Recorded here as an addendum pending clarification — do not assume it is the missing stanza referenced in the note above.
+
+Delivered to Mira as a "gift" by the Spider Goddess (an eight-foot spider/woman hybrid, allied with Oravis but disliked by her personally), who called Mira **"the catalyst"** of a "grand equation":
+
+Because a pair of light is a single thing to find,
+It lies upon a path that lines.
+When monsters sleep, the dawn shall soar,
+The fated child to sleep no more.
+
+*("Wouldn't that be lovely?" — the Spider Goddess, after delivering it.)*
+
+*See [[Mira]] for full context. See [[Claude References/NPC Registry]] for "The Spider Goddess" and "Oravis."*

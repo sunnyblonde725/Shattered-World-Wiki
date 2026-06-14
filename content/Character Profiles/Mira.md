@@ -27,7 +27,13 @@ Her real name is Cassidy. She was called "Mira" — short for "miracle child" �
 
 She is practical, dry, and quietly devastating. She picked up Inquizo after his shadow breakdown and held him until the panic passed without saying a word. She walked into her shadow dragon rather than fighting it. She is learning the Ballad of Grungrak — the song about the friend she lost, who is standing right next to her and doesn't remember her. She knows who her patron is now. She has the necklace her father gave his soul for around her neck. She is carrying all of this without falling apart, which might be the most remarkable thing about her.
 
-**What she doesn't know:** She is dead — or something between alive and dead. She was reinvigorated by an unknown force. Whatever is keeping her here has not explained itself.
+In Session 17, striking the Machine triggered a vision everyone at the table could see happening to her. She found herself holding a massive scythe, in the hands of a statue of a woman that slowly stopped being stone and started breathing — long silver-and-black hair, covered in flowers and vines. Mira recognized the scythe immediately: it was the bloodthirsty scythe, the same one George/Grungrak once wielded from this exact spot. The vision showed the woman — called only "the Lady" — on an island with a community that included a small boy who later grew to roughly eighteen feet tall, almost certainly Argus. Nails driven into the Lady's body during an attack slowly turned her and others to stone; she became the statue Mira was standing in. Before she "passed," the Lady gave Argus the bloodthirsty scythe. Argus used it against mechanical, Icarus-like winged constructs — cleaving one clean in half — then led survivors to caves where "fanged creatures" lived, until flying boats arrived to evacuate everyone "for safety." As the vision ended, a third voice — distinct from both the Machine and the Prophetess, and possibly the same one that once told Mira to "kill something in the underworld" — said simply: *"It's a pity how things have to end... This is what it perpetuates... Good luck."*
+
+Immediately after, Mira and George were pulled into a second, shared vision: a version of Mira roughly ten times her normal size approached through what both of them experienced as "Cataclysm" — overlapping voices, including a conversation about "Grungrake." The presence in the vision dismissed them both: *"You're happy with the time you've spent — let me tell you, I have gained some beautiful new friends... You're of no use to me."* Both of them took 12 lightning damage (a max roll) on the way out.
+
+Then the Watcher — the god of stories — told her directly where her power actually comes from: "the ancient god of chaos." She tried to argue ("I am a wild magic sorcerer"), and the Watcher just asked, "Have you ever actually done wild magic?" She moved through visible stages of grief at the table, landing hard on rage, before saying it out loud: *"You have no idea. I don't like the subtle wallbreaker. I am simultaneously enraged that this is how you reveal miracles."* For the first time, Mira knows — even if she doesn't want to — that the pact she never consciously made runs back to the same ancient chaos god whose name has started surfacing in other parts of the party's mysteries too.
+
+**What she doesn't know:** She is dead — or something between alive and dead. She was reinvigorated by an unknown force. Whatever is keeping her here has not explained itself. As of Session 17, she's been told outright that her patron is "the ancient god of chaos" — but she hasn't accepted it yet.
 
 ---
 
@@ -40,8 +46,9 @@ Mira is a warlock who excels at control, information, and precise, devastating h
 - **Toll the Dead** — d12 cantrip on damaged targets; a masculine voice has come out of her when casting this; she used it to finish a hellhound in Session 14
 - **Hunger of Hadar** — 20-foot sphere of darkness and tentacles; cold and acid damage; cast twice in Session 11 including during the Pmurt fight
 - **Burning Hands** — 15-foot cone; used on a metal horse in Session 6
-- **Pact weapon sickle** — manifested without her consciously calling it during the Pmurt fight; she partially castrated King Pmurt with it before he escaped; this is now a defining Mira moment
+- **Pact weapon sickle** — manifested without her consciously calling it during the Pmurt fight; she partially castrated King Pmurt with it before he escaped; this is now a defining Mira moment. Session 17 revealed its history: it's the bloodthirsty scythe once wielded by George/Grungrak from this same location, later given to Argus by "the Lady" before she turned to stone
 - **Stormwake Sigil** — her father's final gift; adds 2d6 lightning damage to any attack (physical or magical) up to proficiency bonus times per day
+- **Striking the Machine (Session 17)** — declined Halcyra's offer of help ("I am way too focused") and went after the Machine alone with a shattering effect, since she couldn't hit all three Eye entities at once; the strike triggered the scythe/Lady vision above
 
 **Control & Utility**
 - **Hold Person** — paralyzed the wagon guard in Session 16 (guard rolled 2; went fully paralyzed); previously failed against Galveston (he saved with an 18)
@@ -53,6 +60,7 @@ Mira is a warlock who excels at control, information, and precise, devastating h
 - **Cosphere** — cast with no spell slots remaining (Session 7); took a level of exhaustion; frightened 4 of Urscylla's tentacles
 - **Aid** — prepared; buffs allies with temp HP
 - **Suggestion, Scorching Ray** — Fiend spells, always prepared; not yet used on-screen in notable ways
+- **Dodge + Bardic Inspiration (Session 17)** — when the nearest Eye entity singled her out ("Oh good. You're mine now."), she used a Dodge plus a Bardic Inspiration die (a d6, apparently from the Prophetess — needs confirmation) to turn a Dexterity save into an effective 20, though she still took some splash damage from the inky substance
 
 **Social & Investigation**
 - Medicine 21 — examined Reficul's body in Session 3
@@ -80,6 +88,7 @@ Mira is a warlock who excels at control, information, and precise, devastating h
 - **Grungrak's spellbook** — also has Grungrak's broken hammer noted
 - **Alchemist's tool belt** — bought at the Alastair market in Session 16; comes loaded with 2 alchemist fire, 2 acid, 1 antitoxin; replenishes on long rest
 - **2 daggers, component pouch, scholar's pack, leather armour, lamp, oil, parchment, jar of chimney blood, jar of moths, book and quill**
+- **Watcher's sigil (Session 17)** — the Watcher showed her a hand-drawn sigil ("his business card") that matches a signal already recorded in her own notes from an earlier session
 
 ---
 
@@ -101,8 +110,17 @@ After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat
 
 ### Prophecy Connections
 
-- *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — Mira, precisely. The stanza fits her condition exactly.
+- *"Flesh once living now decays / Yet walks the earth in cursed arrays / Bound by shadow, life unknown / Lives their life, secretly alone"* — previously theorized to be about Mira (her death-and-return condition fits). **Session 17 reassigned this stanza to Halcyra** — her scroll lit up this exact line and the Watcher confirmed it directly ("That's you!"). It may still echo Mira's situation too, but it's no longer treated as primarily hers. See [[Halcyra]].
 - *"Where Hades' veil and sunlight meet / The child shall walk in realms replete"* — possibly Mira or Halcyra; both exist at a boundary between the living and the dead
+
+**New verse (Session 17 — gift from the Spider Goddess):** Near the end of the session, the Spider Goddess — eight feet tall, part spider, part woman, six sets of non-human eyes — turned to Mira, called her "the catalyst" of "this grand equation," and gave her a new verse:
+
+> *Because a pair of light is a single thing to find.*
+> *It lies upon a path that lines.*
+> *When monsters sleep, the dawn shall soar.*
+> *The fated child to sleep no more.*
+
+When asked whether this is part of the existing prophecy or a separate one, the Spider Goddess wouldn't say directly — *"Ask someone who will tell you"* — and admitted she was being deliberately vague because *"it creates a better story"* and *"makes you more likely to do what I tell you to."* **Its relationship to the main prophecy scroll is unconfirmed.**
 
 ---
 
@@ -217,4 +235,4 @@ After his shadow breakdown, he was catatonic and muttering "I'm sorry" on repeat
 
 ---
 
-*Last updated: Session 16*
+*Last updated: Session 17*

@@ -1,6 +1,5 @@
 ---
 title: Artifacts & Items
-date: 2026-05-03
 tags: [dnd, shattered-world, items, lore]
 ---
 
@@ -357,5 +356,29 @@ These three items came off (or out of) the blood angel the party fought in Hell.
 
 ---
 
-*Page last updated: Session 16*
+---
+
+## The Book of Criminals
+
+**Who has it:** Halcyra
+**First appeared:** Session 17 (given by Oravis, the God of Stories, in the Watcher's Library)
+**What it is:** A book given directly to Halcyra by Oravis — "in exchange, this is going to make for a very interesting story," he said, with no further explanation.
+**What we know:** It was handed over in the same conversation where Oravis revealed Halcyra's death and resurrection, her mother's search aboard The Eagle, and the "Destroy the eldest God" directive. Oravis also mentioned a "secret third book" he wasn't allowed to discuss, and that the Books of George and Grundrack have both already "ended."
+**What we don't know:** What's actually written inside it. Why Halcyra specifically. What "exchange" means here — what Oravis got, or expects to get, in return.
+**Status:** Halcyra's possession — unread
+
+---
+
+## Halcyra's Map of the Three Worlds
+
+**Who has it:** Halcyra
+**First appeared:** Session 17 (drawn in the Watcher's Library, using cartography tools she's had "since day one")
+**What it is:** A hand-drawn copy of the composite map shown to the party in Oravis's crystal realm — the three original worlds (ended by the dragon-shattering, a second cataclysm, and the "paper tear" ritual) stitched together into the single shattered world the party now occupies.
+**What we know:** Halcyra rolled 70% accuracy copying it — "pretty solid." It's the most complete map of the world's true geography and history the party has ever held.
+**What we don't know:** What the missing 30% obscures. Whether the three original worlds' borders correspond to anything politically relevant now.
+**Status:** Halcyra's possession
+
+---
+
+*Page last updated: Session 17*
 *[[World State]] | [[Character Profiles]] | [[Shattered World]]*

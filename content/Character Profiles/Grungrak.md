@@ -28,6 +28,20 @@ He was once a miner from a mountain town. That's almost all that's confirmed. He
 
 He is the heart of the group. Chaotic and warm and deeply confused about the world, but genuinely good — the kind of person who makes a stranger cry with songs in a tavern while a queen is being killed upstairs, who runs after Inquizo for no stated reason when Inquizo runs, who gives Reficul a speech about second chances using Reficul's own words. He has pomegranate seeds from Persephone's underworld inside him and doesn't know what that means yet. The prophecy names him directly. His amnesia may not be accidental.
 
+Session 17 pushed all of this further. The Machine/Voice offered to "show him who he was" — George declined: *"I know me and my friends know me from before and eventually we will get to the point where that can be the same person. Right now it's not that time."* The Voice's reply has already become a running gag at the table: *"Alright, if it's not that time, it's not that time... We are in eternity. You don't have five to 10 business days."*
+
+He slid down a staircase railing, got hit by a new goop-figure's snowball splash (extra "lubricant," making him slide faster), and declared he was "cannonballing" straight through the goop-figure — rolling Acrobatics/Dex 19 to pull it off ("saved his balls"). He came out the other side completely covered in goo — *"Nickelodeon slime"* — *"This is gross. I need a shower."*
+
+In the fight against the Machine, he struck it with the edge and blunt side of his scythe and followed up with Thunder Wave (Thunder damage, not Lightning — worth remembering), opening a second, deeper dent. Then he and Mira were both pulled into a shared private vision: a version of Mira roughly ten times her normal size approached through what they both experienced as "Cataclysm" — overlapping voices, including one discussing "Grungrake." George's player recalled having "had this conversation with Grungrake... and he did not regret it... He saved who was most important for him. And so he is not regret it. He told me himself several times — in a river... in a shadow." Mira's player added that "Grungrake didn't make it out of that alteration alive." The presence in the vision dismissed them both — *"You're happy with the time you've spent — let me tell you, I have gained some beautiful new friends... You're of no use to me."* Both of them took 12 lightning damage (a max roll) on the way out — *"Oh, it's lightning! It's lightning! No!"* George's "last act" of the encounter cost him a level of exhaustion.
+
+A wyrmling entity then emerged from the destroyed Machine and pleaded for its life: *"I am [good?]. Why destroy my eternity when all that awaits you in your future is nothing but air and mar and cataclysm, over and over again?..."* George answered: *"I've done that once, I've recovered"* and *"Ayo!"* — Halcyra echoed: *"Nor can you decide ours. Ayo!"* The entity said it was "made with one purpose — to halt progress," and when asked who made it, answered simply: *"My father."* The party rejected its plea, and it transformed into a much larger threat.
+
+They then met Oravis — "the god of stories" — a kindly bearded man in glasses, holding a 600-page manuscript. He offered healing tablets to Mira and Halcyra (*"Enjoy, friends"* — restores spell slots, heals, "the most tasty thing you've ever felt"). He also revealed George's birthdate is "a Tuesday" — a detail that may line up with another party member's birthday (likely Inquizo's — *"Maybe it's my birthday... You gotta be fucking kidding me"*). Oravis told them: *"the book of Grundrack has ended, the book of George will end, and then there's a secret third book that I'm not allowed to tell you about."* A player guessed: "So, Grundrack part two."
+
+The biggest reveal of the session came from "the Librarian": *"You see, your guys' world, there was lightning that struck everywhere that was caused by that dwarf right there... as he struck that blue dragon with his hammer and it shattered... That was the ending of World One, ending of World Two."* George's past self — Grungrak — shattered a blue dragon with his hammer, and the resulting lightning ended two separate worlds. George reportedly spent this entire reveal "reading a music book," completely oblivious — "like a small child being handed their favorite coloring book."
+
+Near the end of the session, the Spider Goddess turned to George directly: *"Don't you wish to know who you are? I know that's all you've been thinking about for the past... six and a half months?... but you're not really trying that hard, are you?... After all, who sacrifices the world for someone they care [about]? Who ends the world for one person? This is not a trait of yours."* George's only verbal response: *"No."*
+
 ---
 
 ### How He Fights
@@ -41,6 +55,7 @@ George is a Bard who hits surprisingly hard and supports the party with healing,
 - **Vicious Mockery** — cantrip; psychic damage + disadvantage
 - **Tasha's Hideous Laughter** — used on the white-haired NPC in Session 3 (triggered by a fart)
 - **Anglite rock (Session 7)** — threw a rock into the River Lethe during the Urscylla fight; strength save 19; the rock caused an electrical steam explosion that fired both him and George out of the water
+- **Scythe strike + Thunder Wave (Session 17)** — struck the Machine with the edge and blunt side of his scythe, then followed up with Thunder Wave (Thunder damage, not Lightning) to open a second, deeper dent
 
 **Healing & Support**
 - **Healing Word** — bonus action heal; used on Arcus, Mira, and Starglass (healing Starglass made her slightly more metallic)
@@ -95,7 +110,11 @@ Inquizo stole the core of his broken hammer and still has it. When George panick
 
 - *"A shattered mind turns towards the gate / One must reverse the dwarven fate"* — his amnesia is part of the prophecy; he must actively reverse whatever dwarven fate was set for him
 - *"A mind broken by design / Holds the rites of the divine / Memories tangled, hidden from time"* — the amnesia may not be accidental; someone may have broken his mind deliberately; he holds divine knowledge without knowing it
-- *"When hammer breaks on the dragon's scale / When the written fate in shards is cast"* — his missing war hammer and the shards he carries are both named in the prophecy as trigger conditions for a larger event
+- *"When hammer breaks on the dragon's scale / When the written fate in shards is cast"* — his missing war hammer and the shards he carries are both named in the prophecy as trigger conditions for a larger event. **Session 17 confirmed the literal event**: "the Librarian" revealed that Grungrak once struck a blue dragon with his hammer and shattered it, and the resulting lightning ended two entire worlds (World One and World Two).
+
+**Session 17 additions:**
+- Oravis/the Watcher: *"the book of Grundrack has ended, the book of George will end, and then there's a secret third book that I'm not allowed to tell you about."*
+- The Spider Goddess pressed him directly: *"Don't you wish to know who you are?... who sacrifices the world for someone they care [about]? Who ends the world for one person? This is not a trait of yours."* George's only answer: *"No."*
 
 ---
 
@@ -200,4 +219,4 @@ Inquizo stole the core of his broken hammer and still has it. When George panick
 
 ---
 
-*Last updated: Session 16*
+*Last updated: Session 17*

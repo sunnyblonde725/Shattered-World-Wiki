@@ -1,12 +1,11 @@
 ---
 title: Quote Wall
-date: 2026-05-03
 tags: [dnd, shattered-world, quotes]
 ---
 
 # Quote Wall
 
-*The best lines from across all 16 sessions of A Shattered World.*
+*The best lines from across all 17 sessions of A Shattered World.*
 
 ---
 
@@ -413,3 +412,32 @@ tags: [dnd, shattered-world, quotes]
 
 > *"You can't take her from me."*
 > — The monster-boy, on the platform, to the party
+
+---
+
+## Session 17 — Encounter with the Watchers
+*The Watchers' Web*
+
+> *"Come feed the machine."*
+> — The Machine, telepathically, to Inquizo
+
+> *"This is gross. I need a shower."*
+> — George, after sliding through the goop-figure via "CANNONBALL" (Acrobatics 19)
+
+> *"It's a pity how things have to end. This is what it perpetuates. Good luck."*
+> — The "secret third voice," to Mira
+
+> *"That sickness, you died. Straight up, you made that, that's why, and the miracle child died."*
+> — Oravis, on Halcyra's death and resurrection
+
+> *"I am a wild magic sorcerer." / "Have you ever actually done wild magic?"*
+> — Mira and Oravis, on the true nature of her power
+
+> *"Yeah."*
+> — Liz/Constance, pulling out a gun and choosing to leave with the shadowy figure
+
+> *"Be cautious around Alias."*
+> — Oravis, with total and uncharacteristic sincerity
+
+> *"I hope you keep an eye out." / "For what?" / "You'll know."*
+> — The Spider Goddess's farewell

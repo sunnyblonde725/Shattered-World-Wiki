@@ -1,14 +1,15 @@
 ---
 title: A Shattered World — World State
-date: 2026-05-03
 tags: [dnd, shattered-world, world-state, reference]
 ---
 
 # A Shattered World — World State
 
-*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 16.*
+*A living record of every NPC, location, and lore discovery across all sessions. Updated after each session is processed. Last updated: Session 17.*
 
 **Session 16 summary:** Party kidnapped by Amasia loyalists (Lila Monger); traveled by caravan + train to the capital Alastair. Inquizo threw a blue clock off a bridge, causing a crack in reality (red sky, city melting, hell creatures). Party crashed into a bathhouse, found Gbot'n NOT in prison, shopped in Alastair's market, and reached a platform at the city's edge where the Prophetess was found — a small white-haired girl being defended from a monster-boy by a False Knight. Session ends on cliffhanger. New lore: 5 statues (not 4); capital = Alastair; COG = Commonwealth Oversight Guild; Gore Harlow's organization; Eskander's identity.
+
+**Session 17 summary:** The party fought "the Machine" at the Alastair clock tower — Halcyra's single Divine Smite (rolled 17) destroyed it, severed its tendrils, and split the merged Iskander/Liz/automaton beings back into separate individuals. A wyrmling entity emerged from the wreckage, pleaded for its life (revealing it was made by "my father" to "halt progress"), and was rejected before transforming into a larger threat. The party then met Oravis/"the Watcher," the god of stories, who healed Mira and Halcyra, revealed George's birthdate is "a Tuesday," and spoke of "the book of Grundrack," "the book of George," and a secret third book. "The Librarian" revealed the campaign's biggest lore drop yet: Grungrak once shattered a blue dragon with his hammer, and the resulting lightning ended both World One and World Two. The Watcher also told Halcyra the truth of her father's contract, her death, and her resurrection — and that her true patron is "Modeus," god of chaos and balance. He told Mira her warlock patron is "the ancient god of chaos." Mira and George shared a vision of a giant version of Mira amid "Cataclysm," both taking 12 lightning damage. The Spider Goddess then appeared, gave Mira a new prophecy verse as "the catalyst," confronted George directly about his amnesia, and put Inquizo to sleep — **he remains asleep on the floor as the session ends, carrying directly into Session 18.**
 
 **Note:** The canonical NPC Registry, Location Index, and World Lore are maintained in `Claude References/` as split files. This document duplicates some of that content and may be less current for Sessions 12–13. Refer to the Claude References files for the most up-to-date information.
 

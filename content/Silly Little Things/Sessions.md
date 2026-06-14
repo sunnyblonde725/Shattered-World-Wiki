@@ -1,12 +1,11 @@
 ---
 title: Sessions
-date: 2026-05-03
 tags: [dnd, shattered-world, sessions]
 ---
 
 # Sessions
 
-*16 sessions. A shattered world. Everything went wrong in the best possible way.*
+*17 sessions. A shattered world. Everything went wrong in the best possible way.*
 
 ---
 
@@ -151,5 +150,15 @@ tags: [dnd, shattered-world, sessions]
 **Where it left them:** On a platform at the edge of Alastair — the capital of Errolon — staring at the Prophetess they've been looking for, a boy with burnt skin and growing claws who says "you can't take her from me," and a silver-armored knight raising a war hammer.
 
 [[Session Notes/DND Session 16|Read the full notes →]]
+
+---
+
+## Session 17 — Encounter with the Watchers
+*The Watchers' Web*
+**Tagline:** The party rescues the Prophetess, gondolas to a 300-foot clock tower where a sentient Machine offers everyone visions of who they could be, and Halcyra's Divine Smite destroys it — only to reveal a god named Oravis who tells her she died as a child and her father gave his life to bring her back.
+**Best moment:** Mira touches the Machine and triggers the night's biggest vision — a giant scythe from a goddess called "the Lady," who turns to stone protecting her people, while a "secret third voice" says "It's a pity how things have to end... Good luck." Meanwhile George reads a music book, completely oblivious, while a god describes in detail how his past self ended two entire worlds with one hammer swing.
+**Where it left them:** Back on their own empty airship, shaken, with Inquizo unconscious on the floor — put to sleep by an eight-foot Spider Goddess who just told Halcyra she has a "contract" with debts she doesn't remember signing, and handed Mira four new lines of prophecy with zero explanation.
+
+[[Session Notes/DND Session 17|Read the full notes →]]
 
 ---
